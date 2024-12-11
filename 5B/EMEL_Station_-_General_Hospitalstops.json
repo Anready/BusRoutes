@@ -1,177 +1,177 @@
 [
   {
-    "description": "EMEL Bus Station Leontiou A´",
-    "latitude": 34.679235,
-    "longitude": 33.037235
+    "name": "EMEL Bus Station Leontiou A´",
+    "lat": 34.679235,
+    "lng": 33.037235
   },
   {
-    "description": "Archiep. Leontiou A´ - Panagioti Diomidous",
-    "latitude": 34.68131,
-    "longitude": 33.033514
+    "name": "Archiep. Leontiou A´ - Panagioti Diomidous",
+    "lat": 34.68131,
+    "lng": 33.033514
   },
   {
-    "description": "Archiep. Leontiou A´ - Karatza 1",
-    "latitude": 34.681933,
-    "longitude": 33.032542
+    "name": "Archiep. Leontiou A´ - Karatza 1",
+    "lat": 34.681933,
+    "lng": 33.032542
   },
   {
-    "description": "Archiep. Makariou C´ Ave. - Fire Station 1",
-    "latitude": 34.681979,
-    "longitude": 33.028765
+    "name": "Archiep. Makariou C´ Ave. - Fire Station 1",
+    "lat": 34.681979,
+    "lng": 33.028765
   },
   {
-    "description": "Apostolou Varnava - Aigaiou",
-    "latitude": 34.680699,
-    "longitude": 33.024628
+    "name": "Apostolou Varnava - Aigaiou",
+    "lat": 34.680699,
+    "lng": 33.024628
   },
   {
-    "description": "Apostolou Varnava - Agias Varvaras 1",
-    "latitude": 34.681231,
-    "longitude": 33.023885
+    "name": "Apostolou Varnava - Agias Varvaras 1",
+    "lat": 34.681231,
+    "lng": 33.023885
   },
   {
-    "description": "Apostolou Varnava - Londinou",
-    "latitude": 34.682323,
-    "longitude": 33.020927
+    "name": "Apostolou Varnava - Londinou",
+    "lat": 34.682323,
+    "lng": 33.020927
   },
   {
-    "description": "Charilaou Trikoupi 2",
-    "latitude": 34.683117,
-    "longitude": 33.018231
+    "name": "Charilaou Trikoupi 2",
+    "lat": 34.683117,
+    "lng": 33.018231
   },
   {
-    "description": "Rinou - Agrippa",
-    "latitude": 34.681007,
-    "longitude": 33.017128
+    "name": "Rinou - Agrippa",
+    "lat": 34.681007,
+    "lng": 33.017128
   },
   {
-    "description": "Parmenidou 1",
-    "latitude": 34.679717,
-    "longitude": 33.017117
+    "name": "Parmenidou 1",
+    "lat": 34.679717,
+    "lng": 33.017117
   },
   {
-    "description": "Georgiou Averof - Gorgiou",
-    "latitude": 34.679916,
-    "longitude": 33.01477
+    "name": "Georgiou Averof - Gorgiou",
+    "lat": 34.679916,
+    "lng": 33.01477
   },
   {
-    "description": "Marinou Geroulanou - Agaristis 1",
-    "latitude": 34.680935,
-    "longitude": 33.013231
+    "name": "Marinou Geroulanou - Agaristis 1",
+    "lat": 34.680935,
+    "lng": 33.013231
   },
   {
-    "description": "Agios Ioannis High School 1",
-    "latitude": 34.682676,
-    "longitude": 33.009891
+    "name": "Agios Ioannis High School 1",
+    "lat": 34.682676,
+    "lng": 33.009891
   },
   {
-    "description": "Marinou Geroulanou - Iolis",
-    "latitude": 34.685463,
-    "longitude": 33.005677
+    "name": "Marinou Geroulanou - Iolis",
+    "lat": 34.685463,
+    "lng": 33.005677
   },
   {
-    "description": "Evgeniou Voulgareos - Athinokleous 1",
-    "latitude": 34.684877,
-    "longitude": 33.00488
+    "name": "Evgeniou Voulgareos - Athinokleous 1",
+    "lat": 34.684877,
+    "lng": 33.00488
   },
   {
-    "description": "Evgeniou Voulgareos - 85 Street",
-    "latitude": 34.68255,
-    "longitude": 33.00572
+    "name": "Evgeniou Voulgareos - 85 Street",
+    "lat": 34.68255,
+    "lng": 33.00572
   },
   {
-    "description": "Adamantiou Adamantiou - Evgeniou Voulgareos 1",
-    "latitude": 34.681242,
-    "longitude": 33.00584
+    "name": "Adamantiou Adamantiou - Evgeniou Voulgareos 1",
+    "lat": 34.681242,
+    "lng": 33.00584
   },
   {
-    "description": "Adamantiou Adamantiou - Panagioti Anagnostopoulou",
-    "latitude": 34.680638,
-    "longitude": 33.003188
+    "name": "Adamantiou Adamantiou - Panagioti Anagnostopoulou",
+    "lat": 34.680638,
+    "lng": 33.003188
   },
   {
-    "description": "35 Street - Panagioti Anagnostopoulou 1",
-    "latitude": 34.681044,
-    "longitude": 33.001092
+    "name": "35 Street - Panagioti Anagnostopoulou 1",
+    "lat": 34.681044,
+    "lng": 33.001092
   },
   {
-    "description": "35 Street - 49 Street 1",
-    "latitude": 34.680701,
-    "longitude": 32.999913
+    "name": "35 Street - 49 Street 1",
+    "lat": 34.680701,
+    "lng": 32.999913
   },
   {
-    "description": "Melinas Merkouri - Polemidia Post Office 1",
-    "latitude": 34.680972,
-    "longitude": 32.996572
+    "name": "Melinas Merkouri - Polemidia Post Office 1",
+    "lat": 34.680972,
+    "lng": 32.996572
   },
   {
-    "description": "Polemidia Lyceum 1",
-    "latitude": 34.683587,
-    "longitude": 32.996823
+    "name": "Polemidia Lyceum 1",
+    "lat": 34.683587,
+    "lng": 32.996823
   },
   {
-    "description": "10 Street - Dimocharous",
-    "latitude": 34.690251,
-    "longitude": 32.996954
+    "name": "10 Street - Dimocharous",
+    "lat": 34.690251,
+    "lng": 32.996954
   },
   {
-    "description": "22 Street - Kyparissona",
-    "latitude": 34.691487,
-    "longitude": 32.992718
+    "name": "22 Street - Kyparissona",
+    "lat": 34.691487,
+    "lng": 32.992718
   },
   {
-    "description": "Agios Nikolaos Church 2",
-    "latitude": 34.693254,
-    "longitude": 32.991866
+    "name": "Agios Nikolaos Church 2",
+    "lat": 34.693254,
+    "lng": 32.991866
   },
   {
-    "description": "55 Street - 56 Street",
-    "latitude": 34.696482,
-    "longitude": 32.991757
+    "name": "55 Street - 56 Street",
+    "lat": 34.696482,
+    "lng": 32.991757
   },
   {
-    "description": "Pera Kampou 1",
-    "latitude": 34.695201,
-    "longitude": 32.985697
+    "name": "Pera Kampou 1",
+    "lat": 34.695201,
+    "lng": 32.985697
   },
   {
-    "description": "Steliou Kazantzidi - Konstantinou Avgeraki 1",
-    "latitude": 34.696049,
-    "longitude": 32.981504
+    "name": "Steliou Kazantzidi - Konstantinou Avgeraki 1",
+    "lat": 34.696049,
+    "lng": 32.981504
   },
   {
-    "description": "Steliou Kazantzidi - Mimi Fotopoulou",
-    "latitude": 34.696598,
-    "longitude": 32.979342
+    "name": "Steliou Kazantzidi - Mimi Fotopoulou",
+    "lat": 34.696598,
+    "lng": 32.979342
   },
   {
-    "description": "Synergatismou - 55 Street 1",
-    "latitude": 34.697808,
-    "longitude": 32.991604
+    "name": "Synergatismou - 55 Street 1",
+    "lat": 34.697808,
+    "lng": 32.991604
   },
   {
-    "description": "Grigori Afxentiou - 100 Street 2",
-    "latitude": 34.699684,
-    "longitude": 32.993077
+    "name": "Grigori Afxentiou - 100 Street 2",
+    "lat": 34.699684,
+    "lng": 32.993077
   },
   {
-    "description": "Grigori Afxentiou - 103 Street 1",
-    "latitude": 34.700829,
-    "longitude": 32.991843
+    "name": "Grigori Afxentiou - 103 Street 1",
+    "lat": 34.700829,
+    "lng": 32.991843
   },
   {
-    "description": "Karmiotissa Stadium 2",
-    "latitude": 34.702479,
-    "longitude": 32.989561
+    "name": "Karmiotissa Stadium 2",
+    "lat": 34.702479,
+    "lng": 32.989561
   },
   {
-    "description": "Grigori Afxentiou - Keryneias",
-    "latitude": 34.705356,
-    "longitude": 32.986711
+    "name": "Grigori Afxentiou - Keryneias",
+    "lat": 34.705356,
+    "lng": 32.986711
   },
   {
-    "description": "General Hospital 2",
-    "latitude": 34.707123,
-    "longitude": 32.981775
+    "name": "General Hospital 2",
+    "lat": 34.707123,
+    "lng": 32.981775
   }
 ]
