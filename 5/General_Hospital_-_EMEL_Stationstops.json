@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Kornos - Delikipos Road - 4th Stop",
+    "lat": 34.919154,
+    "lng": 33.363789
+  },
+  {
+    "name": "Kornos - Delikipos Road 2",
+    "lat": 34.919741,
+    "lng": 33.386749
+  },
+  {
+    "name": "Anexartisias - 1st Kornos 1",
+    "lat": 34.921183,
+    "lng": 33.389832
+  },
+  {
+    "name": "Anexartisias - 2nd Kornos 2",
+    "lat": 34.922119,
+    "lng": 33.393176
+  },
+  {
+    "name": "Grigori Afxentiou - 3rd Kornos 2",
+    "lat": 34.921521,
+    "lng": 33.396928
+  },
+  {
+    "name": "Grigori Afxentiou - 4th Kornos 2",
+    "lat": 34.919503,
+    "lng": 33.399272
+  },
+  {
+    "name": "Grigori Afxentiou - 5th Kornos 2",
+    "lat": 34.917784,
+    "lng": 33.400709
+  },
+  {
+    "name": "Timios Prodromos Church 2",
+    "lat": 34.917491,
+    "lng": 33.402131
+  },
+  {
+    "name": "1 Maiou - 7th Kornos",
+    "lat": 34.920222,
+    "lng": 33.402505
+  },
+  {
+    "name": "1 Maiou - 8th Kornos 2",
+    "lat": 34.924904,
+    "lng": 33.402112
+  },
+  {
+    "name": "Pyrga - Kornos Road 1",
+    "lat": 34.926349,
+    "lng": 33.411995
+  },
+  {
+    "name": "Pyrga Larnaka Elementary School 1",
+    "lat": 34.926137,
+    "lng": 33.426479
+  },
+  {
+    "name": "Agia Marina Church  1",
+    "lat": 34.925794,
+    "lng": 33.431842
+  },
+  {
+    "name": "Larnakos - 1st Pyrga Larnakas 1",
+    "lat": 34.924883,
+    "lng": 33.434443
+  },
+  {
+    "name": "Larnakos - 1st Pyrga Larnakas",
+    "lat": 34.925161,
+    "lng": 33.437302
+  },
+  {
+    "name": "Stavrovouniou - Nikou Kazantzaki 1",
+    "lat": 34.943589,
+    "lng": 33.450651
+  },
+  {
+    "name": "Mosfiloti Cemetery 2",
+    "lat": 34.948513,
+    "lng": 33.432969
+  },
+  {
+    "name": "Larnakos Ave. - Apostolou Varnava 2",
+    "lat": 34.950615,
+    "lng": 33.430275
+  },
+  {
+    "name": "1 Apriliou - Papamiichail Konstantinou 2",
+    "lat": 34.950542,
+    "lng": 33.427865
+  },
+  {
+    "name": "1 Apriliou - Georgiou Griva Digeni",
+    "lat": 34.950519,
+    "lng": 33.426792
+  },
+  {
+    "name": "Mosfiloti Elementary School",
+    "lat": 34.951541,
+    "lng": 33.423522
+  },
+  {
+    "name": "1 Apriliou - Archiep. Makariou C´",
+    "lat": 34.951658,
+    "lng": 33.420763
+  },
+  {
+    "name": "Archiep. Makariou C´ - Omirou 1",
+    "lat": 34.952849,
+    "lng": 33.42078
+  },
+  {
+    "name": "Agia Marina Church 1",
+    "lat": 34.953541,
+    "lng": 33.424047
+  },
+  {
+    "name": "Platini Museum",
+    "lat": 34.951981,
+    "lng": 33.426602
+  },
+  {
+    "name": "Larnakos Ave. - Apostolou Varnava 1",
+    "lat": 34.950568,
+    "lng": 33.430987
+  },
+  {
+    "name": "Mosfiloti Cemetery 1",
+    "lat": 34.948802,
+    "lng": 33.432861
+  },
+  {
+    "name": "Lefkosias Ave. - Artemidos 1",
+    "lat": 34.944298,
+    "lng": 33.453951
+  },
+  {
+    "name": "Lefkosias Ave. - Digeni Akrita",
+    "lat": 34.944312,
+    "lng": 33.457456
+  },
+  {
+    "name": "Lefkosias Ave. - Grigori Afxentiou 1",
+    "lat": 34.945143,
+    "lng": 33.461852
+  },
+  {
+    "name": "Makariou C Ave. - Larnakos Ave. 1",
+    "lat": 34.946348,
+    "lng": 33.462581
+  },
+  {
+    "name": "Agios Ioannis Church 1",
+    "lat": 34.947295,
+    "lng": 33.462598
+  },
+  {
+    "name": "Psevdas Square",
+    "lat": 34.950772,
+    "lng": 33.463493
+  },
+  {
+    "name": "Agios Ioannis Church 2",
+    "lat": 34.947601,
+    "lng": 33.462731
+  },
+  {
+    "name": "Makariou C´ Ave. - Larnakos Ave. 2",
+    "lat": 34.946348,
+    "lng": 33.462691
+  },
+  {
+    "name": "Larnakos Ave. - Dorou Loizou",
+    "lat": 34.945649,
+    "lng": 33.463848
+  },
+  {
+    "name": "Psevdas Community Stadium 1",
+    "lat": 34.945829,
+    "lng": 33.466258
+  },
+  {
+    "name": "Panagias Eleousas Ave. 1",
+    "lat": 34.942955,
+    "lng": 33.477269
+  },
+  {
+    "name": "Agia Anna Cemetery",
+    "lat": 34.942197,
+    "lng": 33.481963
+  },
+  {
+    "name": "Ioakeim kai Annas Ave. - Agiou Arseniou 2",
+    "lat": 34.941298,
+    "lng": 33.485878
+  },
+  {
+    "name": "Kalo Chorio - Agia Anna Road - 2nd Stop",
+    "lat": 34.928298,
+    "lng": 33.52617
+  },
+  {
+    "name": "Kalo Chorio Community Stadium 2",
+    "lat": 34.929099,
+    "lng": 33.532723
+  },
+  {
+    "name": "Agios Vasileios Church",
+    "lat": 34.927546,
+    "lng": 33.53729
+  },
+  {
+    "name": "Kalo Chorio Cemetery 2",
+    "lat": 34.926531,
+    "lng": 33.540502
+  },
+  {
+    "name": "Kalo Chorio Roundabout 1",
+    "lat": 34.909121,
+    "lng": 33.56563
+  },
+  {
+    "name": "A2 Industrial Area",
+    "lat": 34.908591,
+    "lng": 33.57295
+  },
+  {
+    "name": "Lemesou Ave. - Charilaou Trikoupi 2",
+    "lat": 34.908316,
+    "lng": 33.579549
+  },
+  {
+    "name": "Lemesou Ave. - Makedonias 2",
+    "lat": 34.909779,
+    "lng": 33.584791
+  },
+  {
+    "name": "Lemesou Ave. - Kritis",
+    "lat": 34.911004,
+    "lng": 33.590722
+  },
+  {
+    "name": "Kamares - Old Aqueduct 2",
+    "lat": 34.912834,
+    "lng": 33.598234
+  },
+  {
+    "name": "G. Christodoulidi Ave. - Dafnidos",
+    "lat": 34.91864,
+    "lng": 33.600312
+  },
+  {
+    "name": "Vergina High School 2",
+    "lat": 34.920126,
+    "lng": 33.596918
+  },
+  {
+    "name": "New Hospital 2",
+    "lat": 34.921752,
+    "lng": 33.603576
+  },
+  {
+    "name": "Mall Metropolis",
+    "lat": 34.924194,
+    "lng": 33.607721
+  },
+  {
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 2",
+    "lat": 34.923255,
+    "lng": 33.611404
+  },
+  {
+    "name": "Fire Station 2",
+    "lat": 34.921272,
+    "lng": 33.614838
+  },
+  {
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2",
+    "lat": 34.919417,
+    "lng": 33.617977
+  },
+  {
+    "name": "Georg. Griva Digeni Ave. - Thessalonikis Ave.",
+    "lat": 34.918013,
+    "lng": 33.620856
+  },
+  {
+    "name": "Municipal Library 2",
+    "lat": 34.916724,
+    "lng": 33.624306
+  },
+  {
+    "name": "Municipal Park 2",
+    "lat": 34.91681,
+    "lng": 33.627
+  },
+  {
+    "name": "Pancyprian Lyceum",
+    "lat": 34.91763,
+    "lng": 33.630542
+  },
+  {
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.917822,
+    "lng": 33.63513
+  },
+  {
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.918753,
+    "lng": 33.636528
+  },
+  {
+    "name": "Larnaca Station",
+    "lat": 34.919233,
+    "lng": 33.637867
+  }
+]
