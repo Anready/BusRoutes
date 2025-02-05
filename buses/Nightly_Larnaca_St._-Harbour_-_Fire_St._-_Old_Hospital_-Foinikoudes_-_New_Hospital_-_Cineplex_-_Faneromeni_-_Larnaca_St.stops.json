@@ -1,0 +1,302 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Archaeological Museum",
+    "lat": 34.9201560701946,
+    "lon": 33.6337470951532,
+    "name": "Archaeological Museum"
+  },
+  {
+    "description": "Dimitras- Apollonos",
+    "lat": 34.9217931087833,
+    "lon": 33.6345369930831,
+    "name": "Dimitras- Apollonos"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Nigritis",
+    "lat": 34.9259656563968,
+    "lon": 33.636736941393,
+    "name": "Archiep. Makariou C´ Ave. - Nigritis"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kleov. Papakyriakou",
+    "lat": 34.9283904237115,
+    "lon": 33.6369089601145,
+    "name": "Archiep. Makariou C´ Ave. - Kleov. Papakyriakou"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Pavlou Valdaseridi",
+    "lat": 34.9302262305105,
+    "lon": 33.6341749028703,
+    "name": "Spyrou Kyprianou Ave. - Pavlou Valdaseridi"
+  },
+  {
+    "description": "Lands and Surveys Office 2",
+    "lat": 34.9303692950304,
+    "lon": 33.6292050639076,
+    "name": "Lands and Surveys Office 2"
+  },
+  {
+    "description": "Debenhams 1",
+    "lat": 34.9301392307916,
+    "lon": 33.6231046138417,
+    "name": "Debenhams 1"
+  },
+  {
+    "description": "Stratigou Timagia Ave. - Mavromichali",
+    "lat": 34.9286157540654,
+    "lon": 33.61771714473,
+    "name": "Stratigou Timagia Ave. - Mavromichali"
+  },
+  {
+    "description": "Stratigou Timagia Ave. - Sintika Chanoum",
+    "lat": 34.9275225160337,
+    "lon": 33.6163622434525,
+    "name": "Stratigou Timagia Ave. - Sintika Chanoum"
+  },
+  {
+    "description": "Saint Raphael Hospital",
+    "lat": 34.9245303616431,
+    "lon": 33.616044259835,
+    "name": "Saint Raphael Hospital"
+  },
+  {
+    "description": "Agios Georgios Elementary School",
+    "lat": 34.9225981069696,
+    "lon": 33.6165443836226,
+    "name": "Agios Georgios Elementary School"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2",
+    "lat": 34.9194167146212,
+    "lon": 33.6179766426449,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Thessalonikis Ave.",
+    "lat": 34.9180133596127,
+    "lon": 33.6208562831158,
+    "name": "Georg. Griva Digeni Ave. - Thessalonikis Ave."
+  },
+  {
+    "description": "Municipal Library 2",
+    "lat": 34.916724235321,
+    "lon": 33.6243059543314,
+    "name": "Municipal Library 2"
+  },
+  {
+    "description": "Municipal Park 2",
+    "lat": 34.9168095577485,
+    "lon": 33.6269996632646,
+    "name": "Municipal Park 2"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.9178223662695,
+    "lon": 33.6351304406883,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2"
+  },
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  },
+  {
+    "description": "Foinikoudes - Kosma Lysioti",
+    "lat": 34.9129743984456,
+    "lon": 33.6379283434878,
+    "name": "Foinikoudes - Kosma Lysioti"
+  },
+  {
+    "description": "Piale Pasa",
+    "lat": 34.9031279872324,
+    "lon": 33.6378193518082,
+    "name": "Piale Pasa"
+  },
+  {
+    "description": "San Remo Hotel 2",
+    "lat": 34.9008276019475,
+    "lon": 33.6362801722847,
+    "name": "San Remo Hotel 2"
+  },
+  {
+    "description": "Oum Charam - Papoutsialik",
+    "lat": 34.9052118827101,
+    "lon": 33.6359308853095,
+    "name": "Oum Charam - Papoutsialik"
+  },
+  {
+    "description": "Istampoul",
+    "lat": 34.907926598283,
+    "lon": 33.6341128507713,
+    "name": "Istampoul"
+  },
+  {
+    "description": "Larnaka Community Centre",
+    "lat": 34.9120294525845,
+    "lon": 33.6323929153643,
+    "name": "Larnaka Community Centre"
+  },
+  {
+    "description": "Andrea Souroukli - Stylianou Lena",
+    "lat": 34.9149513361195,
+    "lon": 33.6306090429697,
+    "name": "Andrea Souroukli - Stylianou Lena"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Municipal Park 1",
+    "lat": 34.9167370826448,
+    "lon": 33.62706479651,
+    "name": "Municipal Park 1"
+  },
+  {
+    "description": "Municipal Library 1",
+    "lat": 34.9163428757828,
+    "lon": 33.6248175920962,
+    "name": "Municipal Library 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - 1 Apriliou Ave.",
+    "lat": 34.9179424535888,
+    "lon": 33.6206149027479,
+    "name": "Georg. Griva Digeni Ave. - 1 Apriliou Ave."
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1",
+    "lat": 34.9192814590881,
+    "lon": 33.617975628774,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1"
+  },
+  {
+    "description": "Fire Station 1",
+    "lat": 34.9211460005634,
+    "lon": 33.6148256360473,
+    "name": "Fire Station 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1",
+    "lat": 34.9232927989392,
+    "lon": 33.6111192329806,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 34.9228559002927,
+    "lon": 33.6083351448841,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "New Hospital 1",
+    "lat": 34.922015733272,
+    "lon": 33.6050335619743,
+    "name": "New Hospital 1"
+  },
+  {
+    "description": "Archiepiskopou Paisiou",
+    "lat": 34.9218408687037,
+    "lon": 33.6002917535577,
+    "name": "Archiepiskopou Paisiou"
+  },
+  {
+    "description": "G. Christodoulidi Ave. - Ieronymou Varlaam",
+    "lat": 34.9199013347645,
+    "lon": 33.6004527957373,
+    "name": "G. Christodoulidi Ave. - Ieronymou Varlaam"
+  },
+  {
+    "description": "K Cineplex",
+    "lat": 34.9160574127341,
+    "lon": 33.6009612200853,
+    "name": "K Cineplex"
+  },
+  {
+    "description": "Faneromenis Ave. - Kalymnou",
+    "lat": 34.9121040211255,
+    "lon": 33.6053549156625,
+    "name": "Faneromenis Ave. - Kalymnou"
+  },
+  {
+    "description": "Faneromenis Ave. - Makedonias",
+    "lat": 34.9110972357034,
+    "lon": 33.6208151565927,
+    "name": "Faneromenis Ave. - Makedonias"
+  },
+  {
+    "description": "P.A. College 1",
+    "lat": 34.9113113158793,
+    "lon": 33.6265418826048,
+    "name": "P.A. College 1"
+  },
+  {
+    "description": "A´ Agios Lazaros Elementary School 1",
+    "lat": 34.9112276463267,
+    "lon": 33.6305148869678,
+    "name": "A´ Agios Lazaros Elementary School 1"
+  },
+  {
+    "description": "Larnaka Community Centre",
+    "lat": 34.9120294525845,
+    "lon": 33.6323929153643,
+    "name": "Larnaka Community Centre"
+  },
+  {
+    "description": "Andrea Souroukli - Stylianou Lena",
+    "lat": 34.9149513361195,
+    "lon": 33.6306090429697,
+    "name": "Andrea Souroukli - Stylianou Lena"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.9178223662695,
+    "lon": 33.6351304406883,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.9187528603531,
+    "lon": 33.6365279619346,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1"
+  },
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "description": "2nd Stop Agios Dimitrianos 1",
+    "lat": 34.9059912611842,
+    "lon": 32.5507695130814,
+    "name": "2nd Stop Agios Dimitrianos 1"
+  },
+  {
+    "description": "3rd Stop Agios Dimitrianos",
+    "lat": 34.9069010374602,
+    "lon": 32.5505018491554,
+    "name": "3rd Stop Agios Dimitrianos"
+  },
+  {
+    "description": "Milia Pafou",
+    "lat": 34.9196280716689,
+    "lon": 32.5393641505576,
+    "name": "Milia Pafou"
+  },
+  {
+    "description": "1st Stop Dryneia 1",
+    "lat": 34.9155310299351,
+    "lon": 32.529140328479,
+    "name": "1st Stop Dryneia 1"
+  },
+  {
+    "description": "2nd Stop Dryneia 1",
+    "lat": 34.9168878156358,
+    "lon": 32.5255746369084,
+    "name": "2nd Stop Dryneia 1"
+  },
+  {
+    "description": "1st Stop Drymou 1",
+    "lat": 34.9248846743753,
+    "lon": 32.5137588942582,
+    "name": "1st Stop Drymou 1"
+  },
+  {
+    "description": "2nd Stop Drymou",
+    "lat": 34.9310879204512,
+    "lon": 32.5113243769579,
+    "name": "2nd Stop Drymou"
+  },
+  {
+    "description": "Simou Elementary School",
+    "lat": 34.9406047399548,
+    "lon": 32.5077089640128,
+    "name": "Simou Elementary School"
+  },
+  {
+    "description": "2nd Stop Simou",
+    "lat": 34.9412320059007,
+    "lon": 32.504518549875,
+    "name": "2nd Stop Simou"
+  },
+  {
+    "description": "Lasa 1",
+    "lat": 34.9241819432987,
+    "lon": 32.52763476759,
+    "name": "Lasa 1"
+  },
+  {
+    "description": "Fyti 1",
+    "lat": 34.9283695045423,
+    "lon": 32.5450854478616,
+    "name": "Fyti 1"
+  },
+  {
+    "description": "Kritou Marottou Village Centre 1",
+    "lat": 34.9259100141326,
+    "lon": 32.5629016584857,
+    "name": "Kritou Marottou Village Centre 1"
+  },
+  {
+    "description": "1st Stop Kritou Marottou 1",
+    "lat": 34.9262444576019,
+    "lon": 32.5606225388894,
+    "name": "1st Stop Kritou Marottou 1"
+  },
+  {
+    "description": "2nd Stop Agios Dimitrianos 2",
+    "lat": 34.9059919083856,
+    "lon": 32.5509446469007,
+    "name": "2nd Stop Agios Dimitrianos 2"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  },
+  {
+    "description": "Dodekanisou - Archiep. Leontiou A´ 1",
+    "lat": 34.6807414343687,
+    "lon": 33.0352492973061,
+    "name": "Dodekanisou - Archiep. Leontiou A´ 1"
+  },
+  {
+    "description": "Dodekanisou - Katholiki High School 1",
+    "lat": 34.6833929067955,
+    "lon": 33.0345299106883,
+    "name": "Dodekanisou - Katholiki High School 1"
+  },
+  {
+    "description": "Ioanni Tsirou - Post Office 1",
+    "lat": 34.6851783126075,
+    "lon": 33.0350219194879,
+    "name": "Ioanni Tsirou - Post Office 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Ioanni Tsirou",
+    "lat": 34.6863054088023,
+    "lon": 33.0355136683255,
+    "name": "Archiep. Makariou C´ Ave. - Ioanni Tsirou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Larnakos",
+    "lat": 34.6842233453819,
+    "lon": 33.0316154347584,
+    "name": "Archiep. Makariou C´ Ave. - Larnakos"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Fire Station 1",
+    "lat": 34.6819785912338,
+    "lon": 33.0287653392861,
+    "name": "Archiep. Makariou C´ Ave. - Fire Station 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Nikolaou Skoufa",
+    "lat": 34.678426506456,
+    "lon": 33.024288480921,
+    "name": "Archiep. Makariou C´ Ave. - Nikolaou Skoufa"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Souez 1",
+    "lat": 34.6767045091013,
+    "lon": 33.0220502094444,
+    "name": "Archiep. Makariou C´ Ave. - Souez 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Agios Ioannis Church",
+    "lat": 34.6755865370387,
+    "lon": 33.0206199435505,
+    "name": "Archiep. Makariou C´ Ave. - Agios Ioannis Church"
+  },
+  {
+    "description": "Agios Ioannis Police Station 1",
+    "lat": 34.6740538047787,
+    "lon": 33.018665671764,
+    "name": "Agios Ioannis Police Station 1"
+  },
+  {
+    "description": "Pafou - Vasileos Pavlou A´ 1",
+    "lat": 34.6738827936264,
+    "lon": 33.0163733626552,
+    "name": "Pafou - Vasileos Pavlou A´ 1"
+  },
+  {
+    "description": "Pafou - Omonoias Ave.",
+    "lat": 34.6748120474387,
+    "lon": 33.0129896794722,
+    "name": "Pafou - Omonoias Ave."
+  },
+  {
+    "description": "Pafou - Evgeniou Voulgareos",
+    "lat": 34.6757773149791,
+    "lon": 33.009136544433,
+    "name": "Pafou - Evgeniou Voulgareos"
+  },
+  {
+    "description": "Pafou - Miltonos",
+    "lat": 34.6759758721961,
+    "lon": 33.0066150049513,
+    "name": "Pafou - Miltonos"
+  },
+  {
+    "description": "Pafou - Apostolou Vakalopoulou",
+    "lat": 34.6757595695826,
+    "lon": 33.0035585577702,
+    "name": "Pafou - Apostolou Vakalopoulou"
+  },
+  {
+    "description": "Pafou - Sotirias Skipi",
+    "lat": 34.6759760446396,
+    "lon": 33.0013099019743,
+    "name": "Pafou - Sotirias Skipi"
+  },
+  {
+    "description": "Pafou - 28th Elementary School 1",
+    "lat": 34.6773467574147,
+    "lon": 32.9978822902509,
+    "name": "Pafou - 28th Elementary School 1"
+  },
+  {
+    "description": "Pafou - Monovolikos 1",
+    "lat": 34.6789879110542,
+    "lon": 32.9944545475505,
+    "name": "Pafou - Monovolikos 1"
+  },
+  {
+    "description": "Ilia Kannaourou - Ymittou",
+    "lat": 34.6809984771997,
+    "lon": 32.9883630016125,
+    "name": "Ilia Kannaourou - Ymittou"
+  },
+  {
+    "description": "Ilia Kannaourou - Dimitriou Papanikoli",
+    "lat": 34.6807815232888,
+    "lon": 32.983778110261,
+    "name": "Ilia Kannaourou - Dimitriou Papanikoli"
+  },
+  {
+    "description": "Ilia Kannaourou - Danais",
+    "lat": 34.6812857280735,
+    "lon": 32.9786035689758,
+    "name": "Ilia Kannaourou - Danais"
+  },
+  {
+    "description": "Petraki Giallourou - Ilia Kannaourou",
+    "lat": 34.6837375054404,
+    "lon": 32.9730790030773,
+    "name": "Petraki Giallourou - Ilia Kannaourou"
+  },
+  {
+    "description": "Petraki Giallourou - Trion Ierarchon",
+    "lat": 34.6867225025818,
+    "lon": 32.9733946373712,
+    "name": "Petraki Giallourou - Trion Ierarchon"
+  },
+  {
+    "description": "Trion Ierarchon - Keryneias",
+    "lat": 34.6871461281834,
+    "lon": 32.972422860782,
+    "name": "Trion Ierarchon - Keryneias"
+  },
+  {
+    "description": "Trion Ierarchon - Troodous",
+    "lat": 34.6870728005338,
+    "lon": 32.9676083533299,
+    "name": "Trion Ierarchon - Troodous"
+  },
+  {
+    "description": "Trion Ierarchon - Ifaistou",
+    "lat": 34.6867380691692,
+    "lon": 32.9638092767069,
+    "name": "Trion Ierarchon - Ifaistou"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Griva Digeni",
+    "lat": 34.6871614066692,
+    "lon": 32.962149660303,
+    "name": "Archiep. Makariou C´ - Griva Digeni"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Apostolou Varnava",
+    "lat": 34.6884594368628,
+    "lon": 32.9604241065115,
+    "name": "Archiep. Makariou C´ - Apostolou Varnava"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Chrysopolitissis",
+    "lat": 34.6889459491287,
+    "lon": 32.9590482635365,
+    "name": "Archiep. Makariou C´ - Chrysopolitissis"
+  },
+  {
+    "description": "Ilia Venezi - Archiep. Makariou C´ 1",
+    "lat": 34.6894680044893,
+    "lon": 32.9562203429843,
+    "name": "Ilia Venezi - Archiep. Makariou C´ 1"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Iakovou Patatsou",
+    "lat": 34.6831724293266,
+    "lon": 32.9533197900453,
+    "name": "Agiou Georgiou Ave. - Iakovou Patatsou"
+  },
+  {
+    "description": "Ammochostou - Ethnikis Antistaseos",
+    "lat": 34.6768735849093,
+    "lon": 32.9431059804565,
+    "name": "Ammochostou - Ethnikis Antistaseos"
+  },
+  {
+    "description": "Ammochostou - Ag. Foteini & Ap. Andreas Church 1",
+    "lat": 34.6784965743727,
+    "lon": 32.9426027262869,
+    "name": "Ammochostou - Ag. Foteini & Ap. Andreas Church 1"
+  },
+  {
+    "description": "Ammochostou - Agiou Memnonos",
+    "lat": 34.6803358768803,
+    "lon": 32.9418591406326,
+    "name": "Ammochostou - Agiou Memnonos"
+  },
+  {
+    "description": "Kolossi Elementary School B´",
+    "lat": 34.6821839006399,
+    "lon": 32.940515099435,
+    "name": "Kolossi Elementary School B´"
+  },
+  {
+    "description": "Dimitri Liperti - Davlou",
+    "lat": 34.6832743775617,
+    "lon": 32.9391169684667,
+    "name": "Dimitri Liperti - Davlou"
+  },
+  {
+    "description": "Dimitri Liperti - Griva Digeni",
+    "lat": 34.6828858457582,
+    "lon": 32.9376107407736,
+    "name": "Dimitri Liperti - Griva Digeni"
+  },
+  {
+    "description": "Griva Digeni - Vasili Michailidi",
+    "lat": 34.6812531145133,
+    "lon": 32.9366622264463,
+    "name": "Griva Digeni - Vasili Michailidi"
+  },
+  {
+    "description": "Griva Digeni - Thessalonikis",
+    "lat": 34.6730370304871,
+    "lon": 32.9352167248709,
+    "name": "Griva Digeni - Thessalonikis"
+  },
+  {
+    "description": "Kolossi Elementary School A´ 1",
+    "lat": 34.6707362444976,
+    "lon": 32.9329699932043,
+    "name": "Kolossi Elementary School A´ 1"
+  },
+  {
+    "description": "Archiep. Makariou C - 25 Martiou",
+    "lat": 34.6742472154321,
+    "lon": 32.922793807077,
+    "name": "Archiep. Makariou C - 25 Martiou"
+  },
+  {
+    "description": "Agios Charalampos Church 1",
+    "lat": 34.6783941742903,
+    "lon": 32.9207923006828,
+    "name": "Agios Charalampos Church 1"
+  },
+  {
+    "description": "Ellados - Enoseos 1",
+    "lat": 34.6823538521537,
+    "lon": 32.9220548654075,
+    "name": "Ellados - Enoseos 1"
+  },
+  {
+    "description": "Ellados - Irlandias 1",
+    "lat": 34.6859172732647,
+    "lon": 32.9241912874337,
+    "name": "Ellados - Irlandias 1"
+  },
+  {
+    "description": "Gallias - Club Aphrodite",
+    "lat": 34.6876127874361,
+    "lon": 32.924429924074,
+    "name": "Gallias - Club Aphrodite"
+  },
+  {
+    "description": "Ellados - Irlandias 2",
+    "lat": 34.6857189744195,
+    "lon": 32.9243443079387,
+    "name": "Ellados - Irlandias 2"
+  },
+  {
+    "description": "Ellados - Enoseos 2",
+    "lat": 34.6823088254154,
+    "lon": 32.9221531576967,
+    "name": "Ellados - Enoseos 2"
+  },
+  {
+    "description": "Ellados - Nikou Georgiou",
+    "lat": 34.6813047052603,
+    "lon": 32.9173944837274,
+    "name": "Ellados - Nikou Georgiou"
+  },
+  {
+    "description": "Kyprou - Salaminos 1",
+    "lat": 34.6832066032221,
+    "lon": 32.916104413135,
+    "name": "Kyprou - Salaminos 1"
+  },
+  {
+    "description": "Kyprou - Dimokratias 1",
+    "lat": 34.6857588117017,
+    "lon": 32.9163092641047,
+    "name": "Kyprou - Dimokratias 1"
+  }
+]

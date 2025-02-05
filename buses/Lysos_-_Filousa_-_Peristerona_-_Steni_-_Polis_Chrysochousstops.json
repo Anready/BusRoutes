@@ -1,0 +1,68 @@
+[
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  },
+  {
+    "description": "Konstantinoupoleos - 1st Stop",
+    "lat": 35.0304139356557,
+    "lon": 32.4287007709454,
+    "name": "Konstantinoupoleos - 1st Stop"
+  },
+  {
+    "description": "Polis Chrysochous Police Station",
+    "lat": 35.0293089250468,
+    "lon": 32.4295744917945,
+    "name": "Polis Chrysochous Police Station"
+  },
+  {
+    "description": "Panagia Chrysolakourna Monastery",
+    "lat": 34.9983461622612,
+    "lon": 32.4719898992262,
+    "name": "Panagia Chrysolakourna Monastery"
+  },
+  {
+    "description": "Museum of Village Life",
+    "lat": 34.9965910262036,
+    "lon": 32.4727353649425,
+    "name": "Museum of Village Life"
+  },
+  {
+    "description": "1st Stop Peristerona Pafou",
+    "lat": 34.9902791998979,
+    "lon": 32.4875462211721,
+    "name": "1st Stop Peristerona Pafou"
+  },
+  {
+    "description": "3rd Stop Peristerona Pafou",
+    "lat": 34.9904024260824,
+    "lon": 32.488969898956,
+    "name": "3rd Stop Peristerona Pafou"
+  },
+  {
+    "description": "Filousa Chrysochous",
+    "lat": 34.9742468898792,
+    "lon": 32.505064754071,
+    "name": "Filousa Chrysochous"
+  },
+  {
+    "description": "1st Stop Lysos 1",
+    "lat": 34.9941115549133,
+    "lon": 32.5116075262121,
+    "name": "1st Stop Lysos 1"
+  },
+  {
+    "description": "2nd Stop Lysos 1",
+    "lat": 34.9959500773995,
+    "lon": 32.5113555272083,
+    "name": "2nd Stop Lysos 1"
+  },
+  {
+    "description": "4th Stop Lysos",
+    "lat": 35.0019498284871,
+    "lon": 32.5189362459446,
+    "name": "4th Stop Lysos"
+  }
+]

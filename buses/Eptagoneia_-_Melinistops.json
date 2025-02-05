@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Eptagoneia Fire Station",
+    "lat": 34.8456594581338,
+    "lon": 33.1588117507734,
+    "name": "Eptagoneia Fire Station"
+  },
+  {
+    "description": "Eptagoneia Community Board 1",
+    "lat": 34.8463821077931,
+    "lon": 33.1578615079895,
+    "name": "Eptagoneia Community Board 1"
+  },
+  {
+    "description": "Christaki Xeniou - 1st Eptagoneia 1",
+    "lat": 34.8460875831803,
+    "lon": 33.1554873455579,
+    "name": "Christaki Xeniou - 1st Eptagoneia 1"
+  },
+  {
+    "description": "1st Stop Melini",
+    "lat": 34.8663135211731,
+    "lon": 33.155984924904,
+    "name": "1st Stop Melini"
+  },
+  {
+    "description": "2nd Stop Melini",
+    "lat": 34.8665638411767,
+    "lon": 33.1576703053531,
+    "name": "2nd Stop Melini"
+  }
+]

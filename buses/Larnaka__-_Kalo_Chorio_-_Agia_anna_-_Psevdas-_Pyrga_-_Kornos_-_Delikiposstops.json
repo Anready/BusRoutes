@@ -1,0 +1,308 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Municipal Park 1",
+    "lat": 34.9167370826448,
+    "lon": 33.62706479651,
+    "name": "Municipal Park 1"
+  },
+  {
+    "description": "Municipal Library 1",
+    "lat": 34.9163428757828,
+    "lon": 33.6248175920962,
+    "name": "Municipal Library 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - 1 Apriliou Ave.",
+    "lat": 34.9179424535888,
+    "lon": 33.6206149027479,
+    "name": "Georg. Griva Digeni Ave. - 1 Apriliou Ave."
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1",
+    "lat": 34.9192814590881,
+    "lon": 33.617975628774,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - Fire Station",
+    "lat": 34.9198418920834,
+    "lon": 33.6159325876502,
+    "name": "Nikou kai Despoinas Pattichi Ave. - Fire Station"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - Arachovas",
+    "lat": 34.9183566940243,
+    "lon": 33.6136224907785,
+    "name": "Nikou kai Despoinas Pattichi Ave. - Arachovas"
+  },
+  {
+    "description": "Electricity Authority 2",
+    "lat": 34.9171740620836,
+    "lon": 33.608512168341,
+    "name": "Electricity Authority 2"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - Kalymnou",
+    "lat": 34.9165153281923,
+    "lon": 33.6049931961769,
+    "name": "Nikou kai Despoinas Pattichi Ave. - Kalymnou"
+  },
+  {
+    "description": "G. Christodoulidi Ave. - Dafnidos",
+    "lat": 34.9186395946966,
+    "lon": 33.6003122340309,
+    "name": "G. Christodoulidi Ave. - Dafnidos"
+  },
+  {
+    "description": "Vergina High School 2",
+    "lat": 34.9201261487427,
+    "lon": 33.596918271296,
+    "name": "Vergina High School 2"
+  },
+  {
+    "description": "G. Christodoulidi Ave. - Ieronymou Varlaam",
+    "lat": 34.9199013347645,
+    "lon": 33.6004527957373,
+    "name": "G. Christodoulidi Ave. - Ieronymou Varlaam"
+  },
+  {
+    "description": "K Cineplex",
+    "lat": 34.9160574127341,
+    "lon": 33.6009612200853,
+    "name": "K Cineplex"
+  },
+  {
+    "description": "Kamares - Old Aqueduct 1",
+    "lat": 34.9124918370702,
+    "lon": 33.5980562111298,
+    "name": "Kamares - Old Aqueduct 1"
+  },
+  {
+    "description": "Lemesou Ave. - Kastalias",
+    "lat": 34.9113629980213,
+    "lon": 33.5947202253753,
+    "name": "Lemesou Ave. - Kastalias"
+  },
+  {
+    "description": "Lemesou Ave. - Larisis",
+    "lat": 34.9107339454151,
+    "lon": 33.5905778640178,
+    "name": "Lemesou Ave. - Larisis"
+  },
+  {
+    "description": "Lemesou Ave. - Makedonias 1",
+    "lat": 34.9094470293519,
+    "lon": 33.584449577531,
+    "name": "Lemesou Ave. - Makedonias 1"
+  },
+  {
+    "description": "Lemesou Ave. - Charilaou Trikoupi 1",
+    "lat": 34.908023555517,
+    "lon": 33.5785285020001,
+    "name": "Lemesou Ave. - Charilaou Trikoupi 1"
+  },
+  {
+    "description": "Kalo Chorio Roundabout 2",
+    "lat": 34.9086679185883,
+    "lon": 33.566163628203,
+    "name": "Kalo Chorio Roundabout 2"
+  },
+  {
+    "description": "Kalo Chorio Cemetery 1",
+    "lat": 34.9263045454833,
+    "lon": 33.5407413864499,
+    "name": "Kalo Chorio Cemetery 1"
+  },
+  {
+    "description": "Kalo Chorio Square",
+    "lat": 34.9285115625681,
+    "lon": 33.5351390178621,
+    "name": "Kalo Chorio Square"
+  },
+  {
+    "description": "Kalo Chorio Community Stadium 1",
+    "lat": 34.9290654800025,
+    "lon": 33.5322082559227,
+    "name": "Kalo Chorio Community Stadium 1"
+  },
+  {
+    "description": "Kalo Chorio - Agia Anna Road - 1st Stop",
+    "lat": 34.9282249216475,
+    "lon": 33.5264436586357,
+    "name": "Kalo Chorio - Agia Anna Road - 1st Stop"
+  },
+  {
+    "description": "Ioakeim kai Annas Ave. - Agiou Arseniou 1",
+    "lat": 34.9413890696925,
+    "lon": 33.4856157571219,
+    "name": "Ioakeim kai Annas Ave. - Agiou Arseniou 1"
+  },
+  {
+    "description": "Agia Anna Community Board",
+    "lat": 34.9416356139,
+    "lon": 33.4803060723858,
+    "name": "Agia Anna Community Board"
+  },
+  {
+    "description": "Panagias Eleousas Ave. 2",
+    "lat": 34.9429470367767,
+    "lon": 33.4770284261473,
+    "name": "Panagias Eleousas Ave. 2"
+  },
+  {
+    "description": "Psevdas Community Stadium 2",
+    "lat": 34.9457110646022,
+    "lon": 33.4665311400586,
+    "name": "Psevdas Community Stadium 2"
+  },
+  {
+    "description": "Makariou C Ave. - Larnakos Ave. 1",
+    "lat": 34.9463483717123,
+    "lon": 33.4625812813107,
+    "name": "Makariou C Ave. - Larnakos Ave. 1"
+  },
+  {
+    "description": "Agios Ioannis Church 1",
+    "lat": 34.9472951387392,
+    "lon": 33.4625975506141,
+    "name": "Agios Ioannis Church 1"
+  },
+  {
+    "description": "Psevdas Square",
+    "lat": 34.9507724467441,
+    "lon": 33.4634932464299,
+    "name": "Psevdas Square"
+  },
+  {
+    "description": "Agios Ioannis Church 2",
+    "lat": 34.9476012238599,
+    "lon": 33.4627306891634,
+    "name": "Agios Ioannis Church 2"
+  },
+  {
+    "description": "Makariou C´ Ave. - Larnakos Ave. 2",
+    "lat": 34.946347954642,
+    "lon": 33.4626907933488,
+    "name": "Makariou C´ Ave. - Larnakos Ave. 2"
+  },
+  {
+    "description": "Lefkosias Ave. - Grigori Afxentiou 2",
+    "lat": 34.9450166553311,
+    "lon": 33.4618291160686,
+    "name": "Lefkosias Ave. - Grigori Afxentiou 2"
+  },
+  {
+    "description": "Lefkosias Ave. - Ammochostou",
+    "lat": 34.9445314986735,
+    "lon": 33.4589790843308,
+    "name": "Lefkosias Ave. - Ammochostou"
+  },
+  {
+    "description": "Lefkosias Ave. - Appidakiou",
+    "lat": 34.944203932464,
+    "lon": 33.4573674391526,
+    "name": "Lefkosias Ave. - Appidakiou"
+  },
+  {
+    "description": "Lefkosias Ave. - Artemidos 2",
+    "lat": 34.9442074444228,
+    "lon": 33.4540273557346,
+    "name": "Lefkosias Ave. - Artemidos 2"
+  },
+  {
+    "description": "Mosfiloti Cemetery 2",
+    "lat": 34.9485134998246,
+    "lon": 33.4329690026304,
+    "name": "Mosfiloti Cemetery 2"
+  },
+  {
+    "description": "Larnakos Ave. - Apostolou Varnava 2",
+    "lat": 34.9506151159789,
+    "lon": 33.4302749030429,
+    "name": "Larnakos Ave. - Apostolou Varnava 2"
+  },
+  {
+    "description": "1 Apriliou - Papamiichail Konstantinou 2",
+    "lat": 34.9505424713557,
+    "lon": 33.4278650805581,
+    "name": "1 Apriliou - Papamiichail Konstantinou 2"
+  },
+  {
+    "description": "1 Apriliou - Georgiou Griva Digeni",
+    "lat": 34.9505191953158,
+    "lon": 33.4267916625431,
+    "name": "1 Apriliou - Georgiou Griva Digeni"
+  },
+  {
+    "description": "Mosfiloti Elementary School",
+    "lat": 34.9515405905541,
+    "lon": 33.4235222641825,
+    "name": "Mosfiloti Elementary School"
+  },
+  {
+    "description": "1 Apriliou - Archiep. Makariou C´",
+    "lat": 34.9516583892803,
+    "lon": 33.4207629244707,
+    "name": "1 Apriliou - Archiep. Makariou C´"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Omirou 1",
+    "lat": 34.952848630825,
+    "lon": 33.4207799589202,
+    "name": "Archiep. Makariou C´ - Omirou 1"
+  },
+  {
+    "description": "Agia Marina Church 1",
+    "lat": 34.9535406274641,
+    "lon": 33.4240473150296,
+    "name": "Agia Marina Church 1"
+  },
+  {
+    "description": "Platini Museum",
+    "lat": 34.9519806844773,
+    "lon": 33.4266020977779,
+    "name": "Platini Museum"
+  },
+  {
+    "description": "Larnakos Ave. - Apostolou Varnava 1",
+    "lat": 34.950567505999,
+    "lon": 33.430986535298,
+    "name": "Larnakos Ave. - Apostolou Varnava 1"
+  },
+  {
+    "description": "Mosfiloti Cemetery 1",
+    "lat": 34.9488024424401,
+    "lon": 33.4328610039483,
+    "name": "Mosfiloti Cemetery 1"
+  },
+  {
+    "description": "Stavrovouniou - Nikou Kazantzaki 2",
+    "lat": 34.9434532127853,
+    "lon": 33.4507378806911,
+    "name": "Stavrovouniou - Nikou Kazantzaki 2"
+  },
+  {
+    "description": "Pyrga Cemetery",
+    "lat": 34.9250700271948,
+    "lon": 33.4374770888538,
+    "name": "Pyrga Cemetery"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "description": "Tombs of the Kings Bus Station",
+    "lat": 34.7700851526625,
+    "lon": 32.4107318563524,
+    "name": "Tombs of the Kings Bus Station"
+  },
+  {
+    "description": "Tafoi Ton Vasileon - Angelou Sikelianou",
+    "lat": 34.7662613381543,
+    "lon": 32.4106606857937,
+    "name": "Tafoi Ton Vasileon - Angelou Sikelianou"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Agias Solomonis",
+    "lat": 34.761237439771,
+    "lon": 32.4123026383695,
+    "name": "Apostolou Pavlou Ave. - Agias Solomonis"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Pafias Afroditis",
+    "lat": 34.7595872171301,
+    "lon": 32.4123034058985,
+    "name": "Apostolou Pavlou Ave. - Pafias Afroditis"
+  },
+  {
+    "description": "Paphos Harbour Station",
+    "lat": 34.7565660916918,
+    "lon": 32.408533407359,
+    "name": "Paphos Harbour Station"
+  },
+  {
+    "description": "Annabelle Hotel 1",
+    "lat": 34.7561585690932,
+    "lon": 32.4175285664989,
+    "name": "Annabelle Hotel 1"
+  },
+  {
+    "description": "Poseidonos Ave. - 1st Stop",
+    "lat": 34.7538167248285,
+    "lon": 32.4199924088154,
+    "name": "Poseidonos Ave. - 1st Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 3rd Stop",
+    "lat": 34.7524242349487,
+    "lon": 32.4210947149952,
+    "name": "Poseidonos Ave. - 3rd Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 5th Stop",
+    "lat": 34.7494882035672,
+    "lon": 32.4237809794508,
+    "name": "Poseidonos Ave. - 5th Stop"
+  },
+  {
+    "description": "Neapolis University 2",
+    "lat": 34.7498037060993,
+    "lon": 32.4275808135072,
+    "name": "Neapolis University 2"
+  },
+  {
+    "description": "Neapolis University 1",
+    "lat": 34.7492075329655,
+    "lon": 32.4273664210965,
+    "name": "Neapolis University 1"
+  },
+  {
+    "description": "Poseidonos Ave. - 7th Stop",
+    "lat": 34.7449853134053,
+    "lon": 32.4288703977653,
+    "name": "Poseidonos Ave. - 7th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 9th Stop",
+    "lat": 34.7433272232012,
+    "lon": 32.4310448624992,
+    "name": "Poseidonos Ave. - 9th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 11th Stop",
+    "lat": 34.7416143276334,
+    "lon": 32.4330775987073,
+    "name": "Poseidonos Ave. - 11th Stop"
+  },
+  {
+    "description": "Waterpark Road",
+    "lat": 34.7392878459972,
+    "lon": 32.4369824278927,
+    "name": "Waterpark Road"
+  },
+  {
+    "description": "Waterpark",
+    "lat": 34.7412455534606,
+    "lon": 32.4410875863875,
+    "name": "Waterpark"
+  }
+]

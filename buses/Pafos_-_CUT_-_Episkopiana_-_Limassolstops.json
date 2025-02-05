@@ -1,0 +1,80 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Pafos District Courthouse 1",
+    "lat": 34.7745233269912,
+    "lon": 32.4280658729993,
+    "name": "Pafos District Courthouse 1"
+  },
+  {
+    "description": "Stratigou Alex. Papagou - Evzonon",
+    "lat": 34.7743159110939,
+    "lon": 32.4357938204752,
+    "name": "Stratigou Alex. Papagou - Evzonon"
+  },
+  {
+    "description": "Fire Station 1",
+    "lat": 34.7695891522913,
+    "lon": 32.435465367438,
+    "name": "Fire Station 1"
+  },
+  {
+    "description": "Stelios Kyriakides Stadium",
+    "lat": 34.7692365888427,
+    "lon": 32.4411393633762,
+    "name": "Stelios Kyriakides Stadium"
+  },
+  {
+    "description": "Dimokratias Ave. - Andrea Evagorou",
+    "lat": 34.7769472198322,
+    "lon": 32.44322945016,
+    "name": "Dimokratias Ave. - Andrea Evagorou"
+  },
+  {
+    "description": "Episkopiana",
+    "lat": 34.6781449453354,
+    "lon": 32.890129131509,
+    "name": "Episkopiana"
+  },
+  {
+    "description": "Agios Georgios Chavouzas Church 2",
+    "lat": 34.6936681976649,
+    "lon": 33.0155583951598,
+    "name": "Agios Georgios Chavouzas Church 2"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Old Hospital",
+    "lat": 34.6791086542181,
+    "lon": 33.0370607045984,
+    "name": "Archiep. Leontiou A´ - Old Hospital"
+  },
+  {
+    "description": "Tzelal Bagiar - Agios Antonios Church 1",
+    "lat": 34.6717678514845,
+    "lon": 33.0377560138059,
+    "name": "Tzelal Bagiar - Agios Antonios Church 1"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Synergatismou",
+    "lat": 34.6664867793441,
+    "lon": 33.0242413375462,
+    "name": "Fragklinou Rousvelt - Synergatismou"
+  },
+  {
+    "description": "Omonoias Ave. - Tsiflikoudion",
+    "lat": 34.6625110053161,
+    "lon": 33.0176153309949,
+    "name": "Omonoias Ave. - Tsiflikoudion"
+  },
+  {
+    "description": "New Port - Passenger Building",
+    "lat": 34.6556927006373,
+    "lon": 33.0221319488309,
+    "name": "New Port - Passenger Building"
+  }
+]

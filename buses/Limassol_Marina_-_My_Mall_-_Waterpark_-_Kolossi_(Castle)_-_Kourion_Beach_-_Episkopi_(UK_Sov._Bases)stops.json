@@ -1,0 +1,194 @@
+[
+  {
+    "description": "Old Port",
+    "lat": 34.671198762756,
+    "lon": 33.0407356112366,
+    "name": "Old Port"
+  },
+  {
+    "description": "Tzelal Bagiar - Agios Antonios Church 1",
+    "lat": 34.6717678514845,
+    "lon": 33.0377560138059,
+    "name": "Tzelal Bagiar - Agios Antonios Church 1"
+  },
+  {
+    "description": "Fragklinou Rousvelt - KEO 1",
+    "lat": 34.6706513540189,
+    "lon": 33.0316975986689,
+    "name": "Fragklinou Rousvelt - KEO 1"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Water Board 1",
+    "lat": 34.6689838059398,
+    "lon": 33.0285862078789,
+    "name": "Fragklinou Rousvelt - Water Board 1"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Synergatismou",
+    "lat": 34.6664867793441,
+    "lon": 33.0242413375462,
+    "name": "Fragklinou Rousvelt - Synergatismou"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Aimilou Veaki",
+    "lat": 34.6641429617571,
+    "lon": 33.0195256784279,
+    "name": "Fragklinou Rousvelt - Aimilou Veaki"
+  },
+  {
+    "description": "Omonoias Ave. - Tsiflikoudion",
+    "lat": 34.6625110053161,
+    "lon": 33.0176153309949,
+    "name": "Omonoias Ave. - Tsiflikoudion"
+  },
+  {
+    "description": "Port Parallel Road - 1st Stop",
+    "lat": 34.6575512788196,
+    "lon": 33.0165884188009,
+    "name": "Port Parallel Road - 1st Stop"
+  },
+  {
+    "description": "Port Parallel Road - 2nd Stop",
+    "lat": 34.6540259002952,
+    "lon": 33.0109020583973,
+    "name": "Port Parallel Road - 2nd Stop"
+  },
+  {
+    "description": "Port Parallel Road - 3rd Stop",
+    "lat": 34.6468480192576,
+    "lon": 33.0041793077992,
+    "name": "Port Parallel Road - 3rd Stop"
+  },
+  {
+    "description": "Kathetos Limaniou - Kosta Monti",
+    "lat": 34.6497428567047,
+    "lon": 32.9996180656463,
+    "name": "Kathetos Limaniou - Kosta Monti"
+  },
+  {
+    "description": "MY MALL",
+    "lat": 34.6512127016143,
+    "lon": 32.9954930950808,
+    "name": "MY MALL"
+  },
+  {
+    "description": "Fasouri Waterpark 1",
+    "lat": 34.6505873080823,
+    "lon": 32.9719002594414,
+    "name": "Fasouri Waterpark 1"
+  },
+  {
+    "description": "Griva Digeni - Athanasiou Diakou",
+    "lat": 34.6552029675233,
+    "lon": 32.9658855698878,
+    "name": "Griva Digeni - Athanasiou Diakou"
+  },
+  {
+    "description": "Kolossi Castle",
+    "lat": 34.6650740320009,
+    "lon": 32.9349064054231,
+    "name": "Kolossi Castle"
+  },
+  {
+    "description": "Archiepiskopou Makariou C 2",
+    "lat": 34.667825107563,
+    "lon": 32.9360503054112,
+    "name": "Archiepiskopou Makariou C 2"
+  },
+  {
+    "description": "Kolossi Elementary School A´ 1",
+    "lat": 34.6707362444976,
+    "lon": 32.9329699932043,
+    "name": "Kolossi Elementary School A´ 1"
+  },
+  {
+    "description": "Pafou - 1 Maiou",
+    "lat": 34.6737328890035,
+    "lon": 32.9223140000444,
+    "name": "Pafou - 1 Maiou"
+  },
+  {
+    "description": "14 Street - 15 Street 1",
+    "lat": 34.6709575828936,
+    "lon": 32.9122855339159,
+    "name": "14 Street - 15 Street 1"
+  },
+  {
+    "description": "14 Street - 30 Street",
+    "lat": 34.6678082695911,
+    "lon": 32.9094728417389,
+    "name": "14 Street - 30 Street"
+  },
+  {
+    "description": "14 Street - 29 Street",
+    "lat": 34.6654325355672,
+    "lon": 32.9042146553241,
+    "name": "14 Street - 29 Street"
+  },
+  {
+    "description": "14 Street - 29 Street",
+    "lat": 34.6648083006157,
+    "lon": 32.9017050664618,
+    "name": "14 Street - 29 Street"
+  },
+  {
+    "description": "Agios Ermogenis",
+    "lat": 34.6623103971613,
+    "lon": 32.8911650429356,
+    "name": "Agios Ermogenis"
+  },
+  {
+    "description": "Kourion Beach - 1st Stop 1",
+    "lat": 34.6632484652551,
+    "lon": 32.8817012286141,
+    "name": "Kourion Beach - 1st Stop 1"
+  },
+  {
+    "description": "Kourion Beach",
+    "lat": 34.6651847159342,
+    "lon": 32.8790462711465,
+    "name": "Kourion Beach"
+  },
+  {
+    "description": "Kourion Beach - 1st Stop 2",
+    "lat": 34.6633026680588,
+    "lon": 32.8817993791923,
+    "name": "Kourion Beach - 1st Stop 2"
+  },
+  {
+    "description": "Agios Ermogenis 2",
+    "lat": 34.6623824918516,
+    "lon": 32.8911103783733,
+    "name": "Agios Ermogenis 2"
+  },
+  {
+    "description": "Apollon Hylates Sanctuary 1",
+    "lat": 34.6700594925535,
+    "lon": 32.8666396733466,
+    "name": "Apollon Hylates Sanctuary 1"
+  },
+  {
+    "description": "Garrison",
+    "lat": 34.6752867495066,
+    "lon": 32.841426835953,
+    "name": "Garrison"
+  },
+  {
+    "description": "Kensington 1",
+    "lat": 34.6734218132989,
+    "lon": 32.8359508096135,
+    "name": "Kensington 1"
+  },
+  {
+    "description": "Happy Valley",
+    "lat": 34.6719906924468,
+    "lon": 32.8187729343177,
+    "name": "Happy Valley"
+  },
+  {
+    "description": "Radio Sonde",
+    "lat": 34.6726658030215,
+    "lon": 32.8120039188162,
+    "name": "Radio Sonde"
+  }
+]

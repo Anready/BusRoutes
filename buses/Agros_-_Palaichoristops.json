@@ -1,0 +1,50 @@
+[
+  {
+    "description": "Rodon Hotel 1",
+    "lat": 34.9098868712428,
+    "lon": 33.0118990824602,
+    "name": "Rodon Hotel 1"
+  },
+  {
+    "description": "Apeitios School - Glafkos Clerides Sport Centre 1",
+    "lat": 34.9160906532826,
+    "lon": 33.0147025482821,
+    "name": "Apeitios School - Glafkos Clerides Sport Centre 1"
+  },
+  {
+    "description": "Panagia Eleousa Church 1",
+    "lat": 34.9171543244659,
+    "lon": 33.0177133506811,
+    "name": "Panagia Eleousa Church 1"
+  },
+  {
+    "description": "Agros Post Office 2",
+    "lat": 34.9165137812369,
+    "lon": 33.0196399902421,
+    "name": "Agros Post Office 2"
+  },
+  {
+    "description": "C.A.P.O. Agros Office 2",
+    "lat": 34.9170543599704,
+    "lon": 33.0223879839957,
+    "name": "C.A.P.O. Agros Office 2"
+  },
+  {
+    "description": "Christoforou Pissaridi Ave. - Agros",
+    "lat": 34.915620699974,
+    "lon": 33.0216541136424,
+    "name": "Christoforou Pissaridi Ave. - Agros"
+  },
+  {
+    "description": "Papoutsa",
+    "lat": 34.905853904049,
+    "lon": 33.0533516921806,
+    "name": "Papoutsa"
+  },
+  {
+    "description": "Palaichori - Askas Road",
+    "lat": 34.927792049616,
+    "lon": 33.0872642804579,
+    "name": "Palaichori - Askas Road"
+  }
+]

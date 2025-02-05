@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  },
+  {
+    "description": "Lemesou Ave. - Filias",
+    "lat": 34.9977926869451,
+    "lon": 33.4017451753162,
+    "name": "Lemesou Ave. - Filias"
+  },
+  {
+    "description": "Lemesou Ave. - Lympion Ave. 2",
+    "lat": 34.9927119622616,
+    "lon": 33.4056431826699,
+    "name": "Lemesou Ave. - Lympion Ave. 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Eleftherias",
+    "lat": 34.9993558981351,
+    "lon": 33.4545290181415,
+    "name": "Grigori Afxentiou - Eleftherias"
+  },
+  {
+    "description": "Grigori Afxentiou - Koumi Charalampous",
+    "lat": 34.9997710250497,
+    "lon": 33.4568435688802,
+    "name": "Grigori Afxentiou - Koumi Charalampous"
+  },
+  {
+    "description": "Koumi Charalampous - Michail Olympiou",
+    "lat": 35.0001863570616,
+    "lon": 33.4614704102517,
+    "name": "Koumi Charalampous - Michail Olympiou"
+  },
+  {
+    "description": "Apodimon Square",
+    "lat": 34.9980436602673,
+    "lon": 33.46293775441,
+    "name": "Apodimon Square"
+  },
+  {
+    "description": "Agios Epifanios Church 2",
+    "lat": 34.9957242041035,
+    "lon": 33.4658176074651,
+    "name": "Agios Epifanios Church 2"
+  },
+  {
+    "description": "Agios Epifanios Church 1",
+    "lat": 34.9951699485952,
+    "lon": 33.4669102605442,
+    "name": "Agios Epifanios Church 1"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Mitropoliti Chrysanthou Sarigianni - Atsas 1",
+    "lat": 35.0705133450478,
+    "lon": 32.9301879039791,
+    "name": "Mitropoliti Chrysanthou Sarigianni - Atsas 1"
+  },
+  {
+    "description": "Linou Cemetery",
+    "lat": 35.0761524272109,
+    "lon": 32.8968157894311,
+    "name": "Linou Cemetery"
+  },
+  {
+    "description": "Linou - Katydatya Intersection",
+    "lat": 35.0765602371678,
+    "lon": 32.8889066808213,
+    "name": "Linou - Katydatya Intersection"
+  },
+  {
+    "description": "Marathasas Ave.  - 3rd Kalopanagioti",
+    "lat": 35.0023102768925,
+    "lon": 32.8265956214059,
+    "name": "Marathasas Ave.  - 3rd Kalopanagioti"
+  },
+  {
+    "description": "Markou Drakou - 3rd Kalopanagioti",
+    "lat": 34.9984315239517,
+    "lon": 32.8257161672615,
+    "name": "Markou Drakou - 3rd Kalopanagioti"
+  },
+  {
+    "description": "Gerakies",
+    "lat": 35.0004021653543,
+    "lon": 32.805175311245,
+    "name": "Gerakies"
+  },
+  {
+    "description": "Kykkos",
+    "lat": 34.98291596352,
+    "lon": 32.7416148446781,
+    "name": "Kykkos"
+  },
+  {
+    "description": "Tsakistra",
+    "lat": 35.0241310373139,
+    "lon": 32.7236612126193,
+    "name": "Tsakistra"
+  },
+  {
+    "description": "Kampos",
+    "lat": 35.040194605181,
+    "lon": 32.7333541581084,
+    "name": "Kampos"
+  }
+]

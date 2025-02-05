@@ -1,0 +1,116 @@
+[
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Kalamon - Strovolos Industrial Zone",
+    "lat": 35.1240546553602,
+    "lon": 33.3728737926889,
+    "name": "Kalamon - Strovolos Industrial Zone"
+  },
+  {
+    "description": "Kalamon - Meteoron",
+    "lat": 35.1268639058609,
+    "lon": 33.3683207493343,
+    "name": "Kalamon - Meteoron"
+  },
+  {
+    "description": "Ave. Iosif Chr. Chatziiosif - Sinopis",
+    "lat": 35.1287837551087,
+    "lon": 33.3565303490891,
+    "name": "Ave. Iosif Chr. Chatziiosif - Sinopis"
+  },
+  {
+    "description": "Ave. Iosif Chatziiosif - Lyceum Ap. Varnavas 2",
+    "lat": 35.1318469409399,
+    "lon": 33.3574327784841,
+    "name": "Ave. Iosif Chatziiosif - Lyceum Ap. Varnavas 2"
+  },
+  {
+    "description": "Ave. Iosif Chatziiosif - Oktagono",
+    "lat": 35.1337842175474,
+    "lon": 33.357913235396,
+    "name": "Ave. Iosif Chatziiosif - Oktagono"
+  },
+  {
+    "description": "Ave. Iosif Chr. Chatziiosif - Stavrou 2",
+    "lat": 35.1361103607235,
+    "lon": 33.3580112302241,
+    "name": "Ave. Iosif Chr. Chatziiosif - Stavrou 2"
+  },
+  {
+    "description": "Ave. Iosif Chr. Chatziiosif - Perikleous",
+    "lat": 35.1399150408078,
+    "lon": 33.3582035252057,
+    "name": "Ave. Iosif Chr. Chatziiosif - Perikleous"
+  },
+  {
+    "description": "Ave. Iosif Chr. Chatziiosif - Ave. Athalassas",
+    "lat": 35.1440779621876,
+    "lon": 33.3592207533045,
+    "name": "Ave. Iosif Chr. Chatziiosif - Ave. Athalassas"
+  },
+  {
+    "description": "Ave. Georgiou Paraskevaidi - Akropolis Park 2",
+    "lat": 35.1463750939152,
+    "lon": 33.3599773658343,
+    "name": "Ave. Georgiou Paraskevaidi - Akropolis Park 2"
+  },
+  {
+    "description": "Blind School Agios Varnavas 2",
+    "lat": 35.1494361437263,
+    "lon": 33.3554896078533,
+    "name": "Blind School Agios Varnavas 2"
+  },
+  {
+    "description": "Korytsas - Makarios Hospital 2",
+    "lat": 35.1510908251726,
+    "lon": 33.3570118860548,
+    "name": "Korytsas - Makarios Hospital 2"
+  },
+  {
+    "description": "Bank of Cyprus Oncology Center 2",
+    "lat": 35.1529969561017,
+    "lon": 33.358875681513,
+    "name": "Bank of Cyprus Oncology Center 2"
+  },
+  {
+    "description": "Nikis - Kasou",
+    "lat": 35.1564449048301,
+    "lon": 33.3577269883687,
+    "name": "Nikis - Kasou"
+  },
+  {
+    "description": "Nikis - Samou",
+    "lat": 35.1597804274654,
+    "lon": 33.3580051114441,
+    "name": "Nikis - Samou"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Georgiou Griva Digeni Avenue",
+    "lat": 35.1623576079961,
+    "lon": 33.3585873830712,
+    "name": "Ave. Kyriakou Matsi - Georgiou Griva Digeni Avenue"
+  },
+  {
+    "description": "Themistokli Dervi - Tefkrou",
+    "lat": 35.1648750131565,
+    "lon": 33.3580384168559,
+    "name": "Themistokli Dervi - Tefkrou"
+  },
+  {
+    "description": "Diagorou",
+    "lat": 35.169683481778,
+    "lon": 33.3572468736466,
+    "name": "Diagorou"
+  },
+  {
+    "description": "Solomos Square Alighting ",
+    "lat": 35.170392452312,
+    "lon": 33.3583920449795,
+    "name": "Solomos Square Alighting "
+  }
+]

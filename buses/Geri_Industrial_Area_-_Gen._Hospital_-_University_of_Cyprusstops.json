@@ -1,0 +1,140 @@
+[
+  {
+    "description": "Odysseos - Vladimirou Kafkaridi 1",
+    "lat": 35.0733806504991,
+    "lon": 33.3835347849859,
+    "name": "Odysseos - Vladimirou Kafkaridi 1"
+  },
+  {
+    "description": "Odysseos - Vladimirou Kafkaridi 2",
+    "lat": 35.072752620174,
+    "lon": 33.3882043582051,
+    "name": "Odysseos - Vladimirou Kafkaridi 2"
+  },
+  {
+    "description": "Ermou - Agias Triados",
+    "lat": 35.0672683569751,
+    "lon": 33.3971060164187,
+    "name": "Ermou - Agias Triados"
+  },
+  {
+    "description": "Ftelias - Filipou ",
+    "lat": 35.0797660179725,
+    "lon": 33.405360609567,
+    "name": "Ftelias - Filipou "
+  },
+  {
+    "description": "Filipou - Megalou Aleksandrou Ave.",
+    "lat": 35.0834306387362,
+    "lon": 33.3988297914588,
+    "name": "Filipou - Megalou Aleksandrou Ave."
+  },
+  {
+    "description": "Idaliou - Ioanni Kapodistria",
+    "lat": 35.0855161372708,
+    "lon": 33.3953075896539,
+    "name": "Idaliou - Ioanni Kapodistria"
+  },
+  {
+    "description": "Dimitri Stavrou - Sporting Club 2",
+    "lat": 35.0899057925882,
+    "lon": 33.3930688209596,
+    "name": "Dimitri Stavrou - Sporting Club 2"
+  },
+  {
+    "description": "Idaliou - Stavrou Venizelou",
+    "lat": 35.0974498092019,
+    "lon": 33.3885298504211,
+    "name": "Idaliou - Stavrou Venizelou"
+  },
+  {
+    "description": "Dimitri Stavrou - Iona Nikolaou",
+    "lat": 35.1015941247876,
+    "lon": 33.3868378504181,
+    "name": "Dimitri Stavrou - Iona Nikolaou"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Kimonos",
+    "lat": 35.106125940286,
+    "lon": 33.38521334078,
+    "name": "Ave. Archiepiskopou Makariou C - Kimonos"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Riga Feraiou",
+    "lat": 35.1092673997339,
+    "lon": 33.3841198267482,
+    "name": "Ave. Archiepiskopou Makariou C - Riga Feraiou"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Petrou Iliadi",
+    "lat": 35.1123129843941,
+    "lon": 33.3819723120534,
+    "name": "Ave. Archiepiskopou Makariou C - Petrou Iliadi"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Petrou Giallourou",
+    "lat": 35.1142200045976,
+    "lon": 33.3805765533496,
+    "name": "Ave. Archiep. Makariou C - Petrou Giallourou"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Giannou Kranidioti Ave.",
+    "lat": 35.1171313312049,
+    "lon": 33.3780879546254,
+    "name": "Ave. Arch. Makariou C - Giannou Kranidioti Ave."
+  },
+  {
+    "description": "Lemesou Ave. - Kampou",
+    "lat": 35.1197592623922,
+    "lon": 33.3768270383084,
+    "name": "Lemesou Ave. - Kampou"
+  },
+  {
+    "description": "Lemesou Ave. - Volvo",
+    "lat": 35.1268358517556,
+    "lon": 33.3745328069755,
+    "name": "Lemesou Ave. - Volvo"
+  },
+  {
+    "description": "The Mall of Cyprus - Verginas",
+    "lat": 35.1296954455061,
+    "lon": 33.3741617405526,
+    "name": "The Mall of Cyprus - Verginas"
+  },
+  {
+    "description": "Athalassa Botanic Gardens ",
+    "lat": 35.1377876898445,
+    "lon": 33.378732287614,
+    "name": "Athalassa Botanic Gardens "
+  },
+  {
+    "description": "Fytoriou - Cyprus Institute",
+    "lat": 35.1384241900194,
+    "lon": 33.3827858006558,
+    "name": "Fytoriou - Cyprus Institute"
+  },
+  {
+    "description": "Fytoriou - Radio Station",
+    "lat": 35.1396920594041,
+    "lon": 33.3978855332749,
+    "name": "Fytoriou - Radio Station"
+  },
+  {
+    "description": "Fytoriou - Agios Georgios",
+    "lat": 35.1406082087885,
+    "lon": 33.4017101355629,
+    "name": "Fytoriou - Agios Georgios"
+  },
+  {
+    "description": "University of Cyprus - Oceanography Center",
+    "lat": 35.1443862687783,
+    "lon": 33.4071517965074,
+    "name": "University of Cyprus - Oceanography Center"
+  },
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  }
+]

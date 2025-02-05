@@ -1,0 +1,308 @@
+[
+  {
+    "description": "Agias Theklas - Waterpark 2",
+    "lat": 34.9839579449415,
+    "lon": 33.9427979315675,
+    "name": "Agias Theklas - Waterpark 2"
+  },
+  {
+    "description": "Agia Napa Marina 2",
+    "lat": 34.9800828310617,
+    "lon": 33.9425124889476,
+    "name": "Agia Napa Marina 2"
+  },
+  {
+    "description": "Agias Theklas - 4th Stop",
+    "lat": 34.9851284101408,
+    "lon": 33.9453422347931,
+    "name": "Agias Theklas - 4th Stop"
+  },
+  {
+    "description": "Agias Theklas - 2nd Stop",
+    "lat": 34.9868988007468,
+    "lon": 33.9484194348787,
+    "name": "Agias Theklas - 2nd Stop"
+  },
+  {
+    "description": "Makronissos Beach 2",
+    "lat": 34.9885022885725,
+    "lon": 33.9555159262288,
+    "name": "Makronissos Beach 2"
+  },
+  {
+    "description": "Landa Beach 2",
+    "lat": 34.9889841529387,
+    "lon": 33.9595864648807,
+    "name": "Landa Beach 2"
+  },
+  {
+    "description": "Nissi Bay Beach 2",
+    "lat": 34.9889263480932,
+    "lon": 33.9668719922403,
+    "name": "Nissi Bay Beach 2"
+  },
+  {
+    "description": "Nisi Ave. - Asprovounou",
+    "lat": 34.9901012084762,
+    "lon": 33.9744350728441,
+    "name": "Nisi Ave. - Asprovounou"
+  },
+  {
+    "description": "Nisi Ave. - Isaak kai Solomou",
+    "lat": 34.9887921376311,
+    "lon": 33.9835793257224,
+    "name": "Nisi Ave. - Isaak kai Solomou"
+  },
+  {
+    "description": "Ave. Nisi Ave. - Agias Mavris 2",
+    "lat": 34.988266371929,
+    "lon": 33.9872544479127,
+    "name": "Ave. Nisi Ave. - Agias Mavris 2"
+  },
+  {
+    "description": "Nisi Ave. - Katalymmata",
+    "lat": 34.9873425670791,
+    "lon": 33.9954826080579,
+    "name": "Nisi Ave. - Katalymmata"
+  },
+  {
+    "description": "Evagora Pallikaridi - Kassandrou",
+    "lat": 34.9839745546796,
+    "lon": 33.9971509723006,
+    "name": "Evagora Pallikaridi - Kassandrou"
+  },
+  {
+    "description": "Agia Napa Harbour 2",
+    "lat": 34.9840255928921,
+    "lon": 34.0008108955165,
+    "name": "Agia Napa Harbour 2"
+  },
+  {
+    "description": "Agia Napa Monastery 2",
+    "lat": 34.9883223044173,
+    "lon": 34.0002496230693,
+    "name": "Agia Napa Monastery 2"
+  },
+  {
+    "description": "Dionysiou Solomou - Kryou Nerou Ave.",
+    "lat": 34.988509611231,
+    "lon": 34.0026842659282,
+    "name": "Dionysiou Solomou - Kryou Nerou Ave."
+  },
+  {
+    "description": "Kryou Nerou Ave. - 1st Stop",
+    "lat": 34.9868522646021,
+    "lon": 34.0068274771151,
+    "name": "Kryou Nerou Ave. - 1st Stop"
+  },
+  {
+    "description": "Kryou Nerou Ave. - 2ndStop 1",
+    "lat": 34.9861748090721,
+    "lon": 34.0091419130705,
+    "name": "Kryou Nerou Ave. - 2ndStop 1"
+  },
+  {
+    "description": "Kryou Nerou Ave. - Marina Hotel 1",
+    "lat": 34.9852241979448,
+    "lon": 34.0160873994527,
+    "name": "Kryou Nerou Ave. - Marina Hotel 1"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 26th Stop",
+    "lat": 34.9754110356941,
+    "lon": 34.0419400501325,
+    "name": "Protara - Kavo Gkreko Ave. - 26th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 24th Stop",
+    "lat": 34.9748981073246,
+    "lon": 34.0470603677521,
+    "name": "Protara - Kavo Gkreko Ave. - 24th Stop"
+  },
+  {
+    "description": "Sea Caves 2",
+    "lat": 34.9734542972383,
+    "lon": 34.0575912035955,
+    "name": "Sea Caves 2"
+  },
+  {
+    "description": "Kavo Gkreko 2",
+    "lat": 34.9705899857423,
+    "lon": 34.0695929781718,
+    "name": "Kavo Gkreko 2"
+  },
+  {
+    "description": "Konnos Beach 2",
+    "lat": 34.9841597211068,
+    "lon": 34.0666031761156,
+    "name": "Konnos Beach 2"
+  },
+  {
+    "description": "Konnou - Grecian Park Hotel 2",
+    "lat": 34.9866236799533,
+    "lon": 34.068388138255,
+    "name": "Konnou - Grecian Park Hotel 2"
+  },
+  {
+    "description": "Konnou - Kirkis 2",
+    "lat": 34.9907938318521,
+    "lon": 34.0699434107199,
+    "name": "Konnou - Kirkis 2"
+  },
+  {
+    "description": "Konnou - Iras 2",
+    "lat": 34.9935092581186,
+    "lon": 34.0677434862426,
+    "name": "Konnou - Iras 2"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 16th Stop",
+    "lat": 34.9968767879216,
+    "lon": 34.0641821670893,
+    "name": "Protara - Kavo Gkreko Ave. - 16th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - Symis",
+    "lat": 35.0022869766562,
+    "lon": 34.0600551685562,
+    "name": "Protara - Kavo Gkreko Ave. - Symis"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - Amorgou",
+    "lat": 35.0065769542827,
+    "lon": 34.0582255742268,
+    "name": "Protara - Kavo Gkreko Ave. - Amorgou"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 14th Stop",
+    "lat": 35.0105343106267,
+    "lon": 34.055240773071,
+    "name": "Protara - Kavo Gkreko Ave. - 14th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 11th Stop",
+    "lat": 35.0139016696138,
+    "lon": 34.0495739090244,
+    "name": "Protara - Kavo Gkreko Ave. - 11th Stop"
+  },
+  {
+    "description": "Protara - Vrisi Beach",
+    "lat": 35.0176241558379,
+    "lon": 34.0476595600232,
+    "name": "Protara - Vrisi Beach"
+  },
+  {
+    "description": "Protara - Sunrise Beach",
+    "lat": 35.0152820487031,
+    "lon": 34.0526055766132,
+    "name": "Protara - Sunrise Beach"
+  },
+  {
+    "description": "Protara - Fig Tree Bay",
+    "lat": 35.0114130577117,
+    "lon": 34.0568412003122,
+    "name": "Protara - Fig Tree Bay"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 14th Stop",
+    "lat": 35.0105343106267,
+    "lon": 34.055240773071,
+    "name": "Protara - Kavo Gkreko Ave. - 14th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 11th Stop",
+    "lat": 35.0139016696138,
+    "lon": 34.0495739090244,
+    "name": "Protara - Kavo Gkreko Ave. - 11th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - Profiti Ilia",
+    "lat": 35.0185892060078,
+    "lon": 34.0444933088719,
+    "name": "Protara - Kavo Gkreko Ave. - Profiti Ilia"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 10th Stop",
+    "lat": 35.0211153390735,
+    "lon": 34.0411823632523,
+    "name": "Protara - Kavo Gkreko Ave. - 10th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 8th Stop",
+    "lat": 35.0234537511705,
+    "lon": 34.0387238168104,
+    "name": "Protara - Kavo Gkreko Ave. - 8th Stop"
+  },
+  {
+    "description": "Perneras Ave. - 3rd Stop",
+    "lat": 35.0271555393389,
+    "lon": 34.0392091150548,
+    "name": "Perneras Ave. - 3rd Stop"
+  },
+  {
+    "description": "Perneras Ave. - Odysseos",
+    "lat": 35.0283722100142,
+    "lon": 34.0382269848111,
+    "name": "Perneras Ave. - Odysseos"
+  },
+  {
+    "description": "Perneras Ave. - Perneras 2",
+    "lat": 35.0301022179587,
+    "lon": 34.0373170841924,
+    "name": "Perneras Ave. - Perneras 2"
+  },
+  {
+    "description": "Perneras Ave. - Ymittou",
+    "lat": 35.0319083831968,
+    "lon": 34.0338209935472,
+    "name": "Perneras Ave. - Ymittou"
+  },
+  {
+    "description": "Pinias - Perneras Ave. 2",
+    "lat": 35.0329272508308,
+    "lon": 34.0317071028224,
+    "name": "Pinias - Perneras Ave. 2"
+  },
+  {
+    "description": "Paralimni Port 2",
+    "lat": 35.0366222562559,
+    "lon": 34.0351082191561,
+    "name": "Paralimni Port 2"
+  },
+  {
+    "description": "Vrysoudion - 4th Stop",
+    "lat": 35.0418758899428,
+    "lon": 34.0312494864957,
+    "name": "Vrysoudion - 4th Stop"
+  },
+  {
+    "description": "Louma Beach 2",
+    "lat": 35.0434305548747,
+    "lon": 34.029745043708,
+    "name": "Louma Beach 2"
+  },
+  {
+    "description": "Vrysoudion - 2nd Stop",
+    "lat": 35.0471302007719,
+    "lon": 34.0251645035037,
+    "name": "Vrysoudion - 2nd Stop"
+  },
+  {
+    "description": "Agia Triada Beach 2",
+    "lat": 35.0486137156564,
+    "lon": 34.0171021335341,
+    "name": "Agia Triada Beach 2"
+  },
+  {
+    "description": "Protara Ave. - 6th Stop",
+    "lat": 35.0484251890754,
+    "lon": 34.0126920356441,
+    "name": "Protara Ave. - 6th Stop"
+  },
+  {
+    "description": "Protara Ave. - 6th Stop",
+    "lat": 35.0484551551314,
+    "lon": 34.0090960209171,
+    "name": "Protara Ave. - 6th Stop"
+  }
+]

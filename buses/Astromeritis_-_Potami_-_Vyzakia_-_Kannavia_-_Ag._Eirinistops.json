@@ -1,0 +1,80 @@
+[
+  {
+    "description": "Troodous - Pavlou Liasidi",
+    "lat": 35.136942209683,
+    "lon": 33.0293196329198,
+    "name": "Troodous - Pavlou Liasidi"
+  },
+  {
+    "description": "Lefkosias - Troodous - SEDIGEP 1",
+    "lat": 35.1351312144639,
+    "lon": 33.0224365417376,
+    "name": "Lefkosias - Troodous - SEDIGEP 1"
+  },
+  {
+    "description": "Agiou Georgiou - 6th Potami",
+    "lat": 35.1144107024221,
+    "lon": 33.0150563309141,
+    "name": "Agiou Georgiou - 6th Potami"
+  },
+  {
+    "description": "Agiou Georgiou - 5th Potami",
+    "lat": 35.1115333959882,
+    "lon": 33.0204877416871,
+    "name": "Agiou Georgiou - 5th Potami"
+  },
+  {
+    "description": "Agiou Georgiou - 4th Potami",
+    "lat": 35.1097115379378,
+    "lon": 33.0225612530088,
+    "name": "Agiou Georgiou - 4th Potami"
+  },
+  {
+    "description": "Agios Georgios Church - Potami",
+    "lat": 35.1075288216988,
+    "lon": 33.0252710020643,
+    "name": "Agios Georgios Church - Potami"
+  },
+  {
+    "description": "Potami Health Centre",
+    "lat": 35.1043538238903,
+    "lon": 33.0293299039446,
+    "name": "Potami Health Centre"
+  },
+  {
+    "description": "Agios Georgios Old Church - Potami",
+    "lat": 35.1029649654153,
+    "lon": 33.0301303965781,
+    "name": "Agios Georgios Old Church - Potami"
+  },
+  {
+    "description": "Morfou - 4th Vyzakia",
+    "lat": 35.0816958385388,
+    "lon": 33.0159607960801,
+    "name": "Morfou - 4th Vyzakia"
+  },
+  {
+    "description": "Tilepikoinonion - 3rd Vyzakia",
+    "lat": 35.0802172580764,
+    "lon": 33.0138434097974,
+    "name": "Tilepikoinonion - 3rd Vyzakia"
+  },
+  {
+    "description": "Kannavia Helath Center",
+    "lat": 34.9824673229656,
+    "lon": 32.9770792763963,
+    "name": "Kannavia Helath Center"
+  },
+  {
+    "description": "Kannavia",
+    "lat": 34.9809883174097,
+    "lon": 32.9763456250365,
+    "name": "Kannavia"
+  },
+  {
+    "description": "Agia Eirini Lefkosias",
+    "lat": 34.9805537962002,
+    "lon": 32.9688846366181,
+    "name": "Agia Eirini Lefkosias"
+  }
+]

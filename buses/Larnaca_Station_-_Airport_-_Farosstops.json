@@ -1,0 +1,170 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  },
+  {
+    "description": "Vasileos Pavlou Square",
+    "lat": 34.9169854698966,
+    "lon": 33.6365252642091,
+    "name": "Vasileos Pavlou Square"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Larnaka Municipal Theatre 1",
+    "lat": 34.9160219121426,
+    "lon": 33.6276067226033,
+    "name": "Larnaka Municipal Theatre 1"
+  },
+  {
+    "description": "Old G.S.Z.",
+    "lat": 34.913394111229,
+    "lon": 33.6283311144079,
+    "name": "Old G.S.Z."
+  },
+  {
+    "description": "A´ Agios Lazaros Elementary School 1",
+    "lat": 34.9112276463267,
+    "lon": 33.6305148869678,
+    "name": "A´ Agios Lazaros Elementary School 1"
+  },
+  {
+    "description": "Onisilou",
+    "lat": 34.9091764829228,
+    "lon": 33.6330606608266,
+    "name": "Onisilou"
+  },
+  {
+    "description": "Touzchane - Papoutsialik",
+    "lat": 34.9057829320954,
+    "lon": 33.6353660991749,
+    "name": "Touzchane - Papoutsialik"
+  },
+  {
+    "description": "San Remo Hotel 1",
+    "lat": 34.9005210228704,
+    "lon": 33.6362778077562,
+    "name": "San Remo Hotel 1"
+  },
+  {
+    "description": "Filopappou - Nitse 1",
+    "lat": 34.8929114063948,
+    "lon": 33.6343476655872,
+    "name": "Filopappou - Nitse 1"
+  },
+  {
+    "description": "Makenzy 2",
+    "lat": 34.8915763496606,
+    "lon": 33.6361650604304,
+    "name": "Makenzy 2"
+  },
+  {
+    "description": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1",
+    "lat": 34.8897896000335,
+    "lon": 33.6294865018293,
+    "name": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1"
+  },
+  {
+    "description": "Artemidos Ave. - Old Airport 1",
+    "lat": 34.8871216677803,
+    "lon": 33.6257563183331,
+    "name": "Artemidos Ave. - Old Airport 1"
+  },
+  {
+    "description": "Larnaka Airport",
+    "lat": 34.8710309947938,
+    "lon": 33.606891856567,
+    "name": "Larnaka Airport"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 2nd Stop",
+    "lat": 34.8639811537269,
+    "lon": 33.5974203593952,
+    "name": "Archiep. Makariou C´ Ave. - 2nd Stop"
+  },
+  {
+    "description": "Meneou - Pervolia Road - 1st Stop",
+    "lat": 34.8574989791997,
+    "lon": 33.5989706665489,
+    "name": "Meneou - Pervolia Road - 1st Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 1st Stop",
+    "lat": 34.8447552173696,
+    "lon": 33.6156351400195,
+    "name": "Pervolia Tourist Area - 1st Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 3rd Stop",
+    "lat": 34.8400287537397,
+    "lon": 33.610525066564,
+    "name": "Pervolia Tourist Area - 3rd Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 5th Stop",
+    "lat": 34.8377329460529,
+    "lon": 33.6061880238689,
+    "name": "Pervolia Tourist Area - 5th Stop"
+  },
+  {
+    "description": "Rigaina Tower 1",
+    "lat": 34.8324764332501,
+    "lon": 33.6042356518461,
+    "name": "Rigaina Tower 1"
+  },
+  {
+    "description": "Rigaina Tower 2",
+    "lat": 34.8299490592259,
+    "lon": 33.6029158151011,
+    "name": "Rigaina Tower 2"
+  },
+  {
+    "description": "Faros Beach 1",
+    "lat": 34.8222666385746,
+    "lon": 33.6009899610398,
+    "name": "Faros Beach 1"
+  },
+  {
+    "description": "Pervolia Tourist Area - 9th Stop",
+    "lat": 34.8177392483305,
+    "lon": 33.5974471678458,
+    "name": "Pervolia Tourist Area - 9th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 11th Stop",
+    "lat": 34.8198578068584,
+    "lon": 33.592027973238,
+    "name": "Pervolia Tourist Area - 11th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 13th Stop",
+    "lat": 34.8219155307398,
+    "lon": 33.5879530571983,
+    "name": "Pervolia Tourist Area - 13th Stop"
+  },
+  {
+    "description": "Anexartisias - Venetikou Pyrgou",
+    "lat": 34.8271720862002,
+    "lon": 33.5824679558895,
+    "name": "Anexartisias - Venetikou Pyrgou"
+  }
+]

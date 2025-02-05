@@ -1,0 +1,152 @@
+[
+  {
+    "description": "Dimokratias - Kyriakou Kakoulli",
+    "lat": 35.1030258635735,
+    "lon": 33.4199592667912,
+    "name": "Dimokratias - Kyriakou Kakoulli"
+  },
+  {
+    "description": "Agios Minas Church",
+    "lat": 35.1061928899944,
+    "lon": 33.4219835337622,
+    "name": "Agios Minas Church"
+  },
+  {
+    "description": "Geri Community Board",
+    "lat": 35.105945118698,
+    "lon": 33.4180210879329,
+    "name": "Geri Community Board"
+  },
+  {
+    "description": "Ave. Geriou - Epistrofis",
+    "lat": 35.1055066224839,
+    "lon": 33.4144198003055,
+    "name": "Ave. Geriou - Epistrofis"
+  },
+  {
+    "description": "Ave. Geriou - Geri Commumity Stadium",
+    "lat": 35.1058039293746,
+    "lon": 33.4091873026782,
+    "name": "Ave. Geriou - Geri Commumity Stadium"
+  },
+  {
+    "description": "Ave. Geriou - Steliou Mavrommati",
+    "lat": 35.1066527728105,
+    "lon": 33.406141088058,
+    "name": "Ave. Geriou - Steliou Mavrommati"
+  },
+  {
+    "description": "Ave. Geriou - Alexandrou Ypsilanti",
+    "lat": 35.1072978639137,
+    "lon": 33.4019745652106,
+    "name": "Ave. Geriou - Alexandrou Ypsilanti"
+  },
+  {
+    "description": "Ave. Geriou - Archiepiskopou Kyprianou",
+    "lat": 35.1062160645045,
+    "lon": 33.3964170104442,
+    "name": "Ave. Geriou - Archiepiskopou Kyprianou"
+  },
+  {
+    "description": "Ave. Geriou - Apostolou Andreou",
+    "lat": 35.1056846557995,
+    "lon": 33.3934627694414,
+    "name": "Ave. Geriou - Apostolou Andreou"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Kimonos",
+    "lat": 35.106125940286,
+    "lon": 33.38521334078,
+    "name": "Ave. Archiepiskopou Makariou C - Kimonos"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Riga Feraiou",
+    "lat": 35.1092673997339,
+    "lon": 33.3841198267482,
+    "name": "Ave. Archiepiskopou Makariou C - Riga Feraiou"
+  },
+  {
+    "description": "Dimokratias - Ellados",
+    "lat": 35.1104906582743,
+    "lon": 33.3850912253181,
+    "name": "Dimokratias - Ellados"
+  },
+  {
+    "description": "Dimokratias - Antistaseos",
+    "lat": 35.1114288806142,
+    "lon": 33.3877841508764,
+    "name": "Dimokratias - Antistaseos"
+  },
+  {
+    "description": "Antistaseos - Anagenniseos",
+    "lat": 35.1128993294097,
+    "lon": 33.3875826167195,
+    "name": "Antistaseos - Anagenniseos"
+  },
+  {
+    "description": "Antistaseos - Plateia Eirinis",
+    "lat": 35.1139992395002,
+    "lon": 33.3848114381223,
+    "name": "Antistaseos - Plateia Eirinis"
+  },
+  {
+    "description": "Latsia Health Centre",
+    "lat": 35.1145720779697,
+    "lon": 33.383310701663,
+    "name": "Latsia Health Centre"
+  },
+  {
+    "description": "Iroon - Charalampou Kalaitzi",
+    "lat": 35.1135818647324,
+    "lon": 33.3827793215309,
+    "name": "Iroon - Charalampou Kalaitzi"
+  },
+  {
+    "description": "Agios Eleftherios Church 2",
+    "lat": 35.1119914249681,
+    "lon": 33.3838582696771,
+    "name": "Agios Eleftherios Church 2"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Petrou Iliadi",
+    "lat": 35.1123129843941,
+    "lon": 33.3819723120534,
+    "name": "Ave. Archiepiskopou Makariou C - Petrou Iliadi"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Petrou Giallourou",
+    "lat": 35.1142200045976,
+    "lon": 33.3805765533496,
+    "name": "Ave. Archiep. Makariou C - Petrou Giallourou"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Giannou Kranidioti Ave.",
+    "lat": 35.1171313312049,
+    "lon": 33.3780879546254,
+    "name": "Ave. Arch. Makariou C - Giannou Kranidioti Ave."
+  },
+  {
+    "description": "Lemesou Ave. - Kampou",
+    "lat": 35.1197592623922,
+    "lon": 33.3768270383084,
+    "name": "Lemesou Ave. - Kampou"
+  },
+  {
+    "description": "Lemesou Ave. - Volvo",
+    "lat": 35.1268358517556,
+    "lon": 33.3745328069755,
+    "name": "Lemesou Ave. - Volvo"
+  },
+  {
+    "description": "The Mall of Cyprus - Verginas",
+    "lat": 35.1296954455061,
+    "lon": 33.3741617405526,
+    "name": "The Mall of Cyprus - Verginas"
+  },
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  }
+]

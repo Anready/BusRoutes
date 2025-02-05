@@ -1,0 +1,284 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Larnaka Municipal Theatre 1",
+    "lat": 34.9160219121426,
+    "lon": 33.6276067226033,
+    "name": "Larnaka Municipal Theatre 1"
+  },
+  {
+    "description": "Old G.S.Z.",
+    "lat": 34.913394111229,
+    "lon": 33.6283311144079,
+    "name": "Old G.S.Z."
+  },
+  {
+    "description": "Artemidos Ave. - Okkoular 1",
+    "lat": 34.9094569090795,
+    "lon": 33.6294176522971,
+    "name": "Artemidos Ave. - Okkoular 1"
+  },
+  {
+    "description": "Kotza Tepe - Istampoul",
+    "lat": 34.9069104715454,
+    "lon": 33.6335686801334,
+    "name": "Kotza Tepe - Istampoul"
+  },
+  {
+    "description": "Touzchane - Papoutsialik",
+    "lat": 34.9057829320954,
+    "lon": 33.6353660991749,
+    "name": "Touzchane - Papoutsialik"
+  },
+  {
+    "description": "Tasou Mitsopoulou Ave. - Sioumpert 2",
+    "lat": 34.8951886903709,
+    "lon": 33.6385788170326,
+    "name": "Tasou Mitsopoulou Ave. - Sioumpert 2"
+  },
+  {
+    "description": "Makenzy 1",
+    "lat": 34.8912708008394,
+    "lon": 33.6359657128507,
+    "name": "Makenzy 1"
+  },
+  {
+    "description": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1",
+    "lat": 34.8897896000335,
+    "lon": 33.6294865018293,
+    "name": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1"
+  },
+  {
+    "description": "Artemidos Ave. - Old Airport 1",
+    "lat": 34.8871216677803,
+    "lon": 33.6257563183331,
+    "name": "Artemidos Ave. - Old Airport 1"
+  },
+  {
+    "description": "Larnaka Airport",
+    "lat": 34.8710309947938,
+    "lon": 33.606891856567,
+    "name": "Larnaka Airport"
+  },
+  {
+    "description": "Timiou Prodromou - Dromolaxia - Airport Road 1",
+    "lat": 34.8766678433577,
+    "lon": 33.5975996707748,
+    "name": "Timiou Prodromou - Dromolaxia - Airport Road 1"
+  },
+  {
+    "description": "Timiou Prodromou - Dimokratias",
+    "lat": 34.8763117311613,
+    "lon": 33.5929795445818,
+    "name": "Timiou Prodromou - Dimokratias"
+  },
+  {
+    "description": "Dimokratias - Dimitras",
+    "lat": 34.8734464991846,
+    "lon": 33.5906502753704,
+    "name": "Dimokratias - Dimitras"
+  },
+  {
+    "description": "25 Martiou Ave. - Artemidos",
+    "lat": 34.874094058713,
+    "lon": 33.5835318141091,
+    "name": "25 Martiou Ave. - Artemidos"
+  },
+  {
+    "description": "Artemidos - Vyzantiou",
+    "lat": 34.8726287686417,
+    "lon": 33.5863334460537,
+    "name": "Artemidos - Vyzantiou"
+  },
+  {
+    "description": "Ag. Panteleimonos Ave. - Akropoleos Ave. 1",
+    "lat": 34.8695935700126,
+    "lon": 33.5911588384027,
+    "name": "Ag. Panteleimonos Ave. - Akropoleos Ave. 1"
+  },
+  {
+    "description": "Ag. Panteleimonas Old Church 1",
+    "lat": 34.8670684054985,
+    "lon": 33.5893574094592,
+    "name": "Ag. Panteleimonas Old Church 1"
+  },
+  {
+    "description": "Agiou Panteleimonos Ave. - Michail Karaoli",
+    "lat": 34.8636269475397,
+    "lon": 33.5868275093647,
+    "name": "Agiou Panteleimonos Ave. - Michail Karaoli"
+  },
+  {
+    "description": "Onasagorou - Agiou Panteleimonos Ave. 2",
+    "lat": 34.8617525897943,
+    "lon": 33.5865625726696,
+    "name": "Onasagorou - Agiou Panteleimonos Ave. 2"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Andrea Miaouli 2",
+    "lat": 34.8605881894435,
+    "lon": 33.5886657225148,
+    "name": "Georgiou Griva Digeni - Andrea Miaouli 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Geraniou 1",
+    "lat": 34.8576378541096,
+    "lon": 33.5871350400825,
+    "name": "Archiep. Makariou C´ Ave. - Geraniou 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Galinis",
+    "lat": 34.8550838610927,
+    "lon": 33.5838132391959,
+    "name": "Archiep. Makariou C´ Ave. - Galinis"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Gypsou",
+    "lat": 34.8533895712274,
+    "lon": 33.5817228542324,
+    "name": "Archiep. Makariou C´ Ave. - Gypsou"
+  },
+  {
+    "description": "Kiti Municipal Stadium 1",
+    "lat": 34.850711628236,
+    "lon": 33.5778864068306,
+    "name": "Kiti Municipal Stadium 1"
+  },
+  {
+    "description": "Meneou Ave. - Gravias",
+    "lat": 34.8498467431839,
+    "lon": 33.5719954103649,
+    "name": "Meneou Ave. - Gravias"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Tinou",
+    "lat": 34.8489915558273,
+    "lon": 33.5658967708714,
+    "name": "Archiep. Makariou C´ Ave. - Tinou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave.",
+    "lat": 34.8534703656766,
+    "lon": 33.548818748596,
+    "name": "Archiep. Makariou C´ Ave."
+  },
+  {
+    "description": "Tersefanou Village Centre 1",
+    "lat": 34.8551202261969,
+    "lon": 33.5468934520506,
+    "name": "Tersefanou Village Centre 1"
+  },
+  {
+    "description": "Grigori Afxentiou - Eleftheriou Venizelou",
+    "lat": 34.8551034443783,
+    "lon": 33.5506126965093,
+    "name": "Grigori Afxentiou - Eleftheriou Venizelou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Grigori Afxentiou",
+    "lat": 34.852917927911,
+    "lon": 33.5533219440082,
+    "name": "Archiep. Makariou C´ Ave. - Grigori Afxentiou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kosti Palama",
+    "lat": 34.8499286633626,
+    "lon": 33.5641092586508,
+    "name": "Archiep. Makariou C´ Ave. - Kosti Palama"
+  },
+  {
+    "description": "Panagia Angeloktisti Church",
+    "lat": 34.8476397362168,
+    "lon": 33.5715097922727,
+    "name": "Panagia Angeloktisti Church"
+  },
+  {
+    "description": "Kiti Police Station 1",
+    "lat": 34.8460382352448,
+    "lon": 33.5726581552762,
+    "name": "Kiti Police Station 1"
+  },
+  {
+    "description": "Archagelos Michail Church",
+    "lat": 34.8444839757917,
+    "lon": 33.5733474119548,
+    "name": "Archagelos Michail Church"
+  },
+  {
+    "description": "Pervolion Ave. - Mikinón",
+    "lat": 34.8425258464368,
+    "lon": 33.5736291478206,
+    "name": "Pervolion Ave. - Mikinón"
+  },
+  {
+    "description": "Pervolion Ave. - Apostolou Pavlou 1",
+    "lat": 34.8406121311408,
+    "lon": 33.574053364791,
+    "name": "Pervolion Ave. - Apostolou Pavlou 1"
+  },
+  {
+    "description": "Pervolion Ave. - Lakonias 1",
+    "lat": 34.8367093506045,
+    "lon": 33.5755793013119,
+    "name": "Pervolion Ave. - Lakonias 1"
+  },
+  {
+    "description": "Pervolion Ave. - Protomagias 1",
+    "lat": 34.8336720483512,
+    "lon": 33.5771439446984,
+    "name": "Pervolion Ave. - Protomagias 1"
+  },
+  {
+    "description": "Keryneias",
+    "lat": 34.8335994119586,
+    "lon": 33.5810368017907,
+    "name": "Keryneias"
+  },
+  {
+    "description": "Antistaseos - Ifigeneias",
+    "lat": 34.8340693213607,
+    "lon": 33.5827133839199,
+    "name": "Antistaseos - Ifigeneias"
+  },
+  {
+    "description": "Spirou Ttantí",
+    "lat": 34.8326749011931,
+    "lon": 33.583906551485,
+    "name": "Spirou Ttantí"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Ammochostou",
+    "lat": 34.8312664837095,
+    "lon": 33.5823764901645,
+    "name": "Grigori Afxentiou Ave. - Ammochostou"
+  },
+  {
+    "description": "Ammochostou - Dimitriou Glinou",
+    "lat": 34.8316420472057,
+    "lon": 33.5811542851489,
+    "name": "Ammochostou - Dimitriou Glinou"
+  },
+  {
+    "description": "Pervolion Ave. - Protomagias 22",
+    "lat": 34.8335639972367,
+    "lon": 33.5771103814508,
+    "name": "Pervolion Ave. - Protomagias 22"
+  }
+]

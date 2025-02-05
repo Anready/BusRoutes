@@ -1,0 +1,158 @@
+[
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Ave. Iroon - Morfou Avenue",
+    "lat": 35.1432028283198,
+    "lon": 33.303317936715,
+    "name": "Ave. Iroon - Morfou Avenue"
+  },
+  {
+    "description": "Ave. Anthoupoleos - Eptanisou",
+    "lat": 35.124205350685,
+    "lon": 33.2953013994849,
+    "name": "Ave. Anthoupoleos - Eptanisou"
+  },
+  {
+    "description": "Ave. Anthoupoleos - Dodekanisou",
+    "lat": 35.1214119868211,
+    "lon": 33.2944901510354,
+    "name": "Ave. Anthoupoleos - Dodekanisou"
+  },
+  {
+    "description": "Kykladon - Naxou",
+    "lat": 35.1223103143511,
+    "lon": 33.2921666815418,
+    "name": "Kykladon - Naxou"
+  },
+  {
+    "description": "Kykladon 1",
+    "lat": 35.1209450843152,
+    "lon": 33.2899229414951,
+    "name": "Kykladon 1"
+  },
+  {
+    "description": "Kykladon - Aigaiou",
+    "lat": 35.1182792295112,
+    "lon": 33.2885636364596,
+    "name": "Kykladon - Aigaiou"
+  },
+  {
+    "description": "Kykladon - Agiou Georgiou Avenue 1",
+    "lat": 35.1158571589923,
+    "lon": 33.2870626121114,
+    "name": "Kykladon - Agiou Georgiou Avenue 1"
+  },
+  {
+    "description": "Ave. Agiou Georgiou - Sporadon",
+    "lat": 35.1146270733287,
+    "lon": 33.2886385513963,
+    "name": "Ave. Agiou Georgiou - Sporadon"
+  },
+  {
+    "description": "Ave. Agiou Georgiou - Evoias",
+    "lat": 35.1131070243603,
+    "lon": 33.2907950255558,
+    "name": "Ave. Agiou Georgiou - Evoias"
+  },
+  {
+    "description": "Ave. Eleftherias - Andrianis",
+    "lat": 35.1110295683565,
+    "lon": 33.2922471208117,
+    "name": "Ave. Eleftherias - Andrianis"
+  },
+  {
+    "description": "Ave. Eleftherias - Aiglis",
+    "lat": 35.1090763539594,
+    "lon": 33.2907807070345,
+    "name": "Ave. Eleftherias - Aiglis"
+  },
+  {
+    "description": "Anthoupoli Elementary School 2",
+    "lat": 35.1064932010373,
+    "lon": 33.2887744656587,
+    "name": "Anthoupoli Elementary School 2"
+  },
+  {
+    "description": "Ave. Eleftherias - Dimokratias",
+    "lat": 35.1039339952886,
+    "lon": 33.2880631961994,
+    "name": "Ave. Eleftherias - Dimokratias"
+  },
+  {
+    "description": "Ave. Anthoup.-Palaichoriou - Da Luz Soccer Field 1",
+    "lat": 35.0913422852124,
+    "lon": 33.2780244520583,
+    "name": "Ave. Anthoup.-Palaichoriou - Da Luz Soccer Field 1"
+  },
+  {
+    "description": "Grammar School 1",
+    "lat": 35.0904287217166,
+    "lon": 33.2713072552872,
+    "name": "Grammar School 1"
+  },
+  {
+    "description": "Ave. Anthoupoleos - Palaichoriou - Ag. Spyridonos",
+    "lat": 35.0895373914459,
+    "lon": 33.2666198452869,
+    "name": "Ave. Anthoupoleos - Palaichoriou - Ag. Spyridonos"
+  },
+  {
+    "description": "Archiepiskopou Makariou C - Dimokratias",
+    "lat": 35.0752203078411,
+    "lon": 33.2528843112785,
+    "name": "Archiepiskopou Makariou C - Dimokratias"
+  },
+  {
+    "description": "Archiepiskopou Makariou C - Spyrou Kyprianou",
+    "lat": 35.0743185675831,
+    "lon": 33.2485269966569,
+    "name": "Archiepiskopou Makariou C - Spyrou Kyprianou"
+  },
+  {
+    "description": "Archiep. Makariou C - Christodoulou Kourtela",
+    "lat": 35.0711912822331,
+    "lon": 33.24323085335,
+    "name": "Archiep. Makariou C - Christodoulou Kourtela"
+  },
+  {
+    "description": "Lefkosia-Palaichori Road - Ergates Ind. Area 1",
+    "lat": 35.0682497111691,
+    "lon": 33.2255639867933,
+    "name": "Lefkosia-Palaichori Road - Ergates Ind. Area 1"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Kampou",
+    "lat": 35.0537978767696,
+    "lon": 33.2035047922967,
+    "name": "Georgiou Griva Digeni - Kampou"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Misiaouli kai Kavazoglou",
+    "lat": 35.0511422116735,
+    "lon": 33.2008335858696,
+    "name": "Ave. Arch. Makariou C - Misiaouli kai Kavazoglou"
+  },
+  {
+    "description": "Arediou Elementary School 1",
+    "lat": 35.0480844990869,
+    "lon": 33.1958260150155,
+    "name": "Arediou Elementary School 1"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Dikomou",
+    "lat": 35.0448963245622,
+    "lon": 33.1933513543483,
+    "name": "Ave. Archiepiskopou Makariou C - Dikomou"
+  },
+  {
+    "description": "Tamasos Bus Station",
+    "lat": 35.0432605918433,
+    "lon": 33.1899156249265,
+    "name": "Tamasos Bus Station"
+  }
+]

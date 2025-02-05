@@ -1,0 +1,80 @@
+[
+  {
+    "description": "Kyperounta Hospital",
+    "lat": 34.950619411433,
+    "lon": 32.9524349017202,
+    "name": "Kyperounta Hospital"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 11th Kyperounta 1",
+    "lat": 34.9499058158471,
+    "lon": 32.9494344566838,
+    "name": "Archiep. Makariou C´ Ave. - 11th Kyperounta 1"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ Avenue - Karvounas 2",
+    "lat": 34.9423130453557,
+    "lon": 32.9310633008533,
+    "name": "Archiepiskopou Makariou C´ Avenue - Karvounas 2"
+  },
+  {
+    "description": "Lefkosias - Troodous - Karvounas 1",
+    "lat": 34.9417082387721,
+    "lon": 32.9299577618315,
+    "name": "Lefkosias - Troodous - Karvounas 1"
+  },
+  {
+    "description": "Troodos Camping Site 1",
+    "lat": 34.9311673134329,
+    "lon": 32.883672071618,
+    "name": "Troodos Camping Site 1"
+  },
+  {
+    "description": "Prodromos Vilalge Center 2",
+    "lat": 34.9499184163025,
+    "lon": 32.832740578261,
+    "name": "Prodromos Vilalge Center 2"
+  },
+  {
+    "description": "2nd Lemithou",
+    "lat": 34.9508001163131,
+    "lon": 32.812816852484,
+    "name": "2nd Lemithou"
+  },
+  {
+    "description": "1st Lemithou 2",
+    "lat": 34.9510902069485,
+    "lon": 32.8138128407625,
+    "name": "1st Lemithou 2"
+  },
+  {
+    "description": "Agios Georgios Kapourallis Church",
+    "lat": 34.917608059341,
+    "lon": 32.813757109257,
+    "name": "Agios Georgios Kapourallis Church"
+  },
+  {
+    "description": "Agios Dimitrios 1",
+    "lat": 34.9252934786264,
+    "lon": 32.8095354281927,
+    "name": "Agios Dimitrios 1"
+  },
+  {
+    "description": "Treis Elies 1",
+    "lat": 34.9325632629345,
+    "lon": 32.7939700429747,
+    "name": "Treis Elies 1"
+  },
+  {
+    "description": "2nd Kaminaria 1",
+    "lat": 34.9294801703213,
+    "lon": 32.784101487628,
+    "name": "2nd Kaminaria 1"
+  },
+  {
+    "description": "1st Kaminaria",
+    "lat": 34.9270532590514,
+    "lon": 32.7834290089084,
+    "name": "1st Kaminaria"
+  }
+]

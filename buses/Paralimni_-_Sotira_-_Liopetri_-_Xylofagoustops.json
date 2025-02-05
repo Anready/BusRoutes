@@ -1,0 +1,134 @@
+[
+  {
+    "description": "Paralimni Square Bus Station",
+    "lat": 35.0394760084475,
+    "lon": 33.983638211908,
+    "name": "Paralimni Square Bus Station"
+  },
+  {
+    "description": "Griva Digeni Ave. - Konstantinoupoleos 1",
+    "lat": 35.0424229594287,
+    "lon": 33.9793757203186,
+    "name": "Griva Digeni Ave. - Konstantinoupoleos 1"
+  },
+  {
+    "description": "1 Apriliou Ave. - Georgiou Griva Digeni Ave.",
+    "lat": 35.0444999288386,
+    "lon": 33.9778765009908,
+    "name": "1 Apriliou Ave. - Georgiou Griva Digeni Ave."
+  },
+  {
+    "description": "Xenion Education 2",
+    "lat": 35.0416139942632,
+    "lon": 33.9779407832524,
+    "name": "Xenion Education 2"
+  },
+  {
+    "description": "1 Apriliou Ave. - Tasou Markou 2",
+    "lat": 35.0408472754537,
+    "lon": 33.9779755007448,
+    "name": "1 Apriliou Ave. - Tasou Markou 2"
+  },
+  {
+    "description": "1 Apriliou Ave. - Marias Sygklitikis",
+    "lat": 35.0361203821115,
+    "lon": 33.9782261391108,
+    "name": "1 Apriliou Ave. - Marias Sygklitikis"
+  },
+  {
+    "description": "Paralimniou 1",
+    "lat": 35.0245947119121,
+    "lon": 33.9660969938699,
+    "name": "Paralimniou 1"
+  },
+  {
+    "description": "Paralimniou - Grigori Afxentiou 1",
+    "lat": 35.0263790190988,
+    "lon": 33.9582694158249,
+    "name": "Paralimniou - Grigori Afxentiou 1"
+  },
+  {
+    "description": "Kyriakou Matsi - Agiou Antoniou",
+    "lat": 35.0257136740845,
+    "lon": 33.9557404806582,
+    "name": "Kyriakou Matsi - Agiou Antoniou"
+  },
+  {
+    "description": "Kyriakou Matsi - Konstantinoupoleos",
+    "lat": 35.0241963650892,
+    "lon": 33.953760728033,
+    "name": "Kyriakou Matsi - Konstantinoupoleos"
+  },
+  {
+    "description": "Apost. Andrea - Ag. Theodorou 1",
+    "lat": 35.0226165146183,
+    "lon": 33.9505526693345,
+    "name": "Apost. Andrea - Ag. Theodorou 1"
+  },
+  {
+    "description": "Agias Theklas - Konstantinou Palaiologou",
+    "lat": 35.0236072401285,
+    "lon": 33.948393792784,
+    "name": "Agias Theklas - Konstantinou Palaiologou"
+  },
+  {
+    "description": "1 Apriliou - Dimokratias",
+    "lat": 35.0280493934788,
+    "lon": 33.951108850971,
+    "name": "1 Apriliou - Dimokratias"
+  },
+  {
+    "description": "Stadiou - Theod. Kolokotroni",
+    "lat": 35.0280811994521,
+    "lon": 33.9470423417539,
+    "name": "Stadiou - Theod. Kolokotroni"
+  },
+  {
+    "description": "Modestou Panteli - Agion Anargyron 2",
+    "lat": 35.0189873166979,
+    "lon": 33.9014942131868,
+    "name": "Modestou Panteli - Agion Anargyron 2"
+  },
+  {
+    "description": "Modestou Panteli - Dionysiou Solomou 2",
+    "lat": 35.0118637655145,
+    "lon": 33.8941935136899,
+    "name": "Modestou Panteli - Dionysiou Solomou 2"
+  },
+  {
+    "description": "Liopetri Square 1",
+    "lat": 35.0096770901103,
+    "lon": 33.8923613908029,
+    "name": "Liopetri Square 1"
+  },
+  {
+    "description": "Nikou Theofanous - Champi Michailidi",
+    "lat": 34.982793886725,
+    "lon": 33.8539537716101,
+    "name": "Nikou Theofanous - Champi Michailidi"
+  },
+  {
+    "description": "Eleftherias - Andrea Kazi",
+    "lat": 34.97750483052,
+    "lon": 33.8495277007459,
+    "name": "Eleftherias - Andrea Kazi"
+  },
+  {
+    "description": "Panagias - Giorgalli 1",
+    "lat": 34.9735334277254,
+    "lon": 33.8436149362514,
+    "name": "Panagias - Giorgalli 1"
+  },
+  {
+    "description": "Meg. Alexandrou Ave. - Agias Triados",
+    "lat": 34.9742231321976,
+    "lon": 33.8403793694813,
+    "name": "Meg. Alexandrou Ave. - Agias Triados"
+  },
+  {
+    "description": "Anastasi Manoli - Grigori Afxentiou",
+    "lat": 34.9773969418629,
+    "lon": 33.8404117921819,
+    "name": "Anastasi Manoli - Grigori Afxentiou"
+  }
+]

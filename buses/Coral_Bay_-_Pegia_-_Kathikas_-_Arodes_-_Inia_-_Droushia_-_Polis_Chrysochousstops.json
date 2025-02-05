@@ -1,0 +1,110 @@
+[
+  {
+    "description": "Coral Bay",
+    "lat": 34.8582765056372,
+    "lon": 32.3606891964891,
+    "name": "Coral Bay"
+  },
+  {
+    "description": "Tassou Markou- Kosti Palama",
+    "lat": 34.8624804164809,
+    "lon": 32.3576043528314,
+    "name": "Tassou Markou- Kosti Palama"
+  },
+  {
+    "description": "Tassou Markou- Akamantos Avenue",
+    "lat": 34.875355236214,
+    "lon": 32.3675269927753,
+    "name": "Tassou Markou- Akamantos Avenue"
+  },
+  {
+    "description": "Pegeia Square 1",
+    "lat": 34.8839143721537,
+    "lon": 32.3818624702814,
+    "name": "Pegeia Square 1"
+  },
+  {
+    "description": "Theotokos Church",
+    "lat": 34.8844696457864,
+    "lon": 32.381114179887,
+    "name": "Theotokos Church"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Zalakion",
+    "lat": 34.8849991741606,
+    "lon": 32.3788559120339,
+    "name": "Grigori Afxentiou Ave. - Zalakion"
+  },
+  {
+    "description": "Kathikas Square",
+    "lat": 34.9124170533641,
+    "lon": 32.4256990055517,
+    "name": "Kathikas Square"
+  },
+  {
+    "description": "1st Stop Kathikas 2",
+    "lat": 34.9131940252199,
+    "lon": 32.4260110563481,
+    "name": "1st Stop Kathikas 2"
+  },
+  {
+    "description": "Pano Arodes 1",
+    "lat": 34.9361625821116,
+    "lon": 32.4074879184775,
+    "name": "Pano Arodes 1"
+  },
+  {
+    "description": "Kato Arodes 1",
+    "lat": 34.9405280808198,
+    "lon": 32.4021892898027,
+    "name": "Kato Arodes 1"
+  },
+  {
+    "description": "Ineia Square 1",
+    "lat": 34.9557426444783,
+    "lon": 32.3935577108979,
+    "name": "Ineia Square 1"
+  },
+  {
+    "description": "1st Stop Ineia 1",
+    "lat": 34.9565416586728,
+    "lon": 32.3946580484642,
+    "name": "1st Stop Ineia 1"
+  },
+  {
+    "description": "2nd Stop Drouseia 1",
+    "lat": 34.9586676433596,
+    "lon": 32.3978625945249,
+    "name": "2nd Stop Drouseia 1"
+  },
+  {
+    "description": "1st Stop Drouseia 1",
+    "lat": 34.9605212289606,
+    "lon": 32.3988786401393,
+    "name": "1st Stop Drouseia 1"
+  },
+  {
+    "description": "Agios Epifanios Church 1",
+    "lat": 34.9625076363836,
+    "lon": 32.39758257351,
+    "name": "Agios Epifanios Church 1"
+  },
+  {
+    "description": "Akamantos Ave. - Afroditis",
+    "lat": 35.0316551518515,
+    "lon": 32.4147913831721,
+    "name": "Akamantos Ave. - Afroditis"
+  },
+  {
+    "description": "Agios Georgios Church 2",
+    "lat": 35.0291477514104,
+    "lon": 32.41841588462,
+    "name": "Agios Georgios Church 2"
+  },
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  }
+]

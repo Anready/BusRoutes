@@ -1,0 +1,212 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Evagora Pallikaridi - Charalambou Mouskou 2",
+    "lat": 34.7763634448883,
+    "lon": 32.4224466703481,
+    "name": "Evagora Pallikaridi - Charalambou Mouskou 2"
+  },
+  {
+    "description": "C.T.O. Offices",
+    "lat": 34.7746227725429,
+    "lon": 32.4204916463545,
+    "name": "C.T.O. Offices"
+  },
+  {
+    "description": "Mitr. Nikodimou Mylona - Georgiou Christoforou",
+    "lat": 34.7749310338644,
+    "lon": 32.418948549044,
+    "name": "Mitr. Nikodimou Mylona - Georgiou Christoforou"
+  },
+  {
+    "description": "Municipal Market",
+    "lat": 34.7780851611252,
+    "lon": 32.4185220603598,
+    "name": "Municipal Market"
+  },
+  {
+    "description": "Agia Sofia Church",
+    "lat": 34.7795782318935,
+    "lon": 32.4196045123866,
+    "name": "Agia Sofia Church"
+  },
+  {
+    "description": "Nikolaou Ellina - Fellachoglou",
+    "lat": 34.7815261083344,
+    "lon": 32.4215144685154,
+    "name": "Nikolaou Ellina - Fellachoglou"
+  },
+  {
+    "description": "Neapoleos - Nikolaou Ellina 1",
+    "lat": 34.7841031466721,
+    "lon": 32.422993870697,
+    "name": "Neapoleos - Nikolaou Ellina 1"
+  },
+  {
+    "description": "Neapoleos - Iona Nikolaou",
+    "lat": 34.7843770829861,
+    "lon": 32.4237133375043,
+    "name": "Neapoleos - Iona Nikolaou"
+  },
+  {
+    "description": "Neapoleos - Georgiou Menelaou",
+    "lat": 34.785275223908,
+    "lon": 32.4248547443514,
+    "name": "Neapoleos - Georgiou Menelaou"
+  },
+  {
+    "description": "Neapoleos - Lamprou Sepi",
+    "lat": 34.7862622900273,
+    "lon": 32.4257332358209,
+    "name": "Neapoleos - Lamprou Sepi"
+  },
+  {
+    "description": "Alexandrou Ypsilanti - Anti Papadopoulou 1",
+    "lat": 34.7867641138677,
+    "lon": 32.4269758040499,
+    "name": "Alexandrou Ypsilanti - Anti Papadopoulou 1"
+  },
+  {
+    "description": "Alexandrou Ypsilanti - Dim. Zinieri",
+    "lat": 34.7877483055812,
+    "lon": 32.4291659999665,
+    "name": "Alexandrou Ypsilanti - Dim. Zinieri"
+  },
+  {
+    "description": "Alexandrou Ypsilanti - Michalaki Christodoulou 1",
+    "lat": 34.7887733031862,
+    "lon": 32.430448736391,
+    "name": "Alexandrou Ypsilanti - Michalaki Christodoulou 1"
+  },
+  {
+    "description": "Alexandrou Ypsilanti - Nikou Mounti",
+    "lat": 34.7895930826781,
+    "lon": 32.4322029284291,
+    "name": "Alexandrou Ypsilanti - Nikou Mounti"
+  },
+  {
+    "description": "10 Elem. School - Evagoras Pallikaridis",
+    "lat": 34.7906746441238,
+    "lon": 32.4340209510109,
+    "name": "10 Elem. School - Evagoras Pallikaridis"
+  },
+  {
+    "description": "Ellados Ave. - Panikou Dimitriou",
+    "lat": 34.7883106338134,
+    "lon": 32.4337201189126,
+    "name": "Ellados Ave. - Panikou Dimitriou"
+  },
+  {
+    "description": "Andrea Dimitriou - Nikou Evagorou",
+    "lat": 34.7866099179946,
+    "lon": 32.4344968586213,
+    "name": "Andrea Dimitriou - Nikou Evagorou"
+  },
+  {
+    "description": "Vas. Konstantinou A` - Georgiou Nikolaou",
+    "lat": 34.786186463701,
+    "lon": 32.4365218289666,
+    "name": "Vas. Konstantinou A` - Georgiou Nikolaou"
+  },
+  {
+    "description": "International School of Paphos",
+    "lat": 34.79927607223,
+    "lon": 32.4494526649347,
+    "name": "International School of Paphos"
+  },
+  {
+    "description": "Pafos General Hospital 1",
+    "lat": 34.7886669339612,
+    "lon": 32.4445060792828,
+    "name": "Pafos General Hospital 1"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Vasilikon",
+    "lat": 34.7847589412231,
+    "lon": 32.4457455085762,
+    "name": "Archiep. Makariou C` Ave. - Vasilikon"
+  },
+  {
+    "description": "Elefth. Venizelou Ave. - Eirinis",
+    "lat": 34.7829859298893,
+    "lon": 32.4405875986818,
+    "name": "Elefth. Venizelou Ave. - Eirinis"
+  },
+  {
+    "description": "Eirinis - Stratigou Alex. Papagou",
+    "lat": 34.7815488755779,
+    "lon": 32.4418432692475,
+    "name": "Eirinis - Stratigou Alex. Papagou"
+  },
+  {
+    "description": "Stratigou Alex. Papagou - Andrea Theodosiou",
+    "lat": 34.7805052184714,
+    "lon": 32.4423639813234,
+    "name": "Stratigou Alex. Papagou - Andrea Theodosiou"
+  },
+  {
+    "description": "Stratigou Alex. Papagou - Karpathou",
+    "lat": 34.7784230571842,
+    "lon": 32.4405965413216,
+    "name": "Stratigou Alex. Papagou - Karpathou"
+  },
+  {
+    "description": "Stratigou Alex. Papagou - Onisilou",
+    "lat": 34.7759210302692,
+    "lon": 32.4377391512751,
+    "name": "Stratigou Alex. Papagou - Onisilou"
+  },
+  {
+    "description": "Anexartisias Ave. - Eptanisou",
+    "lat": 34.7743891925316,
+    "lon": 32.4379899717632,
+    "name": "Anexartisias Ave. - Eptanisou"
+  },
+  {
+    "description": "Dimokratias Ave. - Thivon",
+    "lat": 34.7722103112332,
+    "lon": 32.4426492813995,
+    "name": "Dimokratias Ave. - Thivon"
+  },
+  {
+    "description": "Afroditi Sports Centre",
+    "lat": 34.7681620868809,
+    "lon": 32.4388736263597,
+    "name": "Afroditi Sports Centre"
+  },
+  {
+    "description": "Fire Station 2",
+    "lat": 34.7691594592919,
+    "lon": 32.4361458242732,
+    "name": "Fire Station 2"
+  },
+  {
+    "description": "Archaeological Museum 2",
+    "lat": 34.7713774580685,
+    "lon": 32.430262290771,
+    "name": "Archaeological Museum 2"
+  },
+  {
+    "description": "Pafos District Courthouse 2",
+    "lat": 34.7748898009398,
+    "lon": 32.4273748382485,
+    "name": "Pafos District Courthouse 2"
+  },
+  {
+    "description": "7 Elementary School - Agios Kendeas 2",
+    "lat": 34.7766990894467,
+    "lon": 32.4247721878265,
+    "name": "7 Elementary School - Agios Kendeas 2"
+  },
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  }
+]

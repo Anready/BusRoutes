@@ -1,0 +1,86 @@
+[
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Municipal Library 1",
+    "lat": 34.9163428757828,
+    "lon": 33.6248175920962,
+    "name": "Municipal Library 1"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - Arachovas",
+    "lat": 34.9183566940243,
+    "lon": 33.6136224907785,
+    "name": "Nikou kai Despoinas Pattichi Ave. - Arachovas"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - Kalymnou",
+    "lat": 34.9165153281923,
+    "lon": 33.6049931961769,
+    "name": "Nikou kai Despoinas Pattichi Ave. - Kalymnou"
+  },
+  {
+    "description": "Lemesou Ave. - Makedonias 1",
+    "lat": 34.9094470293519,
+    "lon": 33.584449577531,
+    "name": "Lemesou Ave. - Makedonias 1"
+  },
+  {
+    "description": "Choirokoitia Neolithic Settlement (OASIS)",
+    "lat": 34.7981724763475,
+    "lon": 33.3489355474517,
+    "name": "Choirokoitia Neolithic Settlement (OASIS)"
+  },
+  {
+    "description": "Paradromos Amathountos - Grand Resort Hotel",
+    "lat": 34.7137668332857,
+    "lon": 33.1647840628768,
+    "name": "Paradromos Amathountos - Grand Resort Hotel"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Amerikanas",
+    "lat": 34.6964850370689,
+    "lon": 33.0907767448744,
+    "name": "Vasileos Georgiou A´ - Amerikanas"
+  },
+  {
+    "description": "28 Oktovriou - Debenhams 1",
+    "lat": 34.6880320242089,
+    "lon": 33.0680811006019,
+    "name": "28 Oktovriou - Debenhams 1"
+  },
+  {
+    "description": "28 Oktovriou - Zoo",
+    "lat": 34.6816446556904,
+    "lon": 33.055609124882,
+    "name": "28 Oktovriou - Zoo"
+  },
+  {
+    "description": "Spyrou Araouzou - Molos Parking Place",
+    "lat": 34.6729738255774,
+    "lon": 33.0449170994356,
+    "name": "Spyrou Araouzou - Molos Parking Place"
+  },
+  {
+    "description": "Tzelal Bagiar - Agios Antonios Church 1",
+    "lat": 34.6717678514845,
+    "lon": 33.0377560138059,
+    "name": "Tzelal Bagiar - Agios Antonios Church 1"
+  },
+  {
+    "description": "New Port - Passenger Building",
+    "lat": 34.6556927006373,
+    "lon": 33.0221319488309,
+    "name": "New Port - Passenger Building"
+  }
+]

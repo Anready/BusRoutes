@@ -1,0 +1,68 @@
+[
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  },
+  {
+    "description": "Athienou Roundabout",
+    "lat": 35.0581785064605,
+    "lon": 33.5211133699569,
+    "name": "Athienou Roundabout"
+  },
+  {
+    "description": "Theokritou - Ioanni Kai Marias Kramvi 1",
+    "lat": 35.0561130856791,
+    "lon": 33.5336673264605,
+    "name": "Theokritou - Ioanni Kai Marias Kramvi 1"
+  },
+  {
+    "description": "Eleftheriou Venizelou - Ifaistou",
+    "lat": 35.0622877422136,
+    "lon": 33.536196983798,
+    "name": "Eleftheriou Venizelou - Ifaistou"
+  },
+  {
+    "description": "Eleftheriou Venizelou - Georgiou Skourou",
+    "lat": 35.0631523865148,
+    "lon": 33.5343821198436,
+    "name": "Eleftheriou Venizelou - Georgiou Skourou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Petrou Vrachimi",
+    "lat": 35.064499919423,
+    "lon": 33.5334806277854,
+    "name": "Archiep. Makariou C´ Ave. - Petrou Vrachimi"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - G. Griva Digeni Ave.",
+    "lat": 35.0640391145617,
+    "lon": 33.5357368509662,
+    "name": "Archiep. Makariou C´ Ave. - G. Griva Digeni Ave."
+  },
+  {
+    "description": "Athienou City Hall 1",
+    "lat": 35.0634568607955,
+    "lon": 33.5389354148312,
+    "name": "Athienou City Hall 1"
+  },
+  {
+    "description": "Athienou Old High School",
+    "lat": 35.0594468581284,
+    "lon": 33.5423854349429,
+    "name": "Athienou Old High School"
+  },
+  {
+    "description": "Athienou Elementary School",
+    "lat": 35.0584429349625,
+    "lon": 33.5430587087837,
+    "name": "Athienou Elementary School"
+  },
+  {
+    "description": "Athienou Sports Centre",
+    "lat": 35.0584762088016,
+    "lon": 33.5456908514403,
+    "name": "Athienou Sports Centre"
+  }
+]

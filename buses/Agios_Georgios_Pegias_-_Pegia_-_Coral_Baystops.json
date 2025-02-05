@@ -1,0 +1,146 @@
+[
+  {
+    "description": "Agios Georgios Pegeias",
+    "lat": 34.9023839896716,
+    "lon": 32.319761758522,
+    "name": "Agios Georgios Pegeias"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 14th Stop",
+    "lat": 34.9016580653657,
+    "lon": 32.3270464089833,
+    "name": "Agiou Georgiou Ave. - 14th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 12th Stop",
+    "lat": 34.9005409902425,
+    "lon": 32.3288724270712,
+    "name": "Agiou Georgiou Ave. - 12th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 10th Stop",
+    "lat": 34.8971837773478,
+    "lon": 32.3332885896569,
+    "name": "Agiou Georgiou Ave. - 10th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 8th Stop",
+    "lat": 34.8879912429058,
+    "lon": 32.3391957689971,
+    "name": "Agiou Georgiou Ave. - 8th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 6th Stop",
+    "lat": 34.8831495485435,
+    "lon": 32.3459863094181,
+    "name": "Agiou Georgiou Ave. - 6th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 4th Stop",
+    "lat": 34.8794264280098,
+    "lon": 32.3512353425688,
+    "name": "Agiou Georgiou Ave. - 4th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 2nd Stop",
+    "lat": 34.8765723955716,
+    "lon": 32.3554704590252,
+    "name": "Agiou Georgiou Ave. - 2nd Stop"
+  },
+  {
+    "description": "Akamantos Ave. - Agiou Georgiou Ave.",
+    "lat": 34.8744574950862,
+    "lon": 32.3596776677895,
+    "name": "Akamantos Ave. - Agiou Georgiou Ave."
+  },
+  {
+    "description": "Akamantos Ave. - Alamanos",
+    "lat": 34.8760967020824,
+    "lon": 32.3661863891691,
+    "name": "Akamantos Ave. - Alamanos"
+  },
+  {
+    "description": "Pegeia Public Parking Place",
+    "lat": 34.8838229769859,
+    "lon": 32.3816224078011,
+    "name": "Pegeia Public Parking Place"
+  },
+  {
+    "description": "Pegeia Police Station 2",
+    "lat": 34.880225146336,
+    "lon": 32.3798766615432,
+    "name": "Pegeia Police Station 2"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Agias Theklis",
+    "lat": 34.8780796923541,
+    "lon": 32.3800131403225,
+    "name": "Michalaki Kyprianou Ave. - Agias Theklis"
+  },
+  {
+    "description": "Pegeia Municipal Stadium 2",
+    "lat": 34.8746573555007,
+    "lon": 32.3790868972352,
+    "name": "Pegeia Municipal Stadium 2"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Spyrou Kyprianou",
+    "lat": 34.8711812435881,
+    "lon": 32.3782267818152,
+    "name": "Michalaki Kyprianou Ave. - Spyrou Kyprianou"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Louvia",
+    "lat": 34.8656447412443,
+    "lon": 32.3782684576026,
+    "name": "Michalaki Kyprianou Ave. - Louvia"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Aigialousis 2",
+    "lat": 34.8566496449063,
+    "lon": 32.3808850322801,
+    "name": "Michalaki Kyprianou Ave. - Aigialousis 2"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Agiou Georgiou Ave.",
+    "lat": 34.8536566818648,
+    "lon": 32.3810496621429,
+    "name": "Michalaki Kyprianou Ave. - Agiou Georgiou Ave."
+  },
+  {
+    "description": "Kolpou Korallion Ave. - Agiou Georgiou Ave. 1",
+    "lat": 34.8536843329906,
+    "lon": 32.379397659303,
+    "name": "Kolpou Korallion Ave. - Agiou Georgiou Ave. 1"
+  },
+  {
+    "description": "Kolpou Korallion Ave. - Lysis",
+    "lat": 34.8535037194916,
+    "lon": 32.3758219564181,
+    "name": "Kolpou Korallion Ave. - Lysis"
+  },
+  {
+    "description": "Coral Bay Beach 1",
+    "lat": 34.8549339191882,
+    "lon": 32.3698821052966,
+    "name": "Coral Bay Beach 1"
+  },
+  {
+    "description": "Coral Beach Hotel 1",
+    "lat": 34.8568704424549,
+    "lon": 32.364255397387,
+    "name": "Coral Beach Hotel 1"
+  },
+  {
+    "description": "Pegeia Olympic Swimming Pool",
+    "lat": 34.8589696739288,
+    "lon": 32.3621825763719,
+    "name": "Pegeia Olympic Swimming Pool"
+  },
+  {
+    "description": "Coral Bay",
+    "lat": 34.8582765056372,
+    "lon": 32.3606891964891,
+    "name": "Coral Bay"
+  }
+]

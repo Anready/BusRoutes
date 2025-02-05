@@ -1,0 +1,92 @@
+[
+  {
+    "description": "New Port - Passenger Building",
+    "lat": 34.6556927006373,
+    "lon": 33.0221319488309,
+    "name": "New Port - Passenger Building"
+  },
+  {
+    "description": "Theodorou Potamianou - Troodos Roundabout 1",
+    "lat": 34.6882309384423,
+    "lon": 33.0105680994863,
+    "name": "Theodorou Potamianou - Troodos Roundabout 1"
+  },
+  {
+    "description": "Agios Georgios Chavouzas Church 2",
+    "lat": 34.6936681976649,
+    "lon": 33.0155583951598,
+    "name": "Agios Georgios Chavouzas Church 2"
+  },
+  {
+    "description": "Tsirio Stadium 1",
+    "lat": 34.6993392528826,
+    "lon": 33.023115346881,
+    "name": "Tsirio Stadium 1"
+  },
+  {
+    "description": "Michail Zavou - Dimitri Lagiou 1",
+    "lat": 34.7094375014622,
+    "lon": 33.0732311472436,
+    "name": "Michail Zavou - Dimitri Lagiou 1"
+  },
+  {
+    "description": "Mesolongiou - Georgiou Griva Digeni 2",
+    "lat": 34.711097180969,
+    "lon": 33.1274963546279,
+    "name": "Mesolongiou - Georgiou Griva Digeni 2"
+  },
+  {
+    "description": "Nicosia General Hospital - Intercity",
+    "lat": 35.1265734070068,
+    "lon": 33.374838920964,
+    "name": "Nicosia General Hospital - Intercity"
+  },
+  {
+    "description": "Lemesou Ave. - Ellispontou",
+    "lat": 35.1423644970571,
+    "lon": 33.3741867753681,
+    "name": "Lemesou Ave. - Ellispontou"
+  },
+  {
+    "description": "Police Headquarters",
+    "lat": 35.1477840726805,
+    "lon": 33.3741017977825,
+    "name": "Police Headquarters"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimofontos",
+    "lat": 35.1627608014222,
+    "lon": 33.3654848553327,
+    "name": "Archiep. Makariou III Ave. - Dimofontos"
+  },
+  {
+    "description": "Ave. Dimostheni Severi - Apelli",
+    "lat": 35.1577789119856,
+    "lon": 33.3517488636013,
+    "name": "Ave. Dimostheni Severi - Apelli"
+  },
+  {
+    "description": "Ave. Dimostheni Severi - Ministry of Interior",
+    "lat": 35.1652643510752,
+    "lon": 33.3544274541658,
+    "name": "Ave. Dimostheni Severi - Ministry of Interior"
+  },
+  {
+    "description": "Chilonos - Michail Paridi",
+    "lat": 35.1708040725686,
+    "lon": 33.3533313787656,
+    "name": "Chilonos - Michail Paridi"
+  },
+  {
+    "description": "Ave. Louki Akrita - Ministry of Agriculture 2",
+    "lat": 35.1722093723791,
+    "lon": 33.3475720695211,
+    "name": "Ave. Louki Akrita - Ministry of Agriculture 2"
+  },
+  {
+    "description": "Dionysios Solomos Square",
+    "lat": 35.1707064870553,
+    "lon": 33.3589205343724,
+    "name": "Dionysios Solomos Square"
+  }
+]

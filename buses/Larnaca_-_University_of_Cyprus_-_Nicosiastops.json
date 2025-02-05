@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Municipal Library 1",
+    "lat": 34.9163428757828,
+    "lon": 33.6248175920962,
+    "name": "Municipal Library 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1",
+    "lat": 34.9232927989392,
+    "lon": 33.6111192329806,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1"
+  },
+  {
+    "description": "Eleftherias Ave. - Ellados Ave.",
+    "lat": 34.9317212281835,
+    "lon": 33.5971774427588,
+    "name": "Eleftherias Ave. - Ellados Ave."
+  },
+  {
+    "description": "Akropoleos Ave. - Aradippou Ind. Area",
+    "lat": 34.9382665922812,
+    "lon": 33.5881909002962,
+    "name": "Akropoleos Ave. - Aradippou Ind. Area"
+  },
+  {
+    "description": "Akropoleos Ave. - Athinon Ave. 1",
+    "lat": 34.9481181987031,
+    "lon": 33.5759297517376,
+    "name": "Akropoleos Ave. - Athinon Ave. 1"
+  },
+  {
+    "description": "Kalamon - Kampou",
+    "lat": 35.1271343844758,
+    "lon": 33.3683329427313,
+    "name": "Kalamon - Kampou"
+  },
+  {
+    "description": "The Mall of Cyprus - Verginas",
+    "lat": 35.1296954455061,
+    "lon": 33.3741617405526,
+    "name": "The Mall of Cyprus - Verginas"
+  },
+  {
+    "description": "Fytoriou - Radio Station",
+    "lat": 35.1396920594041,
+    "lon": 33.3978855332749,
+    "name": "Fytoriou - Radio Station"
+  },
+  {
+    "description": "University of Cyprus - Oceanography Center",
+    "lat": 35.1443862687783,
+    "lon": 33.4071517965074,
+    "name": "University of Cyprus - Oceanography Center"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Ethnikis Frouras",
+    "lat": 35.1563864814598,
+    "lon": 33.3740862769427,
+    "name": "Archiep. Makariou III Ave. - Ethnikis Frouras"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimofontos",
+    "lat": 35.1627608014222,
+    "lon": 33.3654848553327,
+    "name": "Archiep. Makariou III Ave. - Dimofontos"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Mnasiadou",
+    "lat": 35.1661974886152,
+    "lon": 33.3620961581633,
+    "name": "Archiep. Makariou III Ave. - Mnasiadou"
+  },
+  {
+    "description": "Dionysios Solomos Square",
+    "lat": 35.1707064870553,
+    "lon": 33.3589205343724,
+    "name": "Dionysios Solomos Square"
+  }
+]

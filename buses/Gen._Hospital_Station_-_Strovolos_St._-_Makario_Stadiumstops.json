@@ -1,0 +1,164 @@
+[
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Kalamon - Strovolos Industrial Zone",
+    "lat": 35.1240546553602,
+    "lon": 33.3728737926889,
+    "name": "Kalamon - Strovolos Industrial Zone"
+  },
+  {
+    "description": "Kalamon - Meteoron",
+    "lat": 35.1268639058609,
+    "lon": 33.3683207493343,
+    "name": "Kalamon - Meteoron"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Vikela",
+    "lat": 35.1283788685882,
+    "lon": 33.3592835109107,
+    "name": "Spyrou Kyprianou Ave. - Vikela"
+  },
+  {
+    "description": "Ave. Iosif Chr. Chatziiosif - Sinopis",
+    "lat": 35.1287837551087,
+    "lon": 33.3565303490891,
+    "name": "Ave. Iosif Chr. Chatziiosif - Sinopis"
+  },
+  {
+    "description": "Ave. Iosif Chatziiosif - Lyceum Ap. Varnavas 2",
+    "lat": 35.1318469409399,
+    "lon": 33.3574327784841,
+    "name": "Ave. Iosif Chatziiosif - Lyceum Ap. Varnavas 2"
+  },
+  {
+    "description": "Panagia Trachona Church 2",
+    "lat": 35.1304548587654,
+    "lon": 33.3616305342237,
+    "name": "Panagia Trachona Church 2"
+  },
+  {
+    "description": "Dimokratias - Anagenniseos",
+    "lat": 35.1302311541738,
+    "lon": 33.36406622814,
+    "name": "Dimokratias - Anagenniseos"
+  },
+  {
+    "description": "Dimokratias - Lysimachou",
+    "lat": 35.1308910396201,
+    "lon": 33.3665168436823,
+    "name": "Dimokratias - Lysimachou"
+  },
+  {
+    "description": "Dimokratias - Iroon 2",
+    "lat": 35.1316909991668,
+    "lon": 33.3673655989942,
+    "name": "Dimokratias - Iroon 2"
+  },
+  {
+    "description": "Iroon - Aspasias",
+    "lat": 35.1335525981986,
+    "lon": 33.3660238518167,
+    "name": "Iroon - Aspasias"
+  },
+  {
+    "description": "Apostolos Andreas Church 2",
+    "lat": 35.1344552980522,
+    "lon": 33.3656985932859,
+    "name": "Apostolos Andreas Church 2"
+  },
+  {
+    "description": "Stavrou - Sotiros",
+    "lat": 35.1364345935953,
+    "lon": 33.3519863397952,
+    "name": "Stavrou - Sotiros"
+  },
+  {
+    "description": "Stavrou - Archiepiskopou Leontiou",
+    "lat": 35.137479274442,
+    "lon": 33.34932341877,
+    "name": "Stavrou - Archiepiskopou Leontiou"
+  },
+  {
+    "description": "Athinon - Irakleous",
+    "lat": 35.1388210205731,
+    "lon": 33.346815369841,
+    "name": "Athinon - Irakleous"
+  },
+  {
+    "description": "Athinon - Odysseos",
+    "lat": 35.1412163387,
+    "lon": 33.344794686401,
+    "name": "Athinon - Odysseos"
+  },
+  {
+    "description": "Ave. Strovolou - Pythonos",
+    "lat": 35.1425967535343,
+    "lon": 33.3413315491086,
+    "name": "Ave. Strovolou - Pythonos"
+  },
+  {
+    "description": "Ave. Strovolou - Kantaras",
+    "lat": 35.1407733733759,
+    "lon": 33.3387991184145,
+    "name": "Ave. Strovolou - Kantaras"
+  },
+  {
+    "description": "Evzonon - Evdoxias",
+    "lat": 35.137538875903,
+    "lon": 33.3313103523975,
+    "name": "Evzonon - Evdoxias"
+  },
+  {
+    "description": "Elaionon - Kostaki Ompasi",
+    "lat": 35.1399691711074,
+    "lon": 33.3295967522158,
+    "name": "Elaionon - Kostaki Ompasi"
+  },
+  {
+    "description": "Elaionon",
+    "lat": 35.1429573010792,
+    "lon": 33.3316396852448,
+    "name": "Elaionon"
+  },
+  {
+    "description": "Elaionon - Makedonitissis",
+    "lat": 35.1454606766103,
+    "lon": 33.332879388081,
+    "name": "Elaionon - Makedonitissis"
+  },
+  {
+    "description": "Makedonitissis - Old Strovolos Cemetery 2",
+    "lat": 35.1465189553771,
+    "lon": 33.3316870682969,
+    "name": "Makedonitissis - Old Strovolos Cemetery 2"
+  },
+  {
+    "description": "Makedonitissis - Archangelou Michail",
+    "lat": 35.1468491583231,
+    "lon": 33.3263090443113,
+    "name": "Makedonitissis - Archangelou Michail"
+  },
+  {
+    "description": "Avenue Lefkotheou - Agias Annas",
+    "lat": 35.1475968267882,
+    "lon": 33.3232270996973,
+    "name": "Avenue Lefkotheou - Agias Annas"
+  },
+  {
+    "description": "Apolloneio Hospital 1",
+    "lat": 35.147759176593,
+    "lon": 33.3198134535275,
+    "name": "Apolloneio Hospital 1"
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  }
+]

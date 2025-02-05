@@ -1,0 +1,158 @@
+[
+  {
+    "description": "Tamasos Bus Station",
+    "lat": 35.0432605918433,
+    "lon": 33.1899156249265,
+    "name": "Tamasos Bus Station"
+  },
+  {
+    "description": "B´  Regional High School Nicosia - Malounta",
+    "lat": 35.0451253325623,
+    "lon": 33.1852818690084,
+    "name": "B´  Regional High School Nicosia - Malounta"
+  },
+  {
+    "description": "Griva Digeni-Leoforos Dimokratias",
+    "lat": 35.045572653359,
+    "lon": 33.1816645053228,
+    "name": "Griva Digeni-Leoforos Dimokratias"
+  },
+  {
+    "description": "Panagias Pantanassis - 1st Agrokipia 1",
+    "lat": 35.0443781816189,
+    "lon": 33.1656864224477,
+    "name": "Panagias Pantanassis - 1st Agrokipia 1"
+  },
+  {
+    "description": "Panagias Pantanassis - 2nd Agrokipia",
+    "lat": 35.0440349799271,
+    "lon": 33.1593591740477,
+    "name": "Panagias Pantanassis - 2nd Agrokipia"
+  },
+  {
+    "description": "Agrokipia Elementary School 1",
+    "lat": 35.0444818797334,
+    "lon": 33.1554675989075,
+    "name": "Agrokipia Elementary School 1"
+  },
+  {
+    "description": "Panagias Pantanassis - 4th Agrokipia 1",
+    "lat": 35.0427726032322,
+    "lon": 33.1522956490193,
+    "name": "Panagias Pantanassis - 4th Agrokipia 1"
+  },
+  {
+    "description": "Panagias Pantanassis - 5th Agrokipia 1",
+    "lat": 35.0416092283336,
+    "lon": 33.1450461235826,
+    "name": "Panagias Pantanassis - 5th Agrokipia 1"
+  },
+  {
+    "description": "Agia Varvara Church",
+    "lat": 35.0410532052962,
+    "lon": 33.1424685603801,
+    "name": "Agia Varvara Church"
+  },
+  {
+    "description": "Mitsero Community Stadium",
+    "lat": 35.0401339641269,
+    "lon": 33.1340904300918,
+    "name": "Mitsero Community Stadium"
+  },
+  {
+    "description": "Archiep. Makariou C´ - 5th Mitsero",
+    "lat": 35.0407764211205,
+    "lon": 33.132063114364,
+    "name": "Archiep. Makariou C´ - 5th Mitsero"
+  },
+  {
+    "description": "Archiep. Makariou C´ - 4th Mitsero",
+    "lat": 35.0411045000195,
+    "lon": 33.1288511371377,
+    "name": "Archiep. Makariou C´ - 4th Mitsero"
+  },
+  {
+    "description": "Archiep. Makariou C´ - 3rd Mitsero",
+    "lat": 35.0417107656946,
+    "lon": 33.1268565931627,
+    "name": "Archiep. Makariou C´ - 3rd Mitsero"
+  },
+  {
+    "description": "Mitsero Square",
+    "lat": 35.0425058203378,
+    "lon": 33.1253885966467,
+    "name": "Mitsero Square"
+  },
+  {
+    "description": "Archiep. Makariou C - 1st Mitsero",
+    "lat": 35.0414282341003,
+    "lon": 33.1209574030802,
+    "name": "Archiep. Makariou C - 1st Mitsero"
+  },
+  {
+    "description": "Platanistasa - Mitsero Road",
+    "lat": 35.0285272780126,
+    "lon": 33.0857706784842,
+    "name": "Platanistasa - Mitsero Road"
+  },
+  {
+    "description": "Forest Station",
+    "lat": 35.0168159050089,
+    "lon": 33.0825468917999,
+    "name": "Forest Station"
+  },
+  {
+    "description": "Distrato Platanistasa - Alithinou",
+    "lat": 34.9523444078379,
+    "lon": 33.0402280146896,
+    "name": "Distrato Platanistasa - Alithinou"
+  },
+  {
+    "description": "Grigori Afxentiou Square",
+    "lat": 34.9465436185584,
+    "lon": 33.0472451482919,
+    "name": "Grigori Afxentiou Square"
+  },
+  {
+    "description": "Krya Vrysi Square",
+    "lat": 34.9452813860242,
+    "lon": 33.0466749504756,
+    "name": "Krya Vrysi Square"
+  },
+  {
+    "description": "2nd Alona",
+    "lat": 34.9326317976315,
+    "lon": 33.0411162674322,
+    "name": "2nd Alona"
+  },
+  {
+    "description": "1st Alona",
+    "lat": 34.9348323484108,
+    "lon": 33.0403070632551,
+    "name": "1st Alona"
+  },
+  {
+    "description": "Polystypos Community Board",
+    "lat": 34.9382823650945,
+    "lon": 33.0182325650878,
+    "name": "Polystypos Community Board"
+  },
+  {
+    "description": "Christou Tsiarta Ave. - 1st Polystypos",
+    "lat": 34.9421240031668,
+    "lon": 33.0170616583365,
+    "name": "Christou Tsiarta Ave. - 1st Polystypos"
+  },
+  {
+    "description": "Livadia Lefkosias",
+    "lat": 34.9457932105613,
+    "lon": 33.0227133861285,
+    "name": "Livadia Lefkosias"
+  },
+  {
+    "description": "Alithinou",
+    "lat": 34.9472977538413,
+    "lon": 33.0291862485296,
+    "name": "Alithinou"
+  }
+]

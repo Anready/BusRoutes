@@ -1,0 +1,44 @@
+[
+  {
+    "description": "2nd Kato Mylos",
+    "lat": 34.8950174020697,
+    "lon": 33.0035242079279,
+    "name": "2nd Kato Mylos"
+  },
+  {
+    "description": "1st Kato Mylos",
+    "lat": 34.8952698535106,
+    "lon": 33.0047390891335,
+    "name": "1st Kato Mylos"
+  },
+  {
+    "description": "Kato Mylos Community Board 2",
+    "lat": 34.8944942527131,
+    "lon": 33.0066105841384,
+    "name": "Kato Mylos Community Board 2"
+  },
+  {
+    "description": "Agros - Lemesos Road - 3rd Kato Mylos",
+    "lat": 34.8932046965343,
+    "lon": 33.0072999846326,
+    "name": "Agros - Lemesos Road - 3rd Kato Mylos"
+  },
+  {
+    "description": "Anastasi Pitta - 2nd Agios Ioannis 1",
+    "lat": 34.8961431420494,
+    "lon": 33.0191645100296,
+    "name": "Anastasi Pitta - 2nd Agios Ioannis 1"
+  },
+  {
+    "description": "Agios Theodoros 2",
+    "lat": 34.897591850418,
+    "lon": 33.0335685799261,
+    "name": "Agios Theodoros 2"
+  },
+  {
+    "description": "Papoutsa",
+    "lat": 34.905853904049,
+    "lon": 33.0533516921806,
+    "name": "Papoutsa"
+  }
+]

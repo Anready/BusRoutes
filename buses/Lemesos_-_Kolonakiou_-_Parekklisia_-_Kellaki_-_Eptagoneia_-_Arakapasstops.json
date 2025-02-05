@@ -1,0 +1,164 @@
+[
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  },
+  {
+    "description": "Gladstonos - Leontiou Machaira",
+    "lat": 34.6792604150831,
+    "lon": 33.0418311864922,
+    "name": "Gladstonos - Leontiou Machaira"
+  },
+  {
+    "description": "Gladstonos - Christodoulou Karydi",
+    "lat": 34.6818470538361,
+    "lon": 33.0460026357652,
+    "name": "Gladstonos - Christodoulou Karydi"
+  },
+  {
+    "description": "B´ Elementary School 1",
+    "lat": 34.6830007173559,
+    "lon": 33.0476407893716,
+    "name": "B´ Elementary School 1"
+  },
+  {
+    "description": "Gladstonos - Michail Koutsofta",
+    "lat": 34.6840813268848,
+    "lon": 33.0514295767971,
+    "name": "Gladstonos - Michail Koutsofta"
+  },
+  {
+    "description": "Kalogries - Courthouses",
+    "lat": 34.6849555181869,
+    "lon": 33.0527074094777,
+    "name": "Kalogries - Courthouses"
+  },
+  {
+    "description": "Agios Nikolaos Church 2",
+    "lat": 34.6891647065961,
+    "lon": 33.0575138120151,
+    "name": "Agios Nikolaos Church 2"
+  },
+  {
+    "description": "Griva Digeni - Griva Digeni Hideout 2",
+    "lat": 34.6918135842314,
+    "lon": 33.062363203529,
+    "name": "Griva Digeni - Griva Digeni Hideout 2"
+  },
+  {
+    "description": "Griva Digeni - Georgiou Neofytou",
+    "lat": 34.6938051985473,
+    "lon": 33.0649304714732,
+    "name": "Griva Digeni - Georgiou Neofytou"
+  },
+  {
+    "description": "Linopetra High School 2",
+    "lat": 34.6956166173062,
+    "lon": 33.0671046528369,
+    "name": "Linopetra High School 2"
+  },
+  {
+    "description": "Kolonakiou - Petrompei Mavromichali",
+    "lat": 34.6979766083109,
+    "lon": 33.0718343701403,
+    "name": "Kolonakiou - Petrompei Mavromichali"
+  },
+  {
+    "description": "Health Centre 2",
+    "lat": 34.6995620757721,
+    "lon": 33.0746309896614,
+    "name": "Health Centre 2"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Dodekanison",
+    "lat": 34.7023549708026,
+    "lon": 33.0788374315713,
+    "name": "Spyrou Kyprianou Ave. - Dodekanison"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Samou",
+    "lat": 34.7047867729789,
+    "lon": 33.0833823038881,
+    "name": "Spyrou Kyprianou Ave. - Samou"
+  },
+  {
+    "description": "Parekklisia Community Stadium 1",
+    "lat": 34.7365774601438,
+    "lon": 33.16141018359,
+    "name": "Parekklisia Community Stadium 1"
+  },
+  {
+    "description": "Parekklisia Fountain 1",
+    "lat": 34.7391116487425,
+    "lon": 33.161273097916,
+    "name": "Parekklisia Fountain 1"
+  },
+  {
+    "description": "Parekklisia Elementary School 1",
+    "lat": 34.7419889597285,
+    "lon": 33.1607980105792,
+    "name": "Parekklisia Elementary School 1"
+  },
+  {
+    "description": "Parekklisia Village Center",
+    "lat": 34.7434958371081,
+    "lon": 33.1601126736584,
+    "name": "Parekklisia Village Center"
+  },
+  {
+    "description": "Michail Giorgalla - 1st Parekklisia 1",
+    "lat": 34.7471226176858,
+    "lon": 33.1588742004629,
+    "name": "Michail Giorgalla - 1st Parekklisia 1"
+  },
+  {
+    "description": "Parekklisia - Kellaki Road 1",
+    "lat": 34.8076553770985,
+    "lon": 33.147291784957,
+    "name": "Parekklisia - Kellaki Road 1"
+  },
+  {
+    "description": "Kellaki 1",
+    "lat": 34.8165971946072,
+    "lon": 33.1574875775381,
+    "name": "Kellaki 1"
+  },
+  {
+    "description": "Eptagoneia Fire Station",
+    "lat": 34.8456594581338,
+    "lon": 33.1588117507734,
+    "name": "Eptagoneia Fire Station"
+  },
+  {
+    "description": "Eptagoneia Community Board 1",
+    "lat": 34.8463821077931,
+    "lon": 33.1578615079895,
+    "name": "Eptagoneia Community Board 1"
+  },
+  {
+    "description": "Christaki Xeniou - 1st Eptagoneia 1",
+    "lat": 34.8460875831803,
+    "lon": 33.1554873455579,
+    "name": "Christaki Xeniou - 1st Eptagoneia 1"
+  },
+  {
+    "description": "Eptagoneia - Arakapa - Road 1",
+    "lat": 34.8427135195254,
+    "lon": 33.1255223513124,
+    "name": "Eptagoneia - Arakapa - Road 1"
+  },
+  {
+    "description": "1st Arakapas 1",
+    "lat": 34.84311930486,
+    "lon": 33.1164664176204,
+    "name": "1st Arakapas 1"
+  },
+  {
+    "description": "Arakapas Community Board",
+    "lat": 34.8440058882175,
+    "lon": 33.1134487840202,
+    "name": "Arakapas Community Board"
+  }
+]

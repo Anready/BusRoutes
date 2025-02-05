@@ -1,0 +1,176 @@
+[
+  {
+    "description": "Agios Mamas Church",
+    "lat": 35.0325503642158,
+    "lon": 33.6156807348056,
+    "name": "Agios Mamas Church"
+  },
+  {
+    "description": "Andrea Souroukli - Agias Marinas",
+    "lat": 35.0313343098996,
+    "lon": 33.6154304363344,
+    "name": "Andrea Souroukli - Agias Marinas"
+  },
+  {
+    "description": "Andrea Souroukli - 1 Apriliou",
+    "lat": 35.0285426426122,
+    "lon": 33.6164838155469,
+    "name": "Andrea Souroukli - 1 Apriliou"
+  },
+  {
+    "description": "Andrea Souroukli - 4th Stop",
+    "lat": 35.0263277668883,
+    "lon": 33.6175962722781,
+    "name": "Andrea Souroukli - 4th Stop"
+  },
+  {
+    "description": "Andrea Souroukli - 2nd Stop",
+    "lat": 35.0250090147169,
+    "lon": 33.6180357886066,
+    "name": "Andrea Souroukli - 2nd Stop"
+  },
+  {
+    "description": "Kellia Community Stadium 2",
+    "lat": 34.9798631668187,
+    "lon": 33.6243903810951,
+    "name": "Kellia Community Stadium 2"
+  },
+  {
+    "description": "Kellia Village Centre 2",
+    "lat": 34.9768291872755,
+    "lon": 33.6234470991943,
+    "name": "Kellia Village Centre 2"
+  },
+  {
+    "description": "Kellia Community Park 2",
+    "lat": 34.9738129512582,
+    "lon": 33.6225587977856,
+    "name": "Kellia Community Park 2"
+  },
+  {
+    "description": "Eleftherias Ave. - 2nd Stop",
+    "lat": 34.9681630429974,
+    "lon": 33.627051106276,
+    "name": "Eleftherias Ave. - 2nd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Profiti Ilia",
+    "lat": 34.9594281192274,
+    "lon": 33.6299857034447,
+    "name": "Archiep. Makariou C´ Ave. - Profiti Ilia"
+  },
+  {
+    "description": "Agia Paraskevi Church 1",
+    "lat": 34.9562557116096,
+    "lon": 33.6261718091945,
+    "name": "Agia Paraskevi Church 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Vyzantiou",
+    "lat": 34.9537682701473,
+    "lon": 33.6259119401726,
+    "name": "Archiep. Makariou C´ Ave. - Vyzantiou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Afroditis",
+    "lat": 34.9512793035329,
+    "lon": 33.6259477802063,
+    "name": "Archiep. Makariou C´ Ave. - Afroditis"
+  },
+  {
+    "description": "Livadia Elementary School 2",
+    "lat": 34.9501753362706,
+    "lon": 33.6266950656272,
+    "name": "Livadia Elementary School 2"
+  },
+  {
+    "description": "Petraki Kyprianou Ave. - Apost.Andreou",
+    "lat": 34.9489272590297,
+    "lon": 33.630891011117,
+    "name": "Petraki Kyprianou Ave. - Apost.Andreou"
+  },
+  {
+    "description": "Andrea Stylianou Ave. - Agiou Savva",
+    "lat": 34.9459379235395,
+    "lon": 33.6335073688234,
+    "name": "Andrea Stylianou Ave. - Agiou Savva"
+  },
+  {
+    "description": "Alex. Panagouli Ave. - Anexartisias 2",
+    "lat": 34.9437695699201,
+    "lon": 33.6325817588128,
+    "name": "Alex. Panagouli Ave. - Anexartisias 2"
+  },
+  {
+    "description": "Technical School Roundabout",
+    "lat": 34.9375619060799,
+    "lon": 33.6298294001087,
+    "name": "Technical School Roundabout"
+  },
+  {
+    "description": "Katharis Elementary School 2",
+    "lat": 34.9329799672352,
+    "lon": 33.62830523581,
+    "name": "Katharis Elementary School 2"
+  },
+  {
+    "description": "Lands and Surveys Office 1",
+    "lat": 34.9305068739241,
+    "lon": 33.6287571960564,
+    "name": "Lands and Surveys Office 1"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Harbour Roundabout",
+    "lat": 34.9304040548529,
+    "lon": 33.6346580365589,
+    "name": "Spyrou Kyprianou Ave. - Harbour Roundabout"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Golgon",
+    "lat": 34.9281285866492,
+    "lon": 33.6369726300189,
+    "name": "Archiep. Makariou C´ Ave. - Golgon"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Salaminos 2",
+    "lat": 34.9259738126869,
+    "lon": 33.6369012336907,
+    "name": "Archiep. Makariou C´ Ave. - Salaminos 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Georgiou Georgiadi",
+    "lat": 34.9238185788252,
+    "lon": 33.6369174251071,
+    "name": "Archiep. Makariou C´ Ave. - Georgiou Georgiadi"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.9178223662695,
+    "lon": 33.6351304406883,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.9187528603531,
+    "lon": 33.6365279619346,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1"
+  },
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  }
+]

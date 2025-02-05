@@ -1,0 +1,110 @@
+[
+  {
+    "description": "Kofinou Station",
+    "lat": 34.826273309476,
+    "lon": 33.3899202268482,
+    "name": "Kofinou Station"
+  },
+  {
+    "description": "Kofinou Kindergarden",
+    "lat": 34.8253793907331,
+    "lon": 33.3930872899501,
+    "name": "Kofinou Kindergarden"
+  },
+  {
+    "description": "Agiou Epiktitou - Agias Varvaras 1",
+    "lat": 34.8236228413155,
+    "lon": 33.3952878551857,
+    "name": "Agiou Epiktitou - Agias Varvaras 1"
+  },
+  {
+    "description": "Kofinou Municipal Stadium 1",
+    "lat": 34.8225090348347,
+    "lon": 33.3939375223475,
+    "name": "Kofinou Municipal Stadium 1"
+  },
+  {
+    "description": "Kyriakou Matsi Ave. - Karaoli kai Dimitriou",
+    "lat": 34.8223580692813,
+    "lon": 33.3904157221569,
+    "name": "Kyriakou Matsi Ave. - Karaoli kai Dimitriou"
+  },
+  {
+    "description": "Kyriakou Matsi Ave. - Archiep. Makariou C´ Ave.",
+    "lat": 34.8244988711287,
+    "lon": 33.3864563027744,
+    "name": "Kyriakou Matsi Ave. - Archiep. Makariou C´ Ave."
+  },
+  {
+    "description": "Lefkosia - Lemesos Old Road - 3rd Stop",
+    "lat": 34.8213148744709,
+    "lon": 33.3751784816719,
+    "name": "Lefkosia - Lemesos Old Road - 3rd Stop"
+  },
+  {
+    "description": "Lefkosia - Lemesos Old Road - 1st Stop",
+    "lat": 34.8165197362086,
+    "lon": 33.3685415072339,
+    "name": "Lefkosia - Lemesos Old Road - 1st Stop"
+  },
+  {
+    "description": "Agias Paraskevis - 1st Stop",
+    "lat": 34.8022153607091,
+    "lon": 33.3510406702215,
+    "name": "Agias Paraskevis - 1st Stop"
+  },
+  {
+    "description": "Choirokoitia Neolithic Settlement 1",
+    "lat": 34.7966923495642,
+    "lon": 33.3462073268595,
+    "name": "Choirokoitia Neolithic Settlement 1"
+  },
+  {
+    "description": "Agiou Fanouriou - 7th Stop",
+    "lat": 34.7904434596517,
+    "lon": 33.3428910262995,
+    "name": "Agiou Fanouriou - 7th Stop"
+  },
+  {
+    "description": "1st Stop Psematismenos",
+    "lat": 34.7684489164276,
+    "lon": 33.346198626725,
+    "name": "1st Stop Psematismenos"
+  },
+  {
+    "description": "Agia Marina Church 1",
+    "lat": 34.7655929673259,
+    "lon": 33.345257859224,
+    "name": "Agia Marina Church 1"
+  },
+  {
+    "description": "1st Stop Maroni",
+    "lat": 34.7619628487926,
+    "lon": 33.34701293313,
+    "name": "1st Stop Maroni"
+  },
+  {
+    "description": "Maroni Elementary School 1",
+    "lat": 34.7580494199503,
+    "lon": 33.3531919232516,
+    "name": "Maroni Elementary School 1"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Kyriakou Matsi",
+    "lat": 34.7577239314758,
+    "lon": 33.356577759408,
+    "name": "Grigori Afxentiou Ave. - Kyriakou Matsi"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Agion Anargyron",
+    "lat": 34.7564977809141,
+    "lon": 33.3595553845807,
+    "name": "Grigori Afxentiou Ave. - Agion Anargyron"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Apost. Andreou 1",
+    "lat": 34.7547022107506,
+    "lon": 33.3629456255507,
+    "name": "Grigori Afxentiou Ave. - Apost. Andreou 1"
+  }
+]

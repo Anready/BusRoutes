@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.9187528603531,
+    "lon": 33.6365279619346,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1"
+  },
+  {
+    "description": "Tassou Papadopoulou",
+    "lat": 34.9327117968735,
+    "lon": 33.638234402941,
+    "name": "Tassou Papadopoulou"
+  },
+  {
+    "description": "Ammochostou Ave. - Thetidos",
+    "lat": 34.9461674095319,
+    "lon": 33.6447342181427,
+    "name": "Ammochostou Ave. - Thetidos"
+  },
+  {
+    "description": "Oroklini Fire Station 1",
+    "lat": 34.9617170868278,
+    "lon": 33.6591391761901,
+    "name": "Oroklini Fire Station 1"
+  },
+  {
+    "description": "Princess Beach Hotel 1",
+    "lat": 34.9697600402302,
+    "lon": 33.6691173485713,
+    "name": "Princess Beach Hotel 1"
+  },
+  {
+    "description": "Akropoleos Ave. - Lordos - Sandy - Golden Bay",
+    "lat": 34.978150542462,
+    "lon": 33.6908665793858,
+    "name": "Akropoleos Ave. - Lordos - Sandy - Golden Bay"
+  },
+  {
+    "description": "Agias Theklas - Waterpark 2",
+    "lat": 34.9839579449415,
+    "lon": 33.9427979315675,
+    "name": "Agias Theklas - Waterpark 2"
+  },
+  {
+    "description": "Nissi Bay Beach 2",
+    "lat": 34.9889263480932,
+    "lon": 33.9668719922403,
+    "name": "Nissi Bay Beach 2"
+  },
+  {
+    "description": "Nisi Ave. - Isaak kai Solomou",
+    "lat": 34.9887921376311,
+    "lon": 33.9835793257224,
+    "name": "Nisi Ave. - Isaak kai Solomou"
+  },
+  {
+    "description": "Nisi Ave. - Katalymmata",
+    "lat": 34.9873425670791,
+    "lon": 33.9954826080579,
+    "name": "Nisi Ave. - Katalymmata"
+  },
+  {
+    "description": "Agia Napa Monastery 2",
+    "lat": 34.9883223044173,
+    "lon": 34.0002496230693,
+    "name": "Agia Napa Monastery 2"
+  },
+  {
+    "description": "Kryou Nerou Ave. - Marina Hotel 1",
+    "lat": 34.9852241979448,
+    "lon": 34.0160873994527,
+    "name": "Kryou Nerou Ave. - Marina Hotel 1"
+  },
+  {
+    "description": "Paralimni Municipality",
+    "lat": 35.0405176522239,
+    "lon": 33.9830586648857,
+    "name": "Paralimni Municipality"
+  },
+  {
+    "description": "New Famagusta Central Bus Station",
+    "lat": 35.0518260701067,
+    "lon": 33.9728431356542,
+    "name": "New Famagusta Central Bus Station"
+  }
+]

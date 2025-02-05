@@ -1,0 +1,230 @@
+[
+  {
+    "description": "Petra tou Romiou ",
+    "lat": 34.6653628237004,
+    "lon": 32.6280907854719,
+    "name": "Petra tou Romiou "
+  },
+  {
+    "description": "Aphrodite Hills",
+    "lat": 34.6830939284883,
+    "lon": 32.6085688807181,
+    "name": "Aphrodite Hills"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 16th Stop",
+    "lat": 34.6757533875034,
+    "lon": 32.6057653307469,
+    "name": "Old Lemesos - Pafos Road - 16th Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 14th Stop",
+    "lat": 34.6861787093738,
+    "lon": 32.5842638313027,
+    "name": "Old Lemesos - Pafos Road - 14th Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 12th Stop",
+    "lat": 34.6949113509229,
+    "lon": 32.577385354537,
+    "name": "Old Lemesos - Pafos Road - 12th Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 9th Stop 2",
+    "lat": 34.7007239699559,
+    "lon": 32.5736870211811,
+    "name": "Old Lemesos - Pafos Road - 9th Stop 2"
+  },
+  {
+    "description": "Kouklia Archaeological Site 2",
+    "lat": 34.7053858184458,
+    "lon": 32.5735866707506,
+    "name": "Kouklia Archaeological Site 2"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 7th Stop",
+    "lat": 34.7145815546232,
+    "lon": 32.5503436827246,
+    "name": "Old Lemesos - Pafos Road - 7th Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 8th Stop",
+    "lat": 34.7156643184407,
+    "lon": 32.5480771869042,
+    "name": "Old Lemesos - Pafos Road - 8th Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 6th Stop",
+    "lat": 34.7179496509145,
+    "lon": 32.5418614890538,
+    "name": "Old Lemesos - Pafos Road - 6th Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 4th Stop",
+    "lat": 34.7199115700273,
+    "lon": 32.5360513537008,
+    "name": "Old Lemesos - Pafos Road - 4th Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 2nd Stop",
+    "lat": 34.7232491484696,
+    "lon": 32.5269347413564,
+    "name": "Old Lemesos - Pafos Road - 2nd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Anexartisias 2",
+    "lat": 34.7286638056832,
+    "lon": 32.5119508057315,
+    "name": "Archiep. Makariou C` Ave. - Anexartisias 2"
+  },
+  {
+    "description": "4th Stop Acheleia",
+    "lat": 34.7345136680278,
+    "lon": 32.4958044062628,
+    "name": "4th Stop Acheleia"
+  },
+  {
+    "description": "Ag. Georgios Church - Acheleia 2",
+    "lat": 34.7382228312019,
+    "lon": 32.4857100615028,
+    "name": "Ag. Georgios Church - Acheleia 2"
+  },
+  {
+    "description": "2nd Stop Acheleia",
+    "lat": 34.7402995485645,
+    "lon": 32.4799620168692,
+    "name": "2nd Stop Acheleia"
+  },
+  {
+    "description": "American Academy 2",
+    "lat": 34.7449272669711,
+    "lon": 32.4740445759668,
+    "name": "American Academy 2"
+  },
+  {
+    "description": "Elea Golf Club",
+    "lat": 34.7475868776227,
+    "lon": 32.4718208475347,
+    "name": "Elea Golf Club"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ag. Sergiou 2",
+    "lat": 34.7496650436112,
+    "lon": 32.4686174095776,
+    "name": "Archiep. Makariou C` Ave. - Ag. Sergiou 2"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - G. Vasileiadi",
+    "lat": 34.753011603243,
+    "lon": 32.4647282371788,
+    "name": "Archiep. Makariou C` Ave. - G. Vasileiadi"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ag. Sergiou 2",
+    "lat": 34.7564595946437,
+    "lon": 32.4613734773989,
+    "name": "Archiep. Makariou C` Ave. - Ag. Sergiou 2"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Markou Drakou",
+    "lat": 34.7577215568147,
+    "lon": 32.4592237027772,
+    "name": "Archiep. Makariou C` Ave. - Markou Drakou"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ippokratous",
+    "lat": 34.7586955567914,
+    "lon": 32.4572177929723,
+    "name": "Archiep. Makariou C` Ave. - Ippokratous"
+  },
+  {
+    "description": "Ippokratous - Tefkrou",
+    "lat": 34.7582807079318,
+    "lon": 32.4572095814029,
+    "name": "Ippokratous - Tefkrou"
+  },
+  {
+    "description": "Ippokratous - Agapinoros",
+    "lat": 34.7558863204897,
+    "lon": 32.456154484606,
+    "name": "Ippokratous - Agapinoros"
+  },
+  {
+    "description": "Geroskipou High School 2",
+    "lat": 34.7549026988576,
+    "lon": 32.4519762563375,
+    "name": "Geroskipou High School 2"
+  },
+  {
+    "description": "Ierokipion Ave. - 2nd Stop",
+    "lat": 34.746354471821,
+    "lon": 32.4461114127069,
+    "name": "Ierokipion Ave. - 2nd Stop"
+  },
+  {
+    "description": "Theas Afroditis Ave. - 2nd Stop",
+    "lat": 34.737295359023,
+    "lon": 32.4390277555044,
+    "name": "Theas Afroditis Ave. - 2nd Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 10th Stop",
+    "lat": 34.7404829632574,
+    "lon": 32.4341231201536,
+    "name": "Poseidonos Ave. - 10th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 8th Stop",
+    "lat": 34.7435052732565,
+    "lon": 32.4305520377274,
+    "name": "Poseidonos Ave. - 8th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 6th Stop",
+    "lat": 34.7466083223661,
+    "lon": 32.426914587123,
+    "name": "Poseidonos Ave. - 6th Stop"
+  },
+  {
+    "description": "Neapolis University 2",
+    "lat": 34.7498037060993,
+    "lon": 32.4275808135072,
+    "name": "Neapolis University 2"
+  },
+  {
+    "description": "Neapolis University 1",
+    "lat": 34.7492075329655,
+    "lon": 32.4273664210965,
+    "name": "Neapolis University 1"
+  },
+  {
+    "description": "Poseidonos Ave. - 4th Stop",
+    "lat": 34.7494332722275,
+    "lon": 32.423606556002,
+    "name": "Poseidonos Ave. - 4th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 2nd Stop",
+    "lat": 34.7530875685078,
+    "lon": 32.4202597259428,
+    "name": "Poseidonos Ave. - 2nd Stop"
+  },
+  {
+    "description": "Annabelle Hotel 2",
+    "lat": 34.7559877622616,
+    "lon": 32.4176390276514,
+    "name": "Annabelle Hotel 2"
+  },
+  {
+    "description": "Municipal Baths Beach",
+    "lat": 34.7565259856276,
+    "lon": 32.4151659186758,
+    "name": "Municipal Baths Beach"
+  },
+  {
+    "description": "Paphos Harbour Station",
+    "lat": 34.7565660916918,
+    "lon": 32.408533407359,
+    "name": "Paphos Harbour Station"
+  }
+]

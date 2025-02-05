@@ -1,0 +1,218 @@
+[
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  },
+  {
+    "description": "Ave. Lemesou - Larnakos",
+    "lat": 35.0070701416525,
+    "lon": 33.3939215651883,
+    "name": "Ave. Lemesou - Larnakos"
+  },
+  {
+    "description": "Chrysosotiros Church - Eirinis Avenue",
+    "lat": 35.0134185083495,
+    "lon": 33.3938752796235,
+    "name": "Chrysosotiros Church - Eirinis Avenue"
+  },
+  {
+    "description": "Archiep. Makariou C - Diogenous",
+    "lat": 35.0146924617907,
+    "lon": 33.3958762122617,
+    "name": "Archiep. Makariou C - Diogenous"
+  },
+  {
+    "description": "Elem. School B Nisou",
+    "lat": 35.0156064567151,
+    "lon": 33.400385462773,
+    "name": "Elem. School B Nisou"
+  },
+  {
+    "description": "Pera Chorio Nisou High School 1",
+    "lat": 35.0166615566538,
+    "lon": 33.4057942967163,
+    "name": "Pera Chorio Nisou High School 1"
+  },
+  {
+    "description": "Chalkanoros",
+    "lat": 35.0176106570254,
+    "lon": 33.4104793146889,
+    "name": "Chalkanoros"
+  },
+  {
+    "description": "Chalkanoros",
+    "lat": 35.0190665634492,
+    "lon": 33.4172057754721,
+    "name": "Chalkanoros"
+  },
+  {
+    "description": "Dali Lyceum 2",
+    "lat": 35.0201170272926,
+    "lon": 33.4288629582485,
+    "name": "Dali Lyceum 2"
+  },
+  {
+    "description": "Apodimon Square",
+    "lat": 34.9980436602673,
+    "lon": 33.46293775441,
+    "name": "Apodimon Square"
+  },
+  {
+    "description": "Agios Epifanios Church 2",
+    "lat": 34.9957242041035,
+    "lon": 33.4658176074651,
+    "name": "Agios Epifanios Church 2"
+  },
+  {
+    "description": "Anexartisias - Stadiou 1",
+    "lat": 34.9945976887817,
+    "lon": 33.4703258623728,
+    "name": "Anexartisias - Stadiou 1"
+  },
+  {
+    "description": "Aradippou - Athienou Road - 2n Stop",
+    "lat": 34.9778740391644,
+    "lon": 33.5224008653586,
+    "name": "Aradippou - Athienou Road - 2n Stop"
+  },
+  {
+    "description": "Panagia Aimatousa 2",
+    "lat": 34.9593024446527,
+    "lon": 33.5638171921247,
+    "name": "Panagia Aimatousa 2"
+  },
+  {
+    "description": "Pascal English School 1",
+    "lat": 34.9529781277762,
+    "lon": 33.5683628787852,
+    "name": "Pascal English School 1"
+  },
+  {
+    "description": "Akropoleos Ave. - Athinon Ave. 2",
+    "lat": 34.9489235196208,
+    "lon": 33.5753439913036,
+    "name": "Akropoleos Ave. - Athinon Ave. 2"
+  },
+  {
+    "description": "Akropoleos Ave. - Stadiou Ave. 2",
+    "lat": 34.942148810207,
+    "lon": 33.5834659714127,
+    "name": "Akropoleos Ave. - Stadiou Ave. 2"
+  },
+  {
+    "description": "Akropoleos Ave. - Foti Pitta Ave.",
+    "lat": 34.9394898794957,
+    "lon": 33.5869622335633,
+    "name": "Akropoleos Ave. - Foti Pitta Ave."
+  },
+  {
+    "description": "Eleftherias Ave. - Archiep. Makariou C´ Ave.",
+    "lat": 34.9362407999217,
+    "lon": 33.5912643422732,
+    "name": "Eleftherias Ave. - Archiep. Makariou C´ Ave."
+  },
+  {
+    "description": "Eleftherias Ave. - Petraki Giallourou",
+    "lat": 34.9312462540472,
+    "lon": 33.598411276935,
+    "name": "Eleftherias Ave. - Petraki Giallourou"
+  },
+  {
+    "description": "G.S.Z. Stadium 2",
+    "lat": 34.9254124078872,
+    "lon": 33.6019819468802,
+    "name": "G.S.Z. Stadium 2"
+  },
+  {
+    "description": "Vergina Lyceum",
+    "lat": 34.9211554385646,
+    "lon": 33.5948127586923,
+    "name": "Vergina Lyceum"
+  },
+  {
+    "description": "Vergina High School 1",
+    "lat": 34.9201435374831,
+    "lon": 33.5970497716807,
+    "name": "Vergina High School 1"
+  },
+  {
+    "description": "Peiraia Park",
+    "lat": 34.9191342938408,
+    "lon": 33.5987393620505,
+    "name": "Peiraia Park"
+  },
+  {
+    "description": "New Hospital 2",
+    "lat": 34.9217524628238,
+    "lon": 33.6035755347927,
+    "name": "New Hospital 2"
+  },
+  {
+    "description": "Mall Metropolis",
+    "lat": 34.924193545739,
+    "lon": 33.6077209580138,
+    "name": "Mall Metropolis"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 2",
+    "lat": 34.9232552988576,
+    "lon": 33.6114036101475,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 2"
+  },
+  {
+    "description": "Fire Station 2",
+    "lat": 34.9212721837046,
+    "lon": 33.6148375251659,
+    "name": "Fire Station 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2",
+    "lat": 34.9194167146212,
+    "lon": 33.6179766426449,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Thessalonikis Ave.",
+    "lat": 34.9180133596127,
+    "lon": 33.6208562831158,
+    "name": "Georg. Griva Digeni Ave. - Thessalonikis Ave."
+  },
+  {
+    "description": "Municipal Library 2",
+    "lat": 34.916724235321,
+    "lon": 33.6243059543314,
+    "name": "Municipal Library 2"
+  },
+  {
+    "description": "Municipal Park 2",
+    "lat": 34.9168095577485,
+    "lon": 33.6269996632646,
+    "name": "Municipal Park 2"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.9178223662695,
+    "lon": 33.6351304406883,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.9187528603531,
+    "lon": 33.6365279619346,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1"
+  },
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  }
+]

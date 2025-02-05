@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Gerasa 2",
+    "lat": 34.8007287125206,
+    "lon": 32.9988521118121,
+    "name": "Gerasa 2"
+  },
+  {
+    "description": "Gerasa Village Center - Ag. Georgios Church",
+    "lat": 34.8023248474287,
+    "lon": 32.9984475879565,
+    "name": "Gerasa Village Center - Ag. Georgios Church"
+  },
+  {
+    "description": "Gerasa 1",
+    "lat": 34.800990229921,
+    "lon": 32.9992347387913,
+    "name": "Gerasa 1"
+  },
+  {
+    "description": "Apsiou Community Board 1",
+    "lat": 34.7975352538258,
+    "lon": 33.016977158152,
+    "name": "Apsiou Community Board 1"
+  },
+  {
+    "description": "Apsiou Community Amphitheatre",
+    "lat": 34.7955857775437,
+    "lon": 33.0262358147016,
+    "name": "Apsiou Community Amphitheatre"
+  }
+]

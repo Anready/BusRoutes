@@ -1,0 +1,110 @@
+[
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  },
+  {
+    "description": "1 Oktovriou - Gianni Ritsou",
+    "lat": 35.0130722489366,
+    "lon": 33.3894017924427,
+    "name": "1 Oktovriou - Gianni Ritsou"
+  },
+  {
+    "description": "Eirinis Avenue - Grigori Afxentiou",
+    "lat": 35.0137357192055,
+    "lon": 33.3905886657983,
+    "name": "Eirinis Avenue - Grigori Afxentiou"
+  },
+  {
+    "description": "Chrysosotiros Church - Eirinis Avenue",
+    "lat": 35.0134185083495,
+    "lon": 33.3938752796235,
+    "name": "Chrysosotiros Church - Eirinis Avenue"
+  },
+  {
+    "description": "Archiep. Makariou C - Diogenous",
+    "lat": 35.0146924617907,
+    "lon": 33.3958762122617,
+    "name": "Archiep. Makariou C - Diogenous"
+  },
+  {
+    "description": "Elem. School B Nisou",
+    "lat": 35.0156064567151,
+    "lon": 33.400385462773,
+    "name": "Elem. School B Nisou"
+  },
+  {
+    "description": "Pera Chorio Nisou High School 1",
+    "lat": 35.0166615566538,
+    "lon": 33.4057942967163,
+    "name": "Pera Chorio Nisou High School 1"
+  },
+  {
+    "description": "Chalkanoros",
+    "lat": 35.0176106570254,
+    "lon": 33.4104793146889,
+    "name": "Chalkanoros"
+  },
+  {
+    "description": "Chalkanoros",
+    "lat": 35.0190665634492,
+    "lon": 33.4172057754721,
+    "name": "Chalkanoros"
+  },
+  {
+    "description": "Dali Lyceum 1",
+    "lat": 35.0202161385652,
+    "lon": 33.4288853983536,
+    "name": "Dali Lyceum 1"
+  },
+  {
+    "description": "Georgiou Eikosari - Pafou",
+    "lat": 35.0249590456755,
+    "lon": 33.4289430536058,
+    "name": "Georgiou Eikosari - Pafou"
+  },
+  {
+    "description": "Griva Digeni - Amathountos",
+    "lat": 35.0214216576332,
+    "lon": 33.4193661852169,
+    "name": "Griva Digeni - Amathountos"
+  },
+  {
+    "description": "Griva Digeni - 25 Martiou",
+    "lat": 35.0234591204126,
+    "lon": 33.4194971683741,
+    "name": "Griva Digeni - 25 Martiou"
+  },
+  {
+    "description": "Agios Andronikos Church ",
+    "lat": 35.025048854467,
+    "lon": 33.421324972195,
+    "name": "Agios Andronikos Church "
+  },
+  {
+    "description": "A´ Dali Elementary School",
+    "lat": 35.0284611467252,
+    "lon": 33.4254204937097,
+    "name": "A´ Dali Elementary School"
+  },
+  {
+    "description": "Filias - 1st Potamia",
+    "lat": 35.0399366035033,
+    "lon": 33.4415640486341,
+    "name": "Filias - 1st Potamia"
+  },
+  {
+    "description": "Potamia Elementary School",
+    "lat": 35.0418012727035,
+    "lon": 33.444556335934,
+    "name": "Potamia Elementary School"
+  },
+  {
+    "description": "Potamia Community Board",
+    "lat": 35.0435815897908,
+    "lon": 33.4459474957317,
+    "name": "Potamia Community Board"
+  }
+]

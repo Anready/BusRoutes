@@ -1,0 +1,314 @@
+[
+  {
+    "description": "Anoigma Kolokasi",
+    "lat": 35.1707380123156,
+    "lon": 33.3694299585339,
+    "name": "Anoigma Kolokasi"
+  },
+  {
+    "description": "Ave. Stasinou - Alkaiou",
+    "lat": 35.1690375102022,
+    "lon": 33.3682033474436,
+    "name": "Ave. Stasinou - Alkaiou"
+  },
+  {
+    "description": "Ave. Stasinou - Kritis",
+    "lat": 35.1682151650405,
+    "lon": 33.3658167311003,
+    "name": "Ave. Stasinou - Kritis"
+  },
+  {
+    "description": "Bastion Davila",
+    "lat": 35.1685125276104,
+    "lon": 33.3628860850149,
+    "name": "Bastion Davila"
+  },
+  {
+    "description": "Diagorou",
+    "lat": 35.169683481778,
+    "lon": 33.3572468736466,
+    "name": "Diagorou"
+  },
+  {
+    "description": "Chilonos - Michail Paridi",
+    "lat": 35.1708040725686,
+    "lon": 33.3533313787656,
+    "name": "Chilonos - Michail Paridi"
+  },
+  {
+    "description": "Ministry of Health 1",
+    "lat": 35.1693560161352,
+    "lon": 33.348943572246,
+    "name": "Ministry of Health 1"
+  },
+  {
+    "description": "Metochiou - Goudiou",
+    "lat": 35.1683971551108,
+    "lon": 33.3468640326721,
+    "name": "Metochiou - Goudiou"
+  },
+  {
+    "description": "Metochiou - Sina",
+    "lat": 35.1671866558385,
+    "lon": 33.3444760111716,
+    "name": "Metochiou - Sina"
+  },
+  {
+    "description": "Agiou Prokopiou - Metochi Kikkou 1",
+    "lat": 35.1637542193669,
+    "lon": 33.3401900998849,
+    "name": "Agiou Prokopiou - Metochi Kikkou 1"
+  },
+  {
+    "description": "European University 1",
+    "lat": 35.1590262037605,
+    "lon": 33.3380512887819,
+    "name": "European University 1"
+  },
+  {
+    "description": "Archagelou Michail - Aigaleo",
+    "lat": 35.155539731518,
+    "lon": 33.3336560621,
+    "name": "Archagelou Michail - Aigaleo"
+  },
+  {
+    "description": "Engomi Elementary School B 1",
+    "lat": 35.1534316617827,
+    "lon": 33.3296510353618,
+    "name": "Engomi Elementary School B 1"
+  },
+  {
+    "description": "Archagelou Michail - Makedonitissis",
+    "lat": 35.1491023323447,
+    "lon": 33.3267242467777,
+    "name": "Archagelou Michail - Makedonitissis"
+  },
+  {
+    "description": "Avenue Lefkotheou - Agias Annas",
+    "lat": 35.1475968267882,
+    "lon": 33.3232270996973,
+    "name": "Avenue Lefkotheou - Agias Annas"
+  },
+  {
+    "description": "Apolloneio Hospital 1",
+    "lat": 35.147759176593,
+    "lon": 33.3198134535275,
+    "name": "Apolloneio Hospital 1"
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Apolloneio Hospital",
+    "lat": 35.1478491445453,
+    "lon": 33.3198906545292,
+    "name": "Apolloneio Hospital"
+  },
+  {
+    "description": "Archangelou Michail - Agiou Alexiou",
+    "lat": 35.1454886437929,
+    "lon": 33.3225381212525,
+    "name": "Archangelou Michail - Agiou Alexiou"
+  },
+  {
+    "description": "Archangelou Michail - Lake Magkli",
+    "lat": 35.1409631844903,
+    "lon": 33.3152421818919,
+    "name": "Archangelou Michail - Lake Magkli"
+  },
+  {
+    "description": "Archangelou Michail - Lefkosias - Troodous HWY",
+    "lat": 35.131157614699,
+    "lon": 33.3026146917464,
+    "name": "Archangelou Michail - Lefkosias - Troodous HWY"
+  },
+  {
+    "description": "NICOSIA MALL",
+    "lat": 35.1333323319374,
+    "lon": 33.2794294100809,
+    "name": "NICOSIA MALL"
+  },
+  {
+    "description": "Grigori Afxentiou - Industrial Area 1",
+    "lat": 35.149777860008,
+    "lon": 33.2286980991496,
+    "name": "Grigori Afxentiou - Industrial Area 1"
+  },
+  {
+    "description": "Grigori Afxentiou - Praxitelous 1",
+    "lat": 35.1488349392312,
+    "lon": 33.2217569903756,
+    "name": "Grigori Afxentiou - Praxitelous 1"
+  },
+  {
+    "description": "Grigori Afxentiou - Post Office 1",
+    "lat": 35.1490740918937,
+    "lon": 33.2141274935789,
+    "name": "Grigori Afxentiou - Post Office 1"
+  },
+  {
+    "description": "Grigori Afxentiou - Apostolos Varnavas Church 1",
+    "lat": 35.1483987228201,
+    "lon": 33.2084278633846,
+    "name": "Grigori Afxentiou - Apostolos Varnavas Church 1"
+  },
+  {
+    "description": "Grigori Afxentiou - Praxitelous 1",
+    "lat": 35.1483132038858,
+    "lon": 33.2057049705884,
+    "name": "Grigori Afxentiou - Praxitelous 1"
+  },
+  {
+    "description": "Kokkinotrimithia Police Station 1",
+    "lat": 35.1486440827389,
+    "lon": 33.2019840671989,
+    "name": "Kokkinotrimithia Police Station 1"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ - Vyzantiou",
+    "lat": 35.1487336394206,
+    "lon": 33.1968792462699,
+    "name": "Archiepiskopou Makariou C´ - Vyzantiou"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ - Zinonos",
+    "lat": 35.1480187803698,
+    "lon": 33.1928264615747,
+    "name": "Archiepiskopou Makariou C´ - Zinonos"
+  },
+  {
+    "description": "Palaiometocho Lyceum 1",
+    "lat": 35.1469938244769,
+    "lon": 33.1851172393323,
+    "name": "Palaiometocho Lyceum 1"
+  },
+  {
+    "description": "Cyprus Forest Industries - Bakandys",
+    "lat": 35.1464799554484,
+    "lon": 33.1728313723805,
+    "name": "Cyprus Forest Industries - Bakandys"
+  },
+  {
+    "description": "Grigori Afxentiou - 1st Akaki 1",
+    "lat": 35.1373132505751,
+    "lon": 33.1496394236662,
+    "name": "Grigori Afxentiou - 1st Akaki 1"
+  },
+  {
+    "description": "Grigori Afxentiou - 2nd Akaki 1",
+    "lat": 35.1372374377958,
+    "lon": 33.1452484641044,
+    "name": "Grigori Afxentiou - 2nd Akaki 1"
+  },
+  {
+    "description": "Akaki High School 1",
+    "lat": 35.1371984000271,
+    "lon": 33.1401111364728,
+    "name": "Akaki High School 1"
+  },
+  {
+    "description": "Grigori Afxentiou - Dimokratias",
+    "lat": 35.1370111820176,
+    "lon": 33.1300997700938,
+    "name": "Grigori Afxentiou - Dimokratias"
+  },
+  {
+    "description": "Grigori Afxentiou - Michalaki Savva",
+    "lat": 35.1366082876711,
+    "lon": 33.1273878174102,
+    "name": "Grigori Afxentiou - Michalaki Savva"
+  },
+  {
+    "description": "Grigori Afxentiou - Potato Packaging Factory 2",
+    "lat": 35.1350675946458,
+    "lon": 33.1172099566924,
+    "name": "Grigori Afxentiou - Potato Packaging Factory 2"
+  },
+  {
+    "description": "Grigori Afxentiou - 1st Peristerona 1",
+    "lat": 35.1349548348779,
+    "lon": 33.1023253204321,
+    "name": "Grigori Afxentiou - 1st Peristerona 1"
+  },
+  {
+    "description": "Lefkosias Avenue - Archangelou Michail",
+    "lat": 35.1330140227643,
+    "lon": 33.0937831814116,
+    "name": "Lefkosias Avenue - Archangelou Michail"
+  },
+  {
+    "description": "Lefkosias Ave. - Christou Tsiarta Ave. 1",
+    "lat": 35.1327118069106,
+    "lon": 33.087954338684,
+    "name": "Lefkosias Ave. - Christou Tsiarta Ave. 1"
+  },
+  {
+    "description": "Lefkosias Avenue - Antistr. Evangelou Floraki",
+    "lat": 35.132869167301,
+    "lon": 33.0821589295978,
+    "name": "Lefkosias Avenue - Antistr. Evangelou Floraki"
+  },
+  {
+    "description": "Morfou Avenue - Louki Akrita",
+    "lat": 35.132827892147,
+    "lon": 33.076330383064,
+    "name": "Morfou Avenue - Louki Akrita"
+  },
+  {
+    "description": "Morfou Avenue - Makariou C´ Avenue 1",
+    "lat": 35.1325863963847,
+    "lon": 33.0731360145115,
+    "name": "Morfou Avenue - Makariou C´ Avenue 1"
+  },
+  {
+    "description": "Troodous",
+    "lat": 35.1352449241399,
+    "lon": 33.0595052130523,
+    "name": "Troodous"
+  },
+  {
+    "description": "Troodous - Skopy 1",
+    "lat": 35.1364457426701,
+    "lon": 33.0563117924992,
+    "name": "Troodous - Skopy 1"
+  },
+  {
+    "description": "Troodous - Karydion 1",
+    "lat": 35.1390093826407,
+    "lon": 33.050056496455,
+    "name": "Troodous - Karydion 1"
+  },
+  {
+    "description": "Troodous - Dimitri Liperti",
+    "lat": 35.1374973601176,
+    "lon": 33.0425362586922,
+    "name": "Troodous - Dimitri Liperti"
+  },
+  {
+    "description": "Troodous - Potamiou",
+    "lat": 35.1372380385437,
+    "lon": 33.0357962067103,
+    "name": "Troodous - Potamiou"
+  },
+  {
+    "description": "Troodous - Pavlou Liasidi",
+    "lat": 35.136942209683,
+    "lon": 33.0293196329198,
+    "name": "Troodous - Pavlou Liasidi"
+  },
+  {
+    "description": "Lefkosias - Troodous - SEDIGEP 1",
+    "lat": 35.1351312144639,
+    "lon": 33.0224365417376,
+    "name": "Lefkosias - Troodous - SEDIGEP 1"
+  },
+  {
+    "description": "21 Mili 1",
+    "lat": 35.1265662667251,
+    "lon": 33.0124573428063,
+    "name": "21 Mili 1"
+  }
+]

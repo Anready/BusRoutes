@@ -1,0 +1,122 @@
+[
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  },
+  {
+    "description": "Lemesou Ave. - Filias",
+    "lat": 34.9977926869451,
+    "lon": 33.4017451753162,
+    "name": "Lemesou Ave. - Filias"
+  },
+  {
+    "description": "Lemesou Ave. - Lympion Ave. 2",
+    "lat": 34.9927119622616,
+    "lon": 33.4056431826699,
+    "name": "Lemesou Ave. - Lympion Ave. 2"
+  },
+  {
+    "description": "Lemesou Ave. - 1 Apriliou",
+    "lat": 34.9519530748393,
+    "lon": 33.4189901730124,
+    "name": "Lemesou Ave. - 1 Apriliou"
+  },
+  {
+    "description": "Mosfiloti - Sia Road - 2nd Stop",
+    "lat": 34.9456262648368,
+    "lon": 33.4153659371072,
+    "name": "Mosfiloti - Sia Road - 2nd Stop"
+  },
+  {
+    "description": "Pyrga - Kornos Intersection",
+    "lat": 34.9273641610141,
+    "lon": 33.4132373771638,
+    "name": "Pyrga - Kornos Intersection"
+  },
+  {
+    "description": "Pyrga - Kornos Road 2",
+    "lat": 34.9261495389305,
+    "lon": 33.4124320265053,
+    "name": "Pyrga - Kornos Road 2"
+  },
+  {
+    "description": "1 Maiou - 8th Kornos 1",
+    "lat": 34.9254797780472,
+    "lon": 33.4024106217101,
+    "name": "1 Maiou - 8th Kornos 1"
+  },
+  {
+    "description": "Timios Prodromos Church 1",
+    "lat": 34.9172570187688,
+    "lon": 33.4020530042982,
+    "name": "Timios Prodromos Church 1"
+  },
+  {
+    "description": "Grigori Afxentiou - 5th Kornos 1",
+    "lat": 34.917866422213,
+    "lon": 33.400468561833,
+    "name": "Grigori Afxentiou - 5th Kornos 1"
+  },
+  {
+    "description": "Grigori Afxentiou - 4th Kornos 1",
+    "lat": 34.9194127460206,
+    "lon": 33.3991513783105,
+    "name": "Grigori Afxentiou - 4th Kornos 1"
+  },
+  {
+    "description": "Grigori Afxentiou - 3rd Kornos 1",
+    "lat": 34.9214041628399,
+    "lon": 33.3968400114065,
+    "name": "Grigori Afxentiou - 3rd Kornos 1"
+  },
+  {
+    "description": "Anexartisias - 2nd Kornos 1",
+    "lat": 34.9219761871672,
+    "lon": 33.3928576083791,
+    "name": "Anexartisias - 2nd Kornos 1"
+  },
+  {
+    "description": "Anexartisias - 1st Kornos 2",
+    "lat": 34.9214156462124,
+    "lon": 33.3905120308809,
+    "name": "Anexartisias - 1st Kornos 2"
+  },
+  {
+    "description": "Omonoias Ave. - Agiou Georgiou 1",
+    "lat": 34.9268514631166,
+    "lon": 33.4020998013367,
+    "name": "Omonoias Ave. - Agiou Georgiou 1"
+  },
+  {
+    "description": "Pyrga - Kornos Road 1",
+    "lat": 34.9263494056292,
+    "lon": 33.4119950744031,
+    "name": "Pyrga - Kornos Road 1"
+  },
+  {
+    "description": "Pyrga Larnaka Elementary School 1",
+    "lat": 34.9261371166759,
+    "lon": 33.4264792411635,
+    "name": "Pyrga Larnaka Elementary School 1"
+  },
+  {
+    "description": "Agia Marina Church  1",
+    "lat": 34.9257935457927,
+    "lon": 33.4318423379023,
+    "name": "Agia Marina Church  1"
+  },
+  {
+    "description": "Larnakos - 1st Pyrga Larnakas 1",
+    "lat": 34.924882527727,
+    "lon": 33.4344433317717,
+    "name": "Larnakos - 1st Pyrga Larnakas 1"
+  },
+  {
+    "description": "Larnakos - 1st Pyrga Larnakas",
+    "lat": 34.9251608306553,
+    "lon": 33.4373023926364,
+    "name": "Larnakos - 1st Pyrga Larnakas"
+  }
+]

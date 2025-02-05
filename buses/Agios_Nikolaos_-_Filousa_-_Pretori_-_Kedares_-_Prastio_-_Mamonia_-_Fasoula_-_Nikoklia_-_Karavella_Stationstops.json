@@ -1,0 +1,284 @@
+[
+  {
+    "description": "2nd Stop Agios Nikolaos Pafou",
+    "lat": 34.8615522942691,
+    "lon": 32.7562720258354,
+    "name": "2nd Stop Agios Nikolaos Pafou"
+  },
+  {
+    "description": "1st Agios Nikolaos Pafou 2",
+    "lat": 34.8632507463915,
+    "lon": 32.7533568422942,
+    "name": "1st Agios Nikolaos Pafou 2"
+  },
+  {
+    "description": "2nd Stop Praitori 2",
+    "lat": 34.8487904290307,
+    "lon": 32.7465086884239,
+    "name": "2nd Stop Praitori 2"
+  },
+  {
+    "description": "1st Stop Praitori 2",
+    "lat": 34.8482908939411,
+    "lon": 32.7448038116297,
+    "name": "1st Stop Praitori 2"
+  },
+  {
+    "description": "Filousa Kelokedaron",
+    "lat": 34.852244605073,
+    "lon": 32.7424178329267,
+    "name": "Filousa Kelokedaron"
+  },
+  {
+    "description": "4th Stop Kedares",
+    "lat": 34.8386127051212,
+    "lon": 32.7353073512941,
+    "name": "4th Stop Kedares"
+  },
+  {
+    "description": "2nd Stop Kedares",
+    "lat": 34.8362435256002,
+    "lon": 32.7364414372159,
+    "name": "2nd Stop Kedares"
+  },
+  {
+    "description": "Kidasi 2",
+    "lat": 34.8074320943993,
+    "lon": 32.7125568835295,
+    "name": "Kidasi 2"
+  },
+  {
+    "description": "2nd Stop Prastio Pafou",
+    "lat": 34.7908081616303,
+    "lon": 32.6923486762344,
+    "name": "2nd Stop Prastio Pafou"
+  },
+  {
+    "description": "6th Stop Agios Georgios Pafou",
+    "lat": 34.7779682784098,
+    "lon": 32.6526249782207,
+    "name": "6th Stop Agios Georgios Pafou"
+  },
+  {
+    "description": "4th Stop Agios Georgios Pafou",
+    "lat": 34.7783674999883,
+    "lon": 32.6503281631092,
+    "name": "4th Stop Agios Georgios Pafou"
+  },
+  {
+    "description": "2nd Stop Agios Georgios Pafou",
+    "lat": 34.7776322598271,
+    "lon": 32.6486591052998,
+    "name": "2nd Stop Agios Georgios Pafou"
+  },
+  {
+    "description": "6th Stop Mamonia",
+    "lat": 34.7708527255374,
+    "lon": 32.6400108068406,
+    "name": "6th Stop Mamonia"
+  },
+  {
+    "description": "4th Stop Mamonia",
+    "lat": 34.7707115969705,
+    "lon": 32.6380334096456,
+    "name": "4th Stop Mamonia"
+  },
+  {
+    "description": "2nd Stop Mamonia",
+    "lat": 34.7696955003631,
+    "lon": 32.6359833637058,
+    "name": "2nd Stop Mamonia"
+  },
+  {
+    "description": "2nd Stop Fasoula Pafou 2",
+    "lat": 34.7612335728892,
+    "lon": 32.6259676890305,
+    "name": "2nd Stop Fasoula Pafou 2"
+  },
+  {
+    "description": "1st Stop Fasoula Pafou 2",
+    "lat": 34.7606062451991,
+    "lon": 32.6243096303835,
+    "name": "1st Stop Fasoula Pafou 2"
+  },
+  {
+    "description": "6th Stop Nikokleia",
+    "lat": 34.7290781399141,
+    "lon": 32.5769275349142,
+    "name": "6th Stop Nikokleia"
+  },
+  {
+    "description": "4th Stop Nikokleia",
+    "lat": 34.7287888893388,
+    "lon": 32.5741437248286,
+    "name": "4th Stop Nikokleia"
+  },
+  {
+    "description": "2nd Stop Nikokleia",
+    "lat": 34.7247440721692,
+    "lon": 32.5651100081595,
+    "name": "2nd Stop Nikokleia"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 8th Stop",
+    "lat": 34.7156643184407,
+    "lon": 32.5480771869042,
+    "name": "Old Lemesos - Pafos Road - 8th Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 6th Stop",
+    "lat": 34.7179496509145,
+    "lon": 32.5418614890538,
+    "name": "Old Lemesos - Pafos Road - 6th Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 4th Stop",
+    "lat": 34.7199115700273,
+    "lon": 32.5360513537008,
+    "name": "Old Lemesos - Pafos Road - 4th Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 2nd Stop",
+    "lat": 34.7232491484696,
+    "lon": 32.5269347413564,
+    "name": "Old Lemesos - Pafos Road - 2nd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Anexartisias 2",
+    "lat": 34.7286638056832,
+    "lon": 32.5119508057315,
+    "name": "Archiep. Makariou C` Ave. - Anexartisias 2"
+  },
+  {
+    "description": "4th Stop Acheleia",
+    "lat": 34.7345136680278,
+    "lon": 32.4958044062628,
+    "name": "4th Stop Acheleia"
+  },
+  {
+    "description": "Ag. Georgios Church - Acheleia 2",
+    "lat": 34.7382228312019,
+    "lon": 32.4857100615028,
+    "name": "Ag. Georgios Church - Acheleia 2"
+  },
+  {
+    "description": "2nd Stop Acheleia",
+    "lat": 34.7402995485645,
+    "lon": 32.4799620168692,
+    "name": "2nd Stop Acheleia"
+  },
+  {
+    "description": "American Academy 2",
+    "lat": 34.7449272669711,
+    "lon": 32.4740445759668,
+    "name": "American Academy 2"
+  },
+  {
+    "description": "Elea Golf Club",
+    "lat": 34.7475868776227,
+    "lon": 32.4718208475347,
+    "name": "Elea Golf Club"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ag. Sergiou 2",
+    "lat": 34.7496650436112,
+    "lon": 32.4686174095776,
+    "name": "Archiep. Makariou C` Ave. - Ag. Sergiou 2"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - G. Vasileiadi",
+    "lat": 34.753011603243,
+    "lon": 32.4647282371788,
+    "name": "Archiep. Makariou C` Ave. - G. Vasileiadi"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ag. Sergiou 2",
+    "lat": 34.7564595946437,
+    "lon": 32.4613734773989,
+    "name": "Archiep. Makariou C` Ave. - Ag. Sergiou 2"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Markou Drakou",
+    "lat": 34.7577215568147,
+    "lon": 32.4592237027772,
+    "name": "Archiep. Makariou C` Ave. - Markou Drakou"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ippokratous",
+    "lat": 34.7586955567914,
+    "lon": 32.4572177929723,
+    "name": "Archiep. Makariou C` Ave. - Ippokratous"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Arsinois",
+    "lat": 34.7595984592426,
+    "lon": 32.4554526898932,
+    "name": "Archiep. Makariou C` Ave. - Arsinois"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Korytsas",
+    "lat": 34.7605031851966,
+    "lon": 32.4520922254356,
+    "name": "Archiep. Makariou C` Ave. - Korytsas"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Kosta Karnavalou",
+    "lat": 34.7620282607071,
+    "lon": 32.450333831363,
+    "name": "Archiep. Makariou C` Ave. - Kosta Karnavalou"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Kyr. Partasidi",
+    "lat": 34.7637497118435,
+    "lon": 32.4481369780267,
+    "name": "Archiep. Makariou C` Ave. - Kyr. Partasidi"
+  },
+  {
+    "description": "A` High School - Ag. Theodoros 2",
+    "lat": 34.7667249358952,
+    "lon": 32.4440411799213,
+    "name": "A` High School - Ag. Theodoros 2"
+  },
+  {
+    "description": "Afroditi Sports Centre",
+    "lat": 34.7681620868809,
+    "lon": 32.4388736263597,
+    "name": "Afroditi Sports Centre"
+  },
+  {
+    "description": "Fire Station 2",
+    "lat": 34.7691594592919,
+    "lon": 32.4361458242732,
+    "name": "Fire Station 2"
+  },
+  {
+    "description": "Archaeological Museum 2",
+    "lat": 34.7713774580685,
+    "lon": 32.430262290771,
+    "name": "Archaeological Museum 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Panikou Pastidi",
+    "lat": 34.7727190556443,
+    "lon": 32.4259910012814,
+    "name": "Georg. Griva Digeni Ave. - Panikou Pastidi"
+  },
+  {
+    "description": "Pafos City Hall",
+    "lat": 34.7736844116156,
+    "lon": 32.4241811128168,
+    "name": "Pafos City Hall"
+  },
+  {
+    "description": "Evagora Pallikaridi - Charalambou Mouskou 1",
+    "lat": 34.7764438747649,
+    "lon": 32.4222931057247,
+    "name": "Evagora Pallikaridi - Charalambou Mouskou 1"
+  },
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  }
+]

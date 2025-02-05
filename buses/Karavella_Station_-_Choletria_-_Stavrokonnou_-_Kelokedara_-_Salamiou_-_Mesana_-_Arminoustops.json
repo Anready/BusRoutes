@@ -1,0 +1,212 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Evagora Pallikaridi - Charalambou Mouskou 2",
+    "lat": 34.7763634448883,
+    "lon": 32.4224466703481,
+    "name": "Evagora Pallikaridi - Charalambou Mouskou 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ypol. N. Papageorgiou",
+    "lat": 34.7730323424325,
+    "lon": 32.4254970529272,
+    "name": "Georg. Griva Digeni Ave. - Ypol. N. Papageorgiou"
+  },
+  {
+    "description": "Archaeological Museum 1",
+    "lat": 34.771406554842,
+    "lon": 32.4306992191937,
+    "name": "Archaeological Museum 1"
+  },
+  {
+    "description": "Fire Station 1",
+    "lat": 34.7695891522913,
+    "lon": 32.435465367438,
+    "name": "Fire Station 1"
+  },
+  {
+    "description": "A` High School - Ag. Theodoros 1",
+    "lat": 34.7672189940113,
+    "lon": 32.4436226157175,
+    "name": "A` High School - Ag. Theodoros 1"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ellados",
+    "lat": 34.7641888377087,
+    "lon": 32.4475330556782,
+    "name": "Archiep. Makariou C` Ave. - Ellados"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Olympiados",
+    "lat": 34.7617774012893,
+    "lon": 32.4506960835969,
+    "name": "Archiep. Makariou C` Ave. - Olympiados"
+  },
+  {
+    "description": "Geroskipou Art Museum",
+    "lat": 34.759926476827,
+    "lon": 32.4541939641612,
+    "name": "Geroskipou Art Museum"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Al. Panagouli",
+    "lat": 34.7589023723357,
+    "lon": 32.4570853205206,
+    "name": "Archiep. Makariou C` Ave. - Al. Panagouli"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ag. Sergiou 1",
+    "lat": 34.756191246285,
+    "lon": 32.4618669001097,
+    "name": "Archiep. Makariou C` Ave. - Ag. Sergiou 1"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Filias",
+    "lat": 34.7528419525787,
+    "lon": 32.4651117343522,
+    "name": "Archiep. Makariou C` Ave. - Filias"
+  },
+  {
+    "description": "American Academy 1",
+    "lat": 34.7453419748184,
+    "lon": 32.4740200977946,
+    "name": "American Academy 1"
+  },
+  {
+    "description": "1st Stop Acheleia",
+    "lat": 34.740112978729,
+    "lon": 32.4806186330465,
+    "name": "1st Stop Acheleia"
+  },
+  {
+    "description": "Ag. Georgios Church - Acheleia 1",
+    "lat": 34.7386787516233,
+    "lon": 32.4847677782398,
+    "name": "Ag. Georgios Church - Acheleia 1"
+  },
+  {
+    "description": "3rd Stop Acheleia",
+    "lat": 34.7349074057902,
+    "lon": 32.4950701441028,
+    "name": "3rd Stop Acheleia"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Anexartisias 1",
+    "lat": 34.7287723221796,
+    "lon": 32.5120266264025,
+    "name": "Archiep. Makariou C` Ave. - Anexartisias 1"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 1st Stop",
+    "lat": 34.7233747153902,
+    "lon": 32.5267592749869,
+    "name": "Old Lemesos - Pafos Road - 1st Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 3rd Stop",
+    "lat": 34.7202521982316,
+    "lon": 32.5355142956288,
+    "name": "Old Lemesos - Pafos Road - 3rd Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 5th Stop",
+    "lat": 34.7180309322553,
+    "lon": 32.5418938045008,
+    "name": "Old Lemesos - Pafos Road - 5th Stop"
+  },
+  {
+    "description": "1st Stop Nikokleia",
+    "lat": 34.7148778850996,
+    "lon": 32.5500035327636,
+    "name": "1st Stop Nikokleia"
+  },
+  {
+    "description": "1st Stop Nikokleia",
+    "lat": 34.7250058161995,
+    "lon": 32.565174170509,
+    "name": "1st Stop Nikokleia"
+  },
+  {
+    "description": "Nikokleia - Choletria Road - 1st Stop",
+    "lat": 34.7322841975883,
+    "lon": 32.5731208674112,
+    "name": "Nikokleia - Choletria Road - 1st Stop"
+  },
+  {
+    "description": "1st Stop Choletria",
+    "lat": 34.7619660079989,
+    "lon": 32.5982861231834,
+    "name": "1st Stop Choletria"
+  },
+  {
+    "description": "3rd Stop Choletria",
+    "lat": 34.7625071698042,
+    "lon": 32.6010589935626,
+    "name": "3rd Stop Choletria"
+  },
+  {
+    "description": "5th Stop Choletria",
+    "lat": 34.7647544061165,
+    "lon": 32.601616408464,
+    "name": "5th Stop Choletria"
+  },
+  {
+    "description": "1st Stop Stavrokonnou",
+    "lat": 34.7850617771756,
+    "lon": 32.6183511664563,
+    "name": "1st Stop Stavrokonnou"
+  },
+  {
+    "description": "3rd Stop Stavrokonnou",
+    "lat": 34.7852887407502,
+    "lon": 32.6217275362373,
+    "name": "3rd Stop Stavrokonnou"
+  },
+  {
+    "description": "Stavrokonnou - Kelokedara Road - 1st Stop",
+    "lat": 34.7932842373276,
+    "lon": 32.6477073007429,
+    "name": "Stavrokonnou - Kelokedara Road - 1st Stop"
+  },
+  {
+    "description": "1st Stop Kelokedara",
+    "lat": 34.8081080145647,
+    "lon": 32.6503884566345,
+    "name": "1st Stop Kelokedara"
+  },
+  {
+    "description": "3rd Stop Kelokedara",
+    "lat": 34.811058763919,
+    "lon": 32.6510757424539,
+    "name": "3rd Stop Kelokedara"
+  },
+  {
+    "description": "1st Stop Salamiou",
+    "lat": 34.8374922670005,
+    "lon": 32.6886533640849,
+    "name": "1st Stop Salamiou"
+  },
+  {
+    "description": "3rd Stop Salamiou",
+    "lat": 34.8400816458595,
+    "lon": 32.689168610329,
+    "name": "3rd Stop Salamiou"
+  },
+  {
+    "description": "Mesana 1",
+    "lat": 34.8486734816149,
+    "lon": 32.7065286038844,
+    "name": "Mesana 1"
+  },
+  {
+    "description": "Arminou ",
+    "lat": 34.8620429104563,
+    "lon": 32.7202659353307,
+    "name": "Arminou "
+  }
+]

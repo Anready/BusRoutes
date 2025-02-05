@@ -1,0 +1,212 @@
+[
+  {
+    "description": "Armenochori",
+    "lat": 34.7440826076798,
+    "lon": 33.1292294290511,
+    "name": "Armenochori"
+  },
+  {
+    "description": "Agia Anna Church 1",
+    "lat": 34.7140638465295,
+    "lon": 33.1276974823956,
+    "name": "Agia Anna Church 1"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Ionias",
+    "lat": 34.7160099957147,
+    "lon": 33.1293167963865,
+    "name": "Georgiou Griva Digeni - Ionias"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Poseidonos",
+    "lat": 34.7191887209019,
+    "lon": 33.1335592929629,
+    "name": "Georgiou Griva Digeni - Poseidonos"
+  },
+  {
+    "description": "Agios Tychonas Elementary School 1",
+    "lat": 34.7251361880152,
+    "lon": 33.137435350573,
+    "name": "Agios Tychonas Elementary School 1"
+  },
+  {
+    "description": "Agios Tychonas Community Board 1",
+    "lat": 34.7258013605544,
+    "lon": 33.1393260238364,
+    "name": "Agios Tychonas Community Board 1"
+  },
+  {
+    "description": "Agios Tychonas Community Board 2",
+    "lat": 34.725819033529,
+    "lon": 33.1396428026819,
+    "name": "Agios Tychonas Community Board 2"
+  },
+  {
+    "description": "Agios Tychonas Elementary School 2",
+    "lat": 34.7251089125897,
+    "lon": 33.1376319067058,
+    "name": "Agios Tychonas Elementary School 2"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Vyzantiou",
+    "lat": 34.7187019970832,
+    "lon": 33.1333400813326,
+    "name": "Georgiou Griva Digeni - Vyzantiou"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Kirkis",
+    "lat": 34.7159017120614,
+    "lon": 33.129382154326,
+    "name": "Georgiou Griva Digeni - Kirkis"
+  },
+  {
+    "description": "Agia Anna Church 2",
+    "lat": 34.713964558648,
+    "lon": 33.1277846964168,
+    "name": "Agia Anna Church 2"
+  },
+  {
+    "description": "Mesolongiou - Georgiou Griva Digeni 2",
+    "lat": 34.711097180969,
+    "lon": 33.1274963546279,
+    "name": "Mesolongiou - Georgiou Griva Digeni 2"
+  },
+  {
+    "description": "Onisilou 2",
+    "lat": 34.7097020164433,
+    "lon": 33.1249825519696,
+    "name": "Onisilou 2"
+  },
+  {
+    "description": "Amathountos Ave. - Armonia Beach",
+    "lat": 34.7076849182811,
+    "lon": 33.1221184769696,
+    "name": "Amathountos Ave. - Armonia Beach"
+  },
+  {
+    "description": "Amathountos Ave. - Poseidonia Hotel",
+    "lat": 34.7059852321227,
+    "lon": 33.1173440347264,
+    "name": "Amathountos Ave. - Poseidonia Hotel"
+  },
+  {
+    "description": "Amathountos Ave. - Sailing Centre",
+    "lat": 34.705104510564,
+    "lon": 33.114154248566,
+    "name": "Amathountos Ave. - Sailing Centre"
+  },
+  {
+    "description": "Amathountos Ave. - Marathon Hotel",
+    "lat": 34.7034582549087,
+    "lon": 33.1097842071301,
+    "name": "Amathountos Ave. - Marathon Hotel"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Pervolas",
+    "lat": 34.7013348530156,
+    "lon": 33.104299977933,
+    "name": "Vasileos Georgiou A´ - Pervolas"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Stymfalion",
+    "lat": 34.6993725987447,
+    "lon": 33.0999517875182,
+    "name": "Vasileos Georgiou A´ - Stymfalion"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Apollonia Hotel 1",
+    "lat": 34.6982220026645,
+    "lon": 33.0953426854081,
+    "name": "Vasileos Georgiou A´ - Apollonia Hotel 1"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Amerikanas",
+    "lat": 34.6964850370689,
+    "lon": 33.0907767448744,
+    "name": "Vasileos Georgiou A´ - Amerikanas"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Ydras",
+    "lat": 34.6957383421426,
+    "lon": 33.0883411175976,
+    "name": "Vasileos Georgiou A´ - Ydras"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Dasoudi Beach",
+    "lat": 34.6938025165958,
+    "lon": 33.084070050195,
+    "name": "Vasileos Georgiou A´ - Dasoudi Beach"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Andrea Zappa",
+    "lat": 34.692776264035,
+    "lon": 33.0814377622389,
+    "name": "Vasileos Georgiou A´ - Andrea Zappa"
+  },
+  {
+    "description": "Promachon Eleftherias - KEAN 1",
+    "lat": 34.6905888888998,
+    "lon": 33.0752561654003,
+    "name": "Promachon Eleftherias - KEAN 1"
+  },
+  {
+    "description": "28 Oktovriou - Debenhams 1",
+    "lat": 34.6880320242089,
+    "lon": 33.0680811006019,
+    "name": "28 Oktovriou - Debenhams 1"
+  },
+  {
+    "description": "Kefallinias - Lefkados 2",
+    "lat": 34.688927367751,
+    "lon": 33.0633108655562,
+    "name": "Kefallinias - Lefkados 2"
+  },
+  {
+    "description": "Agios Nikolaos Church 1",
+    "lat": 34.6887681600871,
+    "lon": 33.0570004139943,
+    "name": "Agios Nikolaos Church 1"
+  },
+  {
+    "description": "Griva Digeni - Archiep. Makariou C´ Ave.",
+    "lat": 34.6872090893536,
+    "lon": 33.054761294322,
+    "name": "Griva Digeni - Archiep. Makariou C´ Ave."
+  },
+  {
+    "description": "Zoo - PASHDY",
+    "lat": 34.6846393759327,
+    "lon": 33.0538862435104,
+    "name": "Zoo - PASHDY"
+  },
+  {
+    "description": "Gladstonos - Aristodimou Pilavaki",
+    "lat": 34.6837388024438,
+    "lon": 33.0510581915224,
+    "name": "Gladstonos - Aristodimou Pilavaki"
+  },
+  {
+    "description": "B´ Elementary School 2",
+    "lat": 34.6828563923632,
+    "lon": 33.0477389574681,
+    "name": "B´ Elementary School 2"
+  },
+  {
+    "description": "Gladstonos - Zinonos",
+    "lat": 34.681170955881,
+    "lon": 33.0453472700374,
+    "name": "Gladstonos - Zinonos"
+  },
+  {
+    "description": "Gladstonos - Vragadinou",
+    "lat": 34.6792603888362,
+    "lon": 33.0419076004369,
+    "name": "Gladstonos - Vragadinou"
+  },
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  }
+]

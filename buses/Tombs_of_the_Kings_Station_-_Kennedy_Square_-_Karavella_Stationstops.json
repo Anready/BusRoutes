@@ -1,0 +1,50 @@
+[
+  {
+    "description": "Tombs of the Kings Bus Station",
+    "lat": 34.7700851526625,
+    "lon": 32.4107318563524,
+    "name": "Tombs of the Kings Bus Station"
+  },
+  {
+    "description": "Tafoi Ton Vasileon - Angelou Sikelianou",
+    "lat": 34.7662613381543,
+    "lon": 32.4106606857937,
+    "name": "Tafoi Ton Vasileon - Angelou Sikelianou"
+  },
+  {
+    "description": "Kings Avenue Mall 1",
+    "lat": 34.7653958302467,
+    "lon": 32.4144367924237,
+    "name": "Kings Avenue Mall 1"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Charal. Filippidi",
+    "lat": 34.7684089834858,
+    "lon": 32.4165792170559,
+    "name": "Apostolou Pavlou Ave. - Charal. Filippidi"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Kyr. Konstantinou",
+    "lat": 34.7694763761491,
+    "lon": 32.417271094156,
+    "name": "Apostolou Pavlou Ave. - Kyr. Konstantinou"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Michail Kyprianou",
+    "lat": 34.772203943258,
+    "lon": 32.4181589703486,
+    "name": "Apostolou Pavlou Ave. - Michail Kyprianou"
+  },
+  {
+    "description": "Evagora Pallikaridi - Charalambou Mouskou 1",
+    "lat": 34.7764438747649,
+    "lon": 32.4222931057247,
+    "name": "Evagora Pallikaridi - Charalambou Mouskou 1"
+  },
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  }
+]

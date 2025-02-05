@@ -1,0 +1,158 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Evagora Pallikaridi - Charalambou Mouskou 2",
+    "lat": 34.7763634448883,
+    "lon": 32.4224466703481,
+    "name": "Evagora Pallikaridi - Charalambou Mouskou 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ypol. N. Papageorgiou",
+    "lat": 34.7730323424325,
+    "lon": 32.4254970529272,
+    "name": "Georg. Griva Digeni Ave. - Ypol. N. Papageorgiou"
+  },
+  {
+    "description": "Pafos District Courthouse 2",
+    "lat": 34.7748898009398,
+    "lon": 32.4273748382485,
+    "name": "Pafos District Courthouse 2"
+  },
+  {
+    "description": "7 Elementary School - Agios Kendeas 2",
+    "lat": 34.7766990894467,
+    "lon": 32.4247721878265,
+    "name": "7 Elementary School - Agios Kendeas 2"
+  },
+  {
+    "description": "Evag. Pallikaridi Ave. - Athinas",
+    "lat": 34.780091716565,
+    "lon": 32.4251967432691,
+    "name": "Evag. Pallikaridi Ave. - Athinas"
+  },
+  {
+    "description": "Ellados Ave. - Olgas Xinaridou",
+    "lat": 34.7823110544337,
+    "lon": 32.4273235593229,
+    "name": "Ellados Ave. - Olgas Xinaridou"
+  },
+  {
+    "description": "Dasoudi Park",
+    "lat": 34.789801336744,
+    "lon": 32.4343220448345,
+    "name": "Dasoudi Park"
+  },
+  {
+    "description": "Mesogis Ave. - Panagioti Toumazou",
+    "lat": 34.795172058822,
+    "lon": 32.4374008005802,
+    "name": "Mesogis Ave. - Panagioti Toumazou"
+  },
+  {
+    "description": "Mesogis Ave. - Viktorias",
+    "lat": 34.7977631588805,
+    "lon": 32.4400177369083,
+    "name": "Mesogis Ave. - Viktorias"
+  },
+  {
+    "description": "Mesogis Ave. - Foti Pitta",
+    "lat": 34.7998172708492,
+    "lon": 32.4415671179024,
+    "name": "Mesogis Ave. - Foti Pitta"
+  },
+  {
+    "description": "Mesogi Industrial Area - 1st Stop",
+    "lat": 34.8056177513665,
+    "lon": 32.4459885516962,
+    "name": "Mesogi Industrial Area - 1st Stop"
+  },
+  {
+    "description": "Mesogi Industrial Area - 3rd Stop",
+    "lat": 34.8109734073654,
+    "lon": 32.4497903476892,
+    "name": "Mesogi Industrial Area - 3rd Stop"
+  },
+  {
+    "description": "Mesogis Ave. - Michalaki Karaoli",
+    "lat": 34.8160313398671,
+    "lon": 32.4515827204013,
+    "name": "Mesogis Ave. - Michalaki Karaoli"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Teratsou",
+    "lat": 34.8407984637966,
+    "lon": 32.4689511405419,
+    "name": "Archiep. Makariou C` Ave. - Teratsou"
+  },
+  {
+    "description": "1st Stop Stroumpi",
+    "lat": 34.8769718777316,
+    "lon": 32.482461998289,
+    "name": "1st Stop Stroumpi"
+  },
+  {
+    "description": "Eleftherias Ave. - Agias Sofias Square",
+    "lat": 34.8843385983535,
+    "lon": 32.482328272277,
+    "name": "Eleftherias Ave. - Agias Sofias Square"
+  },
+  {
+    "description": "Eleftherias Ave. - Charilaou Michail",
+    "lat": 34.8898567446617,
+    "lon": 32.4779817651117,
+    "name": "Eleftherias Ave. - Charilaou Michail"
+  },
+  {
+    "description": "1st Stop Giolou",
+    "lat": 34.9199431699347,
+    "lon": 32.4726896092335,
+    "name": "1st Stop Giolou"
+  },
+  {
+    "description": "3rd Stop Giolou",
+    "lat": 34.921403900298,
+    "lon": 32.4768405387943,
+    "name": "3rd Stop Giolou"
+  },
+  {
+    "description": "1st Stop Skoulli",
+    "lat": 34.9809229157666,
+    "lon": 32.4512525089997,
+    "name": "1st Stop Skoulli"
+  },
+  {
+    "description": "3rd Stop Skoulli",
+    "lat": 34.9841491239898,
+    "lon": 32.4528087081713,
+    "name": "3rd Stop Skoulli"
+  },
+  {
+    "description": "1st Stop Goudi",
+    "lat": 34.9875249313606,
+    "lon": 32.4515481195813,
+    "name": "1st Stop Goudi"
+  },
+  {
+    "description": "2nd Stop Chrysochou",
+    "lat": 35.0059128194857,
+    "lon": 32.4400496543755,
+    "name": "2nd Stop Chrysochou"
+  },
+  {
+    "description": "Konstantinoupoleos - 2nd  Stop",
+    "lat": 35.0271454577489,
+    "lon": 32.4316394421102,
+    "name": "Konstantinoupoleos - 2nd  Stop"
+  },
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  }
+]

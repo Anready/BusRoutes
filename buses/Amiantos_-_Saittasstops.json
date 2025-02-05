@@ -1,0 +1,38 @@
+[
+  {
+    "description": "1st Amiantos 1",
+    "lat": 34.9201138104039,
+    "lon": 32.9345962001787,
+    "name": "1st Amiantos 1"
+  },
+  {
+    "description": "2nd Amiantos 2",
+    "lat": 34.9183830065589,
+    "lon": 32.9356595140413,
+    "name": "2nd Amiantos 2"
+  },
+  {
+    "description": "Ap. Andreas Church - Amiantos 2",
+    "lat": 34.9173196798609,
+    "lon": 32.9370835451353,
+    "name": "Ap. Andreas Church - Amiantos 2"
+  },
+  {
+    "description": "Fylagra 2",
+    "lat": 34.8852943924522,
+    "lon": 32.9300603797764,
+    "name": "Fylagra 2"
+  },
+  {
+    "description": "Moniatis 2",
+    "lat": 34.8622066405792,
+    "lon": 32.9121158040017,
+    "name": "Moniatis 2"
+  },
+  {
+    "description": "Distrato Pelendriou 2",
+    "lat": 34.8602780564943,
+    "lon": 32.9137807561998,
+    "name": "Distrato Pelendriou 2"
+  }
+]

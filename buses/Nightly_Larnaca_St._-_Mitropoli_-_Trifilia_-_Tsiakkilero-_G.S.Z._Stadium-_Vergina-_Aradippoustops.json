@@ -1,0 +1,122 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "American Academy 1",
+    "lat": 34.9177108646496,
+    "lon": 33.6270831502953,
+    "name": "American Academy 1"
+  },
+  {
+    "description": "Larnaka Bishopric 1",
+    "lat": 34.9209982491153,
+    "lon": 33.6243492685979,
+    "name": "Larnaka Bishopric 1"
+  },
+  {
+    "description": "Mitropoleos Square",
+    "lat": 34.9224331365609,
+    "lon": 33.6241302251364,
+    "name": "Mitropoleos Square"
+  },
+  {
+    "description": "Sintika Chanoum 1",
+    "lat": 34.9255629867088,
+    "lon": 33.6186796367258,
+    "name": "Sintika Chanoum 1"
+  },
+  {
+    "description": "Smyrnis - Granikou",
+    "lat": 34.9277779500993,
+    "lon": 33.6175575809534,
+    "name": "Smyrnis - Granikou"
+  },
+  {
+    "description": "Kyriakou Matsi Ave. - Alexandrou Ragavi",
+    "lat": 34.9309739359891,
+    "lon": 33.6114499233472,
+    "name": "Kyriakou Matsi Ave. - Alexandrou Ragavi"
+  },
+  {
+    "description": "Afstralias Ave. - Chiou",
+    "lat": 34.9303649735847,
+    "lon": 33.6052043477343,
+    "name": "Afstralias Ave. - Chiou"
+  },
+  {
+    "description": "G.S.Z. Stadium 2",
+    "lat": 34.9254124078872,
+    "lon": 33.6019819468802,
+    "name": "G.S.Z. Stadium 2"
+  },
+  {
+    "description": "Olympic Swimming Pool",
+    "lat": 34.9238488050625,
+    "lon": 33.6008866395403,
+    "name": "Olympic Swimming Pool"
+  },
+  {
+    "description": "Antheon - Archiep. Paisiou",
+    "lat": 34.9220636428672,
+    "lon": 33.5953338740396,
+    "name": "Antheon - Archiep. Paisiou"
+  },
+  {
+    "description": "Archiep. Paisiou - Agion Panton",
+    "lat": 34.9253123175008,
+    "lon": 33.5855583729979,
+    "name": "Archiep. Paisiou - Agion Panton"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Dim. Koumantari",
+    "lat": 34.9393648541562,
+    "lon": 33.5904326299772,
+    "name": "Archiep. Makariou C´ Ave. - Dim. Koumantari"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kon. Kanari 1",
+    "lat": 34.941723966209,
+    "lon": 33.5911394361108,
+    "name": "Archiep. Makariou C´ Ave. - Kon. Kanari 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Foti Pitta Ave. 1",
+    "lat": 34.944617638117,
+    "lon": 33.5913244706933,
+    "name": "Archiep. Makariou C´ Ave. - Foti Pitta Ave. 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 1 Apriliou Ave. 2",
+    "lat": 34.9507641637747,
+    "lon": 33.5920038188165,
+    "name": "Archiep. Makariou C´ Ave. - 1 Apriliou Ave. 2"
+  },
+  {
+    "description": "Agias Lavras",
+    "lat": 34.9503263781404,
+    "lon": 33.593019197046,
+    "name": "Agias Lavras"
+  },
+  {
+    "description": "Papaflessa",
+    "lat": 34.9498133695562,
+    "lon": 33.5928183698951,
+    "name": "Papaflessa"
+  }
+]

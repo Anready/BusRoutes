@@ -1,0 +1,164 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Larnaka Municipal Theatre 1",
+    "lat": 34.9160219121426,
+    "lon": 33.6276067226033,
+    "name": "Larnaka Municipal Theatre 1"
+  },
+  {
+    "description": "Old G.S.Z.",
+    "lat": 34.913394111229,
+    "lon": 33.6283311144079,
+    "name": "Old G.S.Z."
+  },
+  {
+    "description": "Artemidos Ave. - Okkoular 1",
+    "lat": 34.9094569090795,
+    "lon": 33.6294176522971,
+    "name": "Artemidos Ave. - Okkoular 1"
+  },
+  {
+    "description": "Larnaka Courthouse 1",
+    "lat": 34.9021385907397,
+    "lon": 33.6304235189556,
+    "name": "Larnaka Courthouse 1"
+  },
+  {
+    "description": "Artemidos Ave. - Salt Lake",
+    "lat": 34.8981437002275,
+    "lon": 33.6304586623638,
+    "name": "Artemidos Ave. - Salt Lake"
+  },
+  {
+    "description": "Artemidos Ave. - Touzchane 1",
+    "lat": 34.8941481028894,
+    "lon": 33.6323652921298,
+    "name": "Artemidos Ave. - Touzchane 1"
+  },
+  {
+    "description": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1",
+    "lat": 34.8897896000335,
+    "lon": 33.6294865018293,
+    "name": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1"
+  },
+  {
+    "description": "Artemidos Ave. - Old Airport 1",
+    "lat": 34.8871216677803,
+    "lon": 33.6257563183331,
+    "name": "Artemidos Ave. - Old Airport 1"
+  },
+  {
+    "description": "Larnaka Airport",
+    "lat": 34.8710309947938,
+    "lon": 33.606891856567,
+    "name": "Larnaka Airport"
+  },
+  {
+    "description": "Timiou Prodromou - Dromolaxia - Airport Road 1",
+    "lat": 34.8766678433577,
+    "lon": 33.5975996707748,
+    "name": "Timiou Prodromou - Dromolaxia - Airport Road 1"
+  },
+  {
+    "description": "Timiou Prodromou - Dimokratias",
+    "lat": 34.8763117311613,
+    "lon": 33.5929795445818,
+    "name": "Timiou Prodromou - Dimokratias"
+  },
+  {
+    "description": "B´ Dromolaxia Elementary School 1",
+    "lat": 34.8765261795045,
+    "lon": 33.5896765733283,
+    "name": "B´ Dromolaxia Elementary School 1"
+  },
+  {
+    "description": "25 Martiou Ave. - Artemidos",
+    "lat": 34.874094058713,
+    "lon": 33.5835318141091,
+    "name": "25 Martiou Ave. - Artemidos"
+  },
+  {
+    "description": "25 Martiou Ave. - Yuri Gagarin",
+    "lat": 34.8716304358108,
+    "lon": 33.5820373113433,
+    "name": "25 Martiou Ave. - Yuri Gagarin"
+  },
+  {
+    "description": "Dromolaxias Ave. - Volou",
+    "lat": 34.8556358092874,
+    "lon": 33.5758533055911,
+    "name": "Dromolaxias Ave. - Volou"
+  },
+  {
+    "description": "Meneou Ave. - Gravias",
+    "lat": 34.8498467431839,
+    "lon": 33.5719954103649,
+    "name": "Meneou Ave. - Gravias"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Tinou",
+    "lat": 34.8489915558273,
+    "lon": 33.5658967708714,
+    "name": "Archiep. Makariou C´ Ave. - Tinou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Dios",
+    "lat": 34.8527175386653,
+    "lon": 33.5517782086637,
+    "name": "Archiep. Makariou C´ Ave. - Dios"
+  },
+  {
+    "description": "Dios - Aigialousis",
+    "lat": 34.8493007422974,
+    "lon": 33.5496005121648,
+    "name": "Dios - Aigialousis"
+  },
+  {
+    "description": "Ammochostou-Tersefanou",
+    "lat": 34.8495617123168,
+    "lon": 33.547720817237,
+    "name": "Ammochostou-Tersefanou"
+  },
+  {
+    "description": "Keryneias",
+    "lat": 34.851380182347,
+    "lon": 33.5463983354965,
+    "name": "Keryneias"
+  },
+  {
+    "description": "Trion Ierarchon - Markou Drakou",
+    "lat": 34.852719399676,
+    "lon": 33.5453679873331,
+    "name": "Trion Ierarchon - Markou Drakou"
+  },
+  {
+    "description": "Trion Ierarchon - Vyzantiou",
+    "lat": 34.8545773849807,
+    "lon": 33.5432689799664,
+    "name": "Trion Ierarchon - Vyzantiou"
+  },
+  {
+    "description": "Trion Ierarchon - Stadio",
+    "lat": 34.8559952893906,
+    "lon": 33.5407622385784,
+    "name": "Trion Ierarchon - Stadio"
+  }
+]

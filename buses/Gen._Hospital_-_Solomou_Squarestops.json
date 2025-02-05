@@ -1,0 +1,80 @@
+[
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Kalamon - Strovolos Industrial Zone",
+    "lat": 35.1240546553602,
+    "lon": 33.3728737926889,
+    "name": "Kalamon - Strovolos Industrial Zone"
+  },
+  {
+    "description": "Kalamon - Meteoron",
+    "lat": 35.1268639058609,
+    "lon": 33.3683207493343,
+    "name": "Kalamon - Meteoron"
+  },
+  {
+    "description": "Lemesou Ave. - Ellispontou",
+    "lat": 35.1423644970571,
+    "lon": 33.3741867753681,
+    "name": "Lemesou Ave. - Ellispontou"
+  },
+  {
+    "description": "Police Headquarters",
+    "lat": 35.1477840726805,
+    "lon": 33.3741017977825,
+    "name": "Police Headquarters"
+  },
+  {
+    "description": "Lemesou Ave. - San Sousi",
+    "lat": 35.1531199796396,
+    "lon": 33.3748288840826,
+    "name": "Lemesou Ave. - San Sousi"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Ethnikis Frouras",
+    "lat": 35.1563864814598,
+    "lon": 33.3740862769427,
+    "name": "Archiep. Makariou III Ave. - Ethnikis Frouras"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimitriou Papanikoli",
+    "lat": 35.1607907799319,
+    "lon": 33.3698681032299,
+    "name": "Archiep. Makariou III Ave. - Dimitriou Papanikoli"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Karpenisiou",
+    "lat": 35.1614829573628,
+    "lon": 33.3676093064794,
+    "name": "Archiep. Makariou III Ave. - Karpenisiou"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimofontos",
+    "lat": 35.1627608014222,
+    "lon": 33.3654848553327,
+    "name": "Archiep. Makariou III Ave. - Dimofontos"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Mnasiadou",
+    "lat": 35.1661974886152,
+    "lon": 33.3620961581633,
+    "name": "Archiep. Makariou III Ave. - Mnasiadou"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Theofani Theodotou",
+    "lat": 35.1677813251555,
+    "lon": 33.3601375632642,
+    "name": "Archiep. Makariou III Ave. - Theofani Theodotou"
+  },
+  {
+    "description": "Solomos Square Alighting ",
+    "lat": 35.170392452312,
+    "lon": 33.3583920449795,
+    "name": "Solomos Square Alighting "
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  },
+  {
+    "description": "1st Stop Pelathousa 1",
+    "lat": 35.0287394473763,
+    "lon": 32.4752257460254,
+    "name": "1st Stop Pelathousa 1"
+  },
+  {
+    "description": "2nd Stop Pelathousa",
+    "lat": 35.0274615887923,
+    "lon": 32.4758258724408,
+    "name": "2nd Stop Pelathousa"
+  }
+]

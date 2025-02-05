@@ -1,0 +1,230 @@
+[
+  {
+    "description": "28 Oktovriou",
+    "lat": 35.060975473977,
+    "lon": 33.5413317768793,
+    "name": "28 Oktovriou"
+  },
+  {
+    "description": "Meg. Konstantinou - Meg. Alexandrou",
+    "lat": 35.0625541735624,
+    "lon": 33.5411776948695,
+    "name": "Meg. Konstantinou - Meg. Alexandrou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 9 Iouliou",
+    "lat": 35.0632624320364,
+    "lon": 33.5400747035483,
+    "name": "Archiep. Makariou C´ Ave. - 9 Iouliou"
+  },
+  {
+    "description": "Athienou City Hall 2",
+    "lat": 35.063514808774,
+    "lon": 33.5380694010607,
+    "name": "Athienou City Hall 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Pan. Matsouka",
+    "lat": 35.0641514799795,
+    "lon": 33.5347944138414,
+    "name": "Archiep. Makariou C´ Ave. - Pan. Matsouka"
+  },
+  {
+    "description": "Eleftheriou Venizelou - Panagioti Matsouka",
+    "lat": 35.0637257632963,
+    "lon": 33.5331794807603,
+    "name": "Eleftheriou Venizelou - Panagioti Matsouka"
+  },
+  {
+    "description": "Eleftheriou Venizelou - Konst. Toumpa",
+    "lat": 35.0629051572447,
+    "lon": 33.5352359301452,
+    "name": "Eleftheriou Venizelou - Konst. Toumpa"
+  },
+  {
+    "description": "Eleftheriou Venizelou - Ifaistou",
+    "lat": 35.0622877422136,
+    "lon": 33.536196983798,
+    "name": "Eleftheriou Venizelou - Ifaistou"
+  },
+  {
+    "description": "Mpoumpoulinas - Theokritou",
+    "lat": 35.0609891554301,
+    "lon": 33.5362213930971,
+    "name": "Mpoumpoulinas - Theokritou"
+  },
+  {
+    "description": "Theokritou - Mpoumpoulinas",
+    "lat": 35.0589303791457,
+    "lon": 33.5368659166879,
+    "name": "Theokritou - Mpoumpoulinas"
+  },
+  {
+    "description": "Athienou Cemetery",
+    "lat": 35.0578725336997,
+    "lon": 33.5354662762423,
+    "name": "Athienou Cemetery"
+  },
+  {
+    "description": "Theokritou - Ioanni Kai Marias Kramvi 2",
+    "lat": 35.0562474716559,
+    "lon": 33.5338655897507,
+    "name": "Theokritou - Ioanni Kai Marias Kramvi 2"
+  },
+  {
+    "description": "28th October-Athienou",
+    "lat": 35.0542369019222,
+    "lon": 33.5399165808899,
+    "name": "28th October-Athienou"
+  },
+  {
+    "description": "Panayioti Koumeni-Athienou",
+    "lat": 35.0533968261714,
+    "lon": 33.5422686697639,
+    "name": "Panayioti Koumeni-Athienou"
+  },
+  {
+    "description": "Panagioti Koumeni Roundabout 2",
+    "lat": 35.0504654810849,
+    "lon": 33.5424357030877,
+    "name": "Panagioti Koumeni Roundabout 2"
+  },
+  {
+    "description": "Avdellero Cemetery 2",
+    "lat": 35.0105374325109,
+    "lon": 33.5679826086375,
+    "name": "Avdellero Cemetery 2"
+  },
+  {
+    "description": "Avdellero Community Board 2",
+    "lat": 35.0097820906467,
+    "lon": 33.5694569632947,
+    "name": "Avdellero Community Board 2"
+  },
+  {
+    "description": "4th Stop Avdellero",
+    "lat": 35.0086777480509,
+    "lon": 33.5703589627005,
+    "name": "4th Stop Avdellero"
+  },
+  {
+    "description": "2nd Stop Avdellero",
+    "lat": 35.0057133721296,
+    "lon": 33.5717850121565,
+    "name": "2nd Stop Avdellero"
+  },
+  {
+    "description": "Akropoleos Ave. - Athinon Ave. 2",
+    "lat": 34.9489235196208,
+    "lon": 33.5753439913036,
+    "name": "Akropoleos Ave. - Athinon Ave. 2"
+  },
+  {
+    "description": "Akropoleos Ave. - Stadiou Ave. 2",
+    "lat": 34.942148810207,
+    "lon": 33.5834659714127,
+    "name": "Akropoleos Ave. - Stadiou Ave. 2"
+  },
+  {
+    "description": "Akropoleos Ave. - Foti Pitta Ave.",
+    "lat": 34.9394898794957,
+    "lon": 33.5869622335633,
+    "name": "Akropoleos Ave. - Foti Pitta Ave."
+  },
+  {
+    "description": "Eleftherias Ave. - Archiep. Makariou C´ Ave.",
+    "lat": 34.9362407999217,
+    "lon": 33.5912643422732,
+    "name": "Eleftherias Ave. - Archiep. Makariou C´ Ave."
+  },
+  {
+    "description": "Eleftherias Ave. - Petraki Giallourou",
+    "lat": 34.9312462540472,
+    "lon": 33.598411276935,
+    "name": "Eleftherias Ave. - Petraki Giallourou"
+  },
+  {
+    "description": "G.S.Z. Stadium 2",
+    "lat": 34.9254124078872,
+    "lon": 33.6019819468802,
+    "name": "G.S.Z. Stadium 2"
+  },
+  {
+    "description": "Olympic Swimming Pool",
+    "lat": 34.9238488050625,
+    "lon": 33.6008866395403,
+    "name": "Olympic Swimming Pool"
+  },
+  {
+    "description": "New Hospital 2",
+    "lat": 34.9217524628238,
+    "lon": 33.6035755347927,
+    "name": "New Hospital 2"
+  },
+  {
+    "description": "Mall Metropolis",
+    "lat": 34.924193545739,
+    "lon": 33.6077209580138,
+    "name": "Mall Metropolis"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 2",
+    "lat": 34.9232552988576,
+    "lon": 33.6114036101475,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 2"
+  },
+  {
+    "description": "Fire Station 2",
+    "lat": 34.9212721837046,
+    "lon": 33.6148375251659,
+    "name": "Fire Station 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2",
+    "lat": 34.9194167146212,
+    "lon": 33.6179766426449,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Thessalonikis Ave.",
+    "lat": 34.9180133596127,
+    "lon": 33.6208562831158,
+    "name": "Georg. Griva Digeni Ave. - Thessalonikis Ave."
+  },
+  {
+    "description": "Municipal Library 2",
+    "lat": 34.916724235321,
+    "lon": 33.6243059543314,
+    "name": "Municipal Library 2"
+  },
+  {
+    "description": "Municipal Park 2",
+    "lat": 34.9168095577485,
+    "lon": 33.6269996632646,
+    "name": "Municipal Park 2"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.9178223662695,
+    "lon": 33.6351304406883,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.9187528603531,
+    "lon": 33.6365279619346,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1"
+  },
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  }
+]

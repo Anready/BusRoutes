@@ -1,0 +1,146 @@
+[
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  },
+  {
+    "description": "Strovolos City Hall 2",
+    "lat": 35.1433329628898,
+    "lon": 33.3424653377379,
+    "name": "Strovolos City Hall 2"
+  },
+  {
+    "description": "Ave. Strovolou - Agias Marinas",
+    "lat": 35.1463101046099,
+    "lon": 33.3451235590251,
+    "name": "Ave. Strovolou - Agias Marinas"
+  },
+  {
+    "description": "Ave. Strovolou - SEK 2",
+    "lat": 35.1491470633039,
+    "lon": 33.3463322036359,
+    "name": "Ave. Strovolou - SEK 2"
+  },
+  {
+    "description": "Ave. Strovolou - Themidos",
+    "lat": 35.1515514101736,
+    "lon": 33.3474622409941,
+    "name": "Ave. Strovolou - Themidos"
+  },
+  {
+    "description": "Presidential Palace",
+    "lat": 35.1544421916331,
+    "lon": 33.3487591098419,
+    "name": "Presidential Palace"
+  },
+  {
+    "description": "Kyriakou Matsi - Konstantinou Satha",
+    "lat": 35.1569023450807,
+    "lon": 33.352403868505,
+    "name": "Kyriakou Matsi - Konstantinou Satha"
+  },
+  {
+    "description": "Glafkou - Knosou",
+    "lat": 35.1578782483592,
+    "lon": 33.3547906862698,
+    "name": "Glafkou - Knosou"
+  },
+  {
+    "description": "Arsinois - Nikis",
+    "lat": 35.1554250396038,
+    "lon": 33.3580409275614,
+    "name": "Arsinois - Nikis"
+  },
+  {
+    "description": "Arsinois - Esperidon",
+    "lat": 35.1551901629417,
+    "lon": 33.3612239250461,
+    "name": "Arsinois - Esperidon"
+  },
+  {
+    "description": "Armenias - Lykourgou",
+    "lat": 35.1541058505942,
+    "lon": 33.3649850167326,
+    "name": "Armenias - Lykourgou"
+  },
+  {
+    "description": "Armenias - Stasinou",
+    "lat": 35.1527715816758,
+    "lon": 33.3678775336691,
+    "name": "Armenias - Stasinou"
+  },
+  {
+    "description": "Armenias - Edessis",
+    "lat": 35.152126875545,
+    "lon": 33.3722991631292,
+    "name": "Armenias - Edessis"
+  },
+  {
+    "description": "Lemesou Ave. - San Sousi",
+    "lat": 35.1531199796396,
+    "lon": 33.3748288840826,
+    "name": "Lemesou Ave. - San Sousi"
+  },
+  {
+    "description": "Ave. Aglantzias - Archiepiskopo. Makariou C Ave.",
+    "lat": 35.1552604460424,
+    "lon": 33.3766393236877,
+    "name": "Ave. Aglantzias - Archiepiskopo. Makariou C Ave."
+  },
+  {
+    "description": "Ave. Aglantzias - H.H.I.C. 1",
+    "lat": 35.1557253062661,
+    "lon": 33.3808136631177,
+    "name": "Ave. Aglantzias - H.H.I.C. 1"
+  },
+  {
+    "description": "Ave. Aglantzias - Esperidon",
+    "lat": 35.1571135537119,
+    "lon": 33.383795617831,
+    "name": "Ave. Aglantzias - Esperidon"
+  },
+  {
+    "description": "Aglantzias - Athinas",
+    "lat": 35.1571213603829,
+    "lon": 33.3898234822151,
+    "name": "Aglantzias - Athinas"
+  },
+  {
+    "description": "Larnakos - Parnithos",
+    "lat": 35.1570328689589,
+    "lon": 33.3948736923646,
+    "name": "Larnakos - Parnithos"
+  },
+  {
+    "description": "Larnakos - Irakleous",
+    "lat": 35.1558073545048,
+    "lon": 33.3973820689846,
+    "name": "Larnakos - Irakleous"
+  },
+  {
+    "description": "Athalassas - Omonoias",
+    "lat": 35.149831901933,
+    "lon": 33.4046757853275,
+    "name": "Athalassas - Omonoias"
+  },
+  {
+    "description": "Ave. Athalassis - UCY Student Halls 1",
+    "lat": 35.1438813067368,
+    "lon": 33.4044597053849,
+    "name": "Ave. Athalassis - UCY Student Halls 1"
+  },
+  {
+    "description": "University of Cyprus - Oceanography Center",
+    "lat": 35.1443862687783,
+    "lon": 33.4071517965074,
+    "name": "University of Cyprus - Oceanography Center"
+  },
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  }
+]

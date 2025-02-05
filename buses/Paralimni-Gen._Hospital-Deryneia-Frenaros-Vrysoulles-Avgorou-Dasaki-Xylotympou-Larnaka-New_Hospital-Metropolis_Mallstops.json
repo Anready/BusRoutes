@@ -1,0 +1,308 @@
+[
+  {
+    "description": "Paralimni Square Bus Station",
+    "lat": 35.0394760084475,
+    "lon": 33.983638211908,
+    "name": "Paralimni Square Bus Station"
+  },
+  {
+    "description": "1 Apriliou Ave. - Tasou Markou 1",
+    "lat": 35.0407491591044,
+    "lon": 33.9778427683324,
+    "name": "1 Apriliou Ave. - Tasou Markou 1"
+  },
+  {
+    "description": "Xenion Education 1",
+    "lat": 35.0418675043459,
+    "lon": 33.9778122394597,
+    "name": "Xenion Education 1"
+  },
+  {
+    "description": "1 Apriliou Ave. - Cheimaras",
+    "lat": 35.0461075260558,
+    "lon": 33.9775557668991,
+    "name": "1 Apriliou Ave. - Cheimaras"
+  },
+  {
+    "description": "Griva Digeni Ave. - Daidalou",
+    "lat": 35.0500492091422,
+    "lon": 33.9762759889819,
+    "name": "Griva Digeni Ave. - Daidalou"
+  },
+  {
+    "description": "Eleftherias - Nikodimou Mylona",
+    "lat": 35.0541375220769,
+    "lon": 33.9724538651353,
+    "name": "Eleftherias - Nikodimou Mylona"
+  },
+  {
+    "description": "Eleftherias - Grigori Afxentiou",
+    "lat": 35.0570790045973,
+    "lon": 33.9699556448853,
+    "name": "Eleftherias - Grigori Afxentiou"
+  },
+  {
+    "description": "Eleftherias - Agiou Stylianou",
+    "lat": 35.0589530333582,
+    "lon": 33.9667537938205,
+    "name": "Eleftherias - Agiou Stylianou"
+  },
+  {
+    "description": "Famagusta General Hospital",
+    "lat": 35.0616307747604,
+    "lon": 33.9713035177178,
+    "name": "Famagusta General Hospital"
+  },
+  {
+    "description": "Eleftherias - Afroditis",
+    "lat": 35.061678409114,
+    "lon": 33.9630683116465,
+    "name": "Eleftherias - Afroditis"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Stadiou",
+    "lat": 35.062309950079,
+    "lon": 33.9596103162169,
+    "name": "Archiep. Makariou C´ - Stadiou"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Anagenniseos",
+    "lat": 35.0606652960502,
+    "lon": 33.9543491877211,
+    "name": "Archiep. Makariou C´ - Anagenniseos"
+  },
+  {
+    "description": "Archiep. Makariou C´  - Christ. Karona",
+    "lat": 35.0576789867598,
+    "lon": 33.949971944832,
+    "name": "Archiep. Makariou C´  - Christ. Karona"
+  },
+  {
+    "description": "Deryneia Municipal Swimming Pool 2",
+    "lat": 35.0499471080408,
+    "lon": 33.9342794009099,
+    "name": "Deryneia Municipal Swimming Pool 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ - 1st Stop",
+    "lat": 35.0459340201236,
+    "lon": 33.9284774243344,
+    "name": "Archiep. Makariou C´ - 1st Stop"
+  },
+  {
+    "description": "Foti Pitta Ave. - Panou Ioannou",
+    "lat": 35.0411111940593,
+    "lon": 33.9235878635063,
+    "name": "Foti Pitta Ave. - Panou Ioannou"
+  },
+  {
+    "description": "Michalaki Karaoli - Pampou Tragkoula",
+    "lat": 35.0416938880546,
+    "lon": 33.9216647959954,
+    "name": "Michalaki Karaoli - Pampou Tragkoula"
+  },
+  {
+    "description": "Giasoumi Kile - Dionysiou Solomou 1",
+    "lat": 35.0449024301976,
+    "lon": 33.9194860640343,
+    "name": "Giasoumi Kile - Dionysiou Solomou 1"
+  },
+  {
+    "description": "Kosta Ilia - Andrea Mantoles 1",
+    "lat": 35.0708261183207,
+    "lon": 33.8793717412675,
+    "name": "Kosta Ilia - Andrea Mantoles 1"
+  },
+  {
+    "description": "Acheritou Community Board 1",
+    "lat": 35.0731464434631,
+    "lon": 33.881447655786,
+    "name": "Acheritou Community Board 1"
+  },
+  {
+    "description": "Acheritou - Sotiri Sotiriou",
+    "lat": 35.075440876991,
+    "lon": 33.880880040634,
+    "name": "Acheritou - Sotiri Sotiriou"
+  },
+  {
+    "description": "Karyon - Markou Drakou 1",
+    "lat": 35.0416691874875,
+    "lon": 33.8406418834246,
+    "name": "Karyon - Markou Drakou 1"
+  },
+  {
+    "description": "Avgorou Ethnographic Museum 1",
+    "lat": 35.0397508190604,
+    "lon": 33.8403152520364,
+    "name": "Avgorou Ethnographic Museum 1"
+  },
+  {
+    "description": "Agios Georgios Church 2",
+    "lat": 35.0375050492655,
+    "lon": 33.8403909284225,
+    "name": "Agios Georgios Church 2"
+  },
+  {
+    "description": "Karyon - Panagioti Pafiti",
+    "lat": 35.0358039832481,
+    "lon": 33.8399349885632,
+    "name": "Karyon - Panagioti Pafiti"
+  },
+  {
+    "description": "A´ Avgorou Elementary School 2",
+    "lat": 35.0331620208623,
+    "lon": 33.8399298807102,
+    "name": "A´ Avgorou Elementary School 2"
+  },
+  {
+    "description": "Karyon - Xanthou Samara",
+    "lat": 35.0317127287166,
+    "lon": 33.8395752137723,
+    "name": "Karyon - Xanthou Samara"
+  },
+  {
+    "description": "1st Stop Avgorou Settlement",
+    "lat": 35.0265419991143,
+    "lon": 33.8388427052488,
+    "name": "1st Stop Avgorou Settlement"
+  },
+  {
+    "description": "2nd Stop Avgorou Settlement",
+    "lat": 35.0255798052345,
+    "lon": 33.8371557332918,
+    "name": "2nd Stop Avgorou Settlement"
+  },
+  {
+    "description": "A´ Avgorou Elementary School 1",
+    "lat": 35.0332075582365,
+    "lon": 33.839864570256,
+    "name": "A´ Avgorou Elementary School 1"
+  },
+  {
+    "description": "Karyon - Riga Feraiou",
+    "lat": 35.0358767216452,
+    "lon": 33.8398480281902,
+    "name": "Karyon - Riga Feraiou"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 35.0374876997809,
+    "lon": 33.8402920810549,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "Michail Karaoli - Petraki Giallourou 1",
+    "lat": 35.0398174249568,
+    "lon": 33.8372022672384,
+    "name": "Michail Karaoli - Petraki Giallourou 1"
+  },
+  {
+    "description": "B´ Avgorou Elementary School 1",
+    "lat": 35.04175434381,
+    "lon": 33.8335272003165,
+    "name": "B´ Avgorou Elementary School 1"
+  },
+  {
+    "description": "Technical and Agriculture School of Famagusta 1",
+    "lat": 35.045922602569,
+    "lon": 33.8279118916693,
+    "name": "Technical and Agriculture School of Famagusta 1"
+  },
+  {
+    "description": "Achna Livestock Area 2",
+    "lat": 35.0359980939851,
+    "lon": 33.785373478131,
+    "name": "Achna Livestock Area 2"
+  },
+  {
+    "description": "Griva Digeni - Achna Roundabout",
+    "lat": 35.0249768187168,
+    "lon": 33.7787458498129,
+    "name": "Griva Digeni - Achna Roundabout"
+  },
+  {
+    "description": "Arch. Michail and Agia Marina Church 1",
+    "lat": 35.0268866149819,
+    "lon": 33.7733926086318,
+    "name": "Arch. Michail and Agia Marina Church 1"
+  },
+  {
+    "description": "Dasos Achnas Square 1",
+    "lat": 35.0295352483052,
+    "lon": 33.769514977553,
+    "name": "Dasos Achnas Square 1"
+  },
+  {
+    "description": "Griva Digeni - Grigori Afxentiou",
+    "lat": 35.0319542625082,
+    "lon": 33.7662817504497,
+    "name": "Griva Digeni - Grigori Afxentiou"
+  },
+  {
+    "description": "Dasaki Achnas Stadium 1",
+    "lat": 35.0331747438975,
+    "lon": 33.7629166017368,
+    "name": "Dasaki Achnas Stadium 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Salaminos",
+    "lat": 35.0221488447801,
+    "lon": 33.7481040518644,
+    "name": "Archiep. Makariou C´ Ave. - Salaminos"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Christou Samara",
+    "lat": 35.0184371874233,
+    "lon": 33.7446175780191,
+    "name": "Archiep. Makariou C´ Ave. - Christou Samara"
+  },
+  {
+    "description": "Xylotymvou City Hall 1",
+    "lat": 35.0168054268885,
+    "lon": 33.7430902188198,
+    "name": "Xylotymvou City Hall 1"
+  },
+  {
+    "description": "Xylotymvou Public Kindergarden",
+    "lat": 35.010274497604,
+    "lon": 33.7346140491871,
+    "name": "Xylotymvou Public Kindergarden"
+  },
+  {
+    "description": "Xylotymvou - Dasaki Achnas Road",
+    "lat": 35.0087626668366,
+    "lon": 33.7326168510379,
+    "name": "Xylotymvou - Dasaki Achnas Road"
+  },
+  {
+    "description": "British Base (near highway exit)",
+    "lat": 35.0044219903979,
+    "lon": 33.7271863299191,
+    "name": "British Base (near highway exit)"
+  },
+  {
+    "description": "Larnaka - Dekeleia Ave. - 4th Stop",
+    "lat": 34.9826556679201,
+    "lon": 33.7163664163668,
+    "name": "Larnaka - Dekeleia Ave. - 4th Stop"
+  },
+  {
+    "description": "Larnaka - Dekeleia Ave. - 2nd Stop",
+    "lat": 34.9796717597997,
+    "lon": 33.7023390355508,
+    "name": "Larnaka - Dekeleia Ave. - 2nd Stop"
+  },
+  {
+    "description": "K.O.T. Beach 2",
+    "lat": 34.9793037601176,
+    "lon": 33.6989177261062,
+    "name": "K.O.T. Beach 2"
+  },
+  {
+    "description": "Dasaki Pylas Beach 2",
+    "lat": 34.9790570014533,
+    "lon": 33.696352011111,
+    "name": "Dasaki Pylas Beach 2"
+  }
+]

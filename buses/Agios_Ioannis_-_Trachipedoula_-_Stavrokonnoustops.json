@@ -1,0 +1,56 @@
+[
+  {
+    "description": "2nd Stop Agios Ioannis Pafou",
+    "lat": 34.8693029450962,
+    "lon": 32.6908311727379,
+    "name": "2nd Stop Agios Ioannis Pafou"
+  },
+  {
+    "description": "1st Stop Agios Ioannis Pafou 2",
+    "lat": 34.8674746413681,
+    "lon": 32.6917242400613,
+    "name": "1st Stop Agios Ioannis Pafou 2"
+  },
+  {
+    "description": "Salamiou Sport Field 2",
+    "lat": 34.8409447703653,
+    "lon": 32.6917028719496,
+    "name": "Salamiou Sport Field 2"
+  },
+  {
+    "description": "4th Stop Salamiou",
+    "lat": 34.8400817576435,
+    "lon": 32.6892123595583,
+    "name": "4th Stop Salamiou"
+  },
+  {
+    "description": "2nd Stop Salamiou",
+    "lat": 34.8374020915024,
+    "lon": 32.6886537035917,
+    "name": "2nd Stop Salamiou"
+  },
+  {
+    "description": "Trachypedoula",
+    "lat": 34.8005036902177,
+    "lon": 32.6789644675127,
+    "name": "Trachypedoula"
+  },
+  {
+    "description": "Stavrokonnou - Kelokedara Road - 2nd Stop",
+    "lat": 34.7932842056882,
+    "lon": 32.6476963696643,
+    "name": "Stavrokonnou - Kelokedara Road - 2nd Stop"
+  },
+  {
+    "description": "6th Stop Stavrokonnou",
+    "lat": 34.785783070417,
+    "lon": 32.6241080657924,
+    "name": "6th Stop Stavrokonnou"
+  },
+  {
+    "description": "4th Stop Stavrokonnou",
+    "lat": 34.7851871675828,
+    "lon": 32.6209628906135,
+    "name": "4th Stop Stavrokonnou"
+  }
+]

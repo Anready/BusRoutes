@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  },
+  {
+    "description": "1 Oktovriou - Gianni Ritsou",
+    "lat": 35.0130722489366,
+    "lon": 33.3894017924427,
+    "name": "1 Oktovriou - Gianni Ritsou"
+  },
+  {
+    "description": "Eirinis Avenue - Grigori Afxentiou",
+    "lat": 35.0137357192055,
+    "lon": 33.3905886657983,
+    "name": "Eirinis Avenue - Grigori Afxentiou"
+  },
+  {
+    "description": "Nisou Elementary School A 2",
+    "lat": 35.0157590057876,
+    "lon": 33.3923300793616,
+    "name": "Nisou Elementary School A 2"
+  },
+  {
+    "description": "Nikou Kazantzaki",
+    "lat": 35.0212886821404,
+    "lon": 33.3888926717632,
+    "name": "Nikou Kazantzaki"
+  },
+  {
+    "description": "Agiou Eftychiou - Varnava Kouvarou",
+    "lat": 35.0223054584821,
+    "lon": 33.3923723114155,
+    "name": "Agiou Eftychiou - Varnava Kouvarou"
+  },
+  {
+    "description": "Kryoneri",
+    "lat": 35.0245176448541,
+    "lon": 33.3914620823737,
+    "name": "Kryoneri"
+  },
+  {
+    "description": "Panagia Pantanassa Monastery",
+    "lat": 35.0125255885562,
+    "lon": 33.3497886872443,
+    "name": "Panagia Pantanassa Monastery"
+  },
+  {
+    "description": "Marki",
+    "lat": 35.0236276979073,
+    "lon": 33.3265092753026,
+    "name": "Marki"
+  }
+]

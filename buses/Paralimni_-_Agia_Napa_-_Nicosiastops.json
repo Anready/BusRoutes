@@ -1,0 +1,92 @@
+[
+  {
+    "description": "New Famagusta Central Bus Station",
+    "lat": 35.0518260701067,
+    "lon": 33.9728431356542,
+    "name": "New Famagusta Central Bus Station"
+  },
+  {
+    "description": "Paralimni Square Bus Station",
+    "lat": 35.0394760084475,
+    "lon": 33.983638211908,
+    "name": "Paralimni Square Bus Station"
+  },
+  {
+    "description": "Kryou Nerou Ave. - Marina Hotel 2",
+    "lat": 34.9851780174399,
+    "lon": 34.0162183024577,
+    "name": "Kryou Nerou Ave. - Marina Hotel 2"
+  },
+  {
+    "description": "Agia Napa Monastery 1",
+    "lat": 34.9883845142944,
+    "lon": 34.0003599456526,
+    "name": "Agia Napa Monastery 1"
+  },
+  {
+    "description": "Nisi Ave.  - Giouri Gkagkarin",
+    "lat": 34.9873223873429,
+    "lon": 33.9935430728798,
+    "name": "Nisi Ave.  - Giouri Gkagkarin"
+  },
+  {
+    "description": "Nisi Ave. - Vatheias Gonias",
+    "lat": 34.9887406438684,
+    "lon": 33.9821433888594,
+    "name": "Nisi Ave. - Vatheias Gonias"
+  },
+  {
+    "description": "Nissi Bay Beach 1",
+    "lat": 34.9895128732205,
+    "lon": 33.9690811996641,
+    "name": "Nissi Bay Beach 1"
+  },
+  {
+    "description": "Agias Theklas - Waterpark 1",
+    "lat": 34.9838938954213,
+    "lon": 33.9429177138032,
+    "name": "Agias Theklas - Waterpark 1"
+  },
+  {
+    "description": "Nicosia General Hospital - Intercity",
+    "lat": 35.1265734070068,
+    "lon": 33.374838920964,
+    "name": "Nicosia General Hospital - Intercity"
+  },
+  {
+    "description": "Lemesou Ave. - Ellispontou",
+    "lat": 35.1423644970571,
+    "lon": 33.3741867753681,
+    "name": "Lemesou Ave. - Ellispontou"
+  },
+  {
+    "description": "Police Headquarters",
+    "lat": 35.1477840726805,
+    "lon": 33.3741017977825,
+    "name": "Police Headquarters"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Ethnikis Frouras",
+    "lat": 35.1563864814598,
+    "lon": 33.3740862769427,
+    "name": "Archiep. Makariou III Ave. - Ethnikis Frouras"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimofontos",
+    "lat": 35.1627608014222,
+    "lon": 33.3654848553327,
+    "name": "Archiep. Makariou III Ave. - Dimofontos"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Mnasiadou",
+    "lat": 35.1661974886152,
+    "lon": 33.3620961581633,
+    "name": "Archiep. Makariou III Ave. - Mnasiadou"
+  },
+  {
+    "description": "Dionysios Solomos Square",
+    "lat": 35.1707064870553,
+    "lon": 33.3589205343724,
+    "name": "Dionysios Solomos Square"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "description": "Androlikou",
+    "lat": 34.9985234276895,
+    "lon": 32.3815826293706,
+    "name": "Androlikou"
+  },
+  {
+    "description": "Akamantos Ave. - Afroditis",
+    "lat": 35.0316551518515,
+    "lon": 32.4147913831721,
+    "name": "Akamantos Ave. - Afroditis"
+  },
+  {
+    "description": "Agios Georgios Church 2",
+    "lat": 35.0291477514104,
+    "lon": 32.41841588462,
+    "name": "Agios Georgios Church 2"
+  },
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  }
+]

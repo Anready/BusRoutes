@@ -1,0 +1,170 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.9178223662695,
+    "lon": 33.6351304406883,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.9187528603531,
+    "lon": 33.6365279619346,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Dimitras",
+    "lat": 34.9222879264604,
+    "lon": 33.6364786211071,
+    "name": "Archiep. Makariou C´ Ave. - Dimitras"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Nigritis",
+    "lat": 34.9259656563968,
+    "lon": 33.636736941393,
+    "name": "Archiep. Makariou C´ Ave. - Nigritis"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kleov. Papakyriakou",
+    "lat": 34.9283904237115,
+    "lon": 33.6369089601145,
+    "name": "Archiep. Makariou C´ Ave. - Kleov. Papakyriakou"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Pavlou Valdaseridi",
+    "lat": 34.9302262305105,
+    "lon": 33.6341749028703,
+    "name": "Spyrou Kyprianou Ave. - Pavlou Valdaseridi"
+  },
+  {
+    "description": "Lands and Surveys Office 2",
+    "lat": 34.9303692950304,
+    "lon": 33.6292050639076,
+    "name": "Lands and Surveys Office 2"
+  },
+  {
+    "description": "Katharis Elementary School 1",
+    "lat": 34.9327111555302,
+    "lon": 33.6279747004749,
+    "name": "Katharis Elementary School 1"
+  },
+  {
+    "description": "Alex. Panagouli Ave. - Pan. Kanellopoulou",
+    "lat": 34.9365100389382,
+    "lon": 33.6292191074952,
+    "name": "Alex. Panagouli Ave. - Pan. Kanellopoulou"
+  },
+  {
+    "description": "Alex. Panagouli Ave. - Anexartisias 1",
+    "lat": 34.943726252304,
+    "lon": 33.6322419456897,
+    "name": "Alex. Panagouli Ave. - Anexartisias 1"
+  },
+  {
+    "description": "Andrea Stylianou Ave. - Agiou Dimitriou",
+    "lat": 34.9464984030796,
+    "lon": 33.6332378963441,
+    "name": "Andrea Stylianou Ave. - Agiou Dimitriou"
+  },
+  {
+    "description": "Petraki Kyprianou Ave. - Lordou Vyronos",
+    "lat": 34.9488157213136,
+    "lon": 33.6297949905967,
+    "name": "Petraki Kyprianou Ave. - Lordou Vyronos"
+  },
+  {
+    "description": "Livadia Elementary School 1",
+    "lat": 34.9494876722576,
+    "lon": 33.6271498058528,
+    "name": "Livadia Elementary School 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Tefkrou Anthia",
+    "lat": 34.9512798678447,
+    "lon": 33.6258382645838,
+    "name": "Archiep. Makariou C´ Ave. - Tefkrou Anthia"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Mantheou",
+    "lat": 34.9528307872745,
+    "lon": 33.6258500526197,
+    "name": "Archiep. Makariou C´ Ave. - Mantheou"
+  },
+  {
+    "description": "Agia Paraskevi Church 2",
+    "lat": 34.9559950664021,
+    "lon": 33.6260055375042,
+    "name": "Agia Paraskevi Church 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Gravias",
+    "lat": 34.9589580510435,
+    "lon": 33.6284705905868,
+    "name": "Archiep. Makariou C´ Ave. - Gravias"
+  },
+  {
+    "description": "Eleftherias Ave. - 1st Stop",
+    "lat": 34.9683175751729,
+    "lon": 33.62681129013,
+    "name": "Eleftherias Ave. - 1st Stop"
+  },
+  {
+    "description": "Kellia Community Park 1",
+    "lat": 34.9733257552989,
+    "lon": 33.6226098859021,
+    "name": "Kellia Community Park 1"
+  },
+  {
+    "description": "Kellia Village Centre 1",
+    "lat": 34.9767669685023,
+    "lon": 33.6232713414984,
+    "name": "Kellia Village Centre 1"
+  },
+  {
+    "description": "Kellia Community Stadium 1",
+    "lat": 34.979890837255,
+    "lon": 33.6242700773284,
+    "name": "Kellia Community Stadium 1"
+  },
+  {
+    "description": "Andrea Souroukli - 1st Stop",
+    "lat": 35.0249463431334,
+    "lon": 33.6179476224128,
+    "name": "Andrea Souroukli - 1st Stop"
+  },
+  {
+    "description": "Andrea Souroukli - Makedonias",
+    "lat": 35.0276755742773,
+    "lon": 33.6167623220886,
+    "name": "Andrea Souroukli - Makedonias"
+  },
+  {
+    "description": "Andrea Souroukli - Agiou Georgiou",
+    "lat": 35.0308831326189,
+    "lon": 33.6154928298596,
+    "name": "Andrea Souroukli - Agiou Georgiou"
+  },
+  {
+    "description": "Agios Mamas Church",
+    "lat": 35.0325503642158,
+    "lon": 33.6156807348056,
+    "name": "Agios Mamas Church"
+  }
+]

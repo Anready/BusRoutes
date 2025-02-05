@@ -1,0 +1,182 @@
+[
+  {
+    "description": "Tombs of the Kings Bus Station",
+    "lat": 34.7700851526625,
+    "lon": 32.4107318563524,
+    "name": "Tombs of the Kings Bus Station"
+  },
+  {
+    "description": "Tafoi Ton Vasileon - Angelou Sikelianou",
+    "lat": 34.7662613381543,
+    "lon": 32.4106606857937,
+    "name": "Tafoi Ton Vasileon - Angelou Sikelianou"
+  },
+  {
+    "description": "Agion Anargyron - Ifaistou",
+    "lat": 34.7635824030481,
+    "lon": 32.4142529093797,
+    "name": "Agion Anargyron - Ifaistou"
+  },
+  {
+    "description": "Agioi Anargyroi Church 2",
+    "lat": 34.761424325451,
+    "lon": 32.4174150954836,
+    "name": "Agioi Anargyroi Church 2"
+  },
+  {
+    "description": "Ikarou - Pyrgotelou",
+    "lat": 34.7597724978887,
+    "lon": 32.4189673594908,
+    "name": "Ikarou - Pyrgotelou"
+  },
+  {
+    "description": "Iasonos - Nestoros",
+    "lat": 34.7572519404518,
+    "lon": 32.4217821597267,
+    "name": "Iasonos - Nestoros"
+  },
+  {
+    "description": "Poseidonos Ave. - 1st Stop",
+    "lat": 34.7538167248285,
+    "lon": 32.4199924088154,
+    "name": "Poseidonos Ave. - 1st Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 3rd Stop",
+    "lat": 34.7524242349487,
+    "lon": 32.4210947149952,
+    "name": "Poseidonos Ave. - 3rd Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 5th Stop",
+    "lat": 34.7494882035672,
+    "lon": 32.4237809794508,
+    "name": "Poseidonos Ave. - 5th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 7th Stop",
+    "lat": 34.7449853134053,
+    "lon": 32.4288703977653,
+    "name": "Poseidonos Ave. - 7th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 9th Stop",
+    "lat": 34.7433272232012,
+    "lon": 32.4310448624992,
+    "name": "Poseidonos Ave. - 9th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 11th Stop",
+    "lat": 34.7416143276334,
+    "lon": 32.4330775987073,
+    "name": "Poseidonos Ave. - 11th Stop"
+  },
+  {
+    "description": "Theas Afroditis Ave. - 1st Stop",
+    "lat": 34.7384249014927,
+    "lon": 32.4375781705336,
+    "name": "Theas Afroditis Ave. - 1st Stop"
+  },
+  {
+    "description": "Theas Afroditis Ave. - 3rd Stop",
+    "lat": 34.7413664635358,
+    "lon": 32.443861534233,
+    "name": "Theas Afroditis Ave. - 3rd Stop"
+  },
+  {
+    "description": "Ierokipion Ave. - 1st Stop",
+    "lat": 34.7466426309659,
+    "lon": 32.4460220894897,
+    "name": "Ierokipion Ave. - 1st Stop"
+  },
+  {
+    "description": "Geroskipou High School 1",
+    "lat": 34.7551187720507,
+    "lon": 32.4518983462542,
+    "name": "Geroskipou High School 1"
+  },
+  {
+    "description": "Ippokratous - Kozanis",
+    "lat": 34.7559942364575,
+    "lon": 32.4560882198715,
+    "name": "Ippokratous - Kozanis"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Al. Panagouli",
+    "lat": 34.7589023723357,
+    "lon": 32.4570853205206,
+    "name": "Archiep. Makariou C` Ave. - Al. Panagouli"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ag. Sergiou 1",
+    "lat": 34.756191246285,
+    "lon": 32.4618669001097,
+    "name": "Archiep. Makariou C` Ave. - Ag. Sergiou 1"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Filias",
+    "lat": 34.7528419525787,
+    "lon": 32.4651117343522,
+    "name": "Archiep. Makariou C` Ave. - Filias"
+  },
+  {
+    "description": "American Academy 1",
+    "lat": 34.7453419748184,
+    "lon": 32.4740200977946,
+    "name": "American Academy 1"
+  },
+  {
+    "description": "1st Stop Acheleia",
+    "lat": 34.740112978729,
+    "lon": 32.4806186330465,
+    "name": "1st Stop Acheleia"
+  },
+  {
+    "description": "Ag. Georgios Church - Acheleia 1",
+    "lat": 34.7386787516233,
+    "lon": 32.4847677782398,
+    "name": "Ag. Georgios Church - Acheleia 1"
+  },
+  {
+    "description": "3rd Stop Acheleia",
+    "lat": 34.7349074057902,
+    "lon": 32.4950701441028,
+    "name": "3rd Stop Acheleia"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Anexartisias 1",
+    "lat": 34.7287723221796,
+    "lon": 32.5120266264025,
+    "name": "Archiep. Makariou C` Ave. - Anexartisias 1"
+  },
+  {
+    "description": "Timi - Airport Road - 1st Stop",
+    "lat": 34.7264712873635,
+    "lon": 32.5161687949069,
+    "name": "Timi - Airport Road - 1st Stop"
+  },
+  {
+    "description": "Timi - Airport Road - 3rd Stop",
+    "lat": 34.711427542218,
+    "lon": 32.5111129239462,
+    "name": "Timi - Airport Road - 3rd Stop"
+  },
+  {
+    "description": "Timi - Airport Road - 5th Stop",
+    "lat": 34.7083760689602,
+    "lon": 32.5035633449959,
+    "name": "Timi - Airport Road - 5th Stop"
+  },
+  {
+    "description": "Timi - Airport Road - 7th Stop",
+    "lat": 34.7074931199689,
+    "lon": 32.4971586733163,
+    "name": "Timi - Airport Road - 7th Stop"
+  },
+  {
+    "description": "Pafos Airport",
+    "lat": 34.7114810421567,
+    "lon": 32.4889879499105,
+    "name": "Pafos Airport"
+  }
+]

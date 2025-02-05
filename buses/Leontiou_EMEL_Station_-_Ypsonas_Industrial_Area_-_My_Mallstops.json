@@ -1,0 +1,176 @@
+[
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Panagioti Diomidous",
+    "lat": 34.6813100525199,
+    "lon": 33.0335138069715,
+    "name": "Archiep. Leontiou A´ - Panagioti Diomidous"
+  },
+  {
+    "description": "Aiolou - Panagioti Diomidous 1",
+    "lat": 34.6806612047737,
+    "lon": 33.0318651594978,
+    "name": "Aiolou - Panagioti Diomidous 1"
+  },
+  {
+    "description": "Dimitriou Charalampous - Dimitriou Chamatsou",
+    "lat": 34.6791374381709,
+    "lon": 33.0308493632494,
+    "name": "Dimitriou Charalampous - Dimitriou Chamatsou"
+  },
+  {
+    "description": "Asklipiou - Gian Zimpelious",
+    "lat": 34.6785697179992,
+    "lon": 33.0291898919025,
+    "name": "Asklipiou - Gian Zimpelious"
+  },
+  {
+    "description": "Markoni - Solon",
+    "lat": 34.6753413779134,
+    "lon": 33.0288722020004,
+    "name": "Markoni - Solon"
+  },
+  {
+    "description": "Misiaouli kai Kavazoglou - Ionos Dragoumi",
+    "lat": 34.6743858670028,
+    "lon": 33.0271799461152,
+    "name": "Misiaouli kai Kavazoglou - Ionos Dragoumi"
+  },
+  {
+    "description": "Misiaouli kai Kavazoglou - Aristonikou",
+    "lat": 34.6738365023415,
+    "lon": 33.0236867846708,
+    "name": "Misiaouli kai Kavazoglou - Aristonikou"
+  },
+  {
+    "description": "Misiaouli kai Kavazoglou - Soranou 1",
+    "lat": 34.6733412395346,
+    "lon": 33.01961516075,
+    "name": "Misiaouli kai Kavazoglou - Soranou 1"
+  },
+  {
+    "description": "Vasileos Pavlou A´ - Pafou 1",
+    "lat": 34.6731071607218,
+    "lon": 33.0170390538917,
+    "name": "Vasileos Pavlou A´ - Pafou 1"
+  },
+  {
+    "description": "Vasileos Pavlou A´ - Kyriakou Katoli 1",
+    "lat": 34.6700863333352,
+    "lon": 33.0157067959377,
+    "name": "Vasileos Pavlou A´ - Kyriakou Katoli 1"
+  },
+  {
+    "description": "Vasileos Pavlou A´ - Thyestou",
+    "lat": 34.6670924307553,
+    "lon": 33.0153023875657,
+    "name": "Vasileos Pavlou A´ - Thyestou"
+  },
+  {
+    "description": "Asias - Ilioupoleos 1",
+    "lat": 34.6652348330977,
+    "lon": 33.0145052918553,
+    "name": "Asias - Ilioupoleos 1"
+  },
+  {
+    "description": "Sarantaporou - Markou Charalampous 1",
+    "lat": 34.6666058041893,
+    "lon": 33.012278948202,
+    "name": "Sarantaporou - Markou Charalampous 1"
+  },
+  {
+    "description": "Sarantaporou - Tsechof",
+    "lat": 34.6655690446877,
+    "lon": 33.0087643311961,
+    "name": "Sarantaporou - Tsechof"
+  },
+  {
+    "description": "Sarantaporou - Ious",
+    "lat": 34.665415856517,
+    "lon": 33.0069525139468,
+    "name": "Sarantaporou - Ious"
+  },
+  {
+    "description": "Mytilinis - Antipaxou 1",
+    "lat": 34.6659299910501,
+    "lon": 33.0045841034494,
+    "name": "Mytilinis - Antipaxou 1"
+  },
+  {
+    "description": "Mytilinis - Chiou 1",
+    "lat": 34.6705651572125,
+    "lon": 33.0058068544491,
+    "name": "Mytilinis - Chiou 1"
+  },
+  {
+    "description": "Miltonos - Tefkrou Anthia 1",
+    "lat": 34.6706553603509,
+    "lon": 33.0052829334591,
+    "name": "Miltonos - Tefkrou Anthia 1"
+  },
+  {
+    "description": "Miltonos - Erikou Ipsen",
+    "lat": 34.668914932584,
+    "lon": 33.0044532887858,
+    "name": "Miltonos - Erikou Ipsen"
+  },
+  {
+    "description": "Miltonos - Parnassou",
+    "lat": 34.6680492198297,
+    "lon": 33.0042022018314,
+    "name": "Miltonos - Parnassou"
+  },
+  {
+    "description": "Pigasou - Aidonion 1",
+    "lat": 34.66711139999,
+    "lon": 33.0025649514354,
+    "name": "Pigasou - Aidonion 1"
+  },
+  {
+    "description": "Pigasou - Parou",
+    "lat": 34.6667146350959,
+    "lon": 32.9991923170155,
+    "name": "Pigasou - Parou"
+  },
+  {
+    "description": "23 Elementary School - Agios Spyridonas 1",
+    "lat": 34.667923030024,
+    "lon": 32.9983518661959,
+    "name": "23 Elementary School - Agios Spyridonas 1"
+  },
+  {
+    "description": "Dilou - Limassol Industrial Area 1",
+    "lat": 34.670529181261,
+    "lon": 32.9967800351079,
+    "name": "Dilou - Limassol Industrial Area 1"
+  },
+  {
+    "description": "Acharnon - Limassol Industrial Area 1",
+    "lat": 34.6689689821901,
+    "lon": 32.9941714270698,
+    "name": "Acharnon - Limassol Industrial Area 1"
+  },
+  {
+    "description": "Epimitheos 1",
+    "lat": 34.6658306945301,
+    "lon": 32.9932766562984,
+    "name": "Epimitheos 1"
+  },
+  {
+    "description": "Kathetos Limaniou - Fragklinou Rousvelt 1",
+    "lat": 34.6592657556255,
+    "lon": 32.996114737672,
+    "name": "Kathetos Limaniou - Fragklinou Rousvelt 1"
+  },
+  {
+    "description": "MY MALL",
+    "lat": 34.6512127016143,
+    "lon": 32.9954930950808,
+    "name": "MY MALL"
+  }
+]

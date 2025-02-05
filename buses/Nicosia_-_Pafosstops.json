@@ -1,0 +1,74 @@
+[
+  {
+    "description": "Dionysios Solomos Square",
+    "lat": 35.1707064870553,
+    "lon": 33.3589205343724,
+    "name": "Dionysios Solomos Square"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Iras",
+    "lat": 35.1656621977647,
+    "lon": 33.3631918662444,
+    "name": "Archiep. Makariou III Ave. - Iras"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Naxou",
+    "lat": 35.1625065679554,
+    "lon": 33.366065678288,
+    "name": "Archiep. Makariou III Ave. - Naxou"
+  },
+  {
+    "description": "Technical School Nicosia III",
+    "lat": 35.1568467559872,
+    "lon": 33.3739566285601,
+    "name": "Technical School Nicosia III"
+  },
+  {
+    "description": "Traffic Education Park",
+    "lat": 35.1474406118456,
+    "lon": 33.3743637064748,
+    "name": "Traffic Education Park"
+  },
+  {
+    "description": "Lemesou Ave. - Kalispera",
+    "lat": 35.1413169604423,
+    "lon": 33.3746869478481,
+    "name": "Lemesou Ave. - Kalispera"
+  },
+  {
+    "description": "Nicosia General Hospital - Intercity",
+    "lat": 35.1265734070068,
+    "lon": 33.374838920964,
+    "name": "Nicosia General Hospital - Intercity"
+  },
+  {
+    "description": "Dimokratias Ave. - Andrea Theodosiou",
+    "lat": 34.7788824240587,
+    "lon": 32.4444186619216,
+    "name": "Dimokratias Ave. - Andrea Theodosiou"
+  },
+  {
+    "description": "Dimokratias Ave. - Thivon",
+    "lat": 34.7722103112332,
+    "lon": 32.4426492813995,
+    "name": "Dimokratias Ave. - Thivon"
+  },
+  {
+    "description": "Fire Station 2",
+    "lat": 34.7691594592919,
+    "lon": 32.4361458242732,
+    "name": "Fire Station 2"
+  },
+  {
+    "description": "Pafos District Courthouse 2",
+    "lat": 34.7748898009398,
+    "lon": 32.4273748382485,
+    "name": "Pafos District Courthouse 2"
+  },
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  }
+]

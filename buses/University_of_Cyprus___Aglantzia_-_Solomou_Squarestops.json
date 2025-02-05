@@ -1,0 +1,158 @@
+[
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  },
+  {
+    "description": "University of Cyprus - Parking Place",
+    "lat": 35.1472155482355,
+    "lon": 33.4104484021488,
+    "name": "University of Cyprus - Parking Place"
+  },
+  {
+    "description": "University of Cyprus - University House",
+    "lat": 35.1460482761817,
+    "lon": 33.4089824472376,
+    "name": "University of Cyprus - University House"
+  },
+  {
+    "description": "Ave. Athalassis - UCY Student Halls 2",
+    "lat": 35.1437463814322,
+    "lon": 33.4043602372873,
+    "name": "Ave. Athalassis - UCY Student Halls 2"
+  },
+  {
+    "description": "Ave. Kiryneias - Athalassa Park 2",
+    "lat": 35.1450221674864,
+    "lon": 33.4030491853514,
+    "name": "Ave. Kiryneias - Athalassa Park 2"
+  },
+  {
+    "description": "Ave. Kiryneias - Egnatias",
+    "lat": 35.1469347590797,
+    "lon": 33.4000395894814,
+    "name": "Ave. Kiryneias - Egnatias"
+  },
+  {
+    "description": "Egnateias - Kallitheas",
+    "lat": 35.147392333333,
+    "lon": 33.397999857955,
+    "name": "Egnateias - Kallitheas"
+  },
+  {
+    "description": "Ave. Kallitheas - Tamasou",
+    "lat": 35.1463728050283,
+    "lon": 33.3954259951133,
+    "name": "Ave. Kallitheas - Tamasou"
+  },
+  {
+    "description": "Ave. Kallitheas - Atalantis",
+    "lat": 35.1441208073501,
+    "lon": 33.3947234949486,
+    "name": "Ave. Kallitheas - Atalantis"
+  },
+  {
+    "description": "Gianni Psychari - Kosta Krystalli",
+    "lat": 35.1432619146056,
+    "lon": 33.3926445468576,
+    "name": "Gianni Psychari - Kosta Krystalli"
+  },
+  {
+    "description": "Theofilou Georgiadi - Louki Akrita",
+    "lat": 35.1437658286978,
+    "lon": 33.3901769498402,
+    "name": "Theofilou Georgiadi - Louki Akrita"
+  },
+  {
+    "description": "Avenue Rik - Aglantzia Elem. School D 2",
+    "lat": 35.1448505695857,
+    "lon": 33.3865264525444,
+    "name": "Avenue Rik - Aglantzia Elem. School D 2"
+  },
+  {
+    "description": "Avenue Rik - CyBC 2",
+    "lat": 35.1447712068947,
+    "lon": 33.3831228999083,
+    "name": "Avenue Rik - CyBC 2"
+  },
+  {
+    "description": "Ave. Akadimias - Kyrineias Avenue",
+    "lat": 35.1472753266703,
+    "lon": 33.3811036447871,
+    "name": "Ave. Akadimias - Kyrineias Avenue"
+  },
+  {
+    "description": "Akadimias - Amfissis",
+    "lat": 35.1504485577042,
+    "lon": 33.3813599722666,
+    "name": "Akadimias - Amfissis"
+  },
+  {
+    "description": "Ave. Aglantzias - H.H.I.C. 2",
+    "lat": 35.1555986539496,
+    "lon": 33.3809448262997,
+    "name": "Ave. Aglantzias - H.H.I.C. 2"
+  },
+  {
+    "description": "Ave. Aglantzias - Lemesou Avenue",
+    "lat": 35.155179224645,
+    "lon": 33.376660908143,
+    "name": "Ave. Aglantzias - Lemesou Avenue"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Ethnikis Frouras",
+    "lat": 35.1563864814598,
+    "lon": 33.3740862769427,
+    "name": "Archiep. Makariou III Ave. - Ethnikis Frouras"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimitriou Papanikoli",
+    "lat": 35.1607907799319,
+    "lon": 33.3698681032299,
+    "name": "Archiep. Makariou III Ave. - Dimitriou Papanikoli"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Karpenisiou",
+    "lat": 35.1614829573628,
+    "lon": 33.3676093064794,
+    "name": "Archiep. Makariou III Ave. - Karpenisiou"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimofontos",
+    "lat": 35.1627608014222,
+    "lon": 33.3654848553327,
+    "name": "Archiep. Makariou III Ave. - Dimofontos"
+  },
+  {
+    "description": "Ave. Digeni Akrita - Kypranoros",
+    "lat": 35.1646751214781,
+    "lon": 33.3645930042265,
+    "name": "Ave. Digeni Akrita - Kypranoros"
+  },
+  {
+    "description": "Ave. Stasinou - Kritis",
+    "lat": 35.1682151650405,
+    "lon": 33.3658167311003,
+    "name": "Ave. Stasinou - Kritis"
+  },
+  {
+    "description": "Bastion Davila",
+    "lat": 35.1685125276104,
+    "lon": 33.3628860850149,
+    "name": "Bastion Davila"
+  },
+  {
+    "description": "Diagorou",
+    "lat": 35.169683481778,
+    "lon": 33.3572468736466,
+    "name": "Diagorou"
+  },
+  {
+    "description": "Solomos Square Alighting ",
+    "lat": 35.170392452312,
+    "lon": 33.3583920449795,
+    "name": "Solomos Square Alighting "
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Larnaka Municipal Theatre 1",
+    "lat": 34.9160219121426,
+    "lon": 33.6276067226033,
+    "name": "Larnaka Municipal Theatre 1"
+  },
+  {
+    "description": "Old G.S.Z.",
+    "lat": 34.913394111229,
+    "lon": 33.6283311144079,
+    "name": "Old G.S.Z."
+  },
+  {
+    "description": "Artemidos Ave. - Okkoular 1",
+    "lat": 34.9094569090795,
+    "lon": 33.6294176522971,
+    "name": "Artemidos Ave. - Okkoular 1"
+  },
+  {
+    "description": "Larnaka Courthouse 1",
+    "lat": 34.9021385907397,
+    "lon": 33.6304235189556,
+    "name": "Larnaka Courthouse 1"
+  },
+  {
+    "description": "Artemidos Ave. - Salt Lake",
+    "lat": 34.8981437002275,
+    "lon": 33.6304586623638,
+    "name": "Artemidos Ave. - Salt Lake"
+  },
+  {
+    "description": "Artemidos Ave. - Touzchane 1",
+    "lat": 34.8941481028894,
+    "lon": 33.6323652921298,
+    "name": "Artemidos Ave. - Touzchane 1"
+  },
+  {
+    "description": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1",
+    "lat": 34.8897896000335,
+    "lon": 33.6294865018293,
+    "name": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1"
+  },
+  {
+    "description": "Artemidos Ave. - Old Airport 1",
+    "lat": 34.8871216677803,
+    "lon": 33.6257563183331,
+    "name": "Artemidos Ave. - Old Airport 1"
+  },
+  {
+    "description": "Larnaka Airport",
+    "lat": 34.8710309947938,
+    "lon": 33.606891856567,
+    "name": "Larnaka Airport"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 2nd Stop",
+    "lat": 34.8639811537269,
+    "lon": 33.5974203593952,
+    "name": "Archiep. Makariou C´ Ave. - 2nd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Agiou Andronikou",
+    "lat": 34.861047980987,
+    "lon": 33.5942484186861,
+    "name": "Archiep. Makariou C´ Ave. - Agiou Andronikou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Georg. Griva Digeni 1",
+    "lat": 34.859704294902,
+    "lon": 33.5905629612655,
+    "name": "Archiep. Makariou C´ Ave. - Georg. Griva Digeni 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Geraniou 1",
+    "lat": 34.8576378541096,
+    "lon": 33.5871350400825,
+    "name": "Archiep. Makariou C´ Ave. - Geraniou 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Galinis",
+    "lat": 34.8550838610927,
+    "lon": 33.5838132391959,
+    "name": "Archiep. Makariou C´ Ave. - Galinis"
+  },
+  {
+    "description": "Kiti Elementary School 1",
+    "lat": 34.8540836542376,
+    "lon": 33.5798899668872,
+    "name": "Kiti Elementary School 1"
+  },
+  {
+    "description": "Kiti High School 1",
+    "lat": 34.8516788623873,
+    "lon": 33.5754866315823,
+    "name": "Kiti High School 1"
+  },
+  {
+    "description": "Meneou Ave. - Gravias",
+    "lat": 34.8498467431839,
+    "lon": 33.5719954103649,
+    "name": "Meneou Ave. - Gravias"
+  },
+  {
+    "description": "Meneou Ave. - Samou",
+    "lat": 34.8478049503317,
+    "lon": 33.5670371692117,
+    "name": "Meneou Ave. - Samou"
+  },
+  {
+    "description": "Mazotou Ave. - Makronisou",
+    "lat": 34.8447668578129,
+    "lon": 33.5629802444035,
+    "name": "Mazotou Ave. - Makronisou"
+  },
+  {
+    "description": "Kiti - Mazotos Road - 1st Stop",
+    "lat": 34.8358216834969,
+    "lon": 33.5511186171717,
+    "name": "Kiti - Mazotos Road - 1st Stop"
+  },
+  {
+    "description": "Kiti - Mazotos Road - 3rd Stop",
+    "lat": 34.8160584446512,
+    "lon": 33.525936899759,
+    "name": "Kiti - Mazotos Road - 3rd Stop"
+  },
+  {
+    "description": "Kiti - Mazotos Road - 5th Stop",
+    "lat": 34.8048327294256,
+    "lon": 33.5151187842355,
+    "name": "Kiti - Mazotos Road - 5th Stop"
+  },
+  {
+    "description": "Camel Park 1",
+    "lat": 34.801465329315,
+    "lon": 33.5074452864941,
+    "name": "Camel Park 1"
+  },
+  {
+    "description": "Costas Argyrou Museum 1",
+    "lat": 34.8031224150365,
+    "lon": 33.4992451821951,
+    "name": "Costas Argyrou Museum 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - 28 Oktovriou",
+    "lat": 34.8025596048865,
+    "lon": 33.4935241613995,
+    "name": "Georg. Griva Digeni Ave. - 28 Oktovriou"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Archiep. Makariou C´",
+    "lat": 34.8036429345097,
+    "lon": 33.4909942758584,
+    "name": "Georg. Griva Digeni Ave. - Archiep. Makariou C´"
+  },
+  {
+    "description": "Mazotos Community Stadium 1",
+    "lat": 34.8025770540829,
+    "lon": 33.4869539099516,
+    "name": "Mazotos Community Stadium 1"
+  },
+  {
+    "description": "1st Stop Mazotos",
+    "lat": 34.7972205798777,
+    "lon": 33.4869552081744,
+    "name": "1st Stop Mazotos"
+  },
+  {
+    "description": "Robinson Cyprus",
+    "lat": 34.7771077443131,
+    "lon": 33.4624106493149,
+    "name": "Robinson Cyprus"
+  },
+  {
+    "description": "Pentaschoinos Tourist Area - 7th Stop",
+    "lat": 34.7724282512909,
+    "lon": 33.4501993643575,
+    "name": "Pentaschoinos Tourist Area - 7th Stop"
+  },
+  {
+    "description": "Pentaschoinos Tourist Area - 5th Stop",
+    "lat": 34.7575864230767,
+    "lon": 33.4195356058681,
+    "name": "Pentaschoinos Tourist Area - 5th Stop"
+  },
+  {
+    "description": "Pentaschoinos Tourist Area - 3rd Stop",
+    "lat": 34.7516879517248,
+    "lon": 33.4118687100934,
+    "name": "Pentaschoinos Tourist Area - 3rd Stop"
+  },
+  {
+    "description": "Pentaschoinos Tourist Area - 1st Stop",
+    "lat": 34.7496011358988,
+    "lon": 33.4021893448797,
+    "name": "Pentaschoinos Tourist Area - 1st Stop"
+  },
+  {
+    "description": "Zygi - Agios Theodoros Road - 5th Stop",
+    "lat": 34.7330627232627,
+    "lon": 33.3649154934633,
+    "name": "Zygi - Agios Theodoros Road - 5th Stop"
+  },
+  {
+    "description": "Zygi - Agios Theodoros Road - 3rd Stop",
+    "lat": 34.7331224701352,
+    "lon": 33.3599893563941,
+    "name": "Zygi - Agios Theodoros Road - 3rd Stop"
+  },
+  {
+    "description": "Zygi - Agios Theodoros Road - 1st Stop",
+    "lat": 34.7328849880964,
+    "lon": 33.3517631175281,
+    "name": "Zygi - Agios Theodoros Road - 1st Stop"
+  },
+  {
+    "description": "Zygi Community Park 1",
+    "lat": 34.7302858574943,
+    "lon": 33.3429810054638,
+    "name": "Zygi Community Park 1"
+  },
+  {
+    "description": "Zygi Marina - 3rd Stop",
+    "lat": 34.7290035899604,
+    "lon": 33.3403870174849,
+    "name": "Zygi Marina - 3rd Stop"
+  },
+  {
+    "description": "Zygi Marina - 1st Stop",
+    "lat": 34.7273632505167,
+    "lon": 33.3368195474173,
+    "name": "Zygi Marina - 1st Stop"
+  },
+  {
+    "description": "Zygi Elementary School",
+    "lat": 34.728936246342,
+    "lon": 33.3354059718492,
+    "name": "Zygi Elementary School"
+  },
+  {
+    "description": "Konstantinoupoleos - Agiou Kyriakou 2",
+    "lat": 34.7309371499078,
+    "lon": 33.335785437035,
+    "name": "Konstantinoupoleos - Agiou Kyriakou 2"
+  },
+  {
+    "description": "Oktagono 2",
+    "lat": 34.7507300203995,
+    "lon": 33.3159918348286,
+    "name": "Oktagono 2"
+  },
+  {
+    "description": "Kalavasos - Mari Road - 1st Stop",
+    "lat": 34.7512572304482,
+    "lon": 33.3143768412003,
+    "name": "Kalavasos - Mari Road - 1st Stop"
+  },
+  {
+    "description": "1st Stop Mari",
+    "lat": 34.7425956895237,
+    "lon": 33.2982303153996,
+    "name": "1st Stop Mari"
+  },
+  {
+    "description": "3rd Stop Mari",
+    "lat": 34.7414755123343,
+    "lon": 33.2990346960282,
+    "name": "3rd Stop Mari"
+  },
+  {
+    "description": "5th Stop Mari",
+    "lat": 34.7384803190574,
+    "lon": 33.2995591812689,
+    "name": "5th Stop Mari"
+  },
+  {
+    "description": "Vasiliko Cement Works - 2nd Stop",
+    "lat": 34.7213339992647,
+    "lon": 33.3152355701513,
+    "name": "Vasiliko Cement Works - 2nd Stop"
+  },
+  {
+    "description": "Vasiliko Cement Works - 1st Stop",
+    "lat": 34.720365932127,
+    "lon": 33.3164551175681,
+    "name": "Vasiliko Cement Works - 1st Stop"
+  }
+]

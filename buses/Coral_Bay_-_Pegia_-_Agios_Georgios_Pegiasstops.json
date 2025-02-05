@@ -1,0 +1,146 @@
+[
+  {
+    "description": "Coral Bay",
+    "lat": 34.8582765056372,
+    "lon": 32.3606891964891,
+    "name": "Coral Bay"
+  },
+  {
+    "description": "Coral Beach Hotel 2",
+    "lat": 34.8573834446953,
+    "lon": 32.3640654786388,
+    "name": "Coral Beach Hotel 2"
+  },
+  {
+    "description": "Coral Bay Beach 2",
+    "lat": 34.8547120034302,
+    "lon": 32.3705620261294,
+    "name": "Coral Bay Beach 2"
+  },
+  {
+    "description": "Kolpou Korallion Ave. - Trikomou",
+    "lat": 34.8536343351561,
+    "lon": 32.3766742146693,
+    "name": "Kolpou Korallion Ave. - Trikomou"
+  },
+  {
+    "description": "Kolpou Korallion Ave. - Agiou Georgiou Ave. 2",
+    "lat": 34.8537835772232,
+    "lon": 32.3794078530934,
+    "name": "Kolpou Korallion Ave. - Agiou Georgiou Ave. 2"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Aigialousis 1",
+    "lat": 34.8564425294173,
+    "lon": 32.3809412810817,
+    "name": "Michalaki Kyprianou Ave. - Aigialousis 1"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Psalidion",
+    "lat": 34.8650690443282,
+    "lon": 32.3785463042553,
+    "name": "Michalaki Kyprianou Ave. - Psalidion"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Filippou Diogenous",
+    "lat": 34.8715409203606,
+    "lon": 32.3780271286234,
+    "name": "Michalaki Kyprianou Ave. - Filippou Diogenous"
+  },
+  {
+    "description": "Pegeia Municipal Stadium 1",
+    "lat": 34.8743940711726,
+    "lon": 32.3787387396948,
+    "name": "Pegeia Municipal Stadium 1"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Apost. Louka",
+    "lat": 34.8783045616608,
+    "lon": 32.3799020287596,
+    "name": "Michalaki Kyprianou Ave. - Apost. Louka"
+  },
+  {
+    "description": "Pegeia Police Station 1",
+    "lat": 34.8802517510748,
+    "lon": 32.3797889212039,
+    "name": "Pegeia Police Station 1"
+  },
+  {
+    "description": "Pegeia Public Parking Place",
+    "lat": 34.8838229769859,
+    "lon": 32.3816224078011,
+    "name": "Pegeia Public Parking Place"
+  },
+  {
+    "description": "Akamantos Ave. - Agiou Panteleimonos",
+    "lat": 34.8754787263179,
+    "lon": 32.3635431878039,
+    "name": "Akamantos Ave. - Agiou Panteleimonos"
+  },
+  {
+    "description": "Akamantos Ave. - Agiopetras",
+    "lat": 34.8744419377943,
+    "lon": 32.3601482849234,
+    "name": "Akamantos Ave. - Agiopetras"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 1st Stop",
+    "lat": 34.8767677531893,
+    "lon": 32.3548999457731,
+    "name": "Agiou Georgiou Ave. - 1st Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 3rd Stop",
+    "lat": 34.8809670080304,
+    "lon": 32.3492863899239,
+    "name": "Agiou Georgiou Ave. - 3rd Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 5th Stop",
+    "lat": 34.8833976074531,
+    "lon": 32.3451636225243,
+    "name": "Agiou Georgiou Ave. - 5th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 7th Stop",
+    "lat": 34.8908167554606,
+    "lon": 32.3364481065968,
+    "name": "Agiou Georgiou Ave. - 7th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 9th Stop",
+    "lat": 34.8938897381093,
+    "lon": 32.3344424717231,
+    "name": "Agiou Georgiou Ave. - 9th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 11th Stop",
+    "lat": 34.8974528457771,
+    "lon": 32.3330237400012,
+    "name": "Agiou Georgiou Ave. - 11th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 13th Stop",
+    "lat": 34.901451826389,
+    "lon": 32.3272560527518,
+    "name": "Agiou Georgiou Ave. - 13th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 15th Stop",
+    "lat": 34.9025951514871,
+    "lon": 32.3236675547894,
+    "name": "Agiou Georgiou Ave. - 15th Stop"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - 17th Stop",
+    "lat": 34.9028118558304,
+    "lon": 32.3221005697219,
+    "name": "Agiou Georgiou Ave. - 17th Stop"
+  },
+  {
+    "description": "Agios Georgios Pegeias",
+    "lat": 34.9023839896716,
+    "lon": 32.319761758522,
+    "name": "Agios Georgios Pegeias"
+  }
+]

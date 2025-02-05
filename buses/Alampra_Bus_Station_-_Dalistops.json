@@ -1,0 +1,44 @@
+[
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  },
+  {
+    "description": "Ave. Lemesou - Larnakos",
+    "lat": 35.0070701416525,
+    "lon": 33.3939215651883,
+    "name": "Ave. Lemesou - Larnakos"
+  },
+  {
+    "description": "Chrysosotiros Church - Eirinis Avenue",
+    "lat": 35.0134185083495,
+    "lon": 33.3938752796235,
+    "name": "Chrysosotiros Church - Eirinis Avenue"
+  },
+  {
+    "description": "Griva Digeni - Amathountos",
+    "lat": 35.0214216576332,
+    "lon": 33.4193661852169,
+    "name": "Griva Digeni - Amathountos"
+  },
+  {
+    "description": "Agios Andronikos Church ",
+    "lat": 35.025048854467,
+    "lon": 33.421324972195,
+    "name": "Agios Andronikos Church "
+  },
+  {
+    "description": "Georgiou Eikosari - Pafou",
+    "lat": 35.0249590456755,
+    "lon": 33.4289430536058,
+    "name": "Georgiou Eikosari - Pafou"
+  },
+  {
+    "description": "A´ Dali Elementary School",
+    "lat": 35.0284611467252,
+    "lon": 33.4254204937097,
+    "name": "A´ Dali Elementary School"
+  }
+]

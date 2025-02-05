@@ -1,0 +1,308 @@
+[
+  {
+    "description": "2nd Stop E.A.C. Dhekelia",
+    "lat": 34.9836893020752,
+    "lon": 33.7424402786189,
+    "name": "2nd Stop E.A.C. Dhekelia"
+  },
+  {
+    "description": "4th Stop E.A.C. Dhekelia",
+    "lat": 34.983641496446,
+    "lon": 33.7443571832207,
+    "name": "4th Stop E.A.C. Dhekelia"
+  },
+  {
+    "description": "Andrea Karkavitsa - Vattainas",
+    "lat": 34.999500986705,
+    "lon": 33.7620779128104,
+    "name": "Andrea Karkavitsa - Vattainas"
+  },
+  {
+    "description": "Vattainas - Artemidos 2",
+    "lat": 34.9968355500802,
+    "lon": 33.7672253520548,
+    "name": "Vattainas - Artemidos 2"
+  },
+  {
+    "description": "Vattainas - Dim. Christodoulou 2",
+    "lat": 34.9956544355017,
+    "lon": 33.7700523950113,
+    "name": "Vattainas - Dim. Christodoulou 2"
+  },
+  {
+    "description": "Dimokratias - Pallesi",
+    "lat": 34.9924982757911,
+    "lon": 33.7785586156136,
+    "name": "Dimokratias - Pallesi"
+  },
+  {
+    "description": "Anexartisias - Mpelogianni",
+    "lat": 34.9906012237618,
+    "lon": 33.7860900935733,
+    "name": "Anexartisias - Mpelogianni"
+  },
+  {
+    "description": "Anastasi Manoli - Ermou",
+    "lat": 34.9774780145623,
+    "lon": 33.8404235757601,
+    "name": "Anastasi Manoli - Ermou"
+  },
+  {
+    "description": "Meg. Alexandrou Ave. - Efth. Efthymiou",
+    "lat": 34.9743306479366,
+    "lon": 33.8404790616462,
+    "name": "Meg. Alexandrou Ave. - Efth. Efthymiou"
+  },
+  {
+    "description": "Panagias - Giorgalli 2",
+    "lat": 34.9736326092317,
+    "lon": 33.8436159532585,
+    "name": "Panagias - Giorgalli 2"
+  },
+  {
+    "description": "Eleftherias - Andrea Kazi",
+    "lat": 34.97750483052,
+    "lon": 33.8495277007459,
+    "name": "Eleftherias - Andrea Kazi"
+  },
+  {
+    "description": "Nikou Theofanous - Georgiou Karaiskaki",
+    "lat": 34.980536051116,
+    "lon": 33.8518925705356,
+    "name": "Nikou Theofanous - Georgiou Karaiskaki"
+  },
+  {
+    "description": "Nikou Theofanous - Ioanni Kapodistria",
+    "lat": 34.9857576473551,
+    "lon": 33.8569208585815,
+    "name": "Nikou Theofanous - Ioanni Kapodistria"
+  },
+  {
+    "description": "Sokratous - Georgiou Karyou",
+    "lat": 35.0079859617547,
+    "lon": 33.8905785745103,
+    "name": "Sokratous - Georgiou Karyou"
+  },
+  {
+    "description": "Achyronos - Konstantinou Kanari",
+    "lat": 35.0059737842835,
+    "lon": 33.8932198137256,
+    "name": "Achyronos - Konstantinou Kanari"
+  },
+  {
+    "description": "Achyronas Liopetriou 1",
+    "lat": 35.008534341854,
+    "lon": 33.8932586084875,
+    "name": "Achyronas Liopetriou 1"
+  },
+  {
+    "description": "1 Apriliou - Thessalonikis",
+    "lat": 35.0114412157301,
+    "lon": 33.8964685467186,
+    "name": "1 Apriliou - Thessalonikis"
+  },
+  {
+    "description": "Stadiou - Vasili Michailidi",
+    "lat": 35.0273628300326,
+    "lon": 33.9408625374903,
+    "name": "Stadiou - Vasili Michailidi"
+  },
+  {
+    "description": "Stadiou - Apostolou Petrou",
+    "lat": 35.028191446269,
+    "lon": 33.946780526591,
+    "name": "Stadiou - Apostolou Petrou"
+  },
+  {
+    "description": "Eleftheria Square",
+    "lat": 35.0277749558078,
+    "lon": 33.9516099188182,
+    "name": "Eleftheria Square"
+  },
+  {
+    "description": "Agias Theklas - Apostolou Andrea",
+    "lat": 35.0234269167761,
+    "lon": 33.9483917101869,
+    "name": "Agias Theklas - Apostolou Andrea"
+  },
+  {
+    "description": "Apost. Andrea - Ag. Theodorou 2",
+    "lat": 35.0227660968111,
+    "lon": 33.9510257333584,
+    "name": "Apost. Andrea - Ag. Theodorou 2"
+  },
+  {
+    "description": "Kyriakou Matsi - Tzon Kennenty",
+    "lat": 35.024366810477,
+    "lon": 33.9538723220818,
+    "name": "Kyriakou Matsi - Tzon Kennenty"
+  },
+  {
+    "description": "Kyriakou Matsi - Archiep. Makariou C´",
+    "lat": 35.0258222131273,
+    "lon": 33.9556978975199,
+    "name": "Kyriakou Matsi - Archiep. Makariou C´"
+  },
+  {
+    "description": "Paralimniou - Grigori Afxentiou 2",
+    "lat": 35.0265959257223,
+    "lon": 33.9582061769515,
+    "name": "Paralimniou - Grigori Afxentiou 2"
+  },
+  {
+    "description": "Paralimniou 2",
+    "lat": 35.0247501671493,
+    "lon": 33.9658247860866,
+    "name": "Paralimniou 2"
+  },
+  {
+    "description": "1 Apriliou Ave. - Alikarnassou",
+    "lat": 35.0382325281524,
+    "lon": 33.9779553054319,
+    "name": "1 Apriliou Ave. - Alikarnassou"
+  },
+  {
+    "description": "Paralimni Square Bus Station",
+    "lat": 35.0394760084475,
+    "lon": 33.983638211908,
+    "name": "Paralimni Square Bus Station"
+  },
+  {
+    "description": "B´ Paralimni Elementary School 1",
+    "lat": 35.0407676818496,
+    "lon": 33.9900125745783,
+    "name": "B´ Paralimni Elementary School 1"
+  },
+  {
+    "description": "Protara Ave. - 1st Stop",
+    "lat": 35.0422200103053,
+    "lon": 33.9921461048547,
+    "name": "Protara Ave. - 1st Stop"
+  },
+  {
+    "description": "Protara Ave. - 3rd Stop",
+    "lat": 35.043264871686,
+    "lon": 33.9944830878536,
+    "name": "Protara Ave. - 3rd Stop"
+  },
+  {
+    "description": "Protara Ave. - Psychari",
+    "lat": 35.0441186403956,
+    "lon": 33.9981225274155,
+    "name": "Protara Ave. - Psychari"
+  },
+  {
+    "description": "Agia Varvara Church 2",
+    "lat": 35.0456960731696,
+    "lon": 34.0025603014262,
+    "name": "Agia Varvara Church 2"
+  },
+  {
+    "description": "Ave. Protara - Antaiou",
+    "lat": 35.047679423153,
+    "lon": 34.0069593691173,
+    "name": "Ave. Protara - Antaiou"
+  },
+  {
+    "description": "Protara Ave. - 5th Stop",
+    "lat": 35.0487307058956,
+    "lon": 34.0106563870134,
+    "name": "Protara Ave. - 5th Stop"
+  },
+  {
+    "description": "Agia Triada Beach 1",
+    "lat": 35.0487842831874,
+    "lon": 34.0171919651821,
+    "name": "Agia Triada Beach 1"
+  },
+  {
+    "description": "Vrysoudion - 1st Stop",
+    "lat": 35.0474199146587,
+    "lon": 34.0250255859767,
+    "name": "Vrysoudion - 1st Stop"
+  },
+  {
+    "description": "Louma Beach 1",
+    "lat": 35.0437744623301,
+    "lon": 34.029595864433,
+    "name": "Louma Beach 1"
+  },
+  {
+    "description": "Vrysoudion - 3rd Stop",
+    "lat": 35.0420019263709,
+    "lon": 34.0312729978072,
+    "name": "Vrysoudion - 3rd Stop"
+  },
+  {
+    "description": "Paralimni Port 1",
+    "lat": 35.0365762414445,
+    "lon": 34.0352172685473,
+    "name": "Paralimni Port 1"
+  },
+  {
+    "description": "Pinias - Perneras Ave. 1",
+    "lat": 35.0327644981196,
+    "lon": 34.0317598696142,
+    "name": "Pinias - Perneras Ave. 1"
+  },
+  {
+    "description": "Perneras Ave. - Ellinon",
+    "lat": 35.0319180990877,
+    "lon": 34.0347967650397,
+    "name": "Perneras Ave. - Ellinon"
+  },
+  {
+    "description": "Perneras - Ifaistou",
+    "lat": 35.0303215322415,
+    "lon": 34.0390847585814,
+    "name": "Perneras - Ifaistou"
+  },
+  {
+    "description": "Perneras - Potami Beach",
+    "lat": 35.0293124779146,
+    "lon": 34.0421413455937,
+    "name": "Perneras - Potami Beach"
+  },
+  {
+    "description": "Afroditis - Athinas",
+    "lat": 35.0279662838955,
+    "lon": 34.0424531121357,
+    "name": "Afroditis - Athinas"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 7th Stop",
+    "lat": 35.0228784275872,
+    "lon": 34.0395715080463,
+    "name": "Protara - Kavo Gkreko Ave. - 7th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - Dionysou",
+    "lat": 35.0187424764951,
+    "lon": 34.0444952580868,
+    "name": "Protara - Kavo Gkreko Ave. - Dionysou"
+  },
+  {
+    "description": "Protara - Vrisi Beach",
+    "lat": 35.0176241558379,
+    "lon": 34.0476595600232,
+    "name": "Protara - Vrisi Beach"
+  },
+  {
+    "description": "Protara - Sunrise Beach",
+    "lat": 35.0152820487031,
+    "lon": 34.0526055766132,
+    "name": "Protara - Sunrise Beach"
+  },
+  {
+    "description": "Protara - Fig Tree Bay",
+    "lat": 35.0114130577117,
+    "lon": 34.0568412003122,
+    "name": "Protara - Fig Tree Bay"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - Dafnis",
+    "lat": 35.0075474212569,
+    "lon": 34.0586106813672,
+    "name": "Protara - Kavo Gkreko Ave. - Dafnis"
+  }
+]

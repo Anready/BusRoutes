@@ -1,0 +1,80 @@
+[
+  {
+    "description": "Aphrodite`s Baths",
+    "lat": 35.0563481350348,
+    "lon": 32.3466589047967,
+    "name": "Aphrodite`s Baths"
+  },
+  {
+    "description": "Latsi - Loutra Afroditis Road - 2nd Stop",
+    "lat": 35.0448512972956,
+    "lon": 32.3602038397623,
+    "name": "Latsi - Loutra Afroditis Road - 2nd Stop"
+  },
+  {
+    "description": "Anassa Hotel 2",
+    "lat": 35.0426582543058,
+    "lon": 32.3701873663364,
+    "name": "Anassa Hotel 2"
+  },
+  {
+    "description": "4th Stop Neo Chorio Pafou",
+    "lat": 35.0373266866186,
+    "lon": 32.3749535308229,
+    "name": "4th Stop Neo Chorio Pafou"
+  },
+  {
+    "description": "2nd Stop Neo Chorio Pafou",
+    "lat": 35.0383760813227,
+    "lon": 32.3773684956474,
+    "name": "2nd Stop Neo Chorio Pafou"
+  },
+  {
+    "description": "Latsi Beach 2",
+    "lat": 35.0409334235562,
+    "lon": 32.3855172361646,
+    "name": "Latsi Beach 2"
+  },
+  {
+    "description": "Latsi Marina 2",
+    "lat": 35.0411055467441,
+    "lon": 32.3928398841411,
+    "name": "Latsi Marina 2"
+  },
+  {
+    "description": "Latsi Marina - Parking Place 2",
+    "lat": 35.0392809125707,
+    "lon": 32.3976335722363,
+    "name": "Latsi Marina - Parking Place 2"
+  },
+  {
+    "description": "Polis Municipal Beach",
+    "lat": 35.0390844157875,
+    "lon": 32.4016586975734,
+    "name": "Polis Municipal Beach"
+  },
+  {
+    "description": "Akamantos Ave. - 2nd Stop",
+    "lat": 35.0346971710619,
+    "lon": 32.4098691750489,
+    "name": "Akamantos Ave. - 2nd Stop"
+  },
+  {
+    "description": "Akamantos Ave. - Afroditis",
+    "lat": 35.0316551518515,
+    "lon": 32.4147913831721,
+    "name": "Akamantos Ave. - Afroditis"
+  },
+  {
+    "description": "Agios Georgios Church 2",
+    "lat": 35.0291477514104,
+    "lon": 32.41841588462,
+    "name": "Agios Georgios Church 2"
+  },
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  }
+]

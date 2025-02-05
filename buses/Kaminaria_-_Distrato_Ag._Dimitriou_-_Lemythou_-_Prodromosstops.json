@@ -1,0 +1,38 @@
+[
+  {
+    "description": "1st Kaminaria",
+    "lat": 34.9270532590514,
+    "lon": 32.7834290089084,
+    "name": "1st Kaminaria"
+  },
+  {
+    "description": "2nd Kaminaria 2",
+    "lat": 34.929462038067,
+    "lon": 32.7840467886769,
+    "name": "2nd Kaminaria 2"
+  },
+  {
+    "description": "Treis Elies 2",
+    "lat": 34.9326084803011,
+    "lon": 32.7940465778963,
+    "name": "Treis Elies 2"
+  },
+  {
+    "description": "Agios Dimitrios 2",
+    "lat": 34.9254829148225,
+    "lon": 32.8095787855244,
+    "name": "Agios Dimitrios 2"
+  },
+  {
+    "description": "1st Lemithou 1",
+    "lat": 34.9509819805598,
+    "lon": 32.8138021333057,
+    "name": "1st Lemithou 1"
+  },
+  {
+    "description": "Prodromos Vilalge Center 1",
+    "lat": 34.9497919905832,
+    "lon": 32.8326094109962,
+    "name": "Prodromos Vilalge Center 1"
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Municipal Park 1",
+    "lat": 34.9167370826448,
+    "lon": 33.62706479651,
+    "name": "Municipal Park 1"
+  },
+  {
+    "description": "Municipal Library 1",
+    "lat": 34.9163428757828,
+    "lon": 33.6248175920962,
+    "name": "Municipal Library 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - 1 Apriliou Ave.",
+    "lat": 34.9179424535888,
+    "lon": 33.6206149027479,
+    "name": "Georg. Griva Digeni Ave. - 1 Apriliou Ave."
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1",
+    "lat": 34.9192814590881,
+    "lon": 33.617975628774,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - Fire Station",
+    "lat": 34.9198418920834,
+    "lon": 33.6159325876502,
+    "name": "Nikou kai Despoinas Pattichi Ave. - Fire Station"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - Arachovas",
+    "lat": 34.9183566940243,
+    "lon": 33.6136224907785,
+    "name": "Nikou kai Despoinas Pattichi Ave. - Arachovas"
+  },
+  {
+    "description": "Electricity Authority 2",
+    "lat": 34.9171740620836,
+    "lon": 33.608512168341,
+    "name": "Electricity Authority 2"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - Kalymnou",
+    "lat": 34.9165153281923,
+    "lon": 33.6049931961769,
+    "name": "Nikou kai Despoinas Pattichi Ave. - Kalymnou"
+  },
+  {
+    "description": "Kamares - Old Aqueduct 1",
+    "lat": 34.9124918370702,
+    "lon": 33.5980562111298,
+    "name": "Kamares - Old Aqueduct 1"
+  },
+  {
+    "description": "Agias Eirinis - Agiou Epiktitou",
+    "lat": 34.9042816884739,
+    "lon": 33.5897107319141,
+    "name": "Agias Eirinis - Agiou Epiktitou"
+  },
+  {
+    "description": "Agiou Epiktitou",
+    "lat": 34.9036675159451,
+    "lon": 33.5880535418273,
+    "name": "Agiou Epiktitou"
+  },
+  {
+    "description": "Kyrineias",
+    "lat": 34.9043969756917,
+    "lon": 33.5863840363429,
+    "name": "Kyrineias"
+  },
+  {
+    "description": "Lemesou Ave. - Makedonias 1",
+    "lat": 34.9094470293519,
+    "lon": 33.584449577531,
+    "name": "Lemesou Ave. - Makedonias 1"
+  },
+  {
+    "description": "Lemesou Ave. - Charilaou Trikoupi 1",
+    "lat": 34.908023555517,
+    "lon": 33.5785285020001,
+    "name": "Lemesou Ave. - Charilaou Trikoupi 1"
+  },
+  {
+    "description": "Kalo Chorio Roundabout 2",
+    "lat": 34.9086679185883,
+    "lon": 33.566163628203,
+    "name": "Kalo Chorio Roundabout 2"
+  },
+  {
+    "description": "Everest",
+    "lat": 34.9022045651731,
+    "lon": 33.5657033367668,
+    "name": "Everest"
+  },
+  {
+    "description": "Pigasou",
+    "lat": 34.8988427981284,
+    "lon": 33.5653300433116,
+    "name": "Pigasou"
+  },
+  {
+    "description": "Alpeon",
+    "lat": 34.9045882481357,
+    "lon": 33.56504104236,
+    "name": "Alpeon"
+  },
+  {
+    "description": "Kalo Chorio Roundabout 1",
+    "lat": 34.9091212728412,
+    "lon": 33.5656303652845,
+    "name": "Kalo Chorio Roundabout 1"
+  },
+  {
+    "description": "A2 Industrial Area",
+    "lat": 34.9085910283765,
+    "lon": 33.5729498422037,
+    "name": "A2 Industrial Area"
+  },
+  {
+    "description": "Lemesou Ave. - Charilaou Trikoupi 2",
+    "lat": 34.9083162703107,
+    "lon": 33.5795485625504,
+    "name": "Lemesou Ave. - Charilaou Trikoupi 2"
+  },
+  {
+    "description": "Lemesou Ave. - Makedonias 2",
+    "lat": 34.9097790299223,
+    "lon": 33.5847912719885,
+    "name": "Lemesou Ave. - Makedonias 2"
+  },
+  {
+    "description": "Apost. Andrea - Agias Triados",
+    "lat": 34.9066081815405,
+    "lon": 33.5915663066339,
+    "name": "Apost. Andrea - Agias Triados"
+  },
+  {
+    "description": "Apostolos Varnavas Church 2",
+    "lat": 34.9068361722786,
+    "lon": 33.5928924210942,
+    "name": "Apostolos Varnavas Church 2"
+  },
+  {
+    "description": "Kastalias",
+    "lat": 34.9097156550209,
+    "lon": 33.5941391282103,
+    "name": "Kastalias"
+  },
+  {
+    "description": "Kamares - Old Aqueduct 2",
+    "lat": 34.912833624016,
+    "lon": 33.5982338403757,
+    "name": "Kamares - Old Aqueduct 2"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - I. Kondylaki",
+    "lat": 34.9166611267941,
+    "lon": 33.6046877386619,
+    "name": "Nikou kai Despoinas Pattichi Ave. - I. Kondylaki"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - Panidos",
+    "lat": 34.9181184257099,
+    "lon": 33.6125916436575,
+    "name": "Nikou kai Despoinas Pattichi Ave. - Panidos"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2",
+    "lat": 34.9194167146212,
+    "lon": 33.6179766426449,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Chr. Iakovidou",
+    "lat": 34.918561253722,
+    "lon": 33.6195138485714,
+    "name": "Georg. Griva Digeni Ave. - Chr. Iakovidou"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Thessalonikis Ave.",
+    "lat": 34.9180133596127,
+    "lon": 33.6208562831158,
+    "name": "Georg. Griva Digeni Ave. - Thessalonikis Ave."
+  },
+  {
+    "description": "Municipal Library 2",
+    "lat": 34.916724235321,
+    "lon": 33.6243059543314,
+    "name": "Municipal Library 2"
+  },
+  {
+    "description": "Municipal Park 2",
+    "lat": 34.9168095577485,
+    "lon": 33.6269996632646,
+    "name": "Municipal Park 2"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.9178223662695,
+    "lon": 33.6351304406883,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2"
+  },
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  }
+]

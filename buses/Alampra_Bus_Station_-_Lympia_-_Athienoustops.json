@@ -1,0 +1,122 @@
+[
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  },
+  {
+    "description": "Lemesou Ave. - Filias",
+    "lat": 34.9977926869451,
+    "lon": 33.4017451753162,
+    "name": "Lemesou Ave. - Filias"
+  },
+  {
+    "description": "Lemesou Ave. - Lympion Ave. 2",
+    "lat": 34.9927119622616,
+    "lon": 33.4056431826699,
+    "name": "Lemesou Ave. - Lympion Ave. 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Eleftherias",
+    "lat": 34.9993558981351,
+    "lon": 33.4545290181415,
+    "name": "Grigori Afxentiou - Eleftherias"
+  },
+  {
+    "description": "Grigori Afxentiou - Koumi Charalampous",
+    "lat": 34.9997710250497,
+    "lon": 33.4568435688802,
+    "name": "Grigori Afxentiou - Koumi Charalampous"
+  },
+  {
+    "description": "Koumi Charalampous - Michail Olympiou",
+    "lat": 35.0001863570616,
+    "lon": 33.4614704102517,
+    "name": "Koumi Charalampous - Michail Olympiou"
+  },
+  {
+    "description": "Apodimon Square",
+    "lat": 34.9980436602673,
+    "lon": 33.46293775441,
+    "name": "Apodimon Square"
+  },
+  {
+    "description": "Agios Epifanios Church 2",
+    "lat": 34.9957242041035,
+    "lon": 33.4658176074651,
+    "name": "Agios Epifanios Church 2"
+  },
+  {
+    "description": "Agios Epifanios Church 1",
+    "lat": 34.9951699485952,
+    "lon": 33.4669102605442,
+    "name": "Agios Epifanios Church 1"
+  },
+  {
+    "description": "Anexartisias - Stadiou 1",
+    "lat": 34.9945976887817,
+    "lon": 33.4703258623728,
+    "name": "Anexartisias - Stadiou 1"
+  },
+  {
+    "description": "Athienou Roundabout",
+    "lat": 35.0581785064605,
+    "lon": 33.5211133699569,
+    "name": "Athienou Roundabout"
+  },
+  {
+    "description": "Theokritou - Ioanni Kai Marias Kramvi 1",
+    "lat": 35.0561130856791,
+    "lon": 33.5336673264605,
+    "name": "Theokritou - Ioanni Kai Marias Kramvi 1"
+  },
+  {
+    "description": "Eleftheriou Venizelou - Ifaistou",
+    "lat": 35.0622877422136,
+    "lon": 33.536196983798,
+    "name": "Eleftheriou Venizelou - Ifaistou"
+  },
+  {
+    "description": "Eleftheriou Venizelou - Georgiou Skourou",
+    "lat": 35.0631523865148,
+    "lon": 33.5343821198436,
+    "name": "Eleftheriou Venizelou - Georgiou Skourou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Petrou Vrachimi",
+    "lat": 35.064499919423,
+    "lon": 33.5334806277854,
+    "name": "Archiep. Makariou C´ Ave. - Petrou Vrachimi"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - G. Griva Digeni Ave.",
+    "lat": 35.0640391145617,
+    "lon": 33.5357368509662,
+    "name": "Archiep. Makariou C´ Ave. - G. Griva Digeni Ave."
+  },
+  {
+    "description": "Athienou City Hall 1",
+    "lat": 35.0634568607955,
+    "lon": 33.5389354148312,
+    "name": "Athienou City Hall 1"
+  },
+  {
+    "description": "Athienou Old High School",
+    "lat": 35.0594468581284,
+    "lon": 33.5423854349429,
+    "name": "Athienou Old High School"
+  },
+  {
+    "description": "Athienou Elementary School",
+    "lat": 35.0584429349625,
+    "lon": 33.5430587087837,
+    "name": "Athienou Elementary School"
+  },
+  {
+    "description": "Athienou Sports Centre",
+    "lat": 35.0584762088016,
+    "lon": 33.5456908514403,
+    "name": "Athienou Sports Centre"
+  }
+]

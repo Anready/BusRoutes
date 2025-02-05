@@ -1,0 +1,230 @@
+[
+  {
+    "description": "Isokratous - Empedokleous",
+    "lat": 35.1415448511266,
+    "lon": 33.2955396511275,
+    "name": "Isokratous - Empedokleous"
+  },
+  {
+    "description": "Isokratous - Irakleitou",
+    "lat": 35.1367195431629,
+    "lon": 33.2959942206036,
+    "name": "Isokratous - Irakleitou"
+  },
+  {
+    "description": "Kleisthenous - Isokratous",
+    "lat": 35.135794739413,
+    "lon": 33.2980545156748,
+    "name": "Kleisthenous - Isokratous"
+  },
+  {
+    "description": "Kleisthenous - Aristogeitonos",
+    "lat": 35.1380371337145,
+    "lon": 33.2992262633949,
+    "name": "Kleisthenous - Aristogeitonos"
+  },
+  {
+    "description": "Parthenonos - Aspasias",
+    "lat": 35.144436982848,
+    "lon": 33.2965161679297,
+    "name": "Parthenonos - Aspasias"
+  },
+  {
+    "description": "Andrea Anastasopoulou - Morfou Avenue",
+    "lat": 35.1463049794526,
+    "lon": 33.2995968479955,
+    "name": "Andrea Anastasopoulou - Morfou Avenue"
+  },
+  {
+    "description": "Andrea Anastasopoulou - Stefanou Giannakou",
+    "lat": 35.1486286985718,
+    "lon": 33.3006922401911,
+    "name": "Andrea Anastasopoulou - Stefanou Giannakou"
+  },
+  {
+    "description": "Florinis - Zidrou",
+    "lat": 35.1510945989756,
+    "lon": 33.302622614461,
+    "name": "Florinis - Zidrou"
+  },
+  {
+    "description": "Florinis - Eptanisou",
+    "lat": 35.1517281750342,
+    "lon": 33.3052708891113,
+    "name": "Florinis - Eptanisou"
+  },
+  {
+    "description": "Eptanisou - Valesta",
+    "lat": 35.1532760372079,
+    "lon": 33.3064953578608,
+    "name": "Eptanisou - Valesta"
+  },
+  {
+    "description": "Eptanisou - Eleftherias Avenue",
+    "lat": 35.1549843931701,
+    "lon": 33.3048658349567,
+    "name": "Eptanisou - Eleftherias Avenue"
+  },
+  {
+    "description": "Avenue Eleftherias - Vasileiou Panagopoulou",
+    "lat": 35.1567471411798,
+    "lon": 33.3066950299178,
+    "name": "Avenue Eleftherias - Vasileiou Panagopoulou"
+  },
+  {
+    "description": "Makedonitissas Tomb 2",
+    "lat": 35.153712719255,
+    "lon": 33.308528151779,
+    "name": "Makedonitissas Tomb 2"
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Cyprus International Fair",
+    "lat": 35.1496594592518,
+    "lon": 33.317273835866,
+    "name": "Cyprus International Fair"
+  },
+  {
+    "description": "Ilia Papakyriakou - Cyprus International Fair",
+    "lat": 35.15184127593,
+    "lon": 33.3174030737528,
+    "name": "Ilia Papakyriakou - Cyprus International Fair"
+  },
+  {
+    "description": "Ilia Papakyriakou - Nikolaou Skoufa",
+    "lat": 35.1550725464794,
+    "lon": 33.3162078888731,
+    "name": "Ilia Papakyriakou - Nikolaou Skoufa"
+  },
+  {
+    "description": "Ave. 28 Oktovriou - Papaflesa",
+    "lat": 35.158013743371,
+    "lon": 33.3155934214839,
+    "name": "Ave. 28 Oktovriou - Papaflesa"
+  },
+  {
+    "description": "Ave.8 Oktovriou - Palaion Patron Germanou",
+    "lat": 35.1604177459165,
+    "lon": 33.3169642416892,
+    "name": "Ave.8 Oktovriou - Palaion Patron Germanou"
+  },
+  {
+    "description": "Mall of Engomi",
+    "lat": 35.1631212254142,
+    "lon": 33.3176006175545,
+    "name": "Mall of Engomi"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kolakasidi Roundabout 2",
+    "lat": 35.165888165599,
+    "lon": 33.3181055131897,
+    "name": "Georg. Griva Digeni Ave. - Kolakasidi Roundabout 2"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Valesta",
+    "lat": 35.1683752847991,
+    "lon": 33.3187191641901,
+    "name": "Ave. Kyriakou Matsi - Valesta"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Aristeidou",
+    "lat": 35.1687746427559,
+    "lon": 33.3211475771486,
+    "name": "Ave. Kyriakou Matsi - Aristeidou"
+  },
+  {
+    "description": "Ave. Dimokratias - Ave. Grigori Afxentiou",
+    "lat": 35.1711821968358,
+    "lon": 33.3245393657053,
+    "name": "Ave. Dimokratias - Ave. Grigori Afxentiou"
+  },
+  {
+    "description": "Ave. Dimokratias - Ammou",
+    "lat": 35.17421309819,
+    "lon": 33.3241121312765,
+    "name": "Ave. Dimokratias - Ammou"
+  },
+  {
+    "description": "Agios Dometios Roadblock 2",
+    "lat": 35.1788767542606,
+    "lon": 33.3234387387748,
+    "name": "Agios Dometios Roadblock 2"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Ektoros",
+    "lat": 35.179472999897,
+    "lon": 33.3263844588697,
+    "name": "Ave. Agiou Pavlou - Ektoros"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Psaron",
+    "lat": 35.1784363153532,
+    "lon": 33.3296091814382,
+    "name": "Ave. Agiou Pavlou - Psaron"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Platonos",
+    "lat": 35.1780765761867,
+    "lon": 33.3325620189875,
+    "name": "Ave. Agiou Pavlou - Platonos"
+  },
+  {
+    "description": "Agios Pavlos Church 2",
+    "lat": 35.1776450851774,
+    "lon": 33.3353497989552,
+    "name": "Agios Pavlos Church 2"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Rizokarpasou",
+    "lat": 35.1770133451589,
+    "lon": 33.3387846782642,
+    "name": "Ave. Agiou Pavlou - Rizokarpasou"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Andrea Kalvou",
+    "lat": 35.1759933106887,
+    "lon": 33.3423826098489,
+    "name": "Ave. Agiou Pavlou - Andrea Kalvou"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Averof",
+    "lat": 35.1749637761969,
+    "lon": 33.3461121957303,
+    "name": "Ave. Agiou Pavlou - Averof"
+  },
+  {
+    "description": "Iroon - Agios Andreas Elem. School 2",
+    "lat": 35.1740873213221,
+    "lon": 33.3498752887926,
+    "name": "Iroon - Agios Andreas Elem. School 2"
+  },
+  {
+    "description": "Chilonos - Nechrou Avenue",
+    "lat": 35.1708327878509,
+    "lon": 33.352760464628,
+    "name": "Chilonos - Nechrou Avenue"
+  },
+  {
+    "description": "Museum - THOK",
+    "lat": 35.1727003004999,
+    "lon": 33.3555139703451,
+    "name": "Museum - THOK"
+  },
+  {
+    "description": "Ave. Aigyptou - Omirou Avenue",
+    "lat": 35.1723542968642,
+    "lon": 33.3566545620449,
+    "name": "Ave. Aigyptou - Omirou Avenue"
+  },
+  {
+    "description": "Solomos Square Alighting ",
+    "lat": 35.170392452312,
+    "lon": 33.3583920449795,
+    "name": "Solomos Square Alighting "
+  }
+]

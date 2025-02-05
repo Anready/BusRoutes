@@ -1,0 +1,176 @@
+[
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  },
+  {
+    "description": "Agias Fylaxeos - Orfeos",
+    "lat": 34.6797659187806,
+    "lon": 33.0403468176243,
+    "name": "Agias Fylaxeos - Orfeos"
+  },
+  {
+    "description": "Agias Fylaxeos - Ethnikis Antistaseos",
+    "lat": 34.6818586230703,
+    "lon": 33.0386557564619,
+    "name": "Agias Fylaxeos - Ethnikis Antistaseos"
+  },
+  {
+    "description": "Agias Fylaxeos - Episkopou Lavrentiou 1",
+    "lat": 34.6852677207983,
+    "lon": 33.037609302347,
+    "name": "Agias Fylaxeos - Episkopou Lavrentiou 1"
+  },
+  {
+    "description": "Laniteio Lyceum 1",
+    "lat": 34.6877929048353,
+    "lon": 33.037053656932,
+    "name": "Laniteio Lyceum 1"
+  },
+  {
+    "description": "Apostolon Petrou kai Pavlou Lyceum",
+    "lat": 34.6893171179456,
+    "lon": 33.0364320328997,
+    "name": "Apostolon Petrou kai Pavlou Lyceum"
+  },
+  {
+    "description": "Agias Fylaxeos - Faidonos",
+    "lat": 34.693492923859,
+    "lon": 33.0346542044069,
+    "name": "Agias Fylaxeos - Faidonos"
+  },
+  {
+    "description": "Agias Fylaxeos - Chlois",
+    "lat": 34.6952335497364,
+    "lon": 33.0340435008274,
+    "name": "Agias Fylaxeos - Chlois"
+  },
+  {
+    "description": "Agias Fylaxeos - Spyridonos Trikoupi",
+    "lat": 34.6980836381028,
+    "lon": 33.0324505302835,
+    "name": "Agias Fylaxeos - Spyridonos Trikoupi"
+  },
+  {
+    "description": "Ierou Lochou - Sofias Vempo 1",
+    "lat": 34.7001846562481,
+    "lon": 33.0330082208857,
+    "name": "Ierou Lochou - Sofias Vempo 1"
+  },
+  {
+    "description": "Agia Marina Church 1",
+    "lat": 34.7029803351524,
+    "lon": 33.0325070389913,
+    "name": "Agia Marina Church 1"
+  },
+  {
+    "description": "Rizokarpasou 1",
+    "lat": 34.7038463830279,
+    "lon": 33.0312407147485,
+    "name": "Rizokarpasou 1"
+  },
+  {
+    "description": "Akanthous - Aiakou",
+    "lat": 34.7024849444712,
+    "lon": 33.0302028666987,
+    "name": "Akanthous - Aiakou"
+  },
+  {
+    "description": "Agias Fylaxeos - Steliou Kyriakidi",
+    "lat": 34.7027921192044,
+    "lon": 33.027822555661,
+    "name": "Agias Fylaxeos - Steliou Kyriakidi"
+  },
+  {
+    "description": "Thespion - Filathlon",
+    "lat": 34.7050833889211,
+    "lon": 33.0244273049867,
+    "name": "Thespion - Filathlon"
+  },
+  {
+    "description": "Thespion - Domnitsas L. Kavounidou",
+    "lat": 34.7047141354087,
+    "lon": 33.0219047636076,
+    "name": "Thespion - Domnitsas L. Kavounidou"
+  },
+  {
+    "description": "Domnitsas Lanitou Kavounidou - Evagora Laniti 1",
+    "lat": 34.7052823682833,
+    "lon": 33.0213043300211,
+    "name": "Domnitsas Lanitou Kavounidou - Evagora Laniti 1"
+  },
+  {
+    "description": "Evagora Laniti - Agias Fylaxeos",
+    "lat": 34.7072751553562,
+    "lon": 33.0222221174773,
+    "name": "Evagora Laniti - Agias Fylaxeos"
+  },
+  {
+    "description": "Agias Fylaxeos - Meleagrou 1",
+    "lat": 34.7101334404671,
+    "lon": 33.0242213031562,
+    "name": "Agias Fylaxeos - Meleagrou 1"
+  },
+  {
+    "description": "E.N.A.F. Theatre 1",
+    "lat": 34.7135965556134,
+    "lon": 33.0229118179483,
+    "name": "E.N.A.F. Theatre 1"
+  },
+  {
+    "description": "1 Apriliou - Kanakarias 2",
+    "lat": 34.7173212702138,
+    "lon": 33.021045306409,
+    "name": "1 Apriliou - Kanakarias 2"
+  },
+  {
+    "description": "19 Elementary School - Agia Fylaxi 2",
+    "lat": 34.715698646,
+    "lon": 33.0172880484713,
+    "name": "19 Elementary School - Agia Fylaxi 2"
+  },
+  {
+    "description": "Kanakarias - Koutsoventi 1",
+    "lat": 34.7157530876709,
+    "lon": 33.0147434496307,
+    "name": "Kanakarias - Koutsoventi 1"
+  },
+  {
+    "description": "Ileias - Kanakarias",
+    "lat": 34.7160598525736,
+    "lon": 33.0133783648172,
+    "name": "Ileias - Kanakarias"
+  },
+  {
+    "description": "Ileias - Kalopsidas",
+    "lat": 34.7176197891241,
+    "lon": 33.0147110169806,
+    "name": "Ileias - Kalopsidas"
+  },
+  {
+    "description": "1 Apriliou - Ileias",
+    "lat": 34.7186563131967,
+    "lon": 33.0185883172073,
+    "name": "1 Apriliou - Ileias"
+  },
+  {
+    "description": "1 Apriliou - Aimiliou Zola 1",
+    "lat": 34.7204961537537,
+    "lon": 33.0172453601849,
+    "name": "1 Apriliou - Aimiliou Zola 1"
+  },
+  {
+    "description": "Melathron EOKA 1",
+    "lat": 34.7416259910787,
+    "lon": 33.0067185535582,
+    "name": "Melathron EOKA 1"
+  },
+  {
+    "description": "Palodeia Community Board 1",
+    "lat": 34.7460087265488,
+    "lon": 33.0052112509009,
+    "name": "Palodeia Community Board 1"
+  }
+]

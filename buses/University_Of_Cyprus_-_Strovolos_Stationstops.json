@@ -1,0 +1,158 @@
+[
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  },
+  {
+    "description": "University of Cyprus - Parking Place",
+    "lat": 35.1472155482355,
+    "lon": 33.4104484021488,
+    "name": "University of Cyprus - Parking Place"
+  },
+  {
+    "description": "University of Cyprus - University House",
+    "lat": 35.1460482761817,
+    "lon": 33.4089824472376,
+    "name": "University of Cyprus - University House"
+  },
+  {
+    "description": "Ave. Athalassis - UCY Student Halls 2",
+    "lat": 35.1437463814322,
+    "lon": 33.4043602372873,
+    "name": "Ave. Athalassis - UCY Student Halls 2"
+  },
+  {
+    "description": "Athalassas - Eleftheriou Venizelou",
+    "lat": 35.1502389859463,
+    "lon": 33.4042825669473,
+    "name": "Athalassas - Eleftheriou Venizelou"
+  },
+  {
+    "description": "Larnakos - Athalassis Avenue",
+    "lat": 35.1538918143343,
+    "lon": 33.4013033119756,
+    "name": "Larnakos - Athalassis Avenue"
+  },
+  {
+    "description": "Larnakos - Markou Drakou",
+    "lat": 35.1553086442271,
+    "lon": 33.3982250578305,
+    "name": "Larnakos - Markou Drakou"
+  },
+  {
+    "description": "Larnakos - Grigoriou Lampraki",
+    "lat": 35.156907096164,
+    "lon": 33.3947303495763,
+    "name": "Larnakos - Grigoriou Lampraki"
+  },
+  {
+    "description": "Aglantzias - Aristidou",
+    "lat": 35.1569504965718,
+    "lon": 33.3896799319901,
+    "name": "Aglantzias - Aristidou"
+  },
+  {
+    "description": "Ave. Aglantzias - Archiepiskopou Makariou C",
+    "lat": 35.1569780203671,
+    "lon": 33.383882818331,
+    "name": "Ave. Aglantzias - Archiepiskopou Makariou C"
+  },
+  {
+    "description": "Ave. Aglantzias - H.H.I.C. 2",
+    "lat": 35.1555986539496,
+    "lon": 33.3809448262997,
+    "name": "Ave. Aglantzias - H.H.I.C. 2"
+  },
+  {
+    "description": "Ave. Aglantzias - Lemesou Avenue",
+    "lat": 35.155179224645,
+    "lon": 33.376660908143,
+    "name": "Ave. Aglantzias - Lemesou Avenue"
+  },
+  {
+    "description": "Lemesou Ave. - Alpha Bank",
+    "lat": 35.1542545605751,
+    "lon": 33.3753391341205,
+    "name": "Lemesou Ave. - Alpha Bank"
+  },
+  {
+    "description": "Armenias - Kalipsous",
+    "lat": 35.152073683863,
+    "lon": 33.37200248843,
+    "name": "Armenias - Kalipsous"
+  },
+  {
+    "description": "Armenias - Ifigenias",
+    "lat": 35.1526731607923,
+    "lon": 33.3676245722761,
+    "name": "Armenias - Ifigenias"
+  },
+  {
+    "description": "Armenias - Ippokratous",
+    "lat": 35.1539069466671,
+    "lon": 33.365159796071,
+    "name": "Armenias - Ippokratous"
+  },
+  {
+    "description": "Arsinois - Acropoleos Ave",
+    "lat": 35.1550553329258,
+    "lon": 33.3610805971012,
+    "name": "Arsinois - Acropoleos Ave"
+  },
+  {
+    "description": "Arsinois - Patroklou Kokkinou",
+    "lat": 35.1553621798967,
+    "lon": 33.3579528167547,
+    "name": "Arsinois - Patroklou Kokkinou"
+  },
+  {
+    "description": "Glafkou - Dilou",
+    "lat": 35.1577973522481,
+    "lon": 33.3547024969992,
+    "name": "Glafkou - Dilou"
+  },
+  {
+    "description": "Kyriakou Matsi - Agathonos",
+    "lat": 35.1567133385306,
+    "lon": 33.3522822777184,
+    "name": "Kyriakou Matsi - Agathonos"
+  },
+  {
+    "description": "Proedrikou Megarou - English School",
+    "lat": 35.1543156685476,
+    "lon": 33.3488573835062,
+    "name": "Proedrikou Megarou - English School"
+  },
+  {
+    "description": "Ave. Strovolou - Omirou",
+    "lat": 35.1469582378711,
+    "lon": 33.3455105358698,
+    "name": "Ave. Strovolou - Omirou"
+  },
+  {
+    "description": "Ave. Strovolou - Pythonos",
+    "lat": 35.1425967535343,
+    "lon": 33.3413315491086,
+    "name": "Ave. Strovolou - Pythonos"
+  },
+  {
+    "description": "Ave. Strovolou - Kantaras",
+    "lat": 35.1407733733759,
+    "lon": 33.3387991184145,
+    "name": "Ave. Strovolou - Kantaras"
+  },
+  {
+    "description": "Ave. Strovolou - Ilia Venezi",
+    "lat": 35.1408111281378,
+    "lon": 33.3381955135068,
+    "name": "Ave. Strovolou - Ilia Venezi"
+  },
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "description": "Kantou Community Board",
+    "lat": 34.6894228593077,
+    "lon": 32.907669747071,
+    "name": "Kantou Community Board"
+  },
+  {
+    "description": "Kantou Community Board 1",
+    "lat": 34.6901261803086,
+    "lon": 32.9075707068184,
+    "name": "Kantou Community Board 1"
+  },
+  {
+    "description": "Sotira Lemesou",
+    "lat": 34.7125174933281,
+    "lon": 32.8601720655874,
+    "name": "Sotira Lemesou"
+  },
+  {
+    "description": "Andrea Vlami - Souni - Zanakia 2",
+    "lat": 34.7317433533031,
+    "lon": 32.8766992139979,
+    "name": "Andrea Vlami - Souni - Zanakia 2"
+  },
+  {
+    "description": "Agiou Panteleimonos Ave. - 4th Pano Kyvides 2",
+    "lat": 34.754289691128,
+    "lon": 32.8615876452801,
+    "name": "Agiou Panteleimonos Ave. - 4th Pano Kyvides 2"
+  },
+  {
+    "description": "Agiou Panteleimonos Ave. - 3rd Pano Kyvides 1",
+    "lat": 34.7558372460214,
+    "lon": 32.8585366149548,
+    "name": "Agiou Panteleimonos Ave. - 3rd Pano Kyvides 1"
+  },
+  {
+    "description": "Agiou Panteleimonos Ave. - 2nd Pano Kyvides 1",
+    "lat": 34.7586079475665,
+    "lon": 32.8528172245803,
+    "name": "Agiou Panteleimonos Ave. - 2nd Pano Kyvides 1"
+  },
+  {
+    "description": "Agelikis Sotiriou - 1st Pano Kyvides 1",
+    "lat": 34.7609158197729,
+    "lon": 32.8450003208322,
+    "name": "Agelikis Sotiriou - 1st Pano Kyvides 1"
+  },
+  {
+    "description": "Pano Kyvides - Agios Amvrosios Road",
+    "lat": 34.7770141743223,
+    "lon": 32.8326093819059,
+    "name": "Pano Kyvides - Agios Amvrosios Road"
+  },
+  {
+    "description": "1st Vouni",
+    "lat": 34.8247310851315,
+    "lon": 32.8356404304067,
+    "name": "1st Vouni"
+  },
+  {
+    "description": "2nd Vouni",
+    "lat": 34.8202820714615,
+    "lon": 32.8332217342894,
+    "name": "2nd Vouni"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "description": "Dionysios Solomos Square A",
+    "lat": 35.1707964293693,
+    "lon": 33.358997800121,
+    "name": "Dionysios Solomos Square A"
+  },
+  {
+    "description": "Evagorou Ave.  - Vasileos Pavlou",
+    "lat": 35.1677905885467,
+    "lon": 33.3570079918293,
+    "name": "Evagorou Ave.  - Vasileos Pavlou"
+  },
+  {
+    "description": "Ave. Dimostheni Severi - Skyrou",
+    "lat": 35.165651279569,
+    "lon": 33.3547036531502,
+    "name": "Ave. Dimostheni Severi - Skyrou"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Kosta Chatzopoulou",
+    "lat": 35.1635857702818,
+    "lon": 33.3549033152014,
+    "name": "Ave. Georgiou Griva Digeni - Kosta Chatzopoulou"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Themistokli Dervi",
+    "lat": 35.1631461113951,
+    "lon": 33.357229265428,
+    "name": "Ave. Georgiou Griva Digeni - Themistokli Dervi"
+  },
+  {
+    "description": "Nikis - Tzon Kennenty",
+    "lat": 35.1621498264015,
+    "lon": 33.3587182351632,
+    "name": "Nikis - Tzon Kennenty"
+  },
+  {
+    "description": "Nikis - 25 Martiou",
+    "lat": 35.1603297845076,
+    "lon": 33.3582381004355,
+    "name": "Nikis - 25 Martiou"
+  },
+  {
+    "description": "Nikis - Kastoros",
+    "lat": 35.1575354468153,
+    "lon": 33.3579074378792,
+    "name": "Nikis - Kastoros"
+  },
+  {
+    "description": "Bank of Cyprus Oncology Center 1",
+    "lat": 35.1523643968928,
+    "lon": 33.3593340229035,
+    "name": "Bank of Cyprus Oncology Center 1"
+  },
+  {
+    "description": "Ave. Akropoleos - Mesolongiou",
+    "lat": 35.1497744211072,
+    "lon": 33.3600252718369,
+    "name": "Ave. Akropoleos - Mesolongiou"
+  },
+  {
+    "description": "Ave. Georgiou Paraskevaidi - Akropolis Park 1",
+    "lat": 35.1472040421581,
+    "lon": 33.3601896043787,
+    "name": "Ave. Georgiou Paraskevaidi - Akropolis Park 1"
+  },
+  {
+    "description": "Ave. Athalassas - Nicosia Water Board 1",
+    "lat": 35.1462918475022,
+    "lon": 33.3576386412,
+    "name": "Ave. Athalassas - Nicosia Water Board 1"
+  },
+  {
+    "description": "Ave. Athalassas - Peiraios",
+    "lat": 35.1473101477786,
+    "lon": 33.3547887265677,
+    "name": "Ave. Athalassas - Peiraios"
+  },
+  {
+    "description": "Ave. Athalassas - Defkalionos",
+    "lat": 35.1485554324537,
+    "lon": 33.3513798138086,
+    "name": "Ave. Athalassas - Defkalionos"
+  },
+  {
+    "description": "Ave. Athalassas - Strovolou Avenue",
+    "lat": 35.1496908393089,
+    "lon": 33.3485192625446,
+    "name": "Ave. Athalassas - Strovolou Avenue"
+  },
+  {
+    "description": "Ave. Strovolou - SEK 1",
+    "lat": 35.1495246806746,
+    "lon": 33.3467180562083,
+    "name": "Ave. Strovolou - SEK 1"
+  },
+  {
+    "description": "Ave. Strovolou - Omirou",
+    "lat": 35.1469582378711,
+    "lon": 33.3455105358698,
+    "name": "Ave. Strovolou - Omirou"
+  },
+  {
+    "description": "Strovolos City Hall 1",
+    "lat": 35.1441120653755,
+    "lon": 33.3443677814721,
+    "name": "Strovolos City Hall 1"
+  },
+  {
+    "description": "Ave. Strovolou - Pythonos",
+    "lat": 35.1425967535343,
+    "lon": 33.3413315491086,
+    "name": "Ave. Strovolou - Pythonos"
+  },
+  {
+    "description": "Ave. Strovolou - Kantaras",
+    "lat": 35.1407733733759,
+    "lon": 33.3387991184145,
+    "name": "Ave. Strovolou - Kantaras"
+  },
+  {
+    "description": "Public Works Department 1",
+    "lat": 35.137947216912,
+    "lon": 33.3336611054959,
+    "name": "Public Works Department 1"
+  },
+  {
+    "description": "Ave. Strovolou - Machaira",
+    "lat": 35.1343220530768,
+    "lon": 33.330463098289,
+    "name": "Ave. Strovolou - Machaira"
+  },
+  {
+    "description": "Ave. Strovolou - Pavlou Mela",
+    "lat": 35.1314542077889,
+    "lon": 33.32727938183,
+    "name": "Ave. Strovolou - Pavlou Mela"
+  },
+  {
+    "description": "Ave. Strovolou - Lakatameia Roundabout  1",
+    "lat": 35.1276470579773,
+    "lon": 33.3246299779293,
+    "name": "Ave. Strovolou - Lakatameia Roundabout  1"
+  },
+  {
+    "description": "Ave. Strovolou - METRO Supermarket",
+    "lat": 35.1248565031906,
+    "lon": 33.3228408993834,
+    "name": "Ave. Strovolou - METRO Supermarket"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Anexartisias",
+    "lat": 35.1218979311891,
+    "lon": 33.3197891653063,
+    "name": "Ave. Archiepiskopou Makariou C - Anexartisias"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Kosta Andreou",
+    "lat": 35.1192565407279,
+    "lon": 33.3161023536324,
+    "name": "Ave. Archiepiskopou Makariou C - Kosta Andreou"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Agiou Dimitrianou",
+    "lat": 35.1169498002172,
+    "lon": 33.3119780862132,
+    "name": "Ave. Archiep. Makariou C - Agiou Dimitrianou"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Dios",
+    "lat": 35.1144511848898,
+    "lon": 33.3087861155714,
+    "name": "Ave. Archiepiskopou Makariou C - Dios"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Promitheos",
+    "lat": 35.1124540057571,
+    "lon": 33.3069569492663,
+    "name": "Ave. Archiepiskopou Makariou C - Promitheos"
+  },
+  {
+    "description": "Elementary School A Lakatameia - Agia Paraskevi 1",
+    "lat": 35.1103470992198,
+    "lon": 33.3057200273079,
+    "name": "Elementary School A Lakatameia - Agia Paraskevi 1"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Dimitri Liperti",
+    "lat": 35.1078084021915,
+    "lon": 33.3040645870016,
+    "name": "Ave. Archiepiskopou Makariou C - Dimitri Liperti"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Tseriou",
+    "lat": 35.1042044783443,
+    "lon": 33.3028771365116,
+    "name": "Ave. Archiepiskopou Makariou C - Tseriou"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Kallitheas",
+    "lat": 35.1010730824142,
+    "lon": 33.300221262781,
+    "name": "Ave. Archiepiskopou Makariou C - Kallitheas"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Mesotopitissas",
+    "lat": 35.0979264399778,
+    "lon": 33.2964025327473,
+    "name": "Ave. Archiepiskopou Makariou C - Mesotopitissas"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Strakka Lake 1",
+    "lat": 35.0955523399445,
+    "lon": 33.2937498274336,
+    "name": "Ave. Archiepiskopou Makariou C - Strakka Lake 1"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Strakka Area 1",
+    "lat": 35.0929171293894,
+    "lon": 33.2909098400156,
+    "name": "Ave. Archiepiskopou Makariou C - Strakka Area 1"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Christou Leventi",
+    "lat": 35.0888091016047,
+    "lon": 33.2854977539991,
+    "name": "Ave. Archiep. Makariou C - Christou Leventi"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Pentadaktylou",
+    "lat": 35.0867884967519,
+    "lon": 33.2819582906488,
+    "name": "Ave. Archiepiskopou Makariou C - Pentadaktylou"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Ellados",
+    "lat": 35.085974529423,
+    "lon": 33.2791032512468,
+    "name": "Ave. Archiepiskopou Makariou C - Ellados"
+  },
+  {
+    "description": "Andrea Zitti - Grigori Afxentiou Avenue",
+    "lat": 35.0839100688512,
+    "lon": 33.2749386376613,
+    "name": "Andrea Zitti - Grigori Afxentiou Avenue"
+  },
+  {
+    "description": "Pano Deftera Elementary School",
+    "lat": 35.0838453968144,
+    "lon": 33.2716255216154,
+    "name": "Pano Deftera Elementary School"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Metochiou",
+    "lat": 35.0815355892436,
+    "lon": 33.2681953636595,
+    "name": "Ave. Archiepiskopou Makariou C - Metochiou"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Machaira",
+    "lat": 35.0796939077633,
+    "lon": 33.2650740522632,
+    "name": "Ave. Archiepiskopou Makariou C - Machaira"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Mesaorias",
+    "lat": 35.0784010574435,
+    "lon": 33.2624811540126,
+    "name": "Ave. Archiepiskopou Makariou C - Mesaorias"
+  },
+  {
+    "description": "Anageia Community Stadium",
+    "lat": 35.0765562285507,
+    "lon": 33.256530105932,
+    "name": "Anageia Community Stadium"
+  },
+  {
+    "description": "Archiep. Makariou C - Archiepiskopou Kyprianou",
+    "lat": 35.0757400271078,
+    "lon": 33.2544544510559,
+    "name": "Archiep. Makariou C - Archiepiskopou Kyprianou"
+  },
+  {
+    "description": "Archiepiskopou Makariou C - Dimokratias",
+    "lat": 35.0752203078411,
+    "lon": 33.2528843112785,
+    "name": "Archiepiskopou Makariou C - Dimokratias"
+  },
+  {
+    "description": "Archiepiskopou Makariou C - Spyrou Kyprianou",
+    "lat": 35.0743185675831,
+    "lon": 33.2485269966569,
+    "name": "Archiepiskopou Makariou C - Spyrou Kyprianou"
+  },
+  {
+    "description": "Archiep. Makariou C - Christodoulou Kourtela",
+    "lat": 35.0711912822331,
+    "lon": 33.24323085335,
+    "name": "Archiep. Makariou C - Christodoulou Kourtela"
+  },
+  {
+    "description": "Lefkosia-Palaichori Road - Ergates Ind. Area 1",
+    "lat": 35.0682497111691,
+    "lon": 33.2255639867933,
+    "name": "Lefkosia-Palaichori Road - Ergates Ind. Area 1"
+  }
+]

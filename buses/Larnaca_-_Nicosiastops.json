@@ -1,0 +1,86 @@
+[
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Municipal Library 1",
+    "lat": 34.9163428757828,
+    "lon": 33.6248175920962,
+    "name": "Municipal Library 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1",
+    "lat": 34.9232927989392,
+    "lon": 33.6111192329806,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1"
+  },
+  {
+    "description": "Eleftherias Ave. - Ellados Ave.",
+    "lat": 34.9317212281835,
+    "lon": 33.5971774427588,
+    "name": "Eleftherias Ave. - Ellados Ave."
+  },
+  {
+    "description": "Akropoleos Ave. - Aradippou Ind. Area",
+    "lat": 34.9382665922812,
+    "lon": 33.5881909002962,
+    "name": "Akropoleos Ave. - Aradippou Ind. Area"
+  },
+  {
+    "description": "Akropoleos Ave. - Athinon Ave. 1",
+    "lat": 34.9481181987031,
+    "lon": 33.5759297517376,
+    "name": "Akropoleos Ave. - Athinon Ave. 1"
+  },
+  {
+    "description": "Nicosia General Hospital - Intercity",
+    "lat": 35.1265734070068,
+    "lon": 33.374838920964,
+    "name": "Nicosia General Hospital - Intercity"
+  },
+  {
+    "description": "Lemesou Ave. - Ellispontou",
+    "lat": 35.1423644970571,
+    "lon": 33.3741867753681,
+    "name": "Lemesou Ave. - Ellispontou"
+  },
+  {
+    "description": "Police Headquarters",
+    "lat": 35.1477840726805,
+    "lon": 33.3741017977825,
+    "name": "Police Headquarters"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Ethnikis Frouras",
+    "lat": 35.1563864814598,
+    "lon": 33.3740862769427,
+    "name": "Archiep. Makariou III Ave. - Ethnikis Frouras"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimofontos",
+    "lat": 35.1627608014222,
+    "lon": 33.3654848553327,
+    "name": "Archiep. Makariou III Ave. - Dimofontos"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Mnasiadou",
+    "lat": 35.1661974886152,
+    "lon": 33.3620961581633,
+    "name": "Archiep. Makariou III Ave. - Mnasiadou"
+  },
+  {
+    "description": "Dionysios Solomos Square",
+    "lat": 35.1707064870553,
+    "lon": 33.3589205343724,
+    "name": "Dionysios Solomos Square"
+  }
+]

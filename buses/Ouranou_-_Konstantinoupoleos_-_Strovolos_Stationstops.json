@@ -1,0 +1,116 @@
+[
+  {
+    "description": "Ouranou - Agiou Efthymiou",
+    "lat": 35.1214886010104,
+    "lon": 33.3504294507959,
+    "name": "Ouranou - Agiou Efthymiou"
+  },
+  {
+    "description": "Ouranou - Agiou Emmanouil",
+    "lat": 35.1191977198333,
+    "lon": 33.3506062080156,
+    "name": "Ouranou - Agiou Emmanouil"
+  },
+  {
+    "description": "Odyssea Elyti - Omodous",
+    "lat": 35.1185748684964,
+    "lon": 33.3477062738369,
+    "name": "Odyssea Elyti - Omodous"
+  },
+  {
+    "description": "Ave. Konstantinoupoleos - Agisipoleos",
+    "lat": 35.1207116795016,
+    "lon": 33.3446424154138,
+    "name": "Ave. Konstantinoupoleos - Agisipoleos"
+  },
+  {
+    "description": "Ave. Konstantinoupoleos - Spyrou Kyprianou Avenue",
+    "lat": 35.1221374724539,
+    "lon": 33.3442642968399,
+    "name": "Ave. Konstantinoupoleos - Spyrou Kyprianou Avenue"
+  },
+  {
+    "description": "Aristofanous - Tyrtaiou",
+    "lat": 35.1245695909244,
+    "lon": 33.3451525541652,
+    "name": "Aristofanous - Tyrtaiou"
+  },
+  {
+    "description": "Aristofanous - Peisistratou",
+    "lat": 35.1252465726307,
+    "lon": 33.3480638877128,
+    "name": "Aristofanous - Peisistratou"
+  },
+  {
+    "description": "Aristofanous - Inomenon Ethnon Square",
+    "lat": 35.1272530554239,
+    "lon": 33.3495760892008,
+    "name": "Aristofanous - Inomenon Ethnon Square"
+  },
+  {
+    "description": "Agios Spiridonas Elem. School 2",
+    "lat": 35.1292368135305,
+    "lon": 33.3495845665311,
+    "name": "Agios Spiridonas Elem. School 2"
+  },
+  {
+    "description": "Nafsikas - Pafsaniou",
+    "lat": 35.129521143663,
+    "lon": 33.3479174357845,
+    "name": "Nafsikas - Pafsaniou"
+  },
+  {
+    "description": "Georgiou Seferi - Pinelopis",
+    "lat": 35.1284323739548,
+    "lon": 33.3471115706838,
+    "name": "Georgiou Seferi - Pinelopis"
+  },
+  {
+    "description": "Georgiou Seferi - High School Konstantinoupoleos 1",
+    "lat": 35.12677921555,
+    "lon": 33.3450082180347,
+    "name": "Georgiou Seferi - High School Konstantinoupoleos 1"
+  },
+  {
+    "description": "High School Konstantinoupoleos 2",
+    "lat": 35.1288127356731,
+    "lon": 33.3433704143675,
+    "name": "High School Konstantinoupoleos 2"
+  },
+  {
+    "description": "Elementary School Konstantinoupoleos",
+    "lat": 35.1323953132192,
+    "lon": 33.3423975824395,
+    "name": "Elementary School Konstantinoupoleos"
+  },
+  {
+    "description": "Ave. Konstantinoupoleos - Ariadnis",
+    "lat": 35.1350483487678,
+    "lon": 33.3416952035677,
+    "name": "Ave. Konstantinoupoleos - Ariadnis"
+  },
+  {
+    "description": "Patriarchou Gregoriou - Argous",
+    "lat": 35.138196176008,
+    "lon": 33.3381846984311,
+    "name": "Patriarchou Gregoriou - Argous"
+  },
+  {
+    "description": "Kantaras - Kosti Palama",
+    "lat": 35.138751045416,
+    "lon": 33.3364525951216,
+    "name": "Kantaras - Kosti Palama"
+  },
+  {
+    "description": "Ave. Strovolou - Ilia Venezi",
+    "lat": 35.1408111281378,
+    "lon": 33.3381955135068,
+    "name": "Ave. Strovolou - Ilia Venezi"
+  },
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  }
+]

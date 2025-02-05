@@ -1,0 +1,236 @@
+[
+  {
+    "description": "Dionysios Solomos Square C",
+    "lat": 35.1714384904596,
+    "lon": 33.3583746719,
+    "name": "Dionysios Solomos Square C"
+  },
+  {
+    "description": "Evagorou Ave.  - Vasileos Pavlou",
+    "lat": 35.1677905885467,
+    "lon": 33.3570079918293,
+    "name": "Evagorou Ave.  - Vasileos Pavlou"
+  },
+  {
+    "description": "Ministry of Finance",
+    "lat": 35.1686262204901,
+    "lon": 33.3549471767997,
+    "name": "Ministry of Finance"
+  },
+  {
+    "description": "Embassy of Greece",
+    "lat": 35.1706382690864,
+    "lon": 33.3545276428611,
+    "name": "Embassy of Greece"
+  },
+  {
+    "description": "Chilonos - Michail Paridi",
+    "lat": 35.1708040725686,
+    "lon": 33.3533313787656,
+    "name": "Chilonos - Michail Paridi"
+  },
+  {
+    "description": "Iroon - Agios Andreas Elem. School 1",
+    "lat": 35.1740696044414,
+    "lon": 33.3497653934537,
+    "name": "Iroon - Agios Andreas Elem. School 1"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Filiou Zannetou",
+    "lat": 35.1748736687928,
+    "lon": 33.3460898497201,
+    "name": "Ave. Agiou Pavlou - Filiou Zannetou"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Arkadiou",
+    "lat": 35.1760033515456,
+    "lon": 33.342020239132,
+    "name": "Ave. Agiou Pavlou - Arkadiou"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Archiepiskopou Kyprianou",
+    "lat": 35.1769233285292,
+    "lon": 33.3387293931357,
+    "name": "Ave. Agiou Pavlou - Archiepiskopou Kyprianou"
+  },
+  {
+    "description": "Agios Pavlos Church 1",
+    "lat": 35.1774731534512,
+    "lon": 33.3355687409808,
+    "name": "Agios Pavlos Church 1"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Afroditis",
+    "lat": 35.1780232878096,
+    "lon": 33.3322652749377,
+    "name": "Ave. Agiou Pavlou - Afroditis"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Agiou Pavlou",
+    "lat": 35.1782726630302,
+    "lon": 33.3301027340581,
+    "name": "Ave. Agiou Pavlou - Agiou Pavlou"
+  },
+  {
+    "description": "Ave. Agiou Pavlou - Dimokratias Avenue",
+    "lat": 35.1795836571022,
+    "lon": 33.3254733375876,
+    "name": "Ave. Agiou Pavlou - Dimokratias Avenue"
+  },
+  {
+    "description": "Agios Dometios Roadblock 1",
+    "lat": 35.1790929870238,
+    "lon": 33.3235054911068,
+    "name": "Agios Dometios Roadblock 1"
+  },
+  {
+    "description": "Ave. Dimokratias - Thetidos",
+    "lat": 35.1749434487893,
+    "lon": 33.3241260120224,
+    "name": "Ave. Dimokratias - Thetidos"
+  },
+  {
+    "description": "Ave. Dimokratias - Gravias",
+    "lat": 35.1713171287685,
+    "lon": 33.3246606992851,
+    "name": "Ave. Dimokratias - Gravias"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Coca Cola",
+    "lat": 35.1687433599936,
+    "lon": 33.3227397336569,
+    "name": "Ave. Kyriakou Matsi - Coca Cola"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Vasilissis Freiderikis",
+    "lat": 35.1685717509259,
+    "lon": 33.3194446910405,
+    "name": "Ave. Kyriakou Matsi - Vasilissis Freiderikis"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kolakasidi Roundabout 1",
+    "lat": 35.1658331978129,
+    "lon": 33.3184347245845,
+    "name": "Georg. Griva Digeni Ave. - Kolakasidi Roundabout 1"
+  },
+  {
+    "description": "Ave.8 Oktovriou - 28 Oktovriou Avenue",
+    "lat": 35.1651203596231,
+    "lon": 33.3186186187246,
+    "name": "Ave.8 Oktovriou - 28 Oktovriou Avenue"
+  },
+  {
+    "description": "Ave.8 Oktovriou - Aftokratoros Ioustinianou",
+    "lat": 35.1603182134224,
+    "lon": 33.3170956168618,
+    "name": "Ave.8 Oktovriou - Aftokratoros Ioustinianou"
+  },
+  {
+    "description": "Ave. 28 Oktovriou - Mesolongiou",
+    "lat": 35.1574823652285,
+    "lon": 33.3153498152509,
+    "name": "Ave. 28 Oktovriou - Mesolongiou"
+  },
+  {
+    "description": "Ilia Papakyriakou - Pavlou Mela",
+    "lat": 35.1554426475214,
+    "lon": 33.3160556085709,
+    "name": "Ilia Papakyriakou - Pavlou Mela"
+  },
+  {
+    "description": "Ilia Papakyriakou - Afroditis",
+    "lat": 35.1520122839623,
+    "lon": 33.3175245067545,
+    "name": "Ilia Papakyriakou - Afroditis"
+  },
+  {
+    "description": "Tassos Papadopoulos-Eleftheria",
+    "lat": 35.1482976977442,
+    "lon": 33.3138761960389,
+    "name": "Tassos Papadopoulos-Eleftheria"
+  },
+  {
+    "description": "Makedonitissas Tomb 1",
+    "lat": 35.1538211478588,
+    "lon": 33.3084407272103,
+    "name": "Makedonitissas Tomb 1"
+  },
+  {
+    "description": "Avenue Eleftherias - Eptanisou",
+    "lat": 35.15663871386,
+    "lon": 33.3067824599129,
+    "name": "Avenue Eleftherias - Eptanisou"
+  },
+  {
+    "description": "Eptanisou - Lesvou",
+    "lat": 35.1551645966782,
+    "lon": 33.3049214042975,
+    "name": "Eptanisou - Lesvou"
+  },
+  {
+    "description": "Eptanisou - Athanasiou Christopoulou",
+    "lat": 35.1534021097269,
+    "lon": 33.3065617057452,
+    "name": "Eptanisou - Athanasiou Christopoulou"
+  },
+  {
+    "description": "Florinis - Angelou Terzaki",
+    "lat": 35.1516289870735,
+    "lon": 33.3052705186485,
+    "name": "Florinis - Angelou Terzaki"
+  },
+  {
+    "description": "Florinis - Andrea Anastasopoulou",
+    "lat": 35.1509690722956,
+    "lon": 33.3023366994398,
+    "name": "Florinis - Andrea Anastasopoulou"
+  },
+  {
+    "description": "Andrea Anastasopoulou - Spyridonos Nompeli",
+    "lat": 35.148448138675,
+    "lon": 33.3007794041465,
+    "name": "Andrea Anastasopoulou - Spyridonos Nompeli"
+  },
+  {
+    "description": "Andrea Anastasopoulou - Agelou Nikolaidi",
+    "lat": 35.1460614634583,
+    "lon": 33.2996179119583,
+    "name": "Andrea Anastasopoulou - Agelou Nikolaidi"
+  },
+  {
+    "description": "Parthenonos - Thespidos",
+    "lat": 35.144418679962,
+    "lon": 33.2966258813329,
+    "name": "Parthenonos - Thespidos"
+  },
+  {
+    "description": "Kleisthenous - Kratinou",
+    "lat": 35.1433529934989,
+    "lon": 33.2973026406915,
+    "name": "Kleisthenous - Kratinou"
+  },
+  {
+    "description": "Kleisthenous - Myronos",
+    "lat": 35.139136787559,
+    "lon": 33.2994059235941,
+    "name": "Kleisthenous - Myronos"
+  },
+  {
+    "description": "Kleisthenous - Eratosthenous",
+    "lat": 35.1356952271004,
+    "lon": 33.2981858746841,
+    "name": "Kleisthenous - Eratosthenous"
+  },
+  {
+    "description": "Isokratous - Ptolemaion",
+    "lat": 35.1366385231445,
+    "lon": 33.2959390426856,
+    "name": "Isokratous - Ptolemaion"
+  },
+  {
+    "description": "Isokratous - Kallikratous",
+    "lat": 35.1416447618307,
+    "lon": 33.2952436168844,
+    "name": "Isokratous - Kallikratous"
+  }
+]

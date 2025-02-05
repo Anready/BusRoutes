@@ -1,0 +1,50 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Evagora Pallikaridi - Charalambou Mouskou 2",
+    "lat": 34.7763634448883,
+    "lon": 32.4224466703481,
+    "name": "Evagora Pallikaridi - Charalambou Mouskou 2"
+  },
+  {
+    "description": "C.T.O. Offices",
+    "lat": 34.7746227725429,
+    "lon": 32.4204916463545,
+    "name": "C.T.O. Offices"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Anapafseos",
+    "lat": 34.7727565051574,
+    "lon": 32.4186796541143,
+    "name": "Apostolou Pavlou Ave. - Anapafseos"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Niovis",
+    "lat": 34.7695393927569,
+    "lon": 32.4172487953047,
+    "name": "Apostolou Pavlou Ave. - Niovis"
+  },
+  {
+    "description": "Kings Avenue Mall 2",
+    "lat": 34.7660767498971,
+    "lon": 32.4153936033586,
+    "name": "Kings Avenue Mall 2"
+  },
+  {
+    "description": "Tafoi Ton Vasileon - Chandrinou",
+    "lat": 34.7655673754091,
+    "lon": 32.4107421102745,
+    "name": "Tafoi Ton Vasileon - Chandrinou"
+  },
+  {
+    "description": "Tombs of the Kings Bus Station",
+    "lat": 34.7700851526625,
+    "lon": 32.4107318563524,
+    "name": "Tombs of the Kings Bus Station"
+  }
+]

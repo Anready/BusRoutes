@@ -1,0 +1,164 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Kings Avenue Mall 2",
+    "lat": 34.7660767498971,
+    "lon": 32.4153936033586,
+    "name": "Kings Avenue Mall 2"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Kyriakou Nikolaou",
+    "lat": 34.7575386492987,
+    "lon": 32.4119792043889,
+    "name": "Apostolou Pavlou Ave. - Kyriakou Nikolaou"
+  },
+  {
+    "description": "Stelios Kyriakides Stadium",
+    "lat": 34.7692365888427,
+    "lon": 32.4411393633762,
+    "name": "Stelios Kyriakides Stadium"
+  },
+  {
+    "description": "Dimokratias Ave. - Andrea Evagorou",
+    "lat": 34.7769472198322,
+    "lon": 32.44322945016,
+    "name": "Dimokratias Ave. - Andrea Evagorou"
+  },
+  {
+    "description": "Lemesou Ave. - Makedonias 2",
+    "lat": 34.9097790299223,
+    "lon": 33.5847912719885,
+    "name": "Lemesou Ave. - Makedonias 2"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - I. Kondylaki",
+    "lat": 34.9166611267941,
+    "lon": 33.6046877386619,
+    "name": "Nikou kai Despoinas Pattichi Ave. - I. Kondylaki"
+  },
+  {
+    "description": "Municipal Library 2",
+    "lat": 34.916724235321,
+    "lon": 33.6243059543314,
+    "name": "Municipal Library 2"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.9187528603531,
+    "lon": 33.6365279619346,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1"
+  },
+  {
+    "description": "Tassou Papadopoulou",
+    "lat": 34.9327117968735,
+    "lon": 33.638234402941,
+    "name": "Tassou Papadopoulou"
+  },
+  {
+    "description": "Ammochostou Ave. - Thetidos",
+    "lat": 34.9461674095319,
+    "lon": 33.6447342181427,
+    "name": "Ammochostou Ave. - Thetidos"
+  },
+  {
+    "description": "Oroklini Fire Station 1",
+    "lat": 34.9617170868278,
+    "lon": 33.6591391761901,
+    "name": "Oroklini Fire Station 1"
+  },
+  {
+    "description": "Princess Beach Hotel 1",
+    "lat": 34.9697600402302,
+    "lon": 33.6691173485713,
+    "name": "Princess Beach Hotel 1"
+  },
+  {
+    "description": "Akropoleos Ave. - Lordos - Sandy - Golden Bay",
+    "lat": 34.978150542462,
+    "lon": 33.6908665793858,
+    "name": "Akropoleos Ave. - Lordos - Sandy - Golden Bay"
+  },
+  {
+    "description": "Agias Theklas - Waterpark 2",
+    "lat": 34.9839579449415,
+    "lon": 33.9427979315675,
+    "name": "Agias Theklas - Waterpark 2"
+  },
+  {
+    "description": "Makronissos Beach 2",
+    "lat": 34.9885022885725,
+    "lon": 33.9555159262288,
+    "name": "Makronissos Beach 2"
+  },
+  {
+    "description": "Nissi Bay Beach 2",
+    "lat": 34.9889263480932,
+    "lon": 33.9668719922403,
+    "name": "Nissi Bay Beach 2"
+  },
+  {
+    "description": "Nisi Ave. - Asprovounou",
+    "lat": 34.9901012084762,
+    "lon": 33.9744350728441,
+    "name": "Nisi Ave. - Asprovounou"
+  },
+  {
+    "description": "Nisi Ave. - Isaak kai Solomou",
+    "lat": 34.9887921376311,
+    "lon": 33.9835793257224,
+    "name": "Nisi Ave. - Isaak kai Solomou"
+  },
+  {
+    "description": "Nisi Ave. - Katalymmata",
+    "lat": 34.9873425670791,
+    "lon": 33.9954826080579,
+    "name": "Nisi Ave. - Katalymmata"
+  },
+  {
+    "description": "Agia Napa Monastery 2",
+    "lat": 34.9883223044173,
+    "lon": 34.0002496230693,
+    "name": "Agia Napa Monastery 2"
+  },
+  {
+    "description": "Kryou Nerou Ave. - Marina Hotel 1",
+    "lat": 34.9852241979448,
+    "lon": 34.0160873994527,
+    "name": "Kryou Nerou Ave. - Marina Hotel 1"
+  },
+  {
+    "description": "Protara - Vrisi Beach",
+    "lat": 35.0176241558379,
+    "lon": 34.0476595600232,
+    "name": "Protara - Vrisi Beach"
+  },
+  {
+    "description": "Paralimni Municipality",
+    "lat": 35.0405176522239,
+    "lon": 33.9830586648857,
+    "name": "Paralimni Municipality"
+  },
+  {
+    "description": "New Famagusta Central Bus Station",
+    "lat": 35.0518260701067,
+    "lon": 33.9728431356542,
+    "name": "New Famagusta Central Bus Station"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "description": "Dionysios Solomos Square C",
+    "lat": 35.1714384904596,
+    "lon": 33.3583746719,
+    "name": "Dionysios Solomos Square C"
+  },
+  {
+    "description": "Evagorou Ave.  - Vasileos Pavlou",
+    "lat": 35.1677905885467,
+    "lon": 33.3570079918293,
+    "name": "Evagorou Ave.  - Vasileos Pavlou"
+  },
+  {
+    "description": "Ministry of Finance",
+    "lat": 35.1686262204901,
+    "lon": 33.3549471767997,
+    "name": "Ministry of Finance"
+  },
+  {
+    "description": "Embassy of Greece",
+    "lat": 35.1706382690864,
+    "lon": 33.3545276428611,
+    "name": "Embassy of Greece"
+  },
+  {
+    "description": "Parliament",
+    "lat": 35.171910663836,
+    "lon": 33.3541927349079,
+    "name": "Parliament"
+  },
+  {
+    "description": "Ministry of Health 1",
+    "lat": 35.1693560161352,
+    "lon": 33.348943572246,
+    "name": "Ministry of Health 1"
+  },
+  {
+    "description": "Ministry of Transport Communications and Works 1",
+    "lat": 35.1688630420403,
+    "lon": 33.3447576120447,
+    "name": "Ministry of Transport Communications and Works 1"
+  },
+  {
+    "description": "Delfon - Metochiou",
+    "lat": 35.1669057000584,
+    "lon": 33.3417954665418,
+    "name": "Delfon - Metochiou"
+  },
+  {
+    "description": "Agiou Prokopiou - Metochi Kikkou 1",
+    "lat": 35.1637542193669,
+    "lon": 33.3401900998849,
+    "name": "Agiou Prokopiou - Metochi Kikkou 1"
+  },
+  {
+    "description": "European University 1",
+    "lat": 35.1590262037605,
+    "lon": 33.3380512887819,
+    "name": "European University 1"
+  },
+  {
+    "description": "Archagelou Michail - Aigaleo",
+    "lat": 35.155539731518,
+    "lon": 33.3336560621,
+    "name": "Archagelou Michail - Aigaleo"
+  },
+  {
+    "description": "Engomi Elementary School B 1",
+    "lat": 35.1534316617827,
+    "lon": 33.3296510353618,
+    "name": "Engomi Elementary School B 1"
+  },
+  {
+    "description": "Archagelou Michail - Makedonitissis",
+    "lat": 35.1491023323447,
+    "lon": 33.3267242467777,
+    "name": "Archagelou Michail - Makedonitissis"
+  },
+  {
+    "description": "Avenue Lefkotheou - Agias Annas",
+    "lat": 35.1475968267882,
+    "lon": 33.3232270996973,
+    "name": "Avenue Lefkotheou - Agias Annas"
+  },
+  {
+    "description": "Apolloneio Hospital 1",
+    "lat": 35.147759176593,
+    "lon": 33.3198134535275,
+    "name": "Apolloneio Hospital 1"
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  }
+]

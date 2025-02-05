@@ -1,0 +1,44 @@
+[
+  {
+    "description": "Kynousa",
+    "lat": 35.0322911160315,
+    "lon": 32.5072146105694,
+    "name": "Kynousa"
+  },
+  {
+    "description": "Makounta",
+    "lat": 35.051986203647,
+    "lon": 32.4773798343799,
+    "name": "Makounta"
+  },
+  {
+    "description": "Mariou Ave. - 4th Stop",
+    "lat": 35.0518630225227,
+    "lon": 32.4495283413292,
+    "name": "Mariou Ave. - 4th Stop"
+  },
+  {
+    "description": "Mariou Ave. - 2nd Stop",
+    "lat": 35.040312774026,
+    "lon": 32.4379073334417,
+    "name": "Mariou Ave. - 2nd Stop"
+  },
+  {
+    "description": "Polis Chrysochous Technical School 2",
+    "lat": 35.0379487924421,
+    "lon": 32.4337135057288,
+    "name": "Polis Chrysochous Technical School 2"
+  },
+  {
+    "description": "Mariou Ave. - Arsinois",
+    "lat": 35.0358987134488,
+    "lon": 32.4291888388319,
+    "name": "Mariou Ave. - Arsinois"
+  },
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  }
+]

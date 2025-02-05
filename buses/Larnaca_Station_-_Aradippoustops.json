@@ -1,0 +1,122 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Municipal Park 1",
+    "lat": 34.9167370826448,
+    "lon": 33.62706479651,
+    "name": "Municipal Park 1"
+  },
+  {
+    "description": "Municipal Library 1",
+    "lat": 34.9163428757828,
+    "lon": 33.6248175920962,
+    "name": "Municipal Library 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - 1 Apriliou Ave.",
+    "lat": 34.9179424535888,
+    "lon": 33.6206149027479,
+    "name": "Georg. Griva Digeni Ave. - 1 Apriliou Ave."
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1",
+    "lat": 34.9192814590881,
+    "lon": 33.617975628774,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1"
+  },
+  {
+    "description": "Fire Station 1",
+    "lat": 34.9211460005634,
+    "lon": 33.6148256360473,
+    "name": "Fire Station 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1",
+    "lat": 34.9232927989392,
+    "lon": 33.6111192329806,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 34.9228559002927,
+    "lon": 33.6083351448841,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "New Hospital 1",
+    "lat": 34.922015733272,
+    "lon": 33.6050335619743,
+    "name": "New Hospital 1"
+  },
+  {
+    "description": "G.S.Z. Stadium 1",
+    "lat": 34.9251981674185,
+    "lon": 33.6015424405138,
+    "name": "G.S.Z. Stadium 1"
+  },
+  {
+    "description": "Eleftherias Ave. - Giorgou Christodoulidi Ave.",
+    "lat": 34.9290161344417,
+    "lon": 33.6026323651284,
+    "name": "Eleftherias Ave. - Giorgou Christodoulidi Ave."
+  },
+  {
+    "description": "Eleftherias Ave. - Ellados Ave.",
+    "lat": 34.9317212281835,
+    "lon": 33.5971774427588,
+    "name": "Eleftherias Ave. - Ellados Ave."
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Dim. Koumantari",
+    "lat": 34.9393648541562,
+    "lon": 33.5904326299772,
+    "name": "Archiep. Makariou C´ Ave. - Dim. Koumantari"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kon. Kanari 1",
+    "lat": 34.941723966209,
+    "lon": 33.5911394361108,
+    "name": "Archiep. Makariou C´ Ave. - Kon. Kanari 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Foti Pitta Ave. 1",
+    "lat": 34.944617638117,
+    "lon": 33.5913244706933,
+    "name": "Archiep. Makariou C´ Ave. - Foti Pitta Ave. 1"
+  },
+  {
+    "description": "Kyriakou Matsi Ave. - Nikod. Mylona",
+    "lat": 34.946755793131,
+    "lon": 33.5929606313889,
+    "name": "Kyriakou Matsi Ave. - Nikod. Mylona"
+  },
+  {
+    "description": "Coop Bank Allileggie 1",
+    "lat": 34.947390973339,
+    "lon": 33.593994645374,
+    "name": "Coop Bank Allileggie 1"
+  },
+  {
+    "description": "Papaflessa",
+    "lat": 34.9498133695562,
+    "lon": 33.5928183698951,
+    "name": "Papaflessa"
+  }
+]

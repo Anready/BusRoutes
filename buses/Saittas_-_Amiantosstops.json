@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Distrato Pelendriou 1",
+    "lat": 34.8602057367276,
+    "lon": 32.9135292087299,
+    "name": "Distrato Pelendriou 1"
+  },
+  {
+    "description": "Moniatis 2",
+    "lat": 34.8622066405792,
+    "lon": 32.9121158040017,
+    "name": "Moniatis 2"
+  },
+  {
+    "description": "Fylagra 1",
+    "lat": 34.8854477357899,
+    "lon": 32.9301368541693,
+    "name": "Fylagra 1"
+  },
+  {
+    "description": "2nd Amiantos 1",
+    "lat": 34.9183558726407,
+    "lon": 32.9355062654569,
+    "name": "2nd Amiantos 1"
+  },
+  {
+    "description": "1st Amiantos 1",
+    "lat": 34.9201138104039,
+    "lon": 32.9345962001787,
+    "name": "1st Amiantos 1"
+  }
+]

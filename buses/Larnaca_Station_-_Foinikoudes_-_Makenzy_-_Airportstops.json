@@ -1,0 +1,80 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 2",
+    "lat": 34.9194730735577,
+    "lon": 33.6367524778022,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 2"
+  },
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  },
+  {
+    "description": "Foinikoudes - Kosma Lysioti",
+    "lat": 34.9129743984456,
+    "lon": 33.6379283434878,
+    "name": "Foinikoudes - Kosma Lysioti"
+  },
+  {
+    "description": "Saint Lazarus Church",
+    "lat": 34.9111340297657,
+    "lon": 33.6346410587824,
+    "name": "Saint Lazarus Church"
+  },
+  {
+    "description": "Onisilou",
+    "lat": 34.9091764829228,
+    "lon": 33.6330606608266,
+    "name": "Onisilou"
+  },
+  {
+    "description": "Touzchane - Papoutsialik",
+    "lat": 34.9057829320954,
+    "lon": 33.6353660991749,
+    "name": "Touzchane - Papoutsialik"
+  },
+  {
+    "description": "Touzchane - Saixpir",
+    "lat": 34.8992738432202,
+    "lon": 33.6333567989643,
+    "name": "Touzchane - Saixpir"
+  },
+  {
+    "description": "Filopappou - Nitse 1",
+    "lat": 34.8929114063948,
+    "lon": 33.6343476655872,
+    "name": "Filopappou - Nitse 1"
+  },
+  {
+    "description": "Makenzy 2",
+    "lat": 34.8915763496606,
+    "lon": 33.6361650604304,
+    "name": "Makenzy 2"
+  },
+  {
+    "description": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1",
+    "lat": 34.8897896000335,
+    "lon": 33.6294865018293,
+    "name": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1"
+  },
+  {
+    "description": "Artemidos Ave. - Old Airport 1",
+    "lat": 34.8871216677803,
+    "lon": 33.6257563183331,
+    "name": "Artemidos Ave. - Old Airport 1"
+  },
+  {
+    "description": "Larnaka Airport",
+    "lat": 34.8710309947938,
+    "lon": 33.606891856567,
+    "name": "Larnaka Airport"
+  }
+]

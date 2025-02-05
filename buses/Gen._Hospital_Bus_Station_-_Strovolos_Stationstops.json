@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Kalamon - Strovolos Industrial Zone",
+    "lat": 35.1240546553602,
+    "lon": 33.3728737926889,
+    "name": "Kalamon - Strovolos Industrial Zone"
+  },
+  {
+    "description": "Kalamon - Meteoron",
+    "lat": 35.1268639058609,
+    "lon": 33.3683207493343,
+    "name": "Kalamon - Meteoron"
+  },
+  {
+    "description": "Ave. Athalassas - Apostolos Varnavas Church 2",
+    "lat": 35.1407732169351,
+    "lon": 33.3726426486731,
+    "name": "Ave. Athalassas - Apostolos Varnavas Church 2"
+  },
+  {
+    "description": "Andrea Avraamidi - Aretaeio 2",
+    "lat": 35.1397181211671,
+    "lon": 33.3637681654799,
+    "name": "Andrea Avraamidi - Aretaeio 2"
+  },
+  {
+    "description": "Andrea Avraamidi - Livaniou",
+    "lat": 35.141120826918,
+    "lon": 33.3620838692572,
+    "name": "Andrea Avraamidi - Livaniou"
+  },
+  {
+    "description": "Perikleous - Iosif Chr. Chatziiosif Avenue",
+    "lat": 35.1417549093761,
+    "lon": 33.3580798542821,
+    "name": "Perikleous - Iosif Chr. Chatziiosif Avenue"
+  },
+  {
+    "description": "Pefkios Georgiadis Elementary School 1",
+    "lat": 35.1420738720846,
+    "lon": 33.3538658367958,
+    "name": "Pefkios Georgiadis Elementary School 1"
+  },
+  {
+    "description": "Perikleous - Panagias Tinou",
+    "lat": 35.1431493293144,
+    "lon": 33.3499294657053,
+    "name": "Perikleous - Panagias Tinou"
+  },
+  {
+    "description": "Perikleous - Artas",
+    "lat": 35.14370861566,
+    "lon": 33.3467153452789,
+    "name": "Perikleous - Artas"
+  },
+  {
+    "description": "Strovolos City Hall 1",
+    "lat": 35.1441120653755,
+    "lon": 33.3443677814721,
+    "name": "Strovolos City Hall 1"
+  },
+  {
+    "description": "Ave. Strovolou - Pythonos",
+    "lat": 35.1425967535343,
+    "lon": 33.3413315491086,
+    "name": "Ave. Strovolou - Pythonos"
+  },
+  {
+    "description": "Ave. Strovolou - Kantaras",
+    "lat": 35.1407733733759,
+    "lon": 33.3387991184145,
+    "name": "Ave. Strovolou - Kantaras"
+  },
+  {
+    "description": "Ave. Strovolou - Ilia Venezi",
+    "lat": 35.1408111281378,
+    "lon": 33.3381955135068,
+    "name": "Ave. Strovolou - Ilia Venezi"
+  },
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  }
+]

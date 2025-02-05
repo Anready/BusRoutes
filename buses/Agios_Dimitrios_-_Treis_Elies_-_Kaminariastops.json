@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Agios Georgios Kapourallis Church",
+    "lat": 34.917608059341,
+    "lon": 32.813757109257,
+    "name": "Agios Georgios Kapourallis Church"
+  },
+  {
+    "description": "Agios Dimitrios 1",
+    "lat": 34.9252934786264,
+    "lon": 32.8095354281927,
+    "name": "Agios Dimitrios 1"
+  },
+  {
+    "description": "Treis Elies 1",
+    "lat": 34.9325632629345,
+    "lon": 32.7939700429747,
+    "name": "Treis Elies 1"
+  },
+  {
+    "description": "2nd Kaminaria 1",
+    "lat": 34.9294801703213,
+    "lon": 32.784101487628,
+    "name": "2nd Kaminaria 1"
+  },
+  {
+    "description": "1st Kaminaria",
+    "lat": 34.9270532590514,
+    "lon": 32.7834290089084,
+    "name": "1st Kaminaria"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "description": "Statos - Agios Fotios",
+    "lat": 34.8839576750647,
+    "lon": 32.6211337134259,
+    "name": "Statos - Agios Fotios"
+  },
+  {
+    "description": "2nd Stop Koilineia 2",
+    "lat": 34.8842149971701,
+    "lon": 32.63150671597,
+    "name": "2nd Stop Koilineia 2"
+  },
+  {
+    "description": "1st Stop Koilineia 2",
+    "lat": 34.8823875725631,
+    "lon": 32.6325435140982,
+    "name": "1st Stop Koilineia 2"
+  },
+  {
+    "description": "2nd Stop Galataria 2",
+    "lat": 34.8780487640339,
+    "lon": 32.6320922998951,
+    "name": "2nd Stop Galataria 2"
+  },
+  {
+    "description": "1st Stop Galataria 2",
+    "lat": 34.8770185224325,
+    "lon": 32.6313528151706,
+    "name": "1st Stop Galataria 2"
+  },
+  {
+    "description": "Pentalia 2",
+    "lat": 34.8560742590407,
+    "lon": 32.6207802559749,
+    "name": "Pentalia 2"
+  },
+  {
+    "description": "Amargeti (Transfer)",
+    "lat": 34.8251561856456,
+    "lon": 32.5884985558725,
+    "name": "Amargeti (Transfer)"
+  }
+]

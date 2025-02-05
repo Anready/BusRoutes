@@ -1,0 +1,230 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Municipal Park 1",
+    "lat": 34.9167370826448,
+    "lon": 33.62706479651,
+    "name": "Municipal Park 1"
+  },
+  {
+    "description": "Municipal Library 1",
+    "lat": 34.9163428757828,
+    "lon": 33.6248175920962,
+    "name": "Municipal Library 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - 1 Apriliou Ave.",
+    "lat": 34.9179424535888,
+    "lon": 33.6206149027479,
+    "name": "Georg. Griva Digeni Ave. - 1 Apriliou Ave."
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1",
+    "lat": 34.9192814590881,
+    "lon": 33.617975628774,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1"
+  },
+  {
+    "description": "Fire Station 1",
+    "lat": 34.9211460005634,
+    "lon": 33.6148256360473,
+    "name": "Fire Station 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1",
+    "lat": 34.9232927989392,
+    "lon": 33.6111192329806,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 34.9228559002927,
+    "lon": 33.6083351448841,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "New Hospital 1",
+    "lat": 34.922015733272,
+    "lon": 33.6050335619743,
+    "name": "New Hospital 1"
+  },
+  {
+    "description": "G.S.Z. Stadium 1",
+    "lat": 34.9251981674185,
+    "lon": 33.6015424405138,
+    "name": "G.S.Z. Stadium 1"
+  },
+  {
+    "description": "Eleftherias Ave. - Giorgou Christodoulidi Ave.",
+    "lat": 34.9290161344417,
+    "lon": 33.6026323651284,
+    "name": "Eleftherias Ave. - Giorgou Christodoulidi Ave."
+  },
+  {
+    "description": "Eleftherias Ave. - Ellados Ave.",
+    "lat": 34.9317212281835,
+    "lon": 33.5971774427588,
+    "name": "Eleftherias Ave. - Ellados Ave."
+  },
+  {
+    "description": "Akropoleos Ave. - Aradippou Ind. Area",
+    "lat": 34.9382665922812,
+    "lon": 33.5881909002962,
+    "name": "Akropoleos Ave. - Aradippou Ind. Area"
+  },
+  {
+    "description": "Department of Road Transport",
+    "lat": 34.9407619857672,
+    "lon": 33.584956383554,
+    "name": "Department of Road Transport"
+  },
+  {
+    "description": "Akropoleos Ave. - Stadiou Ave. 1",
+    "lat": 34.9433213047759,
+    "lon": 33.5815359563742,
+    "name": "Akropoleos Ave. - Stadiou Ave. 1"
+  },
+  {
+    "description": "Akropoleos Ave. - Athinon Ave. 1",
+    "lat": 34.9481181987031,
+    "lon": 33.5759297517376,
+    "name": "Akropoleos Ave. - Athinon Ave. 1"
+  },
+  {
+    "description": "Panagias Aimatousis - Ag. Georgiou Ptochou",
+    "lat": 34.9507313694201,
+    "lon": 33.5705925220225,
+    "name": "Panagias Aimatousis - Ag. Georgiou Ptochou"
+  },
+  {
+    "description": "Pascal English School 2",
+    "lat": 34.9535135660529,
+    "lon": 33.567632768845,
+    "name": "Pascal English School 2"
+  },
+  {
+    "description": "Panagia Aimatousa 1",
+    "lat": 34.9592669356262,
+    "lon": 33.5636964648547,
+    "name": "Panagia Aimatousa 1"
+  },
+  {
+    "description": "Aradippou - Athienou Road - 1st Stop",
+    "lat": 34.977783962438,
+    "lon": 33.5223783821593,
+    "name": "Aradippou - Athienou Road - 1st Stop"
+  },
+  {
+    "description": "Anexartisias - Stadiou 2",
+    "lat": 34.9945166193761,
+    "lon": 33.4703034828881,
+    "name": "Anexartisias - Stadiou 2"
+  },
+  {
+    "description": "Agios Epifanios Church 1",
+    "lat": 34.9956162505659,
+    "lon": 33.4657512477914,
+    "name": "Agios Epifanios Church 1"
+  },
+  {
+    "description": "Theodorou Mavrosavva - Athinas",
+    "lat": 34.9977909293382,
+    "lon": 33.4630020808207,
+    "name": "Theodorou Mavrosavva - Athinas"
+  },
+  {
+    "description": "Lympia Community Board",
+    "lat": 34.9966601512541,
+    "lon": 33.461582112207,
+    "name": "Lympia Community Board"
+  },
+  {
+    "description": "Dali Health Centre",
+    "lat": 35.013499485427,
+    "lon": 33.4259677456953,
+    "name": "Dali Health Centre"
+  },
+  {
+    "description": "Dali Lyceum 2",
+    "lat": 35.0201170272926,
+    "lon": 33.4288629582485,
+    "name": "Dali Lyceum 2"
+  },
+  {
+    "description": "Ancient Idalion Museum",
+    "lat": 35.0195157290161,
+    "lon": 33.4229078846814,
+    "name": "Ancient Idalion Museum"
+  },
+  {
+    "description": "Chalkanoros",
+    "lat": 35.0189912575109,
+    "lon": 33.4181261285799,
+    "name": "Chalkanoros"
+  },
+  {
+    "description": "Chalkanoros - Post Office",
+    "lat": 35.0185230194237,
+    "lon": 33.4153067484123,
+    "name": "Chalkanoros - Post Office"
+  },
+  {
+    "description": "Chalkanoros",
+    "lat": 35.0175379263044,
+    "lon": 33.4106543264016,
+    "name": "Chalkanoros"
+  },
+  {
+    "description": "Pera Chorio Nisou High School 2",
+    "lat": 35.0166249380843,
+    "lon": 33.4059585282416,
+    "name": "Pera Chorio Nisou High School 2"
+  },
+  {
+    "description": "Elem. School B Nisou",
+    "lat": 35.0154718494152,
+    "lon": 33.4001875145213,
+    "name": "Elem. School B Nisou"
+  },
+  {
+    "description": "Archiep. Makariou C - Elpidos",
+    "lat": 35.0146379295066,
+    "lon": 33.3960074762863,
+    "name": "Archiep. Makariou C - Elpidos"
+  },
+  {
+    "description": "Ave. Lemesou - Archiepiskopou Makariou C",
+    "lat": 35.0142741467419,
+    "lon": 33.3941862764731,
+    "name": "Ave. Lemesou - Archiepiskopou Makariou C"
+  },
+  {
+    "description": "Ave. Lemesou - Kimonos",
+    "lat": 35.0074573839602,
+    "lon": 33.394076856097,
+    "name": "Ave. Lemesou - Kimonos"
+  },
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  }
+]

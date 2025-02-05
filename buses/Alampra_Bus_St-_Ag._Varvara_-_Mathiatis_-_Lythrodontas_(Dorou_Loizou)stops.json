@@ -1,0 +1,104 @@
+[
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  },
+  {
+    "description": "Ave. Grigori Afxentiou - Agiou Savva",
+    "lat": 35.0019195206516,
+    "lon": 33.3803188313322,
+    "name": "Ave. Grigori Afxentiou - Agiou Savva"
+  },
+  {
+    "description": "Agia Varvara High School 1",
+    "lat": 35.0002114916973,
+    "lon": 33.3757302118086,
+    "name": "Agia Varvara High School 1"
+  },
+  {
+    "description": "Ave. Grigori Afxentiou - Simaias",
+    "lat": 34.9992678428814,
+    "lon": 33.3717698699227,
+    "name": "Ave. Grigori Afxentiou - Simaias"
+  },
+  {
+    "description": "Ave. Grigori Afxentiou - Archiepiskopou Makariou",
+    "lat": 34.9983825270784,
+    "lon": 33.3693440570872,
+    "name": "Ave. Grigori Afxentiou - Archiepiskopou Makariou"
+  },
+  {
+    "description": "Agia Varvara Community Board",
+    "lat": 34.9966927367638,
+    "lon": 33.3675393222832,
+    "name": "Agia Varvara Community Board"
+  },
+  {
+    "description": "Papastavrou Papagathangelou - Agias Annas",
+    "lat": 34.9928628848618,
+    "lon": 33.3667003750556,
+    "name": "Papastavrou Papagathangelou - Agias Annas"
+  },
+  {
+    "description": "Papastavrou Papagathangelou - Leonarissou",
+    "lat": 34.9883132052359,
+    "lon": 33.3623301279714,
+    "name": "Papastavrou Papagathangelou - Leonarissou"
+  },
+  {
+    "description": "Markou Drakou - Michalaki Karaoli",
+    "lat": 34.96347154638,
+    "lon": 33.3368079929993,
+    "name": "Markou Drakou - Michalaki Karaoli"
+  },
+  {
+    "description": "Apostolos Varnavas Church 1",
+    "lat": 34.961163187439,
+    "lon": 33.3335015538524,
+    "name": "Apostolos Varnavas Church 1"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Georgiou Papachristou 1",
+    "lat": 34.9504836508699,
+    "lon": 33.3177530563741,
+    "name": "Ave. Arch. Makariou C - Georgiou Papachristou 1"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Lefkas 1",
+    "lat": 34.9491427349599,
+    "lon": 33.3132466613828,
+    "name": "Ave. Arch. Makariou C - Lefkas 1"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Spyrou Kyprianou",
+    "lat": 34.9483097358264,
+    "lon": 33.3075157187751,
+    "name": "Ave. Arch. Makariou C - Spyrou Kyprianou"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Karpasias",
+    "lat": 34.9491387283557,
+    "lon": 33.3041784912744,
+    "name": "Ave. Arch. Makariou C - Karpasias"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - 1 Oktovriou",
+    "lat": 34.9502674241896,
+    "lon": 33.2999442246457,
+    "name": "Ave. Arch. Makariou C - 1 Oktovriou"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Agias Marinas",
+    "lat": 34.9509116775136,
+    "lon": 33.2983147058548,
+    "name": "Ave. Arch. Makariou C - Agias Marinas"
+  },
+  {
+    "description": "Dorou Loizou - Petraki Giallourou",
+    "lat": 34.9513031277352,
+    "lon": 33.2968047245532,
+    "name": "Dorou Loizou - Petraki Giallourou"
+  }
+]

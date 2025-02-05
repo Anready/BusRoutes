@@ -1,0 +1,290 @@
+[
+  {
+    "description": "Kolossi Castle",
+    "lat": 34.6650740320009,
+    "lon": 32.9349064054231,
+    "name": "Kolossi Castle"
+  },
+  {
+    "description": "Archiepiskopou Makariou C 2",
+    "lat": 34.667825107563,
+    "lon": 32.9360503054112,
+    "name": "Archiepiskopou Makariou C 2"
+  },
+  {
+    "description": "Griva Digeni - Galilaiou",
+    "lat": 34.6731271632649,
+    "lon": 32.9351293309064,
+    "name": "Griva Digeni - Galilaiou"
+  },
+  {
+    "description": "Griva Digeni - Agiou Epiktitou.",
+    "lat": 34.6779883226685,
+    "lon": 32.9360752421941,
+    "name": "Griva Digeni - Agiou Epiktitou."
+  },
+  {
+    "description": "Georgiou Griva Digeni - Agias Sofias",
+    "lat": 34.6811358135487,
+    "lon": 32.9365313174707,
+    "name": "Georgiou Griva Digeni - Agias Sofias"
+  },
+  {
+    "description": "Dimitri Liperti - Griva Digeni 2",
+    "lat": 34.6829489711092,
+    "lon": 32.9376106934239,
+    "name": "Dimitri Liperti - Griva Digeni 2"
+  },
+  {
+    "description": "Citizen Service Centre",
+    "lat": 34.6829862483706,
+    "lon": 32.9400123543128,
+    "name": "Citizen Service Centre"
+  },
+  {
+    "description": "Ammochostou - Apostolou Andreou",
+    "lat": 34.6800293873684,
+    "lon": 32.9421104315828,
+    "name": "Ammochostou - Apostolou Andreou"
+  },
+  {
+    "description": "Ammochostou - Ag. Foteini & Ap. Andreas Church 2",
+    "lat": 34.6792359661178,
+    "lon": 32.9424384719939,
+    "name": "Ammochostou - Ag. Foteini & Ap. Andreas Church 2"
+  },
+  {
+    "description": "Ammochostou - Agiou Georgiou Ave.",
+    "lat": 34.6770359379669,
+    "lon": 32.9431713653496,
+    "name": "Ammochostou - Agiou Georgiou Ave."
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Agiou Vichianou",
+    "lat": 34.6834250225223,
+    "lon": 32.9535598184541,
+    "name": "Agiou Georgiou Ave. - Agiou Vichianou"
+  },
+  {
+    "description": "Ilia Venezi - Griva Digeni",
+    "lat": 34.6851664488341,
+    "lon": 32.9561789392108,
+    "name": "Ilia Venezi - Griva Digeni"
+  },
+  {
+    "description": "Ilia Venezi - Megalou Alexandrou",
+    "lat": 34.6862395206473,
+    "lon": 32.9560146158668,
+    "name": "Ilia Venezi - Megalou Alexandrou"
+  },
+  {
+    "description": "Ilia Venezi",
+    "lat": 34.6885209988961,
+    "lon": 32.9558714817094,
+    "name": "Ilia Venezi"
+  },
+  {
+    "description": "Ilia Venezi - Archiep. Makariou C´ 2",
+    "lat": 34.6895761760948,
+    "lon": 32.9561001920638,
+    "name": "Ilia Venezi - Archiep. Makariou C´ 2"
+  },
+  {
+    "description": "Archiep. Makariou C - Arsinois",
+    "lat": 34.6899282548727,
+    "lon": 32.95716993882,
+    "name": "Archiep. Makariou C - Arsinois"
+  },
+  {
+    "description": "Archiep. Makariou C - Foti Pitta",
+    "lat": 34.6890812029673,
+    "lon": 32.9590045266535,
+    "name": "Archiep. Makariou C - Foti Pitta"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Agiou Sila",
+    "lat": 34.688468553641,
+    "lon": 32.9607297918492,
+    "name": "Archiep. Makariou C´ - Agiou Sila"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Trion Ierarchon",
+    "lat": 34.6871614675361,
+    "lon": 32.9623461719799,
+    "name": "Archiep. Makariou C´ - Trion Ierarchon"
+  },
+  {
+    "description": "Michail Karaoli - Karpasias",
+    "lat": 34.6888402016393,
+    "lon": 32.9672037160137,
+    "name": "Michail Karaoli - Karpasias"
+  },
+  {
+    "description": "Michalaki Karaoli - Lefkados",
+    "lat": 34.6892913486272,
+    "lon": 32.9681533690034,
+    "name": "Michalaki Karaoli - Lefkados"
+  },
+  {
+    "description": "Michail Karaoli - Evrota",
+    "lat": 34.6902297613408,
+    "lon": 32.9703365536135,
+    "name": "Michail Karaoli - Evrota"
+  },
+  {
+    "description": "Michalaki Karaoli - Evrota",
+    "lat": 34.6906358735988,
+    "lon": 32.9716247060016,
+    "name": "Michalaki Karaoli - Evrota"
+  },
+  {
+    "description": "Xenofontos - Ierousalim",
+    "lat": 34.6892927044936,
+    "lon": 32.9738523541532,
+    "name": "Xenofontos - Ierousalim"
+  },
+  {
+    "description": "Argonafton - Afrikis",
+    "lat": 34.6883369249553,
+    "lon": 32.9744094457389,
+    "name": "Argonafton - Afrikis"
+  },
+  {
+    "description": "Sotiri Tsangari - Adamantiou Korai",
+    "lat": 34.6872096800058,
+    "lon": 32.9743770406464,
+    "name": "Sotiri Tsangari - Adamantiou Korai"
+  },
+  {
+    "description": "Petraki Giallourou - Sotiri Tsangari",
+    "lat": 34.68674056692,
+    "lon": 32.9735256387373,
+    "name": "Petraki Giallourou - Sotiri Tsangari"
+  },
+  {
+    "description": "Petraki Giallourou - Andrea Papandreou",
+    "lat": 34.6837555749214,
+    "lon": 32.9732318334124,
+    "name": "Petraki Giallourou - Andrea Papandreou"
+  },
+  {
+    "description": "Ilia Kannaourou - Akanthous",
+    "lat": 34.6819071194171,
+    "lon": 32.9742367580326,
+    "name": "Ilia Kannaourou - Akanthous"
+  },
+  {
+    "description": "Ilia Kannaourou - Oresti",
+    "lat": 34.6814210044456,
+    "lon": 32.9786472004348,
+    "name": "Ilia Kannaourou - Oresti"
+  },
+  {
+    "description": "Ilia Kannaourou - Kyparissona",
+    "lat": 34.6809167627678,
+    "lon": 32.9835597539281,
+    "name": "Ilia Kannaourou - Kyparissona"
+  },
+  {
+    "description": "Ilia Kannaourou - 9 Street",
+    "lat": 34.6811517660152,
+    "lon": 32.9881992322345,
+    "name": "Ilia Kannaourou - 9 Street"
+  },
+  {
+    "description": "Pafou - Monovolikos 2",
+    "lat": 34.6795920652345,
+    "lon": 32.9935157033909,
+    "name": "Pafou - Monovolikos 2"
+  },
+  {
+    "description": "Pafou - 28 Elementary School 2",
+    "lat": 34.6779870140949,
+    "lon": 32.9971181459976,
+    "name": "Pafou - 28 Elementary School 2"
+  },
+  {
+    "description": "Pafou - Christou Keli",
+    "lat": 34.6758768063371,
+    "lon": 33.0034275727436,
+    "name": "Pafou - Christou Keli"
+  },
+  {
+    "description": "Pafou - Omonoias Ave.",
+    "lat": 34.6760209945225,
+    "lon": 33.0059818889107,
+    "name": "Pafou - Omonoias Ave."
+  },
+  {
+    "description": "Pafou - Evgeniou Voulgareos",
+    "lat": 34.6757772831842,
+    "lon": 33.0095513457284,
+    "name": "Pafou - Evgeniou Voulgareos"
+  },
+  {
+    "description": "Pafou - Dimosthenous",
+    "lat": 34.6749834247207,
+    "lon": 33.0126404032058,
+    "name": "Pafou - Dimosthenous"
+  },
+  {
+    "description": "Pafou - Vasileos Pavlou A´ 2",
+    "lat": 34.6739729552189,
+    "lon": 33.0165043674397,
+    "name": "Pafou - Vasileos Pavlou A´ 2"
+  },
+  {
+    "description": "Agios Ioannis Police Station 2",
+    "lat": 34.67454972814,
+    "lon": 33.0190696625303,
+    "name": "Agios Ioannis Police Station 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Souez 2",
+    "lat": 34.6762176885773,
+    "lon": 33.0212204734455,
+    "name": "Archiep. Makariou C´ Ave. - Souez 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Vyzantiou",
+    "lat": 34.6788863567926,
+    "lon": 33.0246051858907,
+    "name": "Archiep. Makariou C´ Ave. - Vyzantiou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Fire Station 2",
+    "lat": 34.681518858102,
+    "lon": 33.0279901033579,
+    "name": "Archiep. Makariou C´ Ave. - Fire Station 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Ammochostou",
+    "lat": 34.6845840077666,
+    "lon": 33.0318229944535,
+    "name": "Archiep. Makariou C´ Ave. - Ammochostou"
+  },
+  {
+    "description": "Ioanni Tsirou - Post Office 2",
+    "lat": 34.6858454381703,
+    "lon": 33.035709980505,
+    "name": "Ioanni Tsirou - Post Office 2"
+  },
+  {
+    "description": "Dodekanisou - Katholiki High School 2",
+    "lat": 34.6834830673247,
+    "lon": 33.034595449124,
+    "name": "Dodekanisou - Katholiki High School 2"
+  },
+  {
+    "description": "Dodekanisou - Archiepiskopou Leontiou A´ 2",
+    "lat": 34.6805069084406,
+    "lon": 33.0354566103523,
+    "name": "Dodekanisou - Archiepiskopou Leontiou A´ 2"
+  },
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  }
+]

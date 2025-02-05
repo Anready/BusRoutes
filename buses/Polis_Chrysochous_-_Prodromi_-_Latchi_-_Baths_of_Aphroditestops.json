@@ -1,0 +1,86 @@
+[
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  },
+  {
+    "description": "Vas. Stasioikou A` Ave. - Efesou",
+    "lat": 35.0329856467103,
+    "lon": 32.4252624441259,
+    "name": "Vas. Stasioikou A` Ave. - Efesou"
+  },
+  {
+    "description": "Vas. Stasioikou A` Ave. - 1st Stop",
+    "lat": 35.0295858130422,
+    "lon": 32.419509027489,
+    "name": "Vas. Stasioikou A` Ave. - 1st Stop"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 35.0290661786874,
+    "lon": 32.4183287633213,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "Akamantos Ave. - Georgiou Chatzigianni",
+    "lat": 35.0313755743707,
+    "lon": 32.4147824133601,
+    "name": "Akamantos Ave. - Georgiou Chatzigianni"
+  },
+  {
+    "description": "Akamantos Ave. - 1st Stop",
+    "lat": 35.0340611792501,
+    "lon": 32.4107398281387,
+    "name": "Akamantos Ave. - 1st Stop"
+  },
+  {
+    "description": "Latsi Marina - Parking Place 1",
+    "lat": 35.0394684159612,
+    "lon": 32.3972594280966,
+    "name": "Latsi Marina - Parking Place 1"
+  },
+  {
+    "description": "Latsi Marina 1",
+    "lat": 35.0409081080837,
+    "lon": 32.3930277320431,
+    "name": "Latsi Marina 1"
+  },
+  {
+    "description": "Latsi Beach 1",
+    "lat": 35.0407977264116,
+    "lon": 32.3854305407177,
+    "name": "Latsi Beach 1"
+  },
+  {
+    "description": "1st Stop Neo Chorio Pafou",
+    "lat": 35.0382952671989,
+    "lon": 32.3774348902635,
+    "name": "1st Stop Neo Chorio Pafou"
+  },
+  {
+    "description": "3rd Stop Neo Chorio Pafou",
+    "lat": 35.0373174438625,
+    "lon": 32.3749097473639,
+    "name": "3rd Stop Neo Chorio Pafou"
+  },
+  {
+    "description": "Anassa Hotel 1",
+    "lat": 35.0425115937806,
+    "lon": 32.3697279975569,
+    "name": "Anassa Hotel 1"
+  },
+  {
+    "description": "Latsi - Loutra Afroditis Road - 1st Stop",
+    "lat": 35.0445818335208,
+    "lon": 32.3604033003463,
+    "name": "Latsi - Loutra Afroditis Road - 1st Stop"
+  },
+  {
+    "description": "Aphrodite`s Baths",
+    "lat": 35.0563481350348,
+    "lon": 32.3466589047967,
+    "name": "Aphrodite`s Baths"
+  }
+]

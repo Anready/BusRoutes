@@ -1,0 +1,158 @@
+[
+  {
+    "description": "Ave. Agiou Georgiou - Alamanas",
+    "lat": 35.1089349590285,
+    "lon": 33.3006890208037,
+    "name": "Ave. Agiou Georgiou - Alamanas"
+  },
+  {
+    "description": "Lakatameia Municipality 2",
+    "lat": 35.1109273960003,
+    "lon": 33.3008389947834,
+    "name": "Lakatameia Municipality 2"
+  },
+  {
+    "description": "1 Apriliou - Grigori Afxentiou",
+    "lat": 35.1136172793745,
+    "lon": 33.2997295490708,
+    "name": "1 Apriliou - Grigori Afxentiou"
+  },
+  {
+    "description": "Agios Georgios Lyceum 2",
+    "lat": 35.1156847523856,
+    "lon": 33.2987055530278,
+    "name": "Agios Georgios Lyceum 2"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Ioanni Kapodistria",
+    "lat": 35.1189979048765,
+    "lon": 33.3008028137226,
+    "name": "Georgiou Griva Digeni - Ioanni Kapodistria"
+  },
+  {
+    "description": "Akadimias - Arachovas",
+    "lat": 35.1231995617353,
+    "lon": 33.3045607787214,
+    "name": "Akadimias - Arachovas"
+  },
+  {
+    "description": "Akadimias",
+    "lat": 35.1239310942479,
+    "lon": 33.3076804658264,
+    "name": "Akadimias"
+  },
+  {
+    "description": "Agias Mavris - Pediaiou",
+    "lat": 35.1235703476495,
+    "lon": 33.3112350662451,
+    "name": "Agias Mavris - Pediaiou"
+  },
+  {
+    "description": "Pediaiou - Stavrovouniou",
+    "lat": 35.1248063819664,
+    "lon": 33.3144665183374,
+    "name": "Pediaiou - Stavrovouniou"
+  },
+  {
+    "description": "Pediaiou - Akadimias",
+    "lat": 35.1271123113986,
+    "lon": 33.3154192878058,
+    "name": "Pediaiou - Akadimias"
+  },
+  {
+    "description": "Agiou Mamantos - Rizokarpasou",
+    "lat": 35.1268262427204,
+    "lon": 33.3179206239706,
+    "name": "Agiou Mamantos - Rizokarpasou"
+  },
+  {
+    "description": "Agiou Mamantos - Lidras",
+    "lat": 35.1255495447676,
+    "lon": 33.3199241678739,
+    "name": "Agiou Mamantos - Lidras"
+  },
+  {
+    "description": "Ave. Strovolou - Averkiou",
+    "lat": 35.1248579344291,
+    "lon": 33.3223031131762,
+    "name": "Ave. Strovolou - Averkiou"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. -  Agios Mamas",
+    "lat": 35.1276059097574,
+    "lon": 33.3197565981635,
+    "name": "Spyrou Kyprianou Ave. -  Agios Mamas"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Dimokratias",
+    "lat": 35.1312902568766,
+    "lon": 33.3142719197273,
+    "name": "Spyrou Kyprianou Ave. - Dimokratias"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - APOEL",
+    "lat": 35.1345713982596,
+    "lon": 33.3112110652074,
+    "name": "Spyrou Kyprianou Ave. - APOEL"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Diodos Kifea",
+    "lat": 35.1334956519134,
+    "lon": 33.312260716531,
+    "name": "Spyrou Kyprianou Ave. - Diodos Kifea"
+  },
+  {
+    "description": "Agiou Eleftheriou - Agiou Lazarou",
+    "lat": 35.1348989763891,
+    "lon": 33.3135613244597,
+    "name": "Agiou Eleftheriou - Agiou Lazarou"
+  },
+  {
+    "description": "Agiou Eleftheriou - Agiou Neofytou",
+    "lat": 35.1381987530181,
+    "lon": 33.3137605881787,
+    "name": "Agiou Eleftheriou - Agiou Neofytou"
+  },
+  {
+    "description": "Agiou Eleftheriou - Agiou Gennadiou",
+    "lat": 35.1405451075854,
+    "lon": 33.3165029769912,
+    "name": "Agiou Eleftheriou - Agiou Gennadiou"
+  },
+  {
+    "description": "Agiou Gennadiou - Agiou Amvrosiou",
+    "lat": 35.1426318382041,
+    "lon": 33.3185090017853,
+    "name": "Agiou Gennadiou - Agiou Amvrosiou"
+  },
+  {
+    "description": "Agiou Gennadiou - Agiou Alexiou",
+    "lat": 35.1443297246683,
+    "lon": 33.3209197892892,
+    "name": "Agiou Gennadiou - Agiou Alexiou"
+  },
+  {
+    "description": "Archan. Michail - Lefkotheou Makariou Stadiou Ave.",
+    "lat": 35.1463789938907,
+    "lon": 33.3234198926434,
+    "name": "Archan. Michail - Lefkotheou Makariou Stadiou Ave."
+  },
+  {
+    "description": "Avenue Lefkotheou - Agias Annas",
+    "lat": 35.1475968267882,
+    "lon": 33.3232270996973,
+    "name": "Avenue Lefkotheou - Agias Annas"
+  },
+  {
+    "description": "Apolloneio Hospital 1",
+    "lat": 35.147759176593,
+    "lon": 33.3198134535275,
+    "name": "Apolloneio Hospital 1"
+  },
+  {
+    "description": "Tassos Papadopoulos-Eleftheria",
+    "lat": 35.1482976977442,
+    "lon": 33.3138761960389,
+    "name": "Tassos Papadopoulos-Eleftheria"
+  }
+]

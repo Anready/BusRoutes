@@ -1,0 +1,74 @@
+[
+  {
+    "description": "4th Stop Lysos",
+    "lat": 35.0019498284871,
+    "lon": 32.5189362459446,
+    "name": "4th Stop Lysos"
+  },
+  {
+    "description": "2nd Stop Lysos 2",
+    "lat": 34.9959233347596,
+    "lon": 32.5114323923389,
+    "name": "2nd Stop Lysos 2"
+  },
+  {
+    "description": "1st Stop Lysos 2",
+    "lat": 34.9941390029691,
+    "lon": 32.5117059832351,
+    "name": "1st Stop Lysos 2"
+  },
+  {
+    "description": "Meladeia",
+    "lat": 34.9902784900371,
+    "lon": 32.506973454571,
+    "name": "Meladeia"
+  },
+  {
+    "description": "Filousa Chrysochous",
+    "lat": 34.9742468898792,
+    "lon": 32.505064754071,
+    "name": "Filousa Chrysochous"
+  },
+  {
+    "description": "6th Stop Peristerona Pafou",
+    "lat": 34.990033784464,
+    "lon": 32.4913718228357,
+    "name": "6th Stop Peristerona Pafou"
+  },
+  {
+    "description": "4th Stop Peristerona Pafou",
+    "lat": 34.990274987285,
+    "lon": 32.4886858022742,
+    "name": "4th Stop Peristerona Pafou"
+  },
+  {
+    "description": "2nd Stop Peristerona Pafou",
+    "lat": 34.9884254632465,
+    "lon": 32.4863196315869,
+    "name": "2nd Stop Peristerona Pafou"
+  },
+  {
+    "description": "3rd Stop Steni",
+    "lat": 34.9944464405188,
+    "lon": 32.4751707946873,
+    "name": "3rd Stop Steni"
+  },
+  {
+    "description": "2nd Stop Steni",
+    "lat": 35.0002916832331,
+    "lon": 32.4694130931352,
+    "name": "2nd Stop Steni"
+  },
+  {
+    "description": "1st Stop Steni",
+    "lat": 35.0023640120721,
+    "lon": 32.4669778073185,
+    "name": "1st Stop Steni"
+  },
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  }
+]

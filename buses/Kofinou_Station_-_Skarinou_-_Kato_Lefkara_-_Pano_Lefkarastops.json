@@ -1,0 +1,62 @@
+[
+  {
+    "description": "Kofinou Station",
+    "lat": 34.826273309476,
+    "lon": 33.3899202268482,
+    "name": "Kofinou Station"
+  },
+  {
+    "description": "Lefkosia - Lemesos Old Road - 3rd Stop",
+    "lat": 34.8213148744709,
+    "lon": 33.3751784816719,
+    "name": "Lefkosia - Lemesos Old Road - 3rd Stop"
+  },
+  {
+    "description": "Lefkosia - Lemesos Old Road - 1st Stop",
+    "lat": 34.8165197362086,
+    "lon": 33.3685415072339,
+    "name": "Lefkosia - Lemesos Old Road - 1st Stop"
+  },
+  {
+    "description": "Skarinou Cemetery 1",
+    "lat": 34.8177282146389,
+    "lon": 33.3594603724684,
+    "name": "Skarinou Cemetery 1"
+  },
+  {
+    "description": "Environmental Education Centre 1",
+    "lat": 34.8214788938781,
+    "lon": 33.3596844291258,
+    "name": "Environmental Education Centre 1"
+  },
+  {
+    "description": "Kato Lefkara Square 1",
+    "lat": 34.862207563226,
+    "lon": 33.3156189547681,
+    "name": "Kato Lefkara Square 1"
+  },
+  {
+    "description": "Agios Timotheos Church 1",
+    "lat": 34.8635370461535,
+    "lon": 33.3141142426502,
+    "name": "Agios Timotheos Church 1"
+  },
+  {
+    "description": "Christaki Stefanou Ave. 1",
+    "lat": 34.8647244117847,
+    "lon": 33.3082217340695,
+    "name": "Christaki Stefanou Ave. 1"
+  },
+  {
+    "description": "Timios Stavros Church 1",
+    "lat": 34.8659659667322,
+    "lon": 33.3093532728483,
+    "name": "Timios Stavros Church 1"
+  },
+  {
+    "description": "Lefkara Square 1",
+    "lat": 34.8674275497696,
+    "lon": 33.3054965616938,
+    "name": "Lefkara Square 1"
+  }
+]

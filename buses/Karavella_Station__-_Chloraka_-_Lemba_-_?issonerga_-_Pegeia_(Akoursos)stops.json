@@ -1,0 +1,200 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Municipal Market",
+    "lat": 34.7780851611252,
+    "lon": 32.4185220603598,
+    "name": "Municipal Market"
+  },
+  {
+    "description": "Agia Sofia Church",
+    "lat": 34.7795782318935,
+    "lon": 32.4196045123866,
+    "name": "Agia Sofia Church"
+  },
+  {
+    "description": "Nikolaou Ellina - Fellachoglou",
+    "lat": 34.7815261083344,
+    "lon": 32.4215144685154,
+    "name": "Nikolaou Ellina - Fellachoglou"
+  },
+  {
+    "description": "Akamantidos - Elenis Kouloumou",
+    "lat": 34.7850898641537,
+    "lon": 32.4218939983843,
+    "name": "Akamantidos - Elenis Kouloumou"
+  },
+  {
+    "description": "Eleftherias Ave. - 1 Apriliou",
+    "lat": 34.7919841015925,
+    "lon": 32.4191131579273,
+    "name": "Eleftherias Ave. - 1 Apriliou"
+  },
+  {
+    "description": "Eleftherias Ave. - Evagora Pallikaridi",
+    "lat": 34.7931126050889,
+    "lon": 32.4156182344053,
+    "name": "Eleftherias Ave. - Evagora Pallikaridi"
+  },
+  {
+    "description": "Eleftherias Ave. - Agiou Nikolaou",
+    "lat": 34.7934737984748,
+    "lon": 32.4138448462649,
+    "name": "Eleftherias Ave. - Agiou Nikolaou"
+  },
+  {
+    "description": "Chlorakas Elementary School - Ag. Nikolaos 1",
+    "lat": 34.7942754917947,
+    "lon": 32.4117950357158,
+    "name": "Chlorakas Elementary School - Ag. Nikolaos 1"
+  },
+  {
+    "description": "Eleftherias Ave. - Chatzif. Chatzioikonomou",
+    "lat": 34.7971930776471,
+    "lon": 32.4090851415694,
+    "name": "Eleftherias Ave. - Chatzif. Chatzioikonomou"
+  },
+  {
+    "description": "Papakosta Leonidou - Alexandrou Papasavva",
+    "lat": 34.8001970823266,
+    "lon": 32.407467635124,
+    "name": "Papakosta Leonidou - Alexandrou Papasavva"
+  },
+  {
+    "description": "Evag. Pallikaridi - Andrea Charalampous",
+    "lat": 34.8025494674187,
+    "lon": 32.4072212234686,
+    "name": "Evag. Pallikaridi - Andrea Charalampous"
+  },
+  {
+    "description": "Evag. Pallikaridi - Athinon",
+    "lat": 34.8037010411957,
+    "lon": 32.4085248737661,
+    "name": "Evag. Pallikaridi - Athinon"
+  },
+  {
+    "description": "Agiou Stefanou - Fkonis",
+    "lat": 34.8061725110436,
+    "lon": 32.4105188496293,
+    "name": "Agiou Stefanou - Fkonis"
+  },
+  {
+    "description": "Agiou Stefanou - Agias Marinas",
+    "lat": 34.8081996969442,
+    "lon": 32.4101545573661,
+    "name": "Agiou Stefanou - Agias Marinas"
+  },
+  {
+    "description": "Archiepiskopou Makariou C` Ave. - 1st Stop",
+    "lat": 34.8109776444291,
+    "lon": 32.4102659638679,
+    "name": "Archiepiskopou Makariou C` Ave. - 1st Stop"
+  },
+  {
+    "description": "Archiepiskopou Makariou C Ave. - 3rd Stop",
+    "lat": 34.8129266931549,
+    "lon": 32.4105254191092,
+    "name": "Archiepiskopou Makariou C Ave. - 3rd Stop"
+  },
+  {
+    "description": "Christou Kkeli Ave. - Agiou Kononos",
+    "lat": 34.8198016388453,
+    "lon": 32.4112637383559,
+    "name": "Christou Kkeli Ave. - Agiou Kononos"
+  },
+  {
+    "description": "Christou Kkeli Ave. - Nikola Giannikou 1",
+    "lat": 34.8204855234744,
+    "lon": 32.4091047416835,
+    "name": "Christou Kkeli Ave. - Nikola Giannikou 1"
+  },
+  {
+    "description": "Christou Kkeli Ave. - Georgiou Michail",
+    "lat": 34.8210714054855,
+    "lon": 32.4071979111931,
+    "name": "Christou Kkeli Ave. - Georgiou Michail"
+  },
+  {
+    "description": "Christou Kkeli Ave. - Nik. Karagianni",
+    "lat": 34.8236239981323,
+    "lon": 32.4017995605363,
+    "name": "Christou Kkeli Ave. - Nik. Karagianni"
+  },
+  {
+    "description": "Christou Kkeli Ave. - Mosfilion",
+    "lat": 34.8275435265754,
+    "lon": 32.3975172703295,
+    "name": "Christou Kkeli Ave. - Mosfilion"
+  },
+  {
+    "description": "Potima Beach 1",
+    "lat": 34.834897790369,
+    "lon": 32.3912736012458,
+    "name": "Potima Beach 1"
+  },
+  {
+    "description": "Potima Bay 1",
+    "lat": 34.8433273835853,
+    "lon": 32.3873286654879,
+    "name": "Potima Bay 1"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Kolpou Korallion Ave.",
+    "lat": 34.8529009680204,
+    "lon": 32.3813944290777,
+    "name": "Agiou Georgiou Ave. - Kolpou Korallion Ave."
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Aigialousis 1",
+    "lat": 34.8564425294173,
+    "lon": 32.3809412810817,
+    "name": "Michalaki Kyprianou Ave. - Aigialousis 1"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Psalidion",
+    "lat": 34.8650690443282,
+    "lon": 32.3785463042553,
+    "name": "Michalaki Kyprianou Ave. - Psalidion"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Filippou Diogenous",
+    "lat": 34.8715409203606,
+    "lon": 32.3780271286234,
+    "name": "Michalaki Kyprianou Ave. - Filippou Diogenous"
+  },
+  {
+    "description": "Pegeia Municipal Stadium 1",
+    "lat": 34.8743940711726,
+    "lon": 32.3787387396948,
+    "name": "Pegeia Municipal Stadium 1"
+  },
+  {
+    "description": "Michalaki Kyprianou Ave. - Apost. Louka",
+    "lat": 34.8783045616608,
+    "lon": 32.3799020287596,
+    "name": "Michalaki Kyprianou Ave. - Apost. Louka"
+  },
+  {
+    "description": "Pegeia Police Station 1",
+    "lat": 34.8802517510748,
+    "lon": 32.3797889212039,
+    "name": "Pegeia Police Station 1"
+  },
+  {
+    "description": "Pegeia Square 1",
+    "lat": 34.8839143721537,
+    "lon": 32.3818624702814,
+    "name": "Pegeia Square 1"
+  },
+  {
+    "description": "Akoursos ",
+    "lat": 34.8867874255187,
+    "lon": 32.4214562282575,
+    "name": "Akoursos "
+  }
+]

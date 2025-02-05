@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  },
+  {
+    "description": "Strovolos City Hall 2",
+    "lat": 35.1433329628898,
+    "lon": 33.3424653377379,
+    "name": "Strovolos City Hall 2"
+  },
+  {
+    "description": "Perikleous - Eirinis",
+    "lat": 35.1437531040052,
+    "lon": 33.3469241134891,
+    "name": "Perikleous - Eirinis"
+  },
+  {
+    "description": "Perikleous - Androkleous",
+    "lat": 35.1432119731129,
+    "lon": 33.3500944007743,
+    "name": "Perikleous - Androkleous"
+  },
+  {
+    "description": "Pefkios Georgiadis Elementary School 2",
+    "lat": 35.1421002498576,
+    "lon": 33.3540964815239,
+    "name": "Pefkios Georgiadis Elementary School 2"
+  },
+  {
+    "description": "Perikleous - Dervenakion",
+    "lat": 35.1418369059059,
+    "lon": 33.3577947955499,
+    "name": "Perikleous - Dervenakion"
+  },
+  {
+    "description": "Andrea Avraamidi - Stavrou Stylianidi",
+    "lat": 35.1414643928582,
+    "lon": 33.3617780190908,
+    "name": "Andrea Avraamidi - Stavrou Stylianidi"
+  },
+  {
+    "description": "Andrea Avraamidi - Aretaeio 1",
+    "lat": 35.1393445269335,
+    "lon": 33.3650618215477,
+    "name": "Andrea Avraamidi - Aretaeio 1"
+  },
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  }
+]

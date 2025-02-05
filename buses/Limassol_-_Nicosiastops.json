@@ -1,0 +1,92 @@
+[
+  {
+    "description": "New Port - Passenger Building",
+    "lat": 34.6556927006373,
+    "lon": 33.0221319488309,
+    "name": "New Port - Passenger Building"
+  },
+  {
+    "description": "Tzelal Bagiar - Agios Antonios Church 2",
+    "lat": 34.6718760191865,
+    "lon": 33.0379088772409,
+    "name": "Tzelal Bagiar - Agios Antonios Church 2"
+  },
+  {
+    "description": "Spyrou Araouzou - Agia Napa Church",
+    "lat": 34.6732624152377,
+    "lon": 33.0448735932546,
+    "name": "Spyrou Araouzou - Agia Napa Church"
+  },
+  {
+    "description": "28 Oktovriou - Sotiri Michailidi",
+    "lat": 34.6807075676039,
+    "lon": 33.0538836963295,
+    "name": "28 Oktovriou - Sotiri Michailidi"
+  },
+  {
+    "description": "28 Oktovriou - Debenhams 2",
+    "lat": 34.6885545404173,
+    "lon": 33.0690095156999,
+    "name": "28 Oktovriou - Debenhams 2"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Ampelakion",
+    "lat": 34.6966654515964,
+    "lon": 33.0907005119513,
+    "name": "Vasileos Georgiou A´ - Ampelakion"
+  },
+  {
+    "description": "Amathountos Ave. - Hawaii Hotel",
+    "lat": 34.7143264108286,
+    "lon": 33.1644357049357,
+    "name": "Amathountos Ave. - Hawaii Hotel"
+  },
+  {
+    "description": "Choirokoitia Neolithic Settlement (OASIS)",
+    "lat": 34.7981724763475,
+    "lon": 33.3489355474517,
+    "name": "Choirokoitia Neolithic Settlement (OASIS)"
+  },
+  {
+    "description": "Nicosia General Hospital - Intercity",
+    "lat": 35.1265734070068,
+    "lon": 33.374838920964,
+    "name": "Nicosia General Hospital - Intercity"
+  },
+  {
+    "description": "Lemesou Ave. - Ellispontou",
+    "lat": 35.1423644970571,
+    "lon": 33.3741867753681,
+    "name": "Lemesou Ave. - Ellispontou"
+  },
+  {
+    "description": "Police Headquarters",
+    "lat": 35.1477840726805,
+    "lon": 33.3741017977825,
+    "name": "Police Headquarters"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Ethnikis Frouras",
+    "lat": 35.1563864814598,
+    "lon": 33.3740862769427,
+    "name": "Archiep. Makariou III Ave. - Ethnikis Frouras"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimofontos",
+    "lat": 35.1627608014222,
+    "lon": 33.3654848553327,
+    "name": "Archiep. Makariou III Ave. - Dimofontos"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Mnasiadou",
+    "lat": 35.1661974886152,
+    "lon": 33.3620961581633,
+    "name": "Archiep. Makariou III Ave. - Mnasiadou"
+  },
+  {
+    "description": "Dionysios Solomos Square",
+    "lat": 35.1707064870553,
+    "lon": 33.3589205343724,
+    "name": "Dionysios Solomos Square"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "description": "Troodous - Pavlou Liasidi",
+    "lat": 35.136942209683,
+    "lon": 33.0293196329198,
+    "name": "Troodous - Pavlou Liasidi"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Gravias",
+    "lat": 35.1386821040374,
+    "lon": 33.0310546634833,
+    "name": "Georgiou Griva Digeni - Gravias"
+  },
+  {
+    "description": "Astromeritis Elementary School 2",
+    "lat": 35.1399348412805,
+    "lon": 33.0335250600862,
+    "name": "Astromeritis Elementary School 2"
+  },
+  {
+    "description": "Morfotikos Astromeriti 2",
+    "lat": 35.1410519886621,
+    "lon": 33.0369285666317,
+    "name": "Morfotikos Astromeriti 2"
+  },
+  {
+    "description": "Astromeritis Square 2",
+    "lat": 35.141069018451,
+    "lon": 33.0400901167835,
+    "name": "Astromeritis Square 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Ethnom. Kyprianou",
+    "lat": 35.1405990196957,
+    "lon": 33.0432953206507,
+    "name": "Archiep. Makariou C´ Ave. - Ethnom. Kyprianou"
+  },
+  {
+    "description": "Troodous - Karydion 2",
+    "lat": 35.1390995095593,
+    "lon": 33.0501663247556,
+    "name": "Troodous - Karydion 2"
+  },
+  {
+    "description": "Troodous - Skopy 2",
+    "lat": 35.1362651159556,
+    "lon": 33.0569153993925,
+    "name": "Troodous - Skopy 2"
+  },
+  {
+    "description": "Troodous",
+    "lat": 35.1353711438667,
+    "lon": 33.0595492121365,
+    "name": "Troodous"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Vasili Michailidi 2",
+    "lat": 35.1322890917155,
+    "lon": 33.0726966927805,
+    "name": "Archiep. Makariou C´ Ave. - Vasili Michailidi 2"
+  },
+  {
+    "description": "Peristerona Elementary School 2",
+    "lat": 35.1317820169753,
+    "lon": 33.0761318331233,
+    "name": "Peristerona Elementary School 2"
+  },
+  {
+    "description": "Peristerona Public Kindergarden 2",
+    "lat": 35.1306171740511,
+    "lon": 33.0786662448182,
+    "name": "Peristerona Public Kindergarden 2"
+  },
+  {
+    "description": "Peristerona Police Station 2",
+    "lat": 35.1307140032218,
+    "lon": 33.0822226219725,
+    "name": "Peristerona Police Station 2"
+  },
+  {
+    "description": "Griva Digeni Ave. Christou Tsiarta Ave.",
+    "lat": 35.1319651048818,
+    "lon": 33.0855387381708,
+    "name": "Griva Digeni Ave. Christou Tsiarta Ave."
+  },
+  {
+    "description": "Lefkosias Ave. - Christou Tsiarta Ave. 2",
+    "lat": 35.1328385875585,
+    "lon": 33.0872080750771,
+    "name": "Lefkosias Ave. - Christou Tsiarta Ave. 2"
+  },
+  {
+    "description": "Lefkosias Avenue - Apostolou Andrea",
+    "lat": 35.1329877314877,
+    "lon": 33.0927952672432,
+    "name": "Lefkosias Avenue - Apostolou Andrea"
+  },
+  {
+    "description": "Grigori Afxentiou - 1st Peristerona 2",
+    "lat": 35.1350360825432,
+    "lon": 33.102215654455,
+    "name": "Grigori Afxentiou - 1st Peristerona 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Potato Packaging Factory 1",
+    "lat": 35.1351577456264,
+    "lon": 33.1172320394481,
+    "name": "Grigori Afxentiou - Potato Packaging Factory 1"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ - Lordou Vyronos",
+    "lat": 35.1332638996275,
+    "lon": 33.1264276509004,
+    "name": "Archiepiskopou Makariou C´ - Lordou Vyronos"
+  },
+  {
+    "description": "Panagia Chriseleousa Church 2",
+    "lat": 35.1336403128955,
+    "lon": 33.1286235472321,
+    "name": "Panagia Chriseleousa Church 2"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ - Akaki Park 2",
+    "lat": 35.1343767218598,
+    "lon": 33.131423756425,
+    "name": "Archiepiskopou Makariou C´ - Akaki Park 2"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ - Vyzakias 2",
+    "lat": 35.1354277660994,
+    "lon": 33.1350368163737,
+    "name": "Archiepiskopou Makariou C´ - Vyzakias 2"
+  },
+  {
+    "description": "Akaki Health Center 2",
+    "lat": 35.1367854882343,
+    "lon": 33.1384748571126,
+    "name": "Akaki Health Center 2"
+  },
+  {
+    "description": "Akaki High School 2",
+    "lat": 35.1372974877789,
+    "lon": 33.1401991227321,
+    "name": "Akaki High School 2"
+  },
+  {
+    "description": "Grigori Afxentiou - 2nd Akaki 2",
+    "lat": 35.1373454073169,
+    "lon": 33.1454462430781,
+    "name": "Grigori Afxentiou - 2nd Akaki 2"
+  },
+  {
+    "description": "Grigori Afxentiou - 1st Akaki 2",
+    "lat": 35.137394852176,
+    "lon": 33.1492773295786,
+    "name": "Grigori Afxentiou - 1st Akaki 2"
+  },
+  {
+    "description": "Cyprus Forest Industries",
+    "lat": 35.1469093112316,
+    "lon": 33.1752475161912,
+    "name": "Cyprus Forest Industries"
+  },
+  {
+    "description": "Palaiometocho Lyceum 2",
+    "lat": 35.1471213033133,
+    "lon": 33.1843051284717,
+    "name": "Palaiometocho Lyceum 2"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ - Kerkyras",
+    "lat": 35.1480911098447,
+    "lon": 33.1927058686848,
+    "name": "Archiepiskopou Makariou C´ - Kerkyras"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ - Anexartisias",
+    "lat": 35.1488327568933,
+    "lon": 33.1969233993943,
+    "name": "Archiepiskopou Makariou C´ - Anexartisias"
+  },
+  {
+    "description": "Kokkinotrimithia Police Station 2",
+    "lat": 35.1486976912466,
+    "lon": 33.2022806213232,
+    "name": "Kokkinotrimithia Police Station 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Archiepiskopou Kyprianou",
+    "lat": 35.1484221359408,
+    "lon": 33.2052770815661,
+    "name": "Grigori Afxentiou - Archiepiskopou Kyprianou"
+  },
+  {
+    "description": "Grigori Afxentiou - Apostolos Varnavas Church 2",
+    "lat": 35.148560691633,
+    "lon": 33.2086258904512,
+    "name": "Grigori Afxentiou - Apostolos Varnavas Church 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Post Office 2",
+    "lat": 35.1492534053677,
+    "lon": 33.2147098318443,
+    "name": "Grigori Afxentiou - Post Office 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Zalongou",
+    "lat": 35.1489518406072,
+    "lon": 33.2219329652653,
+    "name": "Grigori Afxentiou - Zalongou"
+  },
+  {
+    "description": "Grigori Afxentiou - Industrial Area 2",
+    "lat": 35.1498409593112,
+    "lon": 33.2287092544218,
+    "name": "Grigori Afxentiou - Industrial Area 2"
+  },
+  {
+    "description": "Archangelou Michail - Alexandrou Panagouli",
+    "lat": 35.1318416814806,
+    "lon": 33.3031111555501,
+    "name": "Archangelou Michail - Alexandrou Panagouli"
+  },
+  {
+    "description": "Archan. Michail - Lefkotheou Makariou Stadiou Ave.",
+    "lat": 35.1463789938907,
+    "lon": 33.3234198926434,
+    "name": "Archan. Michail - Lefkotheou Makariou Stadiou Ave."
+  },
+  {
+    "description": "Avenue Lefkotheou - Agias Annas",
+    "lat": 35.1475968267882,
+    "lon": 33.3232270996973,
+    "name": "Avenue Lefkotheou - Agias Annas"
+  },
+  {
+    "description": "Apolloneio Hospital 1",
+    "lat": 35.147759176593,
+    "lon": 33.3198134535275,
+    "name": "Apolloneio Hospital 1"
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Apolloneio Hospital",
+    "lat": 35.1478491445453,
+    "lon": 33.3198906545292,
+    "name": "Apolloneio Hospital"
+  },
+  {
+    "description": "Archagelou Michail - Nikola Vasili Chatzigianni",
+    "lat": 35.1491214019724,
+    "lon": 33.3263400720184,
+    "name": "Archagelou Michail - Nikola Vasili Chatzigianni"
+  },
+  {
+    "description": "Engomi Elementary School B 2",
+    "lat": 35.1515338571016,
+    "lon": 33.327875774336,
+    "name": "Engomi Elementary School B 2"
+  },
+  {
+    "description": "Archagelou Michail - Makedonias Avenue",
+    "lat": 35.1553087283879,
+    "lon": 33.3324034641388,
+    "name": "Archagelou Michail - Makedonias Avenue"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Metochi Kikkou 2",
+    "lat": 35.1609041560846,
+    "lon": 33.3404197967511,
+    "name": "Ave. Georgiou Griva Digeni - Metochi Kikkou 2"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Engomi High School 2",
+    "lat": 35.1624413524021,
+    "lon": 33.3452795308849,
+    "name": "Ave. Georgiou Griva Digeni - Engomi High School 2"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Prodromou 2",
+    "lat": 35.1642091903337,
+    "lon": 33.3482627501334,
+    "name": "Ave. Georgiou Griva Digeni - Prodromou 2"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Lordou Vyronos Avenue",
+    "lat": 35.163945061928,
+    "lon": 33.3522914978052,
+    "name": "Ave. Georgiou Griva Digeni - Lordou Vyronos Avenue"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Kosta Chatzopoulou",
+    "lat": 35.1635857702818,
+    "lon": 33.3549033152014,
+    "name": "Ave. Georgiou Griva Digeni - Kosta Chatzopoulou"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Themistokli Dervi",
+    "lat": 35.1631461113951,
+    "lon": 33.357229265428,
+    "name": "Ave. Georgiou Griva Digeni - Themistokli Dervi"
+  }
+]

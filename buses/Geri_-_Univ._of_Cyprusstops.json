@@ -1,0 +1,98 @@
+[
+  {
+    "description": "Dimokratias 2",
+    "lat": 35.1029895293208,
+    "lon": 33.4200358870299,
+    "name": "Dimokratias 2"
+  },
+  {
+    "description": "Dimokratias - Eleftheriou Venizelou",
+    "lat": 35.1015870074757,
+    "lon": 33.4188327246279,
+    "name": "Dimokratias - Eleftheriou Venizelou"
+  },
+  {
+    "description": "Epistrofis - Myrtou",
+    "lat": 35.1009364743458,
+    "lon": 33.4165910895903,
+    "name": "Epistrofis - Myrtou"
+  },
+  {
+    "description": "Epistrofis - Kosta Varnali",
+    "lat": 35.101994294189,
+    "lon": 33.4157735533408,
+    "name": "Epistrofis - Kosta Varnali"
+  },
+  {
+    "description": "Epistrofis - Geriou",
+    "lat": 35.1045619686286,
+    "lon": 33.4137895815441,
+    "name": "Epistrofis - Geriou"
+  },
+  {
+    "description": "Ave. Geriou - Ammochostou",
+    "lat": 35.1055613997514,
+    "lon": 33.4142225686507,
+    "name": "Ave. Geriou - Ammochostou"
+  },
+  {
+    "description": "Geri Elementary School A",
+    "lat": 35.1060884452192,
+    "lon": 33.4182961394005,
+    "name": "Geri Elementary School A"
+  },
+  {
+    "description": "Agiou Mina - Griva Digeni",
+    "lat": 35.1063078563674,
+    "lon": 33.4226315223646,
+    "name": "Agiou Mina - Griva Digeni"
+  },
+  {
+    "description": "Griva Digeni - Meletiou Metaxaki",
+    "lat": 35.1067554915141,
+    "lon": 33.4235555545626,
+    "name": "Griva Digeni - Meletiou Metaxaki"
+  },
+  {
+    "description": "Griva Digeni - Nikou Kazantzaki",
+    "lat": 35.108320232308,
+    "lon": 33.4247706892803,
+    "name": "Griva Digeni - Nikou Kazantzaki"
+  },
+  {
+    "description": "Griva Digeni - Thaleias",
+    "lat": 35.1105591535819,
+    "lon": 33.4265819417309,
+    "name": "Griva Digeni - Thaleias"
+  },
+  {
+    "description": "Archiepiskopou Makariou C - Theodosi Pieridi",
+    "lat": 35.112531911312,
+    "lon": 33.4271518787489,
+    "name": "Archiepiskopou Makariou C - Theodosi Pieridi"
+  },
+  {
+    "description": "Archiep. Makariou C - Georgiou Papandreou",
+    "lat": 35.1143334732977,
+    "lon": 33.4225412736039,
+    "name": "Archiep. Makariou C - Georgiou Papandreou"
+  },
+  {
+    "description": "Ave. Athalassas - Konstantinou Giallourou",
+    "lat": 35.1163463044805,
+    "lon": 33.4193691590219,
+    "name": "Ave. Athalassas - Konstantinou Giallourou"
+  },
+  {
+    "description": "University of Cyprus - Oceanography Center",
+    "lat": 35.1443862687783,
+    "lon": 33.4071517965074,
+    "name": "University of Cyprus - Oceanography Center"
+  },
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  }
+]

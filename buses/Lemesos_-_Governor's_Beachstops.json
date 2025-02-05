@@ -1,0 +1,176 @@
+[
+  {
+    "description": "Spyrou Araouzou - Agia Napa Church",
+    "lat": 34.6732624152377,
+    "lon": 33.0448735932546,
+    "name": "Spyrou Araouzou - Agia Napa Church"
+  },
+  {
+    "description": "Christodoulou Chatzipavlou - Christodoulou Sozou",
+    "lat": 34.6767417616956,
+    "lon": 33.0489580347666,
+    "name": "Christodoulou Chatzipavlou - Christodoulou Sozou"
+  },
+  {
+    "description": "Christodoulou Chatzipavlou - Zinas Kanther",
+    "lat": 34.6781568924941,
+    "lon": 33.0506290361378,
+    "name": "Christodoulou Chatzipavlou - Zinas Kanther"
+  },
+  {
+    "description": "28 Oktovriou - Sotiri Michailidi",
+    "lat": 34.6807075676039,
+    "lon": 33.0538836963295,
+    "name": "28 Oktovriou - Sotiri Michailidi"
+  },
+  {
+    "description": "28 Oktovriou - Municipal Art Gallery",
+    "lat": 34.6832758089981,
+    "lon": 33.0579464118658,
+    "name": "28 Oktovriou - Municipal Art Gallery"
+  },
+  {
+    "description": "28 Oktovriou - Olympic Residence",
+    "lat": 34.6865822109648,
+    "lon": 33.064269797254,
+    "name": "28 Oktovriou - Olympic Residence"
+  },
+  {
+    "description": "28 Oktovriou - Debenhams 2",
+    "lat": 34.6885545404173,
+    "lon": 33.0690095156999,
+    "name": "28 Oktovriou - Debenhams 2"
+  },
+  {
+    "description": "Promachon Eleftherias - Kosta Pitsillidi",
+    "lat": 34.6897428875577,
+    "lon": 33.0724823157706,
+    "name": "Promachon Eleftherias - Kosta Pitsillidi"
+  },
+  {
+    "description": "Promachon Eleftherias - KEAN 2",
+    "lat": 34.6909223618055,
+    "lon": 33.0755621658399,
+    "name": "Promachon Eleftherias - KEAN 2"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Panagioti Tsagkari",
+    "lat": 34.6927586425113,
+    "lon": 33.0808154161997,
+    "name": "Vasileos Georgiou A´ - Panagioti Tsagkari"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Park Beach Hotel",
+    "lat": 34.6938659197996,
+    "lon": 33.0836661411318,
+    "name": "Vasileos Georgiou A´ - Park Beach Hotel"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Germasogeia Police Station",
+    "lat": 34.6951532392487,
+    "lon": 33.0868665169204,
+    "name": "Vasileos Georgiou A´ - Germasogeia Police Station"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Ampelakion",
+    "lat": 34.6966654515964,
+    "lon": 33.0907005119513,
+    "name": "Vasileos Georgiou A´ - Ampelakion"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Apollonia Hotel 2",
+    "lat": 34.6981326140916,
+    "lon": 33.0943271388461,
+    "name": "Vasileos Georgiou A´ - Apollonia Hotel 2"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Profiti Ilia",
+    "lat": 34.698879180217,
+    "lon": 33.0967738086477,
+    "name": "Vasileos Georgiou A´ - Profiti Ilia"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - McDonald´s",
+    "lat": 34.7002911311858,
+    "lon": 33.1015143141621,
+    "name": "Vasileos Georgiou A´ - McDonald´s"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Ariadnis",
+    "lat": 34.7017042673695,
+    "lon": 33.1046716950113,
+    "name": "Vasileos Georgiou A´ - Ariadnis"
+  },
+  {
+    "description": "Amathountos Ave. - Aquarius Hotel",
+    "lat": 34.7032520368812,
+    "lon": 33.1084517650169,
+    "name": "Amathountos Ave. - Aquarius Hotel"
+  },
+  {
+    "description": "Amathountos Ave. - Aphrodite Amathusia Park",
+    "lat": 34.7038993500777,
+    "lon": 33.1106474309853,
+    "name": "Amathountos Ave. - Aphrodite Amathusia Park"
+  },
+  {
+    "description": "Amathountos Ave. - Prousis",
+    "lat": 34.7053029444309,
+    "lon": 33.114110842363,
+    "name": "Amathountos Ave. - Prousis"
+  },
+  {
+    "description": "Amathountos Ave. - Navarria",
+    "lat": 34.7065972201167,
+    "lon": 33.118611602898,
+    "name": "Amathountos Ave. - Navarria"
+  },
+  {
+    "description": "Amathountos Ave. - Onisilou",
+    "lat": 34.7079912514499,
+    "lon": 33.1223919282694,
+    "name": "Amathountos Ave. - Onisilou"
+  },
+  {
+    "description": "Amathountos Ave. - Ellados",
+    "lat": 34.7091052378266,
+    "lon": 33.1265323214247,
+    "name": "Amathountos Ave. - Ellados"
+  },
+  {
+    "description": "Amathountos Ave. - Mediterranean Hotel 2",
+    "lat": 34.7100749730428,
+    "lon": 33.1305087937926,
+    "name": "Amathountos Ave. - Mediterranean Hotel 2"
+  },
+  {
+    "description": "Amathountos Ave. - Pasalimani",
+    "lat": 34.7097367732011,
+    "lon": 33.1346798067563,
+    "name": "Amathountos Ave. - Pasalimani"
+  },
+  {
+    "description": "Amathountos Ave. - Agias Varvara Church",
+    "lat": 34.7124458047438,
+    "lon": 33.1471009513147,
+    "name": "Amathountos Ave. - Agias Varvara Church"
+  },
+  {
+    "description": "Amathountos Ave. - Iras",
+    "lat": 34.7139626389631,
+    "lon": 33.1529353576537,
+    "name": "Amathountos Ave. - Iras"
+  },
+  {
+    "description": "Amathountos Ave. - Elias Hotel",
+    "lat": 34.7145569263821,
+    "lon": 33.1606356876417,
+    "name": "Amathountos Ave. - Elias Hotel"
+  },
+  {
+    "description": "Amathountos Ave. - Hawaii Hotel",
+    "lat": 34.7143264108286,
+    "lon": 33.1644357049357,
+    "name": "Amathountos Ave. - Hawaii Hotel"
+  }
+]

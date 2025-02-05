@@ -1,0 +1,32 @@
+[
+  {
+    "description": "1st Alektora",
+    "lat": 34.6975864930289,
+    "lon": 32.6731388247315,
+    "name": "1st Alektora"
+  },
+  {
+    "description": "2nd Alektora 2",
+    "lat": 34.7105624147703,
+    "lon": 32.683101730459,
+    "name": "2nd Alektora 2"
+  },
+  {
+    "description": "Platanisteia - Hambis Printmaking Museum 2",
+    "lat": 34.7120816472555,
+    "lon": 32.7101570264331,
+    "name": "Platanisteia - Hambis Printmaking Museum 2"
+  },
+  {
+    "description": "Agios Thomas 2",
+    "lat": 34.7162653259675,
+    "lon": 32.7254756462892,
+    "name": "Agios Thomas 2"
+  },
+  {
+    "description": "Avdimou Health Centre ",
+    "lat": 34.6953142244578,
+    "lon": 32.762874684271,
+    "name": "Avdimou Health Centre "
+  }
+]

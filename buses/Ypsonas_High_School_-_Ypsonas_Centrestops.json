@@ -1,0 +1,272 @@
+[
+  {
+    "description": "Ypsonas High School 2",
+    "lat": 34.6985927412885,
+    "lon": 32.9332969409607,
+    "name": "Ypsonas High School 2"
+  },
+  {
+    "description": "Giannou Kranidioti - Petraki Giallourou",
+    "lat": 34.6965736263113,
+    "lon": 32.9349472622824,
+    "name": "Giannou Kranidioti - Petraki Giallourou"
+  },
+  {
+    "description": "Giannou Kranidioti - Christodoulou Sozou",
+    "lat": 34.6986566994177,
+    "lon": 32.9348364439203,
+    "name": "Giannou Kranidioti - Christodoulou Sozou"
+  },
+  {
+    "description": "Solomou Solomou - Vasili Michailidi",
+    "lat": 34.7006881214526,
+    "lon": 32.9394863844888,
+    "name": "Solomou Solomou - Vasili Michailidi"
+  },
+  {
+    "description": "Dionysiou Solomou - Andrea Vlami",
+    "lat": 34.6999407177614,
+    "lon": 32.9417034843552,
+    "name": "Dionysiou Solomou - Andrea Vlami"
+  },
+  {
+    "description": "Ypsonas Elementary School 2",
+    "lat": 34.6971086862703,
+    "lon": 32.9408428992775,
+    "name": "Ypsonas Elementary School 2"
+  },
+  {
+    "description": "Lofou - Ermou",
+    "lat": 34.6956129505257,
+    "lon": 32.9434425488877,
+    "name": "Lofou - Ermou"
+  },
+  {
+    "description": "Theodorou Kolokotroni - Omirou 2",
+    "lat": 34.6956501470885,
+    "lon": 32.9459210073207,
+    "name": "Theodorou Kolokotroni - Omirou 2"
+  },
+  {
+    "description": "Kolokotroni - Georgiou Karaiskaki 2",
+    "lat": 34.6960215208988,
+    "lon": 32.9497531520617,
+    "name": "Kolokotroni - Georgiou Karaiskaki 2"
+  },
+  {
+    "description": "Asklipiou - Galinou",
+    "lat": 34.6987115208153,
+    "lon": 32.9567068228392,
+    "name": "Asklipiou - Galinou"
+  },
+  {
+    "description": "Askipiou - 25 Martiou",
+    "lat": 34.7000010279587,
+    "lon": 32.9565642041933,
+    "name": "Askipiou - 25 Martiou"
+  },
+  {
+    "description": "25 Martiou - Santorinis",
+    "lat": 34.7004435815547,
+    "lon": 32.9585075657762,
+    "name": "25 Martiou - Santorinis"
+  },
+  {
+    "description": "25 Martiou - 1 Apriliou 2",
+    "lat": 34.6999750292863,
+    "lon": 32.9596324566076,
+    "name": "25 Martiou - 1 Apriliou 2"
+  },
+  {
+    "description": "25 Martiou - Georgiou Sachtouri 2",
+    "lat": 34.6995161648078,
+    "lon": 32.9629301991055,
+    "name": "25 Martiou - Georgiou Sachtouri 2"
+  },
+  {
+    "description": "25 Martiou - Patriarchou Ierosolymon",
+    "lat": 34.7007073069992,
+    "lon": 32.9655939272823,
+    "name": "25 Martiou - Patriarchou Ierosolymon"
+  },
+  {
+    "description": "Evagora Pallikaridi - Rizokarpasou 2",
+    "lat": 34.7021324539076,
+    "lon": 32.9667507813649,
+    "name": "Evagora Pallikaridi - Rizokarpasou 2"
+  },
+  {
+    "description": "Evagora Pallikaridi - Karava",
+    "lat": 34.7003025513139,
+    "lon": 32.9695358692827,
+    "name": "Evagora Pallikaridi - Karava"
+  },
+  {
+    "description": "Alexandrou Ypsilanti - Christou Samara",
+    "lat": 34.698814165191,
+    "lon": 32.9678439934163,
+    "name": "Alexandrou Ypsilanti - Christou Samara"
+  },
+  {
+    "description": "Agiou Sila - Lysiou",
+    "lat": 34.6926811093731,
+    "lon": 32.96463646124,
+    "name": "Agiou Sila - Lysiou"
+  },
+  {
+    "description": "Agiou Sila - Eleftherias",
+    "lat": 34.6909311444083,
+    "lon": 32.9629776980961,
+    "name": "Agiou Sila - Eleftherias"
+  },
+  {
+    "description": "Agiou Sila - Spartis 2",
+    "lat": 34.6896592498249,
+    "lon": 32.9617773234468,
+    "name": "Agiou Sila - Spartis 2"
+  },
+  {
+    "description": "Ellados - Athinas",
+    "lat": 34.6907050806408,
+    "lon": 32.9610016801796,
+    "name": "Ellados - Athinas"
+  },
+  {
+    "description": "Ellados - Mytilinis 2",
+    "lat": 34.6922650858044,
+    "lon": 32.9607170808432,
+    "name": "Ellados - Mytilinis 2"
+  },
+  {
+    "description": "Ellados - Vosporou",
+    "lat": 34.6937619362467,
+    "lon": 32.9603451553861,
+    "name": "Ellados - Vosporou"
+  },
+  {
+    "description": "Ellados - Kassandras 2",
+    "lat": 34.6960793161258,
+    "lon": 32.9596780222849,
+    "name": "Ellados - Kassandras 2"
+  },
+  {
+    "description": "Ypsonas Cemetery",
+    "lat": 34.6943560112994,
+    "lon": 32.957080311875,
+    "name": "Ypsonas Cemetery"
+  },
+  {
+    "description": "Foti Pitta - Dimokratias",
+    "lat": 34.6917953274054,
+    "lon": 32.9582280158371,
+    "name": "Foti Pitta - Dimokratias"
+  },
+  {
+    "description": "Archiep. Makariou C - Arsinois",
+    "lat": 34.6899282548727,
+    "lon": 32.95716993882,
+    "name": "Archiep. Makariou C - Arsinois"
+  },
+  {
+    "description": "Archiep. Makariou C - Foti Pitta",
+    "lat": 34.6890812029673,
+    "lon": 32.9590045266535,
+    "name": "Archiep. Makariou C - Foti Pitta"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Agiou Sila",
+    "lat": 34.688468553641,
+    "lon": 32.9607297918492,
+    "name": "Archiep. Makariou C´ - Agiou Sila"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Trion Ierarchon",
+    "lat": 34.6871614675361,
+    "lon": 32.9623461719799,
+    "name": "Archiep. Makariou C´ - Trion Ierarchon"
+  },
+  {
+    "description": "Michail Karaoli - Karpasias",
+    "lat": 34.6888402016393,
+    "lon": 32.9672037160137,
+    "name": "Michail Karaoli - Karpasias"
+  },
+  {
+    "description": "Michalaki Karaoli - Lefkados",
+    "lat": 34.6892913486272,
+    "lon": 32.9681533690034,
+    "name": "Michalaki Karaoli - Lefkados"
+  },
+  {
+    "description": "Michail Karaoli - Evrota",
+    "lat": 34.6902297613408,
+    "lon": 32.9703365536135,
+    "name": "Michail Karaoli - Evrota"
+  },
+  {
+    "description": "Michalaki Karaoli - Evrota",
+    "lat": 34.6906358735988,
+    "lon": 32.9716247060016,
+    "name": "Michalaki Karaoli - Evrota"
+  },
+  {
+    "description": "Xenofontos - Ierousalim",
+    "lat": 34.6892927044936,
+    "lon": 32.9738523541532,
+    "name": "Xenofontos - Ierousalim"
+  },
+  {
+    "description": "Argonafton - Afrikis",
+    "lat": 34.6883369249553,
+    "lon": 32.9744094457389,
+    "name": "Argonafton - Afrikis"
+  },
+  {
+    "description": "Sotiri Tsangari - Adamantiou Korai",
+    "lat": 34.6872096800058,
+    "lon": 32.9743770406464,
+    "name": "Sotiri Tsangari - Adamantiou Korai"
+  },
+  {
+    "description": "Trion Ierarchon - Keryneias",
+    "lat": 34.6871461281834,
+    "lon": 32.972422860782,
+    "name": "Trion Ierarchon - Keryneias"
+  },
+  {
+    "description": "Trion Ierarchon - Troodous",
+    "lat": 34.6870728005338,
+    "lon": 32.9676083533299,
+    "name": "Trion Ierarchon - Troodous"
+  },
+  {
+    "description": "Ammochostou - Iroon 2",
+    "lat": 34.6858459768743,
+    "lon": 32.966178685239,
+    "name": "Ammochostou - Iroon 2"
+  },
+  {
+    "description": "Keryneias - Mpoumpoulinas",
+    "lat": 34.6856031502259,
+    "lon": 32.9686351343185,
+    "name": "Keryneias - Mpoumpoulinas"
+  },
+  {
+    "description": "Aigyptou - Ilia Kannaourou",
+    "lat": 34.683096258086,
+    "lon": 32.9689744999743,
+    "name": "Aigyptou - Ilia Kannaourou"
+  },
+  {
+    "description": "Ilia Kannaourou - Aigyptou",
+    "lat": 34.6825733542023,
+    "lon": 32.9695096140556,
+    "name": "Ilia Kannaourou - Aigyptou"
+  },
+  {
+    "description": "Ilia Kannaourou - Menelaou",
+    "lat": 34.6820598471002,
+    "lon": 32.9716385485763,
+    "name": "Ilia Kannaourou - Menelaou"
+  }
+]

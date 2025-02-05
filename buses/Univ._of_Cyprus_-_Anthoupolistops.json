@@ -1,0 +1,176 @@
+[
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  },
+  {
+    "description": "University of Cyprus - University House",
+    "lat": 35.1460482761817,
+    "lon": 33.4089824472376,
+    "name": "University of Cyprus - University House"
+  },
+  {
+    "description": "Athalassis - Athalassis Avenue",
+    "lat": 35.1405359635377,
+    "lon": 33.4017427128763,
+    "name": "Athalassis - Athalassis Avenue"
+  },
+  {
+    "description": "Athalassis - Military Camp",
+    "lat": 35.1396018892484,
+    "lon": 33.3978850945119,
+    "name": "Athalassis - Military Camp"
+  },
+  {
+    "description": "Athalassis - Agriculture Research Institute",
+    "lat": 35.1383699491183,
+    "lon": 33.3828294552832,
+    "name": "Athalassis - Agriculture Research Institute"
+  },
+  {
+    "description": "Athalassis - Department of Forest",
+    "lat": 35.1376882965686,
+    "lon": 33.3787976895466,
+    "name": "Athalassis - Department of Forest"
+  },
+  {
+    "description": "Verginas",
+    "lat": 35.1330948406325,
+    "lon": 33.3741882675092,
+    "name": "Verginas"
+  },
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Lemesou Ave. - Athalassis",
+    "lat": 35.1201286891813,
+    "lon": 33.3769165370365,
+    "name": "Lemesou Ave. - Athalassis"
+  },
+  {
+    "description": "Giannou Kranidioti Ave. - South Roundabout",
+    "lat": 35.1165112735836,
+    "lon": 33.3774046894802,
+    "name": "Giannou Kranidioti Ave. - South Roundabout"
+  },
+  {
+    "description": "Ave. Giannou Kranidioti - Alekou Konstantinou",
+    "lat": 35.1117868041991,
+    "lon": 33.3772292751737,
+    "name": "Ave. Giannou Kranidioti - Alekou Konstantinou"
+  },
+  {
+    "description": "Filippou Papakyprianou - Efterpis",
+    "lat": 35.1119848353588,
+    "lon": 33.3715019701964,
+    "name": "Filippou Papakyprianou - Efterpis"
+  },
+  {
+    "description": "GSP Stadium 1",
+    "lat": 35.1125973346024,
+    "lon": 33.3627916465142,
+    "name": "GSP Stadium 1"
+  },
+  {
+    "description": "Filopappou",
+    "lat": 35.1034492319697,
+    "lon": 33.3552240015533,
+    "name": "Filopappou"
+  },
+  {
+    "description": "Kallistratou - Ferekratous",
+    "lat": 35.102975976205,
+    "lon": 33.3505257619312,
+    "name": "Kallistratou - Ferekratous"
+  },
+  {
+    "description": "Theofilou Georgiadi - Tseriou",
+    "lat": 35.1041399479433,
+    "lon": 33.3310105622599,
+    "name": "Theofilou Georgiadi - Tseriou"
+  },
+  {
+    "description": "Ave. Tseriou - Ippokratous",
+    "lat": 35.1095207452026,
+    "lon": 33.3319211542844,
+    "name": "Ave. Tseriou - Ippokratous"
+  },
+  {
+    "description": "Ippokratous - Frygias",
+    "lat": 35.1124481339295,
+    "lon": 33.3297931577977,
+    "name": "Ippokratous - Frygias"
+  },
+  {
+    "description": "Ippokratous - Kappadokias",
+    "lat": 35.1129387281224,
+    "lon": 33.3250983722005,
+    "name": "Ippokratous - Kappadokias"
+  },
+  {
+    "description": "Ippokratus - Themistokleus",
+    "lat": 35.112756502452,
+    "lon": 33.3190182068856,
+    "name": "Ippokratus - Themistokleus"
+  },
+  {
+    "description": "Agiou Dimitrianou - Iliodorou",
+    "lat": 35.114347197076,
+    "lon": 33.3141629530254,
+    "name": "Agiou Dimitrianou - Iliodorou"
+  },
+  {
+    "description": "Orfeos - Areos",
+    "lat": 35.1131705462911,
+    "lon": 33.3123806843285,
+    "name": "Orfeos - Areos"
+  },
+  {
+    "description": "Ave. Agiou Georgiou - Elpidos",
+    "lat": 35.1126192813728,
+    "lon": 33.2911334778741,
+    "name": "Ave. Agiou Georgiou - Elpidos"
+  },
+  {
+    "description": "Sporadon 2",
+    "lat": 35.1160920446632,
+    "lon": 33.2906629670242,
+    "name": "Sporadon 2"
+  },
+  {
+    "description": "Kasou - Aigaiou",
+    "lat": 35.1159034433708,
+    "lon": 33.2940862331166,
+    "name": "Kasou - Aigaiou"
+  },
+  {
+    "description": "Lakatameia Elementary School D Agios Neofytos 2",
+    "lat": 35.117260977215,
+    "lon": 33.2920389106326,
+    "name": "Lakatameia Elementary School D Agios Neofytos 2"
+  },
+  {
+    "description": "Kykladon - Aigaiou",
+    "lat": 35.1182792295112,
+    "lon": 33.2885636364596,
+    "name": "Kykladon - Aigaiou"
+  },
+  {
+    "description": "Kykladon - Agiou Georgiou Avenue 1",
+    "lat": 35.1158571589923,
+    "lon": 33.2870626121114,
+    "name": "Kykladon - Agiou Georgiou Avenue 1"
+  },
+  {
+    "description": "Ave. Agiou Georgiou - Sporadon",
+    "lat": 35.1146270733287,
+    "lon": 33.2886385513963,
+    "name": "Ave. Agiou Georgiou - Sporadon"
+  }
+]

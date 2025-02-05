@@ -1,0 +1,80 @@
+[
+  {
+    "description": "Nikitari Elementary School",
+    "lat": 35.0686124659078,
+    "lon": 32.9917960343363,
+    "name": "Nikitari Elementary School"
+  },
+  {
+    "description": "Ioannis Prodromos Church - Nikitari",
+    "lat": 35.0742935204886,
+    "lon": 32.9940879091668,
+    "name": "Ioannis Prodromos Church - Nikitari"
+  },
+  {
+    "description": "Nikitari Park",
+    "lat": 35.0731934944358,
+    "lon": 32.9963255587165,
+    "name": "Nikitari Park"
+  },
+  {
+    "description": "Archangelou Michail - 1st Vyzakia",
+    "lat": 35.0766465223685,
+    "lon": 33.0127020365609,
+    "name": "Archangelou Michail - 1st Vyzakia"
+  },
+  {
+    "description": "Tilepikoinonion - 3rd Vyzakia",
+    "lat": 35.0802172580764,
+    "lon": 33.0138434097974,
+    "name": "Tilepikoinonion - 3rd Vyzakia"
+  },
+  {
+    "description": "Morfou - 4th Vyzakia",
+    "lat": 35.0816958385388,
+    "lon": 33.0159607960801,
+    "name": "Morfou - 4th Vyzakia"
+  },
+  {
+    "description": "Agios Georgios Old Church - Potami",
+    "lat": 35.1029649654153,
+    "lon": 33.0301303965781,
+    "name": "Agios Georgios Old Church - Potami"
+  },
+  {
+    "description": "Potami Health Centre",
+    "lat": 35.1043538238903,
+    "lon": 33.0293299039446,
+    "name": "Potami Health Centre"
+  },
+  {
+    "description": "Agios Georgios Church - Potami",
+    "lat": 35.1075288216988,
+    "lon": 33.0252710020643,
+    "name": "Agios Georgios Church - Potami"
+  },
+  {
+    "description": "Agiou Georgiou - 4th Potami",
+    "lat": 35.1097115379378,
+    "lon": 33.0225612530088,
+    "name": "Agiou Georgiou - 4th Potami"
+  },
+  {
+    "description": "Agiou Georgiou - 5th Potami",
+    "lat": 35.1115333959882,
+    "lon": 33.0204877416871,
+    "name": "Agiou Georgiou - 5th Potami"
+  },
+  {
+    "description": "Lefkosias - Troodous - SEDIGEP 2",
+    "lat": 35.1352754841962,
+    "lon": 33.0224695117189,
+    "name": "Lefkosias - Troodous - SEDIGEP 2"
+  },
+  {
+    "description": "Troodous - Georgiou Griva Digeni",
+    "lat": 35.1370146667056,
+    "lon": 33.0279694837028,
+    "name": "Troodous - Georgiou Griva Digeni"
+  }
+]

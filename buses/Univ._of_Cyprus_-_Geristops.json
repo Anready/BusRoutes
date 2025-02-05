@@ -1,0 +1,98 @@
+[
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  },
+  {
+    "description": "University of Cyprus - University House",
+    "lat": 35.1460482761817,
+    "lon": 33.4089824472376,
+    "name": "University of Cyprus - University House"
+  },
+  {
+    "description": "Ave. Athalassas - Archiepiskopou Makariou C",
+    "lat": 35.1163818789442,
+    "lon": 33.4195120054742,
+    "name": "Ave. Athalassas - Archiepiskopou Makariou C"
+  },
+  {
+    "description": "Archiep. Makariou C - Ippokratous",
+    "lat": 35.1146047871171,
+    "lon": 33.4223122218494,
+    "name": "Archiep. Makariou C - Ippokratous"
+  },
+  {
+    "description": "Archiepiskopou Makariou C - Archaias Lydras",
+    "lat": 35.1125856654062,
+    "lon": 33.427250922151,
+    "name": "Archiepiskopou Makariou C - Archaias Lydras"
+  },
+  {
+    "description": "Griva Digeni - Foinikoudon",
+    "lat": 35.1105497889958,
+    "lon": 33.4266806533558,
+    "name": "Griva Digeni - Foinikoudon"
+  },
+  {
+    "description": "Griva Digeni - Pyrogiou",
+    "lat": 35.1081311053012,
+    "lon": 33.4247038696171,
+    "name": "Griva Digeni - Pyrogiou"
+  },
+  {
+    "description": "Griva Digeni - Afroditis",
+    "lat": 35.1067731421775,
+    "lon": 33.4236653746384,
+    "name": "Griva Digeni - Afroditis"
+  },
+  {
+    "description": "Agios Minas Church",
+    "lat": 35.1061928899944,
+    "lon": 33.4219835337622,
+    "name": "Agios Minas Church"
+  },
+  {
+    "description": "Geri Community Board",
+    "lat": 35.105945118698,
+    "lon": 33.4180210879329,
+    "name": "Geri Community Board"
+  },
+  {
+    "description": "Ave. Geriou - Epistrofis",
+    "lat": 35.1055066224839,
+    "lon": 33.4144198003055,
+    "name": "Ave. Geriou - Epistrofis"
+  },
+  {
+    "description": "Epistrofis - Foti Pitta",
+    "lat": 35.1046067167895,
+    "lon": 33.4138885610068,
+    "name": "Epistrofis - Foti Pitta"
+  },
+  {
+    "description": "Epistrofis - Keryneias",
+    "lat": 35.1020752218726,
+    "lon": 33.4158397977601,
+    "name": "Epistrofis - Keryneias"
+  },
+  {
+    "description": "Epistrofis - Dimokratias",
+    "lat": 35.101026531763,
+    "lon": 33.4166244640752,
+    "name": "Epistrofis - Dimokratias"
+  },
+  {
+    "description": "Dimokratias - Keryneias",
+    "lat": 35.1016412992732,
+    "lon": 33.4187781413722,
+    "name": "Dimokratias - Keryneias"
+  },
+  {
+    "description": "Dimokratias - Kyriakou Kakoulli",
+    "lat": 35.1030258635735,
+    "lon": 33.4199592667912,
+    "name": "Dimokratias - Kyriakou Kakoulli"
+  }
+]

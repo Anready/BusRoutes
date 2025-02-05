@@ -1,0 +1,44 @@
+[
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Ithakis - Electras",
+    "lat": 35.1451255603248,
+    "lon": 33.3166085334721,
+    "name": "Ithakis - Electras"
+  },
+  {
+    "description": "Ithakis - Lykavitou",
+    "lat": 35.1422858255063,
+    "lon": 33.3128761012096,
+    "name": "Ithakis - Lykavitou"
+  },
+  {
+    "description": "Ave. Lykavitou - Prevezis",
+    "lat": 35.1392827685977,
+    "lon": 33.3094945841808,
+    "name": "Ave. Lykavitou - Prevezis"
+  },
+  {
+    "description": "Avenue Morfou - Archangelou Michail",
+    "lat": 35.1373620133756,
+    "lon": 33.3095312227799,
+    "name": "Avenue Morfou - Archangelou Michail"
+  },
+  {
+    "description": "Archangelou Michail - Lefkosias - Troodous HWY",
+    "lat": 35.131157614699,
+    "lon": 33.3026146917464,
+    "name": "Archangelou Michail - Lefkosias - Troodous HWY"
+  },
+  {
+    "description": "NICOSIA MALL",
+    "lat": 35.1333323319374,
+    "lon": 33.2794294100809,
+    "name": "NICOSIA MALL"
+  }
+]

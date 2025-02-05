@@ -1,0 +1,200 @@
+[
+  {
+    "description": "Andrea Zitti - Grigori Afxentiou Avenue",
+    "lat": 35.0839100688512,
+    "lon": 33.2749386376613,
+    "name": "Andrea Zitti - Grigori Afxentiou Avenue"
+  },
+  {
+    "description": "Deftera Community Board",
+    "lat": 35.0841928272672,
+    "lon": 33.2735134980478,
+    "name": "Deftera Community Board"
+  },
+  {
+    "description": "Pano Deftera Elementary School",
+    "lat": 35.0838453968144,
+    "lon": 33.2716255216154,
+    "name": "Pano Deftera Elementary School"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Metochiou",
+    "lat": 35.0815355892436,
+    "lon": 33.2681953636595,
+    "name": "Ave. Archiepiskopou Makariou C - Metochiou"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Machaira",
+    "lat": 35.0796939077633,
+    "lon": 33.2650740522632,
+    "name": "Ave. Archiepiskopou Makariou C - Machaira"
+  },
+  {
+    "description": "Machaira - Nikis 1",
+    "lat": 35.0761273127506,
+    "lon": 33.2631210335787,
+    "name": "Machaira - Nikis 1"
+  },
+  {
+    "description": "Griva Digeni - 1st Psimolofou 1",
+    "lat": 35.0711262804941,
+    "lon": 33.2614707245081,
+    "name": "Griva Digeni - 1st Psimolofou 1"
+  },
+  {
+    "description": "Griva Digeni - Georgiou Seferi",
+    "lat": 35.0637539887952,
+    "lon": 33.2596705318265,
+    "name": "Griva Digeni - Georgiou Seferi"
+  },
+  {
+    "description": "Stavropetras - Grigori Afxentiou",
+    "lat": 35.0611014817267,
+    "lon": 33.2603311091278,
+    "name": "Stavropetras - Grigori Afxentiou"
+  },
+  {
+    "description": "Archiep. Makariou C´  - Grigori Afxentiou",
+    "lat": 35.0580545885195,
+    "lon": 33.2598827810817,
+    "name": "Archiep. Makariou C´  - Grigori Afxentiou"
+  },
+  {
+    "description": "Panteli Katelari Ave. - Archiep. Makariou C ´ 1",
+    "lat": 35.0551449641492,
+    "lon": 33.2584918427234,
+    "name": "Panteli Katelari Ave. - Archiep. Makariou C ´ 1"
+  },
+  {
+    "description": "Panteli Katelari Ave. - 1st  Episkopeio",
+    "lat": 35.046607495951,
+    "lon": 33.2489364555161,
+    "name": "Panteli Katelari Ave. - 1st  Episkopeio"
+  },
+  {
+    "description": "Agios Irakleidios Monastery",
+    "lat": 35.0430784001783,
+    "lon": 33.2461407872042,
+    "name": "Agios Irakleidios Monastery"
+  },
+  {
+    "description": "Episkopeio Elementary School",
+    "lat": 35.0417025650058,
+    "lon": 33.2442508120413,
+    "name": "Episkopeio Elementary School"
+  },
+  {
+    "description": "Agios Nikolaos Church",
+    "lat": 35.0394920228922,
+    "lon": 33.2448911059934,
+    "name": "Agios Nikolaos Church"
+  },
+  {
+    "description": "Tamasos Elementary School",
+    "lat": 35.0370634745518,
+    "lon": 33.2507165040664,
+    "name": "Tamasos Elementary School"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Archiep. Kyprianou 1",
+    "lat": 35.0341672644346,
+    "lon": 33.251507974103,
+    "name": "Archiep. Makariou C´ Ave. - Archiep. Kyprianou 1"
+  },
+  {
+    "description": "Eleftherias Square 1",
+    "lat": 35.0325238834488,
+    "lon": 33.2525773142582,
+    "name": "Eleftherias Square 1"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Eleftheriou Venizelou 1",
+    "lat": 35.0315650054389,
+    "lon": 33.2540324273298,
+    "name": "Georgiou Griva Digeni - Eleftheriou Venizelou 1"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Grigori Afxentiou Ave.",
+    "lat": 35.0305348939583,
+    "lon": 33.2550487750797,
+    "name": "Georgiou Griva Digeni - Grigori Afxentiou Ave."
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Dimokratias 2",
+    "lat": 35.0318593076294,
+    "lon": 33.255590072468,
+    "name": "Grigori Afxentiou Ave. - Dimokratias 2"
+  },
+  {
+    "description": "Michalaki Karaoli - Kythreas 1",
+    "lat": 35.036431909922,
+    "lon": 33.2552096224333,
+    "name": "Michalaki Karaoli - Kythreas 1"
+  },
+  {
+    "description": "Michalaki Karaoli - Pentadaktylou",
+    "lat": 35.0372510985976,
+    "lon": 33.255869987755,
+    "name": "Michalaki Karaoli - Pentadaktylou"
+  },
+  {
+    "description": "Koutsoventi",
+    "lat": 35.0367272393384,
+    "lon": 33.2562740068295,
+    "name": "Koutsoventi"
+  },
+  {
+    "description": "Michalaki Karaoli - Kythreas 2",
+    "lat": 35.0360082352481,
+    "lon": 33.2551425243645,
+    "name": "Michalaki Karaoli - Kythreas 2"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Dimokratias 1",
+    "lat": 35.0319041862938,
+    "lon": 33.2556888785075,
+    "name": "Grigori Afxentiou Ave. - Dimokratias 1"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Makedonias 1",
+    "lat": 35.0271042928534,
+    "lon": 33.2569455563667,
+    "name": "Grigori Afxentiou Ave. - Makedonias 1"
+  },
+  {
+    "description": "Ethnom. Archiep. Kyprianou - Panteli Katelari",
+    "lat": 35.00886324291,
+    "lon": 33.2564172294841,
+    "name": "Ethnom. Archiep. Kyprianou - Panteli Katelari"
+  },
+  {
+    "description": "Kampia Elementary School",
+    "lat": 35.0073575324682,
+    "lon": 33.2563248537493,
+    "name": "Kampia Elementary School"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Agiou Ioanni",
+    "lat": 35.0047177833814,
+    "lon": 33.2552097311352,
+    "name": "Grigori Afxentiou Ave. - Agiou Ioanni"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Machaira",
+    "lat": 34.9747534982591,
+    "lon": 33.2505812520187,
+    "name": "Archiep. Makariou C´ Ave. - Machaira"
+  },
+  {
+    "description": "Agios Georgios Church",
+    "lat": 34.9740550739559,
+    "lon": 33.2525510630361,
+    "name": "Agios Georgios Church"
+  },
+  {
+    "description": "Old Agios Georgios Church",
+    "lat": 34.9766738216939,
+    "lon": 33.2551007919218,
+    "name": "Old Agios Georgios Church"
+  }
+]

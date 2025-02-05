@@ -1,0 +1,170 @@
+[
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Panagioti Diomidous",
+    "lat": 34.6813100525199,
+    "lon": 33.0335138069715,
+    "name": "Archiep. Leontiou A´ - Panagioti Diomidous"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Karatza 1",
+    "lat": 34.6819325517798,
+    "lon": 33.0325424776436,
+    "name": "Archiep. Leontiou A´ - Karatza 1"
+  },
+  {
+    "description": "Nikou & Despoinas Pattichi - Vas. Konstantinou 1",
+    "lat": 34.6845128197195,
+    "lon": 33.0279256090837,
+    "name": "Nikou & Despoinas Pattichi - Vas. Konstantinou 1"
+  },
+  {
+    "description": "Nikou & Despoinas Pattichi - Dikaiarchou 1",
+    "lat": 34.6862361771836,
+    "lon": 33.0234828890117,
+    "name": "Nikou & Despoinas Pattichi - Dikaiarchou 1"
+  },
+  {
+    "description": "Nikou & Despoinas Pattichi - Nafsikas",
+    "lat": 34.6883290651579,
+    "lon": 33.0193020886893,
+    "name": "Nikou & Despoinas Pattichi - Nafsikas"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Nafsikas",
+    "lat": 34.6884376593107,
+    "lon": 33.016736504893,
+    "name": "Spyrou Kyprianou Ave. - Nafsikas"
+  },
+  {
+    "description": "Agios Neofytos High School 1",
+    "lat": 34.6870854860558,
+    "lon": 33.0124566481579,
+    "name": "Agios Neofytos High School 1"
+  },
+  {
+    "description": "28 Street 1",
+    "lat": 34.6890422694188,
+    "lon": 33.0134176869553,
+    "name": "28 Street 1"
+  },
+  {
+    "description": "26 Street 1",
+    "lat": 34.6897997792481,
+    "lon": 33.013363220865,
+    "name": "26 Street 1"
+  },
+  {
+    "description": "23 Street 1",
+    "lat": 34.6903499860738,
+    "lon": 33.0122715356583,
+    "name": "23 Street 1"
+  },
+  {
+    "description": "30 Street 1",
+    "lat": 34.6894122262774,
+    "lon": 33.0112123887901,
+    "name": "30 Street 1"
+  },
+  {
+    "description": "Theodorou Potamianou - Troodos Roundabout 1",
+    "lat": 34.6882309384423,
+    "lon": 33.0105680994863,
+    "name": "Theodorou Potamianou - Troodos Roundabout 1"
+  },
+  {
+    "description": "A´ Kato Polemidia Elementary School",
+    "lat": 34.6957072275498,
+    "lon": 33.0013538865434,
+    "name": "A´ Kato Polemidia Elementary School"
+  },
+  {
+    "description": "Patriarchou Fotiou - Yperionos",
+    "lat": 34.695238302639,
+    "lon": 32.9993121421682,
+    "name": "Patriarchou Fotiou - Yperionos"
+  },
+  {
+    "description": "B´ Kato Polemidia Elementary School 1",
+    "lat": 34.6962482804951,
+    "lon": 32.9973795573782,
+    "name": "B´ Kato Polemidia Elementary School 1"
+  },
+  {
+    "description": "Politismou - 100 Street 2",
+    "lat": 34.70040554303,
+    "lon": 32.9982311127694,
+    "name": "Politismou - 100 Street 2"
+  },
+  {
+    "description": "100 Street - 101 Street 1",
+    "lat": 34.7004506080377,
+    "lon": 32.9969863386402,
+    "name": "100 Street - 101 Street 1"
+  },
+  {
+    "description": "102 Street 1",
+    "lat": 34.7011088316115,
+    "lon": 32.9946059402153,
+    "name": "102 Street 1"
+  },
+  {
+    "description": "103 Street - 120 Street 1",
+    "lat": 34.7024795427143,
+    "lon": 32.9944420613179,
+    "name": "103 Street - 120 Street 1"
+  },
+  {
+    "description": "Timios Stavros Church 1",
+    "lat": 34.7044904839746,
+    "lon": 32.9935028417869,
+    "name": "Timios Stavros Church 1"
+  },
+  {
+    "description": "120 Street - 127 Street 2",
+    "lat": 34.7055454869653,
+    "lon": 32.9920067559922,
+    "name": "120 Street - 127 Street 2"
+  },
+  {
+    "description": "130 Street - 131 Street 1",
+    "lat": 34.7067990112602,
+    "lon": 32.9926290695476,
+    "name": "130 Street - 131 Street 1"
+  },
+  {
+    "description": "104 Street - Zodeias 1",
+    "lat": 34.7089813168853,
+    "lon": 32.9923012704593,
+    "name": "104 Street - Zodeias 1"
+  },
+  {
+    "description": "143 Street - 141 Street 1",
+    "lat": 34.7097387713318,
+    "lon": 32.9915913818675,
+    "name": "143 Street - 141 Street 1"
+  },
+  {
+    "description": "143 Street - Konteas 1",
+    "lat": 34.7083498273585,
+    "lon": 32.9891672600599,
+    "name": "143 Street - Konteas 1"
+  },
+  {
+    "description": "143 Street - Eptakomis",
+    "lat": 34.7067804856129,
+    "lon": 32.986819687328,
+    "name": "143 Street - Eptakomis"
+  },
+  {
+    "description": "General Hospital 2",
+    "lat": 34.7071225147914,
+    "lon": 32.9817746211046,
+    "name": "General Hospital 2"
+  }
+]

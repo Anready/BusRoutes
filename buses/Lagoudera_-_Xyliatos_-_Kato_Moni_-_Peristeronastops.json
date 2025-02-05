@@ -1,0 +1,110 @@
+[
+  {
+    "description": "Lagoudera",
+    "lat": 34.9640373120959,
+    "lon": 33.0103624036131,
+    "name": "Lagoudera"
+  },
+  {
+    "description": "Lagoudera Square",
+    "lat": 34.9632438474991,
+    "lon": 33.0094421837296,
+    "name": "Lagoudera Square"
+  },
+  {
+    "description": "Saranti",
+    "lat": 34.9687809531122,
+    "lon": 32.999364636307,
+    "name": "Saranti"
+  },
+  {
+    "description": "Xyliatos",
+    "lat": 35.0291270233555,
+    "lon": 33.0431706839757,
+    "name": "Xyliatos"
+  },
+  {
+    "description": "Grigori Afxentiou - 1st Agia Marina 2",
+    "lat": 35.0435052127855,
+    "lon": 33.0544607277662,
+    "name": "Grigori Afxentiou - 1st Agia Marina 2"
+  },
+  {
+    "description": "Agia Marina Community Board 2",
+    "lat": 35.047886757412,
+    "lon": 33.0564263879594,
+    "name": "Agia Marina Community Board 2"
+  },
+  {
+    "description": "Agia Marina Church",
+    "lat": 35.0495637207115,
+    "lon": 33.0569977378832,
+    "name": "Agia Marina Church"
+  },
+  {
+    "description": "Agia Marina Elementary School",
+    "lat": 35.0505375546353,
+    "lon": 33.0570861380307,
+    "name": "Agia Marina Elementary School"
+  },
+  {
+    "description": "Georgiou Griva Digeni Ave. - 5th Agia Marina 2",
+    "lat": 35.0504461734576,
+    "lon": 33.0595971596297,
+    "name": "Georgiou Griva Digeni Ave. - 5th Agia Marina 2"
+  },
+  {
+    "description": "Kato Moni",
+    "lat": 35.0627978351132,
+    "lon": 33.0918713061619,
+    "name": "Kato Moni"
+  },
+  {
+    "description": "Eirinis Ave. - 1st Orounta 2",
+    "lat": 35.0917870747495,
+    "lon": 33.0937688706978,
+    "name": "Eirinis Ave. - 1st Orounta 2"
+  },
+  {
+    "description": "Eirinis Ave. - 2nd Orounta 2",
+    "lat": 35.0951413793821,
+    "lon": 33.093937281877,
+    "name": "Eirinis Ave. - 2nd Orounta 2"
+  },
+  {
+    "description": "Eirinis Ave. - 3rd Orounta 2",
+    "lat": 35.0974587453653,
+    "lon": 33.0940386853179,
+    "name": "Eirinis Ave. - 3rd Orounta 2"
+  },
+  {
+    "description": "Eirinis Ave. - 4th Orounta 2",
+    "lat": 35.0997130064372,
+    "lon": 33.0941180780541,
+    "name": "Eirinis Ave. - 4th Orounta 2"
+  },
+  {
+    "description": "Orounta Community Board 2",
+    "lat": 35.1025353721202,
+    "lon": 33.0941761840296,
+    "name": "Orounta Community Board 2"
+  },
+  {
+    "description": "Eirinis Ave. - 6th Orounta 2",
+    "lat": 35.1089553622143,
+    "lon": 33.0945786065421,
+    "name": "Eirinis Ave. - 6th Orounta 2"
+  },
+  {
+    "description": "Peristerona - Orounta Road",
+    "lat": 35.1176218349024,
+    "lon": 33.0934472806931,
+    "name": "Peristerona - Orounta Road"
+  },
+  {
+    "description": "Lefkosias Ave. - Christou Tsiarta Ave. 2",
+    "lat": 35.1328385875585,
+    "lon": 33.0872080750771,
+    "name": "Lefkosias Ave. - Christou Tsiarta Ave. 2"
+  }
+]

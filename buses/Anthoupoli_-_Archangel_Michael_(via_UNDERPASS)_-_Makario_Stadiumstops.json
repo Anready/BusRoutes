@@ -1,0 +1,134 @@
+[
+  {
+    "description": "Ave. Eleftherias - Dimokratias",
+    "lat": 35.1039339952886,
+    "lon": 33.2880631961994,
+    "name": "Ave. Eleftherias - Dimokratias"
+  },
+  {
+    "description": "Dimokratias - Solomou",
+    "lat": 35.1026327795275,
+    "lon": 33.2892107179186,
+    "name": "Dimokratias - Solomou"
+  },
+  {
+    "description": "Dimokratias - Sotiros Church",
+    "lat": 35.1041942407887,
+    "lon": 33.2923543923791,
+    "name": "Dimokratias - Sotiros Church"
+  },
+  {
+    "description": "Dimokratias - Troodous",
+    "lat": 35.1057490726223,
+    "lon": 33.2907469437903,
+    "name": "Dimokratias - Troodous"
+  },
+  {
+    "description": "Anthoupoli Elementary School 1",
+    "lat": 35.1065657825652,
+    "lon": 33.2885881823177,
+    "name": "Anthoupoli Elementary School 1"
+  },
+  {
+    "description": "Ave. Eleftherias - Antigonis",
+    "lat": 35.1089868137238,
+    "lon": 33.2905170315411,
+    "name": "Ave. Eleftherias - Antigonis"
+  },
+  {
+    "description": "Ave. Eleftherias - Agiou Georgiou Avenue",
+    "lat": 35.1110929265134,
+    "lon": 33.2921485854362,
+    "name": "Ave. Eleftherias - Agiou Georgiou Avenue"
+  },
+  {
+    "description": "Ave. Agiou Georgiou - Elpidos",
+    "lat": 35.1126192813728,
+    "lon": 33.2911334778741,
+    "name": "Ave. Agiou Georgiou - Elpidos"
+  },
+  {
+    "description": "Sporadon 2",
+    "lat": 35.1160920446632,
+    "lon": 33.2906629670242,
+    "name": "Sporadon 2"
+  },
+  {
+    "description": "Kasou - Aigaiou",
+    "lat": 35.1159034433708,
+    "lon": 33.2940862331166,
+    "name": "Kasou - Aigaiou"
+  },
+  {
+    "description": "Lakatameia Elementary School D Agios Neofytos 2",
+    "lat": 35.117260977215,
+    "lon": 33.2920389106326,
+    "name": "Lakatameia Elementary School D Agios Neofytos 2"
+  },
+  {
+    "description": "Ave. Anthoupoleos - Kykladon",
+    "lat": 35.119738919006,
+    "lon": 33.2927830564455,
+    "name": "Ave. Anthoupoleos - Kykladon"
+  },
+  {
+    "description": "Dodekanisou - Aigaiou",
+    "lat": 35.1203258387178,
+    "lon": 33.2961653781745,
+    "name": "Dodekanisou - Aigaiou"
+  },
+  {
+    "description": "Lakatameia Health Centre 2",
+    "lat": 35.1206700142095,
+    "lon": 33.2992176157712,
+    "name": "Lakatameia Health Centre 2"
+  },
+  {
+    "description": "Eptanisou - Kerkyras",
+    "lat": 35.1225578669003,
+    "lon": 33.2978965390466,
+    "name": "Eptanisou - Kerkyras"
+  },
+  {
+    "description": "Ave. Anthoupoleos - Porou",
+    "lat": 35.1240975727435,
+    "lon": 33.2951254064581,
+    "name": "Ave. Anthoupoleos - Porou"
+  },
+  {
+    "description": "Archangelou Michail - Alexandrou Panagouli",
+    "lat": 35.1318416814806,
+    "lon": 33.3031111555501,
+    "name": "Archangelou Michail - Alexandrou Panagouli"
+  },
+  {
+    "description": "Archagelou Michail - Prevezis",
+    "lat": 35.1406670184177,
+    "lon": 33.3147031441029,
+    "name": "Archagelou Michail - Prevezis"
+  },
+  {
+    "description": "Archan. Michail - Lefkotheou Makariou Stadiou Ave.",
+    "lat": 35.1463789938907,
+    "lon": 33.3234198926434,
+    "name": "Archan. Michail - Lefkotheou Makariou Stadiou Ave."
+  },
+  {
+    "description": "Avenue Lefkotheou - Agias Annas",
+    "lat": 35.1475968267882,
+    "lon": 33.3232270996973,
+    "name": "Avenue Lefkotheou - Agias Annas"
+  },
+  {
+    "description": "Apolloneio Hospital 1",
+    "lat": 35.147759176593,
+    "lon": 33.3198134535275,
+    "name": "Apolloneio Hospital 1"
+  },
+  {
+    "description": "Tassos Papadopoulos-Eleftheria",
+    "lat": 35.1482976977442,
+    "lon": 33.3138761960389,
+    "name": "Tassos Papadopoulos-Eleftheria"
+  }
+]

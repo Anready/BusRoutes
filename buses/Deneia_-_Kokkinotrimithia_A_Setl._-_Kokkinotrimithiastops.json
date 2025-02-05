@@ -1,0 +1,38 @@
+[
+  {
+    "description": "Deneia Roundabout",
+    "lat": 35.1665904476843,
+    "lon": 33.1435656395204,
+    "name": "Deneia Roundabout"
+  },
+  {
+    "description": "Deneia Park",
+    "lat": 35.1664942654294,
+    "lon": 33.1485508364644,
+    "name": "Deneia Park"
+  },
+  {
+    "description": "Kokkinotrimithias Setl. 2",
+    "lat": 35.1561065858972,
+    "lon": 33.1874765299484,
+    "name": "Kokkinotrimithias Setl. 2"
+  },
+  {
+    "description": "Kokkinotrimithia Police Station 2",
+    "lat": 35.1486976912466,
+    "lon": 33.2022806213232,
+    "name": "Kokkinotrimithia Police Station 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Archiepiskopou Kyprianou",
+    "lat": 35.1484221359408,
+    "lon": 33.2052770815661,
+    "name": "Grigori Afxentiou - Archiepiskopou Kyprianou"
+  },
+  {
+    "description": "Grigori Afxentiou - Apostolos Varnavas Church 2",
+    "lat": 35.148560691633,
+    "lon": 33.2086258904512,
+    "name": "Grigori Afxentiou - Apostolos Varnavas Church 2"
+  }
+]

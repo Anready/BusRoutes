@@ -1,0 +1,182 @@
+[
+  {
+    "description": "Deryneia (Green Line) 2",
+    "lat": 35.0693567883849,
+    "lon": 33.9601643979777,
+    "name": "Deryneia (Green Line) 2"
+  },
+  {
+    "description": "Ammochostou Ave. - Dim. Christodoulou 2",
+    "lat": 35.0663764483538,
+    "lon": 33.960765581437,
+    "name": "Ammochostou Ave. - Dim. Christodoulou 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Stadiou",
+    "lat": 35.062309950079,
+    "lon": 33.9596103162169,
+    "name": "Archiep. Makariou C´ - Stadiou"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Anagenniseos",
+    "lat": 35.0606652960502,
+    "lon": 33.9543491877211,
+    "name": "Archiep. Makariou C´ - Anagenniseos"
+  },
+  {
+    "description": "C´ Deryneia Elementary School 1",
+    "lat": 35.0578854780643,
+    "lon": 33.9581110436136,
+    "name": "C´ Deryneia Elementary School 1"
+  },
+  {
+    "description": "Apostolos Varnavas Church 1",
+    "lat": 35.0498224757317,
+    "lon": 33.9572054685385,
+    "name": "Apostolos Varnavas Church 1"
+  },
+  {
+    "description": "Ammochostou 1",
+    "lat": 35.0362902529368,
+    "lon": 33.9546357621689,
+    "name": "Ammochostou 1"
+  },
+  {
+    "description": "Eleftheria Square",
+    "lat": 35.0277749558078,
+    "lon": 33.9516099188182,
+    "name": "Eleftheria Square"
+  },
+  {
+    "description": "Kyriakou Matsi - Konstantinoupoleos",
+    "lat": 35.0241963650892,
+    "lon": 33.953760728033,
+    "name": "Kyriakou Matsi - Konstantinoupoleos"
+  },
+  {
+    "description": "Apost. Andrea - Ag. Theodorou 1",
+    "lat": 35.0226165146183,
+    "lon": 33.9505526693345,
+    "name": "Apost. Andrea - Ag. Theodorou 1"
+  },
+  {
+    "description": "Agia Thekla Beach 2",
+    "lat": 34.9811115683032,
+    "lon": 33.9354140413884,
+    "name": "Agia Thekla Beach 2"
+  },
+  {
+    "description": "Agias Theklas - 6th Stop",
+    "lat": 34.9835452322294,
+    "lon": 33.9413689201032,
+    "name": "Agias Theklas - 6th Stop"
+  },
+  {
+    "description": "Agias Theklas - Waterpark 2",
+    "lat": 34.9839579449415,
+    "lon": 33.9427979315675,
+    "name": "Agias Theklas - Waterpark 2"
+  },
+  {
+    "description": "Agias Theklas - 4th Stop",
+    "lat": 34.9851284101408,
+    "lon": 33.9453422347931,
+    "name": "Agias Theklas - 4th Stop"
+  },
+  {
+    "description": "Agias Theklas - 2nd Stop",
+    "lat": 34.9868988007468,
+    "lon": 33.9484194348787,
+    "name": "Agias Theklas - 2nd Stop"
+  },
+  {
+    "description": "Makronissos Beach 2",
+    "lat": 34.9885022885725,
+    "lon": 33.9555159262288,
+    "name": "Makronissos Beach 2"
+  },
+  {
+    "description": "Landa Beach 2",
+    "lat": 34.9889841529387,
+    "lon": 33.9595864648807,
+    "name": "Landa Beach 2"
+  },
+  {
+    "description": "Nissi Bay Beach 2",
+    "lat": 34.9889263480932,
+    "lon": 33.9668719922403,
+    "name": "Nissi Bay Beach 2"
+  },
+  {
+    "description": "Nisi Ave. - Asprovounou",
+    "lat": 34.9901012084762,
+    "lon": 33.9744350728441,
+    "name": "Nisi Ave. - Asprovounou"
+  },
+  {
+    "description": "Nisi Ave. - Isaak kai Solomou",
+    "lat": 34.9887921376311,
+    "lon": 33.9835793257224,
+    "name": "Nisi Ave. - Isaak kai Solomou"
+  },
+  {
+    "description": "Ave. Nisi Ave. - Agias Mavris 2",
+    "lat": 34.988266371929,
+    "lon": 33.9872544479127,
+    "name": "Ave. Nisi Ave. - Agias Mavris 2"
+  },
+  {
+    "description": "Nisi Ave. - Katalymmata",
+    "lat": 34.9873425670791,
+    "lon": 33.9954826080579,
+    "name": "Nisi Ave. - Katalymmata"
+  },
+  {
+    "description": "Evagora Pallikaridi - Kassandrou",
+    "lat": 34.9839745546796,
+    "lon": 33.9971509723006,
+    "name": "Evagora Pallikaridi - Kassandrou"
+  },
+  {
+    "description": "Evangelou Floraki 1",
+    "lat": 34.9846896218445,
+    "lon": 34.0012024397882,
+    "name": "Evangelou Floraki 1"
+  },
+  {
+    "description": "Agia Napa Harbour 2",
+    "lat": 34.9840255928921,
+    "lon": 34.0008108955165,
+    "name": "Agia Napa Harbour 2"
+  },
+  {
+    "description": "Agia Napa Monastery 2",
+    "lat": 34.9883223044173,
+    "lon": 34.0002496230693,
+    "name": "Agia Napa Monastery 2"
+  },
+  {
+    "description": "Dionysiou Solomou - Kryou Nerou Ave.",
+    "lat": 34.988509611231,
+    "lon": 34.0026842659282,
+    "name": "Dionysiou Solomou - Kryou Nerou Ave."
+  },
+  {
+    "description": "Kryou Nerou Ave. - 1st Stop",
+    "lat": 34.9868522646021,
+    "lon": 34.0068274771151,
+    "name": "Kryou Nerou Ave. - 1st Stop"
+  },
+  {
+    "description": "Kryou Nerou Ave. - 2ndStop 1",
+    "lat": 34.9861748090721,
+    "lon": 34.0091419130705,
+    "name": "Kryou Nerou Ave. - 2ndStop 1"
+  },
+  {
+    "description": "Kryou Nerou Ave. - Marina Hotel 1",
+    "lat": 34.9852241979448,
+    "lon": 34.0160873994527,
+    "name": "Kryou Nerou Ave. - Marina Hotel 1"
+  }
+]

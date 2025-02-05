@@ -1,0 +1,158 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Evag. Pallikaridi Ave. - Athinas",
+    "lat": 34.780091716565,
+    "lon": 32.4251967432691,
+    "name": "Evag. Pallikaridi Ave. - Athinas"
+  },
+  {
+    "description": "Ellados Ave. - Olgas Xinaridou",
+    "lat": 34.7823110544337,
+    "lon": 32.4273235593229,
+    "name": "Ellados Ave. - Olgas Xinaridou"
+  },
+  {
+    "description": "Dasoudi Park",
+    "lat": 34.789801336744,
+    "lon": 32.4343220448345,
+    "name": "Dasoudi Park"
+  },
+  {
+    "description": "Mesogis Ave. - Panagioti Toumazou",
+    "lat": 34.795172058822,
+    "lon": 32.4374008005802,
+    "name": "Mesogis Ave. - Panagioti Toumazou"
+  },
+  {
+    "description": "Mesogis Ave. - Viktorias",
+    "lat": 34.7977631588805,
+    "lon": 32.4400177369083,
+    "name": "Mesogis Ave. - Viktorias"
+  },
+  {
+    "description": "Mesogis Ave. - Foti Pitta",
+    "lat": 34.7998172708492,
+    "lon": 32.4415671179024,
+    "name": "Mesogis Ave. - Foti Pitta"
+  },
+  {
+    "description": "Mesogi Industrial Area - 1st Stop",
+    "lat": 34.8056177513665,
+    "lon": 32.4459885516962,
+    "name": "Mesogi Industrial Area - 1st Stop"
+  },
+  {
+    "description": "Mesogi Industrial Area - 3rd Stop",
+    "lat": 34.8109734073654,
+    "lon": 32.4497903476892,
+    "name": "Mesogi Industrial Area - 3rd Stop"
+  },
+  {
+    "description": "Mesogis Ave. - Michalaki Karaoli",
+    "lat": 34.8160313398671,
+    "lon": 32.4515827204013,
+    "name": "Mesogis Ave. - Michalaki Karaoli"
+  },
+  {
+    "description": "Trimithousa Community Board",
+    "lat": 34.8170343491878,
+    "lon": 32.446065214591,
+    "name": "Trimithousa Community Board"
+  },
+  {
+    "description": "Agiou Neofytou Ave. - Papasavva",
+    "lat": 34.8152948986165,
+    "lon": 32.454255500568,
+    "name": "Agiou Neofytou Ave. - Papasavva"
+  },
+  {
+    "description": "Kosta Karnavalou - Dimostheni Georgiou",
+    "lat": 34.8143084982969,
+    "lon": 32.4575093697614,
+    "name": "Kosta Karnavalou - Dimostheni Georgiou"
+  },
+  {
+    "description": "Dimostheni Georgiou - 1st Stop",
+    "lat": 34.8110725757226,
+    "lon": 32.4598484721769,
+    "name": "Dimostheni Georgiou - 1st Stop"
+  },
+  {
+    "description": "Mesa Choro Village Centre",
+    "lat": 34.8091676877419,
+    "lon": 32.4613915516629,
+    "name": "Mesa Choro Village Centre"
+  },
+  {
+    "description": "Dimostheni Georgiou - 2nd Stop",
+    "lat": 34.8109193298015,
+    "lon": 32.45986040562,
+    "name": "Dimostheni Georgiou - 2nd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Teratsou",
+    "lat": 34.8407984637966,
+    "lon": 32.4689511405419,
+    "name": "Archiep. Makariou C` Ave. - Teratsou"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Ifaistou 1",
+    "lat": 34.8402587910995,
+    "lon": 32.4734170368357,
+    "name": "Grigori Afxentiou Ave. - Ifaistou 1"
+  },
+  {
+    "description": "Tsada Square",
+    "lat": 34.8385972093865,
+    "lon": 32.4749588137102,
+    "name": "Tsada Square"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Agiou Konstantinou",
+    "lat": 34.8369851881292,
+    "lon": 32.4754502722784,
+    "name": "Grigori Afxentiou Ave. - Agiou Konstantinou"
+  },
+  {
+    "description": "Gerolakkou Ave. - Agiou Konstantinou 2",
+    "lat": 34.8350890530977,
+    "lon": 32.4748826568078,
+    "name": "Gerolakkou Ave. - Agiou Konstantinou 2"
+  },
+  {
+    "description": "Gerolakkou Avenue - Klimaka 2",
+    "lat": 34.8361473755332,
+    "lon": 32.4735525855467,
+    "name": "Gerolakkou Avenue - Klimaka 2"
+  },
+  {
+    "description": "1st Stop Koili",
+    "lat": 34.8550650005491,
+    "lon": 32.456880964412,
+    "name": "1st Stop Koili"
+  },
+  {
+    "description": "3rd Stop Koili",
+    "lat": 34.8557668372353,
+    "lon": 32.4545243868841,
+    "name": "3rd Stop Koili"
+  },
+  {
+    "description": "5th Stop Koili",
+    "lat": 34.8602841023463,
+    "lon": 32.452405032004,
+    "name": "5th Stop Koili"
+  },
+  {
+    "description": "Panagia Cheyseleousa Church - Koili",
+    "lat": 34.8602676188841,
+    "lon": 32.4547572339766,
+    "name": "Panagia Cheyseleousa Church - Koili"
+  }
+]

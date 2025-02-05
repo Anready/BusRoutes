@@ -1,0 +1,44 @@
+[
+  {
+    "description": "GSP Stadium",
+    "lat": 35.1133833931296,
+    "lon": 33.3592396226367,
+    "name": "GSP Stadium"
+  },
+  {
+    "description": "Lemesou Ave. - Ellispontou",
+    "lat": 35.1423644970571,
+    "lon": 33.3741867753681,
+    "name": "Lemesou Ave. - Ellispontou"
+  },
+  {
+    "description": "Police Headquarters",
+    "lat": 35.1477840726805,
+    "lon": 33.3741017977825,
+    "name": "Police Headquarters"
+  },
+  {
+    "description": "Lemesou Ave. - San Sousi",
+    "lat": 35.1531199796396,
+    "lon": 33.3748288840826,
+    "name": "Lemesou Ave. - San Sousi"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimofontos",
+    "lat": 35.1627608014222,
+    "lon": 33.3654848553327,
+    "name": "Archiep. Makariou III Ave. - Dimofontos"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Theofani Theodotou",
+    "lat": 35.1677813251555,
+    "lon": 33.3601375632642,
+    "name": "Archiep. Makariou III Ave. - Theofani Theodotou"
+  },
+  {
+    "description": "Ministry of Finance",
+    "lat": 35.1686262204901,
+    "lon": 33.3549471767997,
+    "name": "Ministry of Finance"
+  }
+]

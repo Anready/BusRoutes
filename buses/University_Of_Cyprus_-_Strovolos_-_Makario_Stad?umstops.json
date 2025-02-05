@@ -1,0 +1,266 @@
+[
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  },
+  {
+    "description": "University of Cyprus - Parking Place",
+    "lat": 35.1472155482355,
+    "lon": 33.4104484021488,
+    "name": "University of Cyprus - Parking Place"
+  },
+  {
+    "description": "University of Cyprus - University House",
+    "lat": 35.1460482761817,
+    "lon": 33.4089824472376,
+    "name": "University of Cyprus - University House"
+  },
+  {
+    "description": "Ave. Athalassis - UCY Student Halls 2",
+    "lat": 35.1437463814322,
+    "lon": 33.4043602372873,
+    "name": "Ave. Athalassis - UCY Student Halls 2"
+  },
+  {
+    "description": "Ave. Kiryneias - Athalassa Park 2",
+    "lat": 35.1450221674864,
+    "lon": 33.4030491853514,
+    "name": "Ave. Kiryneias - Athalassa Park 2"
+  },
+  {
+    "description": "Ave. Kiryneias - Egnatias",
+    "lat": 35.1469347590797,
+    "lon": 33.4000395894814,
+    "name": "Ave. Kiryneias - Egnatias"
+  },
+  {
+    "description": "Egnatias - Spartis",
+    "lat": 35.1474089724692,
+    "lon": 33.3956725307679,
+    "name": "Egnatias - Spartis"
+  },
+  {
+    "description": "Karava - Kyrineias Avenue",
+    "lat": 35.1489290885642,
+    "lon": 33.3940660426251,
+    "name": "Karava - Kyrineias Avenue"
+  },
+  {
+    "description": "Ave. Kiryneias - Aglantzia Health Centre 1",
+    "lat": 35.1495802395558,
+    "lon": 33.3934763355959,
+    "name": "Ave. Kiryneias - Aglantzia Health Centre 1"
+  },
+  {
+    "description": "Ave. Kiryneias - Apostolos Andreas Church 1",
+    "lat": 35.1488876340352,
+    "lon": 33.3901574820819,
+    "name": "Ave. Kiryneias - Apostolos Andreas Church 1"
+  },
+  {
+    "description": "Promitheos",
+    "lat": 35.1490200783404,
+    "lon": 33.3882258876258,
+    "name": "Promitheos"
+  },
+  {
+    "description": "Kentavrou - Promitheos",
+    "lat": 35.1518447571736,
+    "lon": 33.3875037152717,
+    "name": "Kentavrou - Promitheos"
+  },
+  {
+    "description": "Kefallinias - Thivon",
+    "lat": 35.1530945698177,
+    "lon": 33.3857969000027,
+    "name": "Kefallinias - Thivon"
+  },
+  {
+    "description": "Kefallinias - Kalamatas",
+    "lat": 35.153390263136,
+    "lon": 33.3892018317521,
+    "name": "Kefallinias - Kalamatas"
+  },
+  {
+    "description": "Kefallinias - Kavalas",
+    "lat": 35.153218683015,
+    "lon": 33.3920775450751,
+    "name": "Kefallinias - Kavalas"
+  },
+  {
+    "description": "Grigori Afxentiou - Artas",
+    "lat": 35.1535815403796,
+    "lon": 33.3941872867401,
+    "name": "Grigori Afxentiou - Artas"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Kavalas",
+    "lat": 35.1548135902034,
+    "lon": 33.3924255561382,
+    "name": "Ave. Archiep. Makariou C - Kavalas"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Argous",
+    "lat": 35.1556078461009,
+    "lon": 33.3893990434283,
+    "name": "Ave. Archiep. Makariou C - Argous"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Aristotelous",
+    "lat": 35.1565658024115,
+    "lon": 33.3859121034168,
+    "name": "Ave. Archiep. Makariou C - Aristotelous"
+  },
+  {
+    "description": "Ave. Aglantzias - Archiepiskopou Makariou C",
+    "lat": 35.1569780203671,
+    "lon": 33.383882818331,
+    "name": "Ave. Aglantzias - Archiepiskopou Makariou C"
+  },
+  {
+    "description": "Ave. Aglantzias - H.H.I.C. 2",
+    "lat": 35.1555986539496,
+    "lon": 33.3809448262997,
+    "name": "Ave. Aglantzias - H.H.I.C. 2"
+  },
+  {
+    "description": "Ave. Aglantzias - Lemesou Avenue",
+    "lat": 35.155179224645,
+    "lon": 33.376660908143,
+    "name": "Ave. Aglantzias - Lemesou Avenue"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Ethnikis Frouras",
+    "lat": 35.1563864814598,
+    "lon": 33.3740862769427,
+    "name": "Archiep. Makariou III Ave. - Ethnikis Frouras"
+  },
+  {
+    "description": "Stasinou - Agias Paraskevis",
+    "lat": 35.1563580493393,
+    "lon": 33.3716047677586,
+    "name": "Stasinou - Agias Paraskevis"
+  },
+  {
+    "description": "Ifigenias - Ilia Papakyriakou",
+    "lat": 35.1548118599614,
+    "lon": 33.3700496491117,
+    "name": "Ifigenias - Ilia Papakyriakou"
+  },
+  {
+    "description": "Ifigenias - Armenias",
+    "lat": 35.1534878866523,
+    "lon": 33.3665742366948,
+    "name": "Ifigenias - Armenias"
+  },
+  {
+    "description": "Ifigenias - Ektoros",
+    "lat": 35.1522263066154,
+    "lon": 33.3633078148494,
+    "name": "Ifigenias - Ektoros"
+  },
+  {
+    "description": "Korytsas - Makarios Hospital 1",
+    "lat": 35.1511680570978,
+    "lon": 33.3583406657338,
+    "name": "Korytsas - Makarios Hospital 1"
+  },
+  {
+    "description": "Ave. Athalassas - Defkalionos",
+    "lat": 35.1485554324537,
+    "lon": 33.3513798138086,
+    "name": "Ave. Athalassas - Defkalionos"
+  },
+  {
+    "description": "Ave. Athalassas - Strovolou Avenue",
+    "lat": 35.1496908393089,
+    "lon": 33.3485192625446,
+    "name": "Ave. Athalassas - Strovolou Avenue"
+  },
+  {
+    "description": "Ave. Strovolou - SEK 1",
+    "lat": 35.1495246806746,
+    "lon": 33.3467180562083,
+    "name": "Ave. Strovolou - SEK 1"
+  },
+  {
+    "description": "Ave. Strovolou - Omirou",
+    "lat": 35.1469582378711,
+    "lon": 33.3455105358698,
+    "name": "Ave. Strovolou - Omirou"
+  },
+  {
+    "description": "Strovolos City Hall 1",
+    "lat": 35.1441120653755,
+    "lon": 33.3443677814721,
+    "name": "Strovolos City Hall 1"
+  },
+  {
+    "description": "Ave. Strovolou - Pythonos",
+    "lat": 35.1425967535343,
+    "lon": 33.3413315491086,
+    "name": "Ave. Strovolou - Pythonos"
+  },
+  {
+    "description": "Ave. Strovolou - Kantaras",
+    "lat": 35.1407733733759,
+    "lon": 33.3387991184145,
+    "name": "Ave. Strovolou - Kantaras"
+  },
+  {
+    "description": "Evzonon - Evdoxias",
+    "lat": 35.137538875903,
+    "lon": 33.3313103523975,
+    "name": "Evzonon - Evdoxias"
+  },
+  {
+    "description": "Elaionon - Kostaki Ompasi",
+    "lat": 35.1399691711074,
+    "lon": 33.3295967522158,
+    "name": "Elaionon - Kostaki Ompasi"
+  },
+  {
+    "description": "Elaionon",
+    "lat": 35.1429573010792,
+    "lon": 33.3316396852448,
+    "name": "Elaionon"
+  },
+  {
+    "description": "Elaionon - Makedonitissis",
+    "lat": 35.1454606766103,
+    "lon": 33.332879388081,
+    "name": "Elaionon - Makedonitissis"
+  },
+  {
+    "description": "Makedonitissis - Old Strovolos Cemetery 2",
+    "lat": 35.1465189553771,
+    "lon": 33.3316870682969,
+    "name": "Makedonitissis - Old Strovolos Cemetery 2"
+  },
+  {
+    "description": "Makedonitissis - Archangelou Michail",
+    "lat": 35.1468491583231,
+    "lon": 33.3263090443113,
+    "name": "Makedonitissis - Archangelou Michail"
+  },
+  {
+    "description": "Avenue Lefkotheou - Agias Annas",
+    "lat": 35.1475968267882,
+    "lon": 33.3232270996973,
+    "name": "Avenue Lefkotheou - Agias Annas"
+  },
+  {
+    "description": "Apolloneio Hospital 1",
+    "lat": 35.147759176593,
+    "lon": 33.3198134535275,
+    "name": "Apolloneio Hospital 1"
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  }
+]

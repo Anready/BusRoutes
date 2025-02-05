@@ -1,0 +1,242 @@
+[
+  {
+    "description": "Kofinou Station",
+    "lat": 34.826273309476,
+    "lon": 33.3899202268482,
+    "name": "Kofinou Station"
+  },
+  {
+    "description": "Kofinou Kindergarden",
+    "lat": 34.8253793907331,
+    "lon": 33.3930872899501,
+    "name": "Kofinou Kindergarden"
+  },
+  {
+    "description": "Agiou Epiktitou - Agias Varvaras 1",
+    "lat": 34.8236228413155,
+    "lon": 33.3952878551857,
+    "name": "Agiou Epiktitou - Agias Varvaras 1"
+  },
+  {
+    "description": "Kofinou Municipal Stadium 1",
+    "lat": 34.8225090348347,
+    "lon": 33.3939375223475,
+    "name": "Kofinou Municipal Stadium 1"
+  },
+  {
+    "description": "Kyriakou Matsi Ave. - Karaoli kai Dimitriou",
+    "lat": 34.8223580692813,
+    "lon": 33.3904157221569,
+    "name": "Kyriakou Matsi Ave. - Karaoli kai Dimitriou"
+  },
+  {
+    "description": "Kyriakou Matsi Ave. - Archiep. Makariou C´ Ave.",
+    "lat": 34.8244988711287,
+    "lon": 33.3864563027744,
+    "name": "Kyriakou Matsi Ave. - Archiep. Makariou C´ Ave."
+  },
+  {
+    "description": "Kofinou - Ag. Theodoros Road - 1st Stop",
+    "lat": 34.8211678937026,
+    "lon": 33.3760526060965,
+    "name": "Kofinou - Ag. Theodoros Road - 1st Stop"
+  },
+  {
+    "description": "1 Apriliou - 17th Stop",
+    "lat": 34.8047840122511,
+    "lon": 33.3843307743993,
+    "name": "1 Apriliou - 17th Stop"
+  },
+  {
+    "description": "Panagias Astadiotissas - 15th Stop",
+    "lat": 34.8019152286661,
+    "lon": 33.3847000906497,
+    "name": "Panagias Astadiotissas - 15th Stop"
+  },
+  {
+    "description": "Panagias Astadiotissas - 13th Stop",
+    "lat": 34.8005674972116,
+    "lon": 33.385994756581,
+    "name": "Panagias Astadiotissas - 13th Stop"
+  },
+  {
+    "description": "Agios Theodoros Church 1",
+    "lat": 34.7989227885558,
+    "lon": 33.3842489115375,
+    "name": "Agios Theodoros Church 1"
+  },
+  {
+    "description": "Antonaki Manoli - 11th Stop",
+    "lat": 34.7965835477202,
+    "lon": 33.3854077432817,
+    "name": "Antonaki Manoli - 11th Stop"
+  },
+  {
+    "description": "Antonaki Manoli - 9th Stop",
+    "lat": 34.7926448529344,
+    "lon": 33.3847663429744,
+    "name": "Antonaki Manoli - 9th Stop"
+  },
+  {
+    "description": "7th Stop Agios Theodoros",
+    "lat": 34.7634059596127,
+    "lon": 33.4053049903656,
+    "name": "7th Stop Agios Theodoros"
+  },
+  {
+    "description": "5th Stop Agios Theodoros",
+    "lat": 34.7603682450521,
+    "lon": 33.4129826446436,
+    "name": "5th Stop Agios Theodoros"
+  },
+  {
+    "description": "3rd Stop Agios Theodoros",
+    "lat": 34.7603117991313,
+    "lon": 33.4215599296891,
+    "name": "3rd Stop Agios Theodoros"
+  },
+  {
+    "description": "Pentaschoinos Tourist Area - 5th Stop",
+    "lat": 34.7575864230767,
+    "lon": 33.4195356058681,
+    "name": "Pentaschoinos Tourist Area - 5th Stop"
+  },
+  {
+    "description": "Pentaschoinos Tourist Area - 3rd Stop",
+    "lat": 34.7516879517248,
+    "lon": 33.4118687100934,
+    "name": "Pentaschoinos Tourist Area - 3rd Stop"
+  },
+  {
+    "description": "Pentaschoinos Tourist Area - 1st Stop",
+    "lat": 34.7496011358988,
+    "lon": 33.4021893448797,
+    "name": "Pentaschoinos Tourist Area - 1st Stop"
+  },
+  {
+    "description": "Tsaroukka Ave. - Ellados Ave. 2",
+    "lat": 34.7464481338706,
+    "lon": 33.3844427522919,
+    "name": "Tsaroukka Ave. - Ellados Ave. 2"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Apost. Andreou 2",
+    "lat": 34.754150440988,
+    "lon": 33.3635113659195,
+    "name": "Grigori Afxentiou Ave. - Apost. Andreou 2"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Apost. Louka",
+    "lat": 34.7567878601444,
+    "lon": 33.3590431013216,
+    "name": "Grigori Afxentiou Ave. - Apost. Louka"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Stadiou",
+    "lat": 34.7579681749994,
+    "lon": 33.3563165721307,
+    "name": "Grigori Afxentiou Ave. - Stadiou"
+  },
+  {
+    "description": "Maroni Elementary School 2",
+    "lat": 34.7578771020804,
+    "lon": 33.3535299123309,
+    "name": "Maroni Elementary School 2"
+  },
+  {
+    "description": "2nd Stop Maroni",
+    "lat": 34.7618817212661,
+    "lon": 33.3470016665825,
+    "name": "2nd Stop Maroni"
+  },
+  {
+    "description": "Agia Marina Church 2",
+    "lat": 34.7662696609908,
+    "lon": 33.3451295450827,
+    "name": "Agia Marina Church 2"
+  },
+  {
+    "description": "2nd Stop Psematismenos",
+    "lat": 34.7684763110262,
+    "lon": 33.3460785337345,
+    "name": "2nd Stop Psematismenos"
+  },
+  {
+    "description": "Agiou Fanouriou - 5th Stop",
+    "lat": 34.7924800067922,
+    "lon": 33.3369529313488,
+    "name": "Agiou Fanouriou - 5th Stop"
+  },
+  {
+    "description": "1st Stop Tochni",
+    "lat": 34.7869869222561,
+    "lon": 33.3275195237647,
+    "name": "1st Stop Tochni"
+  },
+  {
+    "description": "3rd Stop Tochni",
+    "lat": 34.7814215898222,
+    "lon": 33.3246776747193,
+    "name": "3rd Stop Tochni"
+  },
+  {
+    "description": "5th Stop Tochni",
+    "lat": 34.7813535782801,
+    "lon": 33.3231253979055,
+    "name": "5th Stop Tochni"
+  },
+  {
+    "description": "7th Stop Tochni",
+    "lat": 34.7772772632563,
+    "lon": 33.323240654419,
+    "name": "7th Stop Tochni"
+  },
+  {
+    "description": "9th Stop Tochni",
+    "lat": 34.7696072214961,
+    "lon": 33.3217135968255,
+    "name": "9th Stop Tochni"
+  },
+  {
+    "description": "11th Stop Tochni",
+    "lat": 34.7649180461099,
+    "lon": 33.3216954026902,
+    "name": "11th Stop Tochni"
+  },
+  {
+    "description": "Zygi - Kalavasos Road - 1st Stop",
+    "lat": 34.7542612821691,
+    "lon": 33.3174147503713,
+    "name": "Zygi - Kalavasos Road - 1st Stop"
+  },
+  {
+    "description": "Zygi - Kalavasos Road - 2nd Stop",
+    "lat": 34.7544234008147,
+    "lon": 33.3174918534318,
+    "name": "Zygi - Kalavasos Road - 2nd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 1st Stop",
+    "lat": 34.7563069739877,
+    "lon": 33.3109432514255,
+    "name": "Archiep. Makariou C´ Ave. - 1st Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 3rd Stop",
+    "lat": 34.7655142398489,
+    "lon": 33.3001048436041,
+    "name": "Archiep. Makariou C´ Ave. - 3rd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 5th Stop",
+    "lat": 34.7687765334266,
+    "lon": 33.2972972273874,
+    "name": "Archiep. Makariou C´ Ave. - 5th Stop"
+  },
+  {
+    "description": "Kalavasos Square 1",
+    "lat": 34.7707447814821,
+    "lon": 33.2963207420607,
+    "name": "Kalavasos Square 1"
+  }
+]

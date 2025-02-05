@@ -1,0 +1,308 @@
+[
+  {
+    "description": "Deryneia (Green Line) 2",
+    "lat": 35.0693567883849,
+    "lon": 33.9601643979777,
+    "name": "Deryneia (Green Line) 2"
+  },
+  {
+    "description": "Ammochostou Ave. - Dim. Christodoulou 2",
+    "lat": 35.0663764483538,
+    "lon": 33.960765581437,
+    "name": "Ammochostou Ave. - Dim. Christodoulou 2"
+  },
+  {
+    "description": "Eleftherias - Ammochostou Ave.",
+    "lat": 35.0627926359819,
+    "lon": 33.9612828824197,
+    "name": "Eleftherias - Ammochostou Ave."
+  },
+  {
+    "description": "Eleftherias - Daidalou",
+    "lat": 35.0611933274601,
+    "lon": 33.9639728211771,
+    "name": "Eleftherias - Daidalou"
+  },
+  {
+    "description": "Famagusta General Hospital",
+    "lat": 35.0616307747604,
+    "lon": 33.9713035177178,
+    "name": "Famagusta General Hospital"
+  },
+  {
+    "description": "Eleftherias - Ippokratous",
+    "lat": 35.0588054546306,
+    "lon": 33.9671687629106,
+    "name": "Eleftherias - Ippokratous"
+  },
+  {
+    "description": "Eleftherias - Kyriakou Matsi",
+    "lat": 35.0558775661069,
+    "lon": 33.9713560020056,
+    "name": "Eleftherias - Kyriakou Matsi"
+  },
+  {
+    "description": "Griva Digeni Ave. - Thessalonikis",
+    "lat": 35.0496928169388,
+    "lon": 33.9768638464953,
+    "name": "Griva Digeni Ave. - Thessalonikis"
+  },
+  {
+    "description": "1 Apriliou Ave. - Georgiou Griva Digeni Ave.",
+    "lat": 35.0444999288386,
+    "lon": 33.9778765009908,
+    "name": "1 Apriliou Ave. - Georgiou Griva Digeni Ave."
+  },
+  {
+    "description": "Xenion Education 2",
+    "lat": 35.0416139942632,
+    "lon": 33.9779407832524,
+    "name": "Xenion Education 2"
+  },
+  {
+    "description": "1 Apriliou Ave. - Tasou Markou 2",
+    "lat": 35.0408472754537,
+    "lon": 33.9779755007448,
+    "name": "1 Apriliou Ave. - Tasou Markou 2"
+  },
+  {
+    "description": "Paralimni Square Bus Station",
+    "lat": 35.0394760084475,
+    "lon": 33.983638211908,
+    "name": "Paralimni Square Bus Station"
+  },
+  {
+    "description": "1 Apriliou Ave. - Marias Sygklitikis",
+    "lat": 35.0361203821115,
+    "lon": 33.9782261391108,
+    "name": "1 Apriliou Ave. - Marias Sygklitikis"
+  },
+  {
+    "description": "1 Apriliou Ave. - Stadiou",
+    "lat": 35.0324169745716,
+    "lon": 33.9801442891485,
+    "name": "1 Apriliou Ave. - Stadiou"
+  },
+  {
+    "description": "1 Apriliou Ave.  - 1st Stop",
+    "lat": 35.0264177759562,
+    "lon": 33.9827363571279,
+    "name": "1 Apriliou Ave.  - 1st Stop"
+  },
+  {
+    "description": "Paralimni - Agia Napa Road - 10th Stop",
+    "lat": 35.0196789605158,
+    "lon": 33.9864591030316,
+    "name": "Paralimni - Agia Napa Road - 10th Stop"
+  },
+  {
+    "description": "Paralimni - Agia Napa Road - 8th Stop",
+    "lat": 35.0133850234095,
+    "lon": 33.9908990077119,
+    "name": "Paralimni - Agia Napa Road - 8th Stop"
+  },
+  {
+    "description": "Paralimni - Agia Napa Road - 6th Stop",
+    "lat": 35.0101128922506,
+    "lon": 33.9940816303758,
+    "name": "Paralimni - Agia Napa Road - 6th Stop"
+  },
+  {
+    "description": "Paralimni - Agia Napa Road - 4th Stop",
+    "lat": 35.002389368232,
+    "lon": 33.9990838762707,
+    "name": "Paralimni - Agia Napa Road - 4th Stop"
+  },
+  {
+    "description": "Paralimni - Agia Napa Road - 2nd Stop",
+    "lat": 34.9971214509638,
+    "lon": 34.0004224335575,
+    "name": "Paralimni - Agia Napa Road - 2nd Stop"
+  },
+  {
+    "description": "Kavo Gkreko - 3rd Stop",
+    "lat": 34.9922592107173,
+    "lon": 34.0028614801648,
+    "name": "Kavo Gkreko - 3rd Stop"
+  },
+  {
+    "description": "Kavo Gkreko - 2nd Stop",
+    "lat": 34.9874815474433,
+    "lon": 34.0124777537331,
+    "name": "Kavo Gkreko - 2nd Stop"
+  },
+  {
+    "description": "Kryou Nerou Ave. - Marina Hotel 2",
+    "lat": 34.9851780174399,
+    "lon": 34.0162183024577,
+    "name": "Kryou Nerou Ave. - Marina Hotel 2"
+  },
+  {
+    "description": "Kryou Nerou Ave. - 2ndStop 2",
+    "lat": 34.98602599785,
+    "lon": 34.0096878996335,
+    "name": "Kryou Nerou Ave. - 2ndStop 2"
+  },
+  {
+    "description": "Kryou Nerou Ave. - Melission",
+    "lat": 34.9876497856868,
+    "lon": 34.0041638620647,
+    "name": "Kryou Nerou Ave. - Melission"
+  },
+  {
+    "description": "Agia Napa Monastery 1",
+    "lat": 34.9883845142944,
+    "lon": 34.0003599456526,
+    "name": "Agia Napa Monastery 1"
+  },
+  {
+    "description": "Agia Napa Harbour 1",
+    "lat": 34.9850286357056,
+    "lon": 34.0005491993082,
+    "name": "Agia Napa Harbour 1"
+  },
+  {
+    "description": "Evagora Pallikaridi - Kassandrou",
+    "lat": 34.9839745546796,
+    "lon": 33.9971509723006,
+    "name": "Evagora Pallikaridi - Kassandrou"
+  },
+  {
+    "description": "Nisi Ave.  - Giouri Gkagkarin",
+    "lat": 34.9873223873429,
+    "lon": 33.9935430728798,
+    "name": "Nisi Ave.  - Giouri Gkagkarin"
+  },
+  {
+    "description": "Ave. Nisi Ave. - Agias Mavris 1",
+    "lat": 34.9880344627944,
+    "lon": 33.9880514914729,
+    "name": "Ave. Nisi Ave. - Agias Mavris 1"
+  },
+  {
+    "description": "Nisi Ave. - Vatheias Gonias",
+    "lat": 34.9887406438684,
+    "lon": 33.9821433888594,
+    "name": "Nisi Ave. - Vatheias Gonias"
+  },
+  {
+    "description": "Nisi Ave. - Neofytou Poullou",
+    "lat": 34.9893875070241,
+    "lon": 33.9768480544883,
+    "name": "Nisi Ave. - Neofytou Poullou"
+  },
+  {
+    "description": "Nisi Ave. - Sotou Chatziprokopiou",
+    "lat": 34.9901185293082,
+    "lon": 33.9711482252412,
+    "name": "Nisi Ave. - Sotou Chatziprokopiou"
+  },
+  {
+    "description": "Nissi Bay Beach 1",
+    "lat": 34.9895128732205,
+    "lon": 33.9690811996641,
+    "name": "Nissi Bay Beach 1"
+  },
+  {
+    "description": "Landa Beach 1",
+    "lat": 34.9888564571742,
+    "lon": 33.9609107339364,
+    "name": "Landa Beach 1"
+  },
+  {
+    "description": "Nisi Ave. - Makronisou",
+    "lat": 34.9884970268497,
+    "lon": 33.956184220467,
+    "name": "Nisi Ave. - Makronisou"
+  },
+  {
+    "description": "Makronissos Beach 1",
+    "lat": 34.9877771925902,
+    "lon": 33.9513987930417,
+    "name": "Makronissos Beach 1"
+  },
+  {
+    "description": "Agias Theklas - 1st Stop",
+    "lat": 34.9849658620396,
+    "lon": 33.9453732347674,
+    "name": "Agias Theklas - 1st Stop"
+  },
+  {
+    "description": "Agia Napa Marina 1",
+    "lat": 34.9795150541022,
+    "lon": 33.9413118372798,
+    "name": "Agia Napa Marina 1"
+  },
+  {
+    "description": "Agia Thekla Beach 1",
+    "lat": 34.9808155572513,
+    "lon": 33.9340412192035,
+    "name": "Agia Thekla Beach 1"
+  },
+  {
+    "description": "Agia Thekla Tourist Area - 1st Stop",
+    "lat": 34.9810145328111,
+    "lon": 33.9280835914121,
+    "name": "Agia Thekla Tourist Area - 1st Stop"
+  },
+  {
+    "description": "Agia Thekla Tourist Area - 3rd Stop",
+    "lat": 34.9789935906198,
+    "lon": 33.9211260117565,
+    "name": "Agia Thekla Tourist Area - 3rd Stop"
+  },
+  {
+    "description": "Agia Thekla Tourist Area - 5th Stop",
+    "lat": 34.9760794253625,
+    "lon": 33.9093824474811,
+    "name": "Agia Thekla Tourist Area - 5th Stop"
+  },
+  {
+    "description": "Agia Thekla Tourist Area - 7th Stop",
+    "lat": 34.9755422964996,
+    "lon": 33.9040304833861,
+    "name": "Agia Thekla Tourist Area - 7th Stop"
+  },
+  {
+    "description": "Liopetri Community Stadium",
+    "lat": 35.0003162791439,
+    "lon": 33.8925117854317,
+    "name": "Liopetri Community Stadium"
+  },
+  {
+    "description": "Achyronos - Konstantinou Kanari",
+    "lat": 35.0059737842835,
+    "lon": 33.8932198137256,
+    "name": "Achyronos - Konstantinou Kanari"
+  },
+  {
+    "description": "Achyronas Liopetriou 1",
+    "lat": 35.008534341854,
+    "lon": 33.8932586084875,
+    "name": "Achyronas Liopetriou 1"
+  },
+  {
+    "description": "Modestou Panteli - Dionysiou Solomou 1",
+    "lat": 35.0123587750073,
+    "lon": 33.894319460456,
+    "name": "Modestou Panteli - Dionysiou Solomou 1"
+  },
+  {
+    "description": "Modestou Panteli - Agion Anargyron 1",
+    "lat": 35.0192471607126,
+    "lon": 33.901716281405,
+    "name": "Modestou Panteli - Agion Anargyron 1"
+  },
+  {
+    "description": "Foti Pitta - Petrou Peskesi",
+    "lat": 35.0375544957556,
+    "lon": 33.9181758554259,
+    "name": "Foti Pitta - Petrou Peskesi"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Arch. Michail",
+    "lat": 35.0419016984575,
+    "lon": 33.9239804936817,
+    "name": "Archiep. Makariou C´ - Arch. Michail"
+  }
+]

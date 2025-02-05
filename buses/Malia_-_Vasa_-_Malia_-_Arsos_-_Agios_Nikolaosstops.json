@@ -1,0 +1,38 @@
+[
+  {
+    "description": "Distrato Malias",
+    "lat": 34.811367881021,
+    "lon": 32.789472285737,
+    "name": "Distrato Malias"
+  },
+  {
+    "description": "Vasa Koilaniou",
+    "lat": 34.8346584118287,
+    "lon": 32.793481478594,
+    "name": "Vasa Koilaniou"
+  },
+  {
+    "description": "Malia Square 1",
+    "lat": 34.8166411284838,
+    "lon": 32.7831388220528,
+    "name": "Malia Square 1"
+  },
+  {
+    "description": "Arsos Lemesou 1",
+    "lat": 34.8403583453852,
+    "lon": 32.7688469820492,
+    "name": "Arsos Lemesou 1"
+  },
+  {
+    "description": "3rd Agios Nikolaos Pafou 2",
+    "lat": 34.860750300599,
+    "lon": 32.7565588360131,
+    "name": "3rd Agios Nikolaos Pafou 2"
+  },
+  {
+    "description": "1st Agios Nikolaos Pafou 1",
+    "lat": 34.8633496510177,
+    "lon": 32.7532143203581,
+    "name": "1st Agios Nikolaos Pafou 1"
+  }
+]

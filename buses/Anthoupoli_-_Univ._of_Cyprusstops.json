@@ -1,0 +1,128 @@
+[
+  {
+    "description": "Ave. Agiou Georgiou - Sporadon",
+    "lat": 35.1146270733287,
+    "lon": 33.2886385513963,
+    "name": "Ave. Agiou Georgiou - Sporadon"
+  },
+  {
+    "description": "Ave. Agiou Georgiou - Evoias",
+    "lat": 35.1131070243603,
+    "lon": 33.2907950255558,
+    "name": "Ave. Agiou Georgiou - Evoias"
+  },
+  {
+    "description": "Ave. Agiou Georgiou - Alamanas",
+    "lat": 35.1089349590285,
+    "lon": 33.3006890208037,
+    "name": "Ave. Agiou Georgiou - Alamanas"
+  },
+  {
+    "description": "Orfeos - Dioskouron",
+    "lat": 35.1128284321066,
+    "lon": 33.3121708777143,
+    "name": "Orfeos - Dioskouron"
+  },
+  {
+    "description": "Agiou Dimitrianou - Neapoleos",
+    "lat": 35.1140291193053,
+    "lon": 33.3151164609424,
+    "name": "Agiou Dimitrianou - Neapoleos"
+  },
+  {
+    "description": "Ippokratous - Trikomou",
+    "lat": 35.1128716433483,
+    "lon": 33.3198087647585,
+    "name": "Ippokratous - Trikomou"
+  },
+  {
+    "description": "Ippokratous - Kallipoleos",
+    "lat": 35.1130190873236,
+    "lon": 33.3253949827653,
+    "name": "Ippokratous - Kallipoleos"
+  },
+  {
+    "description": "Ippokratous - Agias Zonis",
+    "lat": 35.1125830623412,
+    "lon": 33.3299144120867,
+    "name": "Ippokratous - Agias Zonis"
+  },
+  {
+    "description": "Ave. Tseriou - Patision",
+    "lat": 35.1100338196194,
+    "lon": 33.3322524352307,
+    "name": "Ave. Tseriou - Patision"
+  },
+  {
+    "description": "Theofilou Georgiadi - Vasilissis Amalias",
+    "lat": 35.1042206826565,
+    "lon": 33.3311645046809,
+    "name": "Theofilou Georgiadi - Vasilissis Amalias"
+  },
+  {
+    "description": "Kallistratou - Ippolytou",
+    "lat": 35.1030648141479,
+    "lon": 33.3509869835049,
+    "name": "Kallistratou - Ippolytou"
+  },
+  {
+    "description": "Filopappou - Ippolytou",
+    "lat": 35.1038362603306,
+    "lon": 33.3554670759145,
+    "name": "Filopappou - Ippolytou"
+  },
+  {
+    "description": "GSP Stadium 2",
+    "lat": 35.1127717420335,
+    "lon": 33.3617608910322,
+    "name": "GSP Stadium 2"
+  },
+  {
+    "description": "Filippou Papakyprianou - Markou Drakou",
+    "lat": 35.1122939691847,
+    "lon": 33.3706693766184,
+    "name": "Filippou Papakyprianou - Markou Drakou"
+  },
+  {
+    "description": "Giannou Kranidioti Ave. - Steliou Mavrommati",
+    "lat": 35.1124096995151,
+    "lon": 33.3770016991509,
+    "name": "Giannou Kranidioti Ave. - Steliou Mavrommati"
+  },
+  {
+    "description": "Giannou Kranidioti Ave. - Isaak and Solomou",
+    "lat": 35.1153939421058,
+    "lon": 33.3771471338357,
+    "name": "Giannou Kranidioti Ave. - Isaak and Solomou"
+  },
+  {
+    "description": "Lemesou Ave. - Kampou",
+    "lat": 35.1197592623922,
+    "lon": 33.3768270383084,
+    "name": "Lemesou Ave. - Kampou"
+  },
+  {
+    "description": "Lemesou Ave. - Volvo",
+    "lat": 35.1268358517556,
+    "lon": 33.3745328069755,
+    "name": "Lemesou Ave. - Volvo"
+  },
+  {
+    "description": "The Mall of Cyprus - Verginas",
+    "lat": 35.1296954455061,
+    "lon": 33.3741617405526,
+    "name": "The Mall of Cyprus - Verginas"
+  },
+  {
+    "description": "University of Cyprus - Oceanography Center",
+    "lat": 35.1443862687783,
+    "lon": 33.4071517965074,
+    "name": "University of Cyprus - Oceanography Center"
+  },
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  }
+]

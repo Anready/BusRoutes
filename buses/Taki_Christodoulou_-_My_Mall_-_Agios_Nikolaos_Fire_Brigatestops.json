@@ -1,0 +1,176 @@
+[
+  {
+    "description": "Taki Christodoulou",
+    "lat": 34.693637104378,
+    "lon": 33.0749859702662,
+    "name": "Taki Christodoulou"
+  },
+  {
+    "description": "Promachon Eleftherias - KEAN 1",
+    "lat": 34.6905888888998,
+    "lon": 33.0752561654003,
+    "name": "Promachon Eleftherias - KEAN 1"
+  },
+  {
+    "description": "Griva Digeni - 28 Oktovriou",
+    "lat": 34.6895731651435,
+    "lon": 33.0697090894552,
+    "name": "Griva Digeni - 28 Oktovriou"
+  },
+  {
+    "description": "Griva Digeni - Agios Nikolaos Fire Station 1",
+    "lat": 34.6906737521967,
+    "lon": 33.0690003566633,
+    "name": "Griva Digeni - Agios Nikolaos Fire Station 1"
+  },
+  {
+    "description": "Griva Digeni - Armonias 1",
+    "lat": 34.6931638474355,
+    "lon": 33.0669279835135,
+    "name": "Griva Digeni - Armonias 1"
+  },
+  {
+    "description": "Georgiou Neofytou - Kolonakiou",
+    "lat": 34.6949687728889,
+    "lon": 33.0644291365462,
+    "name": "Georgiou Neofytou - Kolonakiou"
+  },
+  {
+    "description": "Georgiou Neofytou - Meletiou Metaxaki 1",
+    "lat": 34.6971535842667,
+    "lon": 33.0595502032712,
+    "name": "Georgiou Neofytou - Meletiou Metaxaki 1"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Filikis Etaireias",
+    "lat": 34.6984281503874,
+    "lon": 33.0529561639197,
+    "name": "Spyrou Kyprianou Ave. - Filikis Etaireias"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Eptanisou",
+    "lat": 34.6983302393291,
+    "lon": 33.0499097611408,
+    "name": "Spyrou Kyprianou Ave. - Eptanisou"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Grigori Afxentiou 1",
+    "lat": 34.6982051479932,
+    "lon": 33.0469943753652,
+    "name": "Spyrou Kyprianou Ave. - Grigori Afxentiou 1"
+  },
+  {
+    "description": "21 Elementary School - Kontovatheia 1",
+    "lat": 34.6979992736136,
+    "lon": 33.0428233004097,
+    "name": "21 Elementary School - Kontovatheia 1"
+  },
+  {
+    "description": "9 Elementary School - Kapsalos",
+    "lat": 34.6975505278726,
+    "lon": 33.0361954298527,
+    "name": "9 Elementary School - Kapsalos"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Inachou",
+    "lat": 34.695991739607,
+    "lon": 33.0314888877765,
+    "name": "Spyrou Kyprianou Ave. - Inachou"
+  },
+  {
+    "description": "26 Elementary School - Panagia Tricherousa 2",
+    "lat": 34.6938555489595,
+    "lon": 33.0271208002246,
+    "name": "26 Elementary School - Panagia Tricherousa 2"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Vasileos Konstantinou A´ 1",
+    "lat": 34.6925935896022,
+    "lon": 33.0245437333689,
+    "name": "Spyrou Kyprianou Ave. - Vasileos Konstantinou A´ 1"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Iakchou",
+    "lat": 34.6911963577971,
+    "lon": 33.0216828449698,
+    "name": "Spyrou Kyprianou Ave. - Iakchou"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Nikou & Despoinas Pattichi",
+    "lat": 34.6899793911186,
+    "lon": 33.0189858588262,
+    "name": "Spyrou Kyprianou Ave. - Nikou & Despoinas Pattichi"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Nafsikas",
+    "lat": 34.6884376593107,
+    "lon": 33.016736504893,
+    "name": "Spyrou Kyprianou Ave. - Nafsikas"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Theodorou Potamianou",
+    "lat": 34.685299724983,
+    "lon": 33.014410536802,
+    "name": "Spyrou Kyprianou Ave. - Theodorou Potamianou"
+  },
+  {
+    "description": "15Elementary School - Agios Neofytos 1",
+    "lat": 34.6822067990434,
+    "lon": 33.0124340841501,
+    "name": "15Elementary School - Agios Neofytos 1"
+  },
+  {
+    "description": "Omonoias Ave. - Kamirou",
+    "lat": 34.6727921780726,
+    "lon": 33.0115376116823,
+    "name": "Omonoias Ave. - Kamirou"
+  },
+  {
+    "description": "Omonoias Ave. - Esperidon",
+    "lat": 34.6702941325341,
+    "lon": 33.0123449830409,
+    "name": "Omonoias Ave. - Esperidon"
+  },
+  {
+    "description": "Omonoias Ave. - Aiginis",
+    "lat": 34.6675344719583,
+    "lon": 33.0139490407962,
+    "name": "Omonoias Ave. - Aiginis"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Dekeleias",
+    "lat": 34.6616277140389,
+    "lon": 33.0140135347199,
+    "name": "Fragklinou Rousvelt - Dekeleias"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Evrypolou",
+    "lat": 34.6601853806488,
+    "lon": 33.0080761962948,
+    "name": "Fragklinou Rousvelt - Evrypolou"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Oinouson 1",
+    "lat": 34.6594821549923,
+    "lon": 33.0047692810409,
+    "name": "Fragklinou Rousvelt - Oinouson 1"
+  },
+  {
+    "description": "16 Elementary School - Zakaki 1",
+    "lat": 34.6583279339969,
+    "lon": 33.002029917563,
+    "name": "16 Elementary School - Zakaki 1"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Renouar",
+    "lat": 34.6572548132146,
+    "lon": 32.9993670231124,
+    "name": "Fragklinou Rousvelt - Renouar"
+  },
+  {
+    "description": "MY MALL",
+    "lat": 34.6512127016143,
+    "lon": 32.9954930950808,
+    "name": "MY MALL"
+  }
+]

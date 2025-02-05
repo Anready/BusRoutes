@@ -1,0 +1,218 @@
+[
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Apolloneio Hospital",
+    "lat": 35.1478491445453,
+    "lon": 33.3198906545292,
+    "name": "Apolloneio Hospital"
+  },
+  {
+    "description": "Avenue Lefkotheou - Archangelou Michail",
+    "lat": 35.1477776953094,
+    "lon": 33.3230302033002,
+    "name": "Avenue Lefkotheou - Archangelou Michail"
+  },
+  {
+    "description": "Makedonitissis - Amazonon",
+    "lat": 35.1468919643742,
+    "lon": 33.3271545442767,
+    "name": "Makedonitissis - Amazonon"
+  },
+  {
+    "description": "Makedonitissis - Old Strovolos Cemetery 1",
+    "lat": 35.1466568520456,
+    "lon": 33.3307215403269,
+    "name": "Makedonitissis - Old Strovolos Cemetery 1"
+  },
+  {
+    "description": "Elaionon - Anoixeos",
+    "lat": 35.1453517476759,
+    "lon": 33.3331424187226,
+    "name": "Elaionon - Anoixeos"
+  },
+  {
+    "description": "Elaionon - Kostaki Ompasi",
+    "lat": 35.1430468407175,
+    "lon": 33.3318705818594,
+    "name": "Elaionon - Kostaki Ompasi"
+  },
+  {
+    "description": "Elaionon - Evzonon",
+    "lat": 35.1389784554296,
+    "lon": 33.3291646466809,
+    "name": "Elaionon - Evzonon"
+  },
+  {
+    "description": "Evzonon - Evryviadou",
+    "lat": 35.1376290467582,
+    "lon": 33.3313107177189,
+    "name": "Evzonon - Evryviadou"
+  },
+  {
+    "description": "Public Works Department 2",
+    "lat": 35.1381279815904,
+    "lon": 33.3335081633724,
+    "name": "Public Works Department 2"
+  },
+  {
+    "description": "Ave. Strovolou - Ilia Venezi",
+    "lat": 35.1408111281378,
+    "lon": 33.3381955135068,
+    "name": "Ave. Strovolou - Ilia Venezi"
+  },
+  {
+    "description": "Strovolos City Hall 2",
+    "lat": 35.1433329628898,
+    "lon": 33.3424653377379,
+    "name": "Strovolos City Hall 2"
+  },
+  {
+    "description": "Ave. Strovolou - Agias Marinas",
+    "lat": 35.1463101046099,
+    "lon": 33.3451235590251,
+    "name": "Ave. Strovolou - Agias Marinas"
+  },
+  {
+    "description": "Ave. Athalassas - 28 Oktovriou",
+    "lat": 35.1496354730969,
+    "lon": 33.3489581728747,
+    "name": "Ave. Athalassas - 28 Oktovriou"
+  },
+  {
+    "description": "Ave. Athalassas - Adamantiou Korai",
+    "lat": 35.1488178815494,
+    "lon": 33.351051585507,
+    "name": "Ave. Athalassas - Adamantiou Korai"
+  },
+  {
+    "description": "Ave. Athalassas - Ious",
+    "lat": 35.1475090048999,
+    "lon": 33.3546249140549,
+    "name": "Ave. Athalassas - Ious"
+  },
+  {
+    "description": "Ave. Athalassas - Nicosia Water Board 2",
+    "lat": 35.1464183453464,
+    "lon": 33.3575513688115,
+    "name": "Ave. Athalassas - Nicosia Water Board 2"
+  },
+  {
+    "description": "Ave. Athalassas - Georgiou Paraskevaidi Avenue",
+    "lat": 35.1453087972236,
+    "lon": 33.3607411357836,
+    "name": "Ave. Athalassas - Georgiou Paraskevaidi Avenue"
+  },
+  {
+    "description": "Ave. Athalassas - Kalliopis",
+    "lat": 35.1440997141774,
+    "lon": 33.3640181961357,
+    "name": "Ave. Athalassas - Kalliopis"
+  },
+  {
+    "description": "Ave. Athalassas - Pentelis",
+    "lat": 35.1433545635044,
+    "lon": 33.3659250173429,
+    "name": "Ave. Athalassas - Pentelis"
+  },
+  {
+    "description": "Ave. Athalassas - Petrou Iliadi",
+    "lat": 35.1425181123627,
+    "lon": 33.3681936569439,
+    "name": "Ave. Athalassas - Petrou Iliadi"
+  },
+  {
+    "description": "Ave. Athalassas - Apostolos Varnavas Church 1",
+    "lat": 35.1408718979276,
+    "lon": 33.3728077605045,
+    "name": "Ave. Athalassas - Apostolos Varnavas Church 1"
+  },
+  {
+    "description": "Avenue Rik - Police Academy 2",
+    "lat": 35.14474331762,
+    "lon": 33.3776447522772,
+    "name": "Avenue Rik - Police Academy 2"
+  },
+  {
+    "description": "Ave. Akadimias - Kyrineias Avenue",
+    "lat": 35.1472753266703,
+    "lon": 33.3811036447871,
+    "name": "Ave. Akadimias - Kyrineias Avenue"
+  },
+  {
+    "description": "Ave. Kiryneias - Pallados",
+    "lat": 35.1487542629076,
+    "lon": 33.3839210429459,
+    "name": "Ave. Kiryneias - Pallados"
+  },
+  {
+    "description": "Ave. Kiryneias - Kekropos",
+    "lat": 35.1488375961857,
+    "lon": 33.3860732277324,
+    "name": "Ave. Kiryneias - Kekropos"
+  },
+  {
+    "description": "Ave. Kiryneias - Apostolos Andreas Church 2",
+    "lat": 35.1489611480001,
+    "lon": 33.3897296694374,
+    "name": "Ave. Kiryneias - Apostolos Andreas Church 2"
+  },
+  {
+    "description": "Ave. Kiryneias - Aglantzia Health Centre 2",
+    "lat": 35.1496615708482,
+    "lon": 33.3934218338861,
+    "name": "Ave. Kiryneias - Aglantzia Health Centre 2"
+  },
+  {
+    "description": "Ave. Kiryneias - Vavyla",
+    "lat": 35.1501787335052,
+    "lon": 33.3952138534335,
+    "name": "Ave. Kiryneias - Vavyla"
+  },
+  {
+    "description": "Ave. Kiryneias - Rigainis",
+    "lat": 35.1496437680336,
+    "lon": 33.3988671541507,
+    "name": "Ave. Kiryneias - Rigainis"
+  },
+  {
+    "description": "Ave. Kiryneias - Assias",
+    "lat": 35.1482346562798,
+    "lon": 33.3996068128803,
+    "name": "Ave. Kiryneias - Assias"
+  },
+  {
+    "description": "Ave. Kiryneias - Valtetsiou",
+    "lat": 35.1468801495634,
+    "lon": 33.4001930179964,
+    "name": "Ave. Kiryneias - Valtetsiou"
+  },
+  {
+    "description": "Ave. Kiryneias - Athalassa Park 1",
+    "lat": 35.1451131770706,
+    "lon": 33.4027971393594,
+    "name": "Ave. Kiryneias - Athalassa Park 1"
+  },
+  {
+    "description": "Ave. Athalassis - UCY Student Halls 1",
+    "lat": 35.1438813067368,
+    "lon": 33.4044597053849,
+    "name": "Ave. Athalassis - UCY Student Halls 1"
+  },
+  {
+    "description": "University of Cyprus - Oceanography Center",
+    "lat": 35.1443862687783,
+    "lon": 33.4071517965074,
+    "name": "University of Cyprus - Oceanography Center"
+  },
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  }
+]

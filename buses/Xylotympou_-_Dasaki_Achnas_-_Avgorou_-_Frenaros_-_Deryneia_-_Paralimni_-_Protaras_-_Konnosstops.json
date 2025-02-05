@@ -1,0 +1,308 @@
+[
+  {
+    "description": "British Base (near highway exit)",
+    "lat": 35.0044219903979,
+    "lon": 33.7271863299191,
+    "name": "British Base (near highway exit)"
+  },
+  {
+    "description": "Xylotymvou - Dasaki Achnas Road",
+    "lat": 35.0087626668366,
+    "lon": 33.7326168510379,
+    "name": "Xylotymvou - Dasaki Achnas Road"
+  },
+  {
+    "description": "Xylotymvou Public Kindergarden",
+    "lat": 35.010274497604,
+    "lon": 33.7346140491871,
+    "name": "Xylotymvou Public Kindergarden"
+  },
+  {
+    "description": "Xylotymvou City Hall 2",
+    "lat": 35.0169418173936,
+    "lon": 33.7429051216765,
+    "name": "Xylotymvou City Hall 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Andrea Souroukli",
+    "lat": 35.0194070834731,
+    "lon": 33.7452621075565,
+    "name": "Archiep. Makariou C´ Ave. - Andrea Souroukli"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kostaki Pantelidi",
+    "lat": 35.022400837628,
+    "lon": 33.7481830769859,
+    "name": "Archiep. Makariou C´ Ave. - Kostaki Pantelidi"
+  },
+  {
+    "description": "Griva Digeni - Nikolaou Michail",
+    "lat": 35.0338964880996,
+    "lon": 33.7614213928747,
+    "name": "Griva Digeni - Nikolaou Michail"
+  },
+  {
+    "description": "Dasaki Achnas Stadium 2",
+    "lat": 35.0329893090036,
+    "lon": 33.7637261235598,
+    "name": "Dasaki Achnas Stadium 2"
+  },
+  {
+    "description": "Griva Digeni - Foti Pitta",
+    "lat": 35.0319791657708,
+    "lon": 33.7666218245848,
+    "name": "Griva Digeni - Foti Pitta"
+  },
+  {
+    "description": "Dasos Achnas Square 2",
+    "lat": 35.0292431016362,
+    "lon": 33.7700822772254,
+    "name": "Dasos Achnas Square 2"
+  },
+  {
+    "description": "Arch. Michail and Agia Marina Church 2",
+    "lat": 35.0270480051101,
+    "lon": 33.7735366343891,
+    "name": "Arch. Michail and Agia Marina Church 2"
+  },
+  {
+    "description": "Charalampou Mouskou - Achna Roundabout",
+    "lat": 35.025882776957,
+    "lon": 33.7794888829559,
+    "name": "Charalampou Mouskou - Achna Roundabout"
+  },
+  {
+    "description": "Achna Livestock Area 1",
+    "lat": 35.0361062924448,
+    "lon": 33.7853745133991,
+    "name": "Achna Livestock Area 1"
+  },
+  {
+    "description": "Technical and Agriculture School of Famagusta 2",
+    "lat": 35.0459327411789,
+    "lon": 33.8277475273236,
+    "name": "Technical and Agriculture School of Famagusta 2"
+  },
+  {
+    "description": "B´ Avgorou Elementary School 2",
+    "lat": 35.042942871871,
+    "lon": 33.8324647969131,
+    "name": "B´ Avgorou Elementary School 2"
+  },
+  {
+    "description": "Michail Karaoli - Petraki Giallourou 2",
+    "lat": 35.0399526712081,
+    "lon": 33.8372036469139,
+    "name": "Michail Karaoli - Petraki Giallourou 2"
+  },
+  {
+    "description": "Agios Georgios Church 2",
+    "lat": 35.0375050492655,
+    "lon": 33.8403909284225,
+    "name": "Agios Georgios Church 2"
+  },
+  {
+    "description": "Karyon - Panagioti Pafiti",
+    "lat": 35.0358039832481,
+    "lon": 33.8399349885632,
+    "name": "Karyon - Panagioti Pafiti"
+  },
+  {
+    "description": "A´ Avgorou Elementary School 2",
+    "lat": 35.0331620208623,
+    "lon": 33.8399298807102,
+    "name": "A´ Avgorou Elementary School 2"
+  },
+  {
+    "description": "Karyon - Xanthou Samara",
+    "lat": 35.0317127287166,
+    "lon": 33.8395752137723,
+    "name": "Karyon - Xanthou Samara"
+  },
+  {
+    "description": "1st Stop Avgorou Settlement",
+    "lat": 35.0265419991143,
+    "lon": 33.8388427052488,
+    "name": "1st Stop Avgorou Settlement"
+  },
+  {
+    "description": "2nd Stop Avgorou Settlement",
+    "lat": 35.0255798052345,
+    "lon": 33.8371557332918,
+    "name": "2nd Stop Avgorou Settlement"
+  },
+  {
+    "description": "Xanthou Samara - Salaminos",
+    "lat": 35.0334175454486,
+    "lon": 33.8420921585988,
+    "name": "Xanthou Samara - Salaminos"
+  },
+  {
+    "description": "Ammochostou - Dimitriou Chamatsou",
+    "lat": 35.0366321781291,
+    "lon": 33.8453263879954,
+    "name": "Ammochostou - Dimitriou Chamatsou"
+  },
+  {
+    "description": "2nd Stop Frenaros Industrial Zone 2",
+    "lat": 35.0376021848448,
+    "lon": 33.9094496467439,
+    "name": "2nd Stop Frenaros Industrial Zone 2"
+  },
+  {
+    "description": "1st Stop Frenaros Industrial Zone 2",
+    "lat": 35.0366556576701,
+    "lon": 33.9118181559969,
+    "name": "1st Stop Frenaros Industrial Zone 2"
+  },
+  {
+    "description": "Foti Pitta - Petrou Peskesi",
+    "lat": 35.0375544957556,
+    "lon": 33.9181758554259,
+    "name": "Foti Pitta - Petrou Peskesi"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Arch. Michail",
+    "lat": 35.0419016984575,
+    "lon": 33.9239804936817,
+    "name": "Archiep. Makariou C´ - Arch. Michail"
+  },
+  {
+    "description": "Archiep. Makariou C´ - 2nd Stop",
+    "lat": 35.0462301276684,
+    "lon": 33.9286671696292,
+    "name": "Archiep. Makariou C´ - 2nd Stop"
+  },
+  {
+    "description": "Deryneia Municipal Swimming Pool 1",
+    "lat": 35.0501971114634,
+    "lon": 33.9346002303595,
+    "name": "Deryneia Municipal Swimming Pool 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Alakatis",
+    "lat": 35.0606665900818,
+    "lon": 33.9541847085198,
+    "name": "Archiep. Makariou C´ - Alakatis"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Promitheos",
+    "lat": 35.0623908345308,
+    "lon": 33.9596441623166,
+    "name": "Archiep. Makariou C´ - Promitheos"
+  },
+  {
+    "description": "Eleftherias - Ammochostou Ave.",
+    "lat": 35.0627926359819,
+    "lon": 33.9612828824197,
+    "name": "Eleftherias - Ammochostou Ave."
+  },
+  {
+    "description": "Eleftherias - Daidalou",
+    "lat": 35.0611933274601,
+    "lon": 33.9639728211771,
+    "name": "Eleftherias - Daidalou"
+  },
+  {
+    "description": "Eleftherias - Ippokratous",
+    "lat": 35.0588054546306,
+    "lon": 33.9671687629106,
+    "name": "Eleftherias - Ippokratous"
+  },
+  {
+    "description": "Eleftherias - Kyriakou Matsi",
+    "lat": 35.0558775661069,
+    "lon": 33.9713560020056,
+    "name": "Eleftherias - Kyriakou Matsi"
+  },
+  {
+    "description": "Paralimni Lyceum",
+    "lat": 35.0522566137068,
+    "lon": 33.9809624411131,
+    "name": "Paralimni Lyceum"
+  },
+  {
+    "description": "Famagusta Police Headquarters 1",
+    "lat": 35.0520874570227,
+    "lon": 33.9873640386606,
+    "name": "Famagusta Police Headquarters 1"
+  },
+  {
+    "description": "Giorki Papadopoulou - Christou Tsiarta",
+    "lat": 35.0521485262805,
+    "lon": 33.9920359086308,
+    "name": "Giorki Papadopoulou - Christou Tsiarta"
+  },
+  {
+    "description": "Giorki Papadopoulou - Apollonos",
+    "lat": 35.0528894716369,
+    "lon": 33.9951480211783,
+    "name": "Giorki Papadopoulou - Apollonos"
+  },
+  {
+    "description": "Giorki Papadopoulou - Parnithos 1",
+    "lat": 35.0569030275706,
+    "lon": 34.0026863124554,
+    "name": "Giorki Papadopoulou - Parnithos 1"
+  },
+  {
+    "description": "Kappari Ave. - 1st Stop",
+    "lat": 35.0562959507893,
+    "lon": 34.0063085184796,
+    "name": "Kappari Ave. - 1st Stop"
+  },
+  {
+    "description": "Kappari Ave. - 3rd Stop",
+    "lat": 35.0538386700199,
+    "lon": 34.0101271942747,
+    "name": "Kappari Ave. - 3rd Stop"
+  },
+  {
+    "description": "Kappari Ave. - 5th Stop",
+    "lat": 35.0510726216514,
+    "lon": 34.0141940185032,
+    "name": "Kappari Ave. - 5th Stop"
+  },
+  {
+    "description": "Agia Triada Beach 1",
+    "lat": 35.0487842831874,
+    "lon": 34.0171919651821,
+    "name": "Agia Triada Beach 1"
+  },
+  {
+    "description": "Vrysoudion - 1st Stop",
+    "lat": 35.0474199146587,
+    "lon": 34.0250255859767,
+    "name": "Vrysoudion - 1st Stop"
+  },
+  {
+    "description": "Louma Beach 1",
+    "lat": 35.0437744623301,
+    "lon": 34.029595864433,
+    "name": "Louma Beach 1"
+  },
+  {
+    "description": "Vrysoudion - 3rd Stop",
+    "lat": 35.0420019263709,
+    "lon": 34.0312729978072,
+    "name": "Vrysoudion - 3rd Stop"
+  },
+  {
+    "description": "Paralimni Port 1",
+    "lat": 35.0365762414445,
+    "lon": 34.0352172685473,
+    "name": "Paralimni Port 1"
+  },
+  {
+    "description": "Pinias - Perneras Ave. 1",
+    "lat": 35.0327644981196,
+    "lon": 34.0317598696142,
+    "name": "Pinias - Perneras Ave. 1"
+  },
+  {
+    "description": "Perneras Ave. - Ellinon",
+    "lat": 35.0319180990877,
+    "lon": 34.0347967650397,
+    "name": "Perneras Ave. - Ellinon"
+  }
+]

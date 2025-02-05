@@ -1,0 +1,86 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Evag. Pallikaridi Ave. - Athinas",
+    "lat": 34.780091716565,
+    "lon": 32.4251967432691,
+    "name": "Evag. Pallikaridi Ave. - Athinas"
+  },
+  {
+    "description": "Elefth. Venizelou Ave. - Vas. Konstantinou A`",
+    "lat": 34.7809552162391,
+    "lon": 32.4266443728081,
+    "name": "Elefth. Venizelou Ave. - Vas. Konstantinou A`"
+  },
+  {
+    "description": "S.E.K. Pafos 1",
+    "lat": 34.7808176740926,
+    "lon": 32.4280770822437,
+    "name": "S.E.K. Pafos 1"
+  },
+  {
+    "description": "Elefth. Venizelou Ave. - Georgiou Sourri",
+    "lat": 34.7810830285229,
+    "lon": 32.4327530708617,
+    "name": "Elefth. Venizelou Ave. - Georgiou Sourri"
+  },
+  {
+    "description": "Kykkos Lyceum",
+    "lat": 34.7812257641736,
+    "lon": 32.4343587313171,
+    "name": "Kykkos Lyceum"
+  },
+  {
+    "description": "Citizen Service Centre 1",
+    "lat": 34.7815972014321,
+    "lon": 32.4366732620444,
+    "name": "Citizen Service Centre 1"
+  },
+  {
+    "description": "Elefth. Venizelou Ave. - Agias Eirinis",
+    "lat": 34.7821382614456,
+    "lon": 32.438625987634,
+    "name": "Elefth. Venizelou Ave. - Agias Eirinis"
+  },
+  {
+    "description": "Elefth. Venizelou Ave. - Agias Elenis",
+    "lat": 34.7831123734508,
+    "lon": 32.4406304640879,
+    "name": "Elefth. Venizelou Ave. - Agias Elenis"
+  },
+  {
+    "description": "Dimokratias Ave. - Agiou Ioannou",
+    "lat": 34.7859093528205,
+    "lon": 32.4409613456044,
+    "name": "Dimokratias Ave. - Agiou Ioannou"
+  },
+  {
+    "description": "Pafos General Hospital 1",
+    "lat": 34.7886669339612,
+    "lon": 32.4445060792828,
+    "name": "Pafos General Hospital 1"
+  },
+  {
+    "description": "Pafos General Hospital 2",
+    "lat": 34.7886122812177,
+    "lon": 32.4443862103678,
+    "name": "Pafos General Hospital 2"
+  },
+  {
+    "description": "8 Elementary School - Iordaneio 1",
+    "lat": 34.7923853979541,
+    "lon": 32.4471920286988,
+    "name": "8 Elementary School - Iordaneio 1"
+  },
+  {
+    "description": "Anavargos Square - Ag. Georgios Church",
+    "lat": 34.7941553284313,
+    "lon": 32.4517276050192,
+    "name": "Anavargos Square - Ag. Georgios Church"
+  }
+]

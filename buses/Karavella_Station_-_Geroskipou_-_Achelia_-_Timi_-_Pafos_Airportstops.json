@@ -1,0 +1,134 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Evagora Pallikaridi - Charalambou Mouskou 2",
+    "lat": 34.7763634448883,
+    "lon": 32.4224466703481,
+    "name": "Evagora Pallikaridi - Charalambou Mouskou 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ypol. N. Papageorgiou",
+    "lat": 34.7730323424325,
+    "lon": 32.4254970529272,
+    "name": "Georg. Griva Digeni Ave. - Ypol. N. Papageorgiou"
+  },
+  {
+    "description": "Archaeological Museum 1",
+    "lat": 34.771406554842,
+    "lon": 32.4306992191937,
+    "name": "Archaeological Museum 1"
+  },
+  {
+    "description": "Fire Station 1",
+    "lat": 34.7695891522913,
+    "lon": 32.435465367438,
+    "name": "Fire Station 1"
+  },
+  {
+    "description": "A` High School - Ag. Theodoros 1",
+    "lat": 34.7672189940113,
+    "lon": 32.4436226157175,
+    "name": "A` High School - Ag. Theodoros 1"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ellados",
+    "lat": 34.7641888377087,
+    "lon": 32.4475330556782,
+    "name": "Archiep. Makariou C` Ave. - Ellados"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Olympiados",
+    "lat": 34.7617774012893,
+    "lon": 32.4506960835969,
+    "name": "Archiep. Makariou C` Ave. - Olympiados"
+  },
+  {
+    "description": "Geroskipou Art Museum",
+    "lat": 34.759926476827,
+    "lon": 32.4541939641612,
+    "name": "Geroskipou Art Museum"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Al. Panagouli",
+    "lat": 34.7589023723357,
+    "lon": 32.4570853205206,
+    "name": "Archiep. Makariou C` Ave. - Al. Panagouli"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ag. Sergiou 1",
+    "lat": 34.756191246285,
+    "lon": 32.4618669001097,
+    "name": "Archiep. Makariou C` Ave. - Ag. Sergiou 1"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Filias",
+    "lat": 34.7528419525787,
+    "lon": 32.4651117343522,
+    "name": "Archiep. Makariou C` Ave. - Filias"
+  },
+  {
+    "description": "American Academy 1",
+    "lat": 34.7453419748184,
+    "lon": 32.4740200977946,
+    "name": "American Academy 1"
+  },
+  {
+    "description": "1st Stop Acheleia",
+    "lat": 34.740112978729,
+    "lon": 32.4806186330465,
+    "name": "1st Stop Acheleia"
+  },
+  {
+    "description": "Ag. Georgios Church - Acheleia 1",
+    "lat": 34.7386787516233,
+    "lon": 32.4847677782398,
+    "name": "Ag. Georgios Church - Acheleia 1"
+  },
+  {
+    "description": "3rd Stop Acheleia",
+    "lat": 34.7349074057902,
+    "lon": 32.4950701441028,
+    "name": "3rd Stop Acheleia"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Anexartisias 1",
+    "lat": 34.7287723221796,
+    "lon": 32.5120266264025,
+    "name": "Archiep. Makariou C` Ave. - Anexartisias 1"
+  },
+  {
+    "description": "Timi - Airport Road - 1st Stop",
+    "lat": 34.7264712873635,
+    "lon": 32.5161687949069,
+    "name": "Timi - Airport Road - 1st Stop"
+  },
+  {
+    "description": "Timi - Airport Road - 3rd Stop",
+    "lat": 34.711427542218,
+    "lon": 32.5111129239462,
+    "name": "Timi - Airport Road - 3rd Stop"
+  },
+  {
+    "description": "Timi - Airport Road - 5th Stop",
+    "lat": 34.7083760689602,
+    "lon": 32.5035633449959,
+    "name": "Timi - Airport Road - 5th Stop"
+  },
+  {
+    "description": "Timi - Airport Road - 7th Stop",
+    "lat": 34.7074931199689,
+    "lon": 32.4971586733163,
+    "name": "Timi - Airport Road - 7th Stop"
+  },
+  {
+    "description": "Pafos Airport",
+    "lat": 34.7114810421567,
+    "lon": 32.4889879499105,
+    "name": "Pafos Airport"
+  }
+]

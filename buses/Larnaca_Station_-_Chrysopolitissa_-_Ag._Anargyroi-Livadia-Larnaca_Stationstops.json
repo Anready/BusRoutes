@@ -1,0 +1,296 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Archaeological Museum",
+    "lat": 34.9201560701946,
+    "lon": 33.6337470951532,
+    "name": "Archaeological Museum"
+  },
+  {
+    "description": "Leontiou Machaira - Kerkyras",
+    "lat": 34.9244581991325,
+    "lon": 33.6318532492988,
+    "name": "Leontiou Machaira - Kerkyras"
+  },
+  {
+    "description": "Leontiou Machaira - Konst. Amantou",
+    "lat": 34.9255732127799,
+    "lon": 33.6289823229071,
+    "name": "Leontiou Machaira - Konst. Amantou"
+  },
+  {
+    "description": "Archim. Makariou Machairiotou - Frixou Panagiotou",
+    "lat": 34.9288344301256,
+    "lon": 33.6243319862623,
+    "name": "Archim. Makariou Machairiotou - Frixou Panagiotou"
+  },
+  {
+    "description": "Dim. Papanikoli Ave.- Spyrou Kyprianou Ave.",
+    "lat": 34.9313756839955,
+    "lon": 33.6228949762847,
+    "name": "Dim. Papanikoli Ave.- Spyrou Kyprianou Ave."
+  },
+  {
+    "description": "Dim. Papanikoli Ave. - Spyridonos Trikoupi",
+    "lat": 34.9329206783876,
+    "lon": 33.6223044299922,
+    "name": "Dim. Papanikoli Ave. - Spyridonos Trikoupi"
+  },
+  {
+    "description": "Agia Thekla Church 2",
+    "lat": 34.9351955806622,
+    "lon": 33.6235698951201,
+    "name": "Agia Thekla Church 2"
+  },
+  {
+    "description": "Kykliki Ave. - Agion Anargyron Ave. 1",
+    "lat": 34.9368710635333,
+    "lon": 33.6256630906635,
+    "name": "Kykliki Ave. - Agion Anargyron Ave. 1"
+  },
+  {
+    "description": "Ant. Papadopoulos Stadium 1",
+    "lat": 34.9372094615635,
+    "lon": 33.6229828808067,
+    "name": "Ant. Papadopoulos Stadium 1"
+  },
+  {
+    "description": "Kykliki Ave. - Michail Kasialou 1",
+    "lat": 34.940181250121,
+    "lon": 33.6237499895044,
+    "name": "Kykliki Ave. - Michail Kasialou 1"
+  },
+  {
+    "description": "Agioi Anargyroi Church 1",
+    "lat": 34.93970302001,
+    "lon": 33.6255641435744,
+    "name": "Agioi Anargyroi Church 1"
+  },
+  {
+    "description": "Efxeinou Pontou - Fragkiskou List",
+    "lat": 34.9410871486729,
+    "lon": 33.6281918564653,
+    "name": "Efxeinou Pontou - Fragkiskou List"
+  },
+  {
+    "description": "Efxeinou Pontou - Chourmouziou",
+    "lat": 34.9436599890208,
+    "lon": 33.6276310766301,
+    "name": "Efxeinou Pontou - Chourmouziou"
+  },
+  {
+    "description": "Petraki Kyprianou Ave. - Apost.Andreou",
+    "lat": 34.9489272590297,
+    "lon": 33.630891011117,
+    "name": "Petraki Kyprianou Ave. - Apost.Andreou"
+  },
+  {
+    "description": "Andrea Stylianou Ave. - Agiou Savva",
+    "lat": 34.9459379235395,
+    "lon": 33.6335073688234,
+    "name": "Andrea Stylianou Ave. - Agiou Savva"
+  },
+  {
+    "description": "Agiou Savva - Andrea Stylianou Ave.",
+    "lat": 34.9465176810708,
+    "lon": 33.6347274284339,
+    "name": "Agiou Savva - Andrea Stylianou Ave."
+  },
+  {
+    "description": "Agios Savvas Church",
+    "lat": 34.9490243399355,
+    "lon": 33.6347577000799,
+    "name": "Agios Savvas Church"
+  },
+  {
+    "description": "Livadia Lyceum",
+    "lat": 34.9514833364468,
+    "lon": 33.6352804478739,
+    "name": "Livadia Lyceum"
+  },
+  {
+    "description": "Livadia Community Stadium",
+    "lat": 34.9601066917913,
+    "lon": 33.6347445685445,
+    "name": "Livadia Community Stadium"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Profiti Ilia",
+    "lat": 34.9594281192274,
+    "lon": 33.6299857034447,
+    "name": "Archiep. Makariou C´ Ave. - Profiti Ilia"
+  },
+  {
+    "description": "Agia Paraskevi Church 1",
+    "lat": 34.9562557116096,
+    "lon": 33.6261718091945,
+    "name": "Agia Paraskevi Church 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Vyzantiou",
+    "lat": 34.9537682701473,
+    "lon": 33.6259119401726,
+    "name": "Archiep. Makariou C´ Ave. - Vyzantiou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Afroditis",
+    "lat": 34.9512793035329,
+    "lon": 33.6259477802063,
+    "name": "Archiep. Makariou C´ Ave. - Afroditis"
+  },
+  {
+    "description": "Tefkrou Anthia - Pentadaktylou",
+    "lat": 34.9503834135147,
+    "lon": 33.6248129272042,
+    "name": "Tefkrou Anthia - Pentadaktylou"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Arist. Valaoriti",
+    "lat": 34.9492147263857,
+    "lon": 33.6223618266792,
+    "name": "Grigori Afxentiou Ave. - Arist. Valaoriti"
+  },
+  {
+    "description": "Kyriakou Matsi - Karpasias",
+    "lat": 34.9479039644308,
+    "lon": 33.6212348632052,
+    "name": "Kyriakou Matsi - Karpasias"
+  },
+  {
+    "description": "Karpasias - Archiep. Leontiou",
+    "lat": 34.9462308333248,
+    "lon": 33.6221969101406,
+    "name": "Karpasias - Archiep. Leontiou"
+  },
+  {
+    "description": "Trion Ierarchon Church",
+    "lat": 34.9479391924015,
+    "lon": 33.6249148493857,
+    "name": "Trion Ierarchon Church"
+  },
+  {
+    "description": "Trion Ierarchon Church",
+    "lat": 34.9489366950245,
+    "lon": 33.6255795196472,
+    "name": "Trion Ierarchon Church"
+  },
+  {
+    "description": "Agiou Nikolaou - Thiseos",
+    "lat": 34.9477612714581,
+    "lon": 33.6261948275333,
+    "name": "Agiou Nikolaou - Thiseos"
+  },
+  {
+    "description": "Agiou Nikolaou - Athinon",
+    "lat": 34.9455535220586,
+    "lon": 33.6259042606085,
+    "name": "Agiou Nikolaou - Athinon"
+  },
+  {
+    "description": "Achaion - Agiou Dometiou",
+    "lat": 34.9448187424217,
+    "lon": 33.6267528649692,
+    "name": "Achaion - Agiou Dometiou"
+  },
+  {
+    "description": "Galilaiou Galilei",
+    "lat": 34.945245393148,
+    "lon": 33.6279497911162,
+    "name": "Galilaiou Galilei"
+  },
+  {
+    "description": "Efxeinou Pontou - Solonos Michailidi",
+    "lat": 34.9435693099589,
+    "lon": 33.6277289443379,
+    "name": "Efxeinou Pontou - Solonos Michailidi"
+  },
+  {
+    "description": "Efxeinou Pontou - Mpratislavas",
+    "lat": 34.9411952392495,
+    "lon": 33.6282145820707,
+    "name": "Efxeinou Pontou - Mpratislavas"
+  },
+  {
+    "description": "Agioi Anargyroi Church 2",
+    "lat": 34.9396129064711,
+    "lon": 33.6255525088339,
+    "name": "Agioi Anargyroi Church 2"
+  },
+  {
+    "description": "Kykliki Ave. - Michail Kasialou 2",
+    "lat": 34.9401000971682,
+    "lon": 33.6237493750246,
+    "name": "Kykliki Ave. - Michail Kasialou 2"
+  },
+  {
+    "description": "Agioi Anargyroi Elementary School",
+    "lat": 34.9390357769495,
+    "lon": 33.6220440097538,
+    "name": "Agioi Anargyroi Elementary School"
+  },
+  {
+    "description": "Ant. Papadopoulos Stadium 2",
+    "lat": 34.9372817098633,
+    "lon": 33.6229615268664,
+    "name": "Ant. Papadopoulos Stadium 2"
+  },
+  {
+    "description": "Kykliki Ave. - Agion Anargyron Ave. 2",
+    "lat": 34.9369699121312,
+    "lon": 33.6257295418701,
+    "name": "Kykliki Ave. - Agion Anargyron Ave. 2"
+  },
+  {
+    "description": "Agia Thekla Church 1",
+    "lat": 34.935108633895,
+    "lon": 33.6246970708346,
+    "name": "Agia Thekla Church 1"
+  },
+  {
+    "description": "Dim. Papanikoli Ave. - Agias Theklis",
+    "lat": 34.9343571294675,
+    "lon": 33.621778741428,
+    "name": "Dim. Papanikoli Ave. - Agias Theklis"
+  },
+  {
+    "description": "Archim. Makariou Machairiotou - Elefsinos",
+    "lat": 34.9288786711794,
+    "lon": 33.6244965566336,
+    "name": "Archim. Makariou Machairiotou - Elefsinos"
+  },
+  {
+    "description": "Leontiou Machaira - Diomidous",
+    "lat": 34.9256448954175,
+    "lon": 33.6290704585854,
+    "name": "Leontiou Machaira - Diomidous"
+  },
+  {
+    "description": "Leontiou Machaira - Zakynthou",
+    "lat": 34.9244667037208,
+    "lon": 33.6319518502956,
+    "name": "Leontiou Machaira - Zakynthou"
+  },
+  {
+    "description": "Dimitras- Apollonos",
+    "lat": 34.9217931087833,
+    "lon": 33.6345369930831,
+    "name": "Dimitras- Apollonos"
+  },
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  }
+]

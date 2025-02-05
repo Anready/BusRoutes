@@ -1,0 +1,176 @@
+[
+  {
+    "description": "Kalavasos Square 1",
+    "lat": 34.7707447814821,
+    "lon": 33.2963207420607,
+    "name": "Kalavasos Square 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 6th Stop",
+    "lat": 34.7669590298752,
+    "lon": 33.2993123463111,
+    "name": "Archiep. Makariou C´ Ave. - 6th Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 4th Stop",
+    "lat": 34.7655952102849,
+    "lon": 33.3001816297289,
+    "name": "Archiep. Makariou C´ Ave. - 4th Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 2nd Stop",
+    "lat": 34.7563787525731,
+    "lon": 33.3110855632231,
+    "name": "Archiep. Makariou C´ Ave. - 2nd Stop"
+  },
+  {
+    "description": "Zygi - Kalavasos Road - 1st Stop",
+    "lat": 34.7542612821691,
+    "lon": 33.3174147503713,
+    "name": "Zygi - Kalavasos Road - 1st Stop"
+  },
+  {
+    "description": "Agnooumenon - 1st Pentakomo 2",
+    "lat": 34.7311807965452,
+    "lon": 33.2357749381036,
+    "name": "Agnooumenon - 1st Pentakomo 2"
+  },
+  {
+    "description": "Pentakomo Avenue",
+    "lat": 34.7318566423112,
+    "lon": 33.2360280900575,
+    "name": "Pentakomo Avenue"
+  },
+  {
+    "description": "Pentakomo Community Board 1",
+    "lat": 34.7356464888996,
+    "lon": 33.2394361226567,
+    "name": "Pentakomo Community Board 1"
+  },
+  {
+    "description": "Pentakomo",
+    "lat": 34.7379614244489,
+    "lon": 33.2407755234414,
+    "name": "Pentakomo"
+  },
+  {
+    "description": "Pentakomo Community Board 2",
+    "lat": 34.7349162224063,
+    "lon": 33.2393466278455,
+    "name": "Pentakomo Community Board 2"
+  },
+  {
+    "description": "Moni Station 2",
+    "lat": 34.726943338363,
+    "lon": 33.205387387032,
+    "name": "Moni Station 2"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Christaki Kranou",
+    "lat": 34.7059036356265,
+    "lon": 33.0853380642205,
+    "name": "Spyrou Kyprianou Ave. - Christaki Kranou"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Methanon",
+    "lat": 34.7040479317145,
+    "lon": 33.0824643219773,
+    "name": "Spyrou Kyprianou Ave. - Methanon"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Akarnanias",
+    "lat": 34.7025346026578,
+    "lon": 33.0799513739199,
+    "name": "Spyrou Kyprianou Ave. - Akarnanias"
+  },
+  {
+    "description": "Kolonakiou - Pelasgon",
+    "lat": 34.7007693754548,
+    "lon": 33.0764009680701,
+    "name": "Kolonakiou - Pelasgon"
+  },
+  {
+    "description": "Health Centre 1",
+    "lat": 34.6992646392521,
+    "lon": 33.0743795878281,
+    "name": "Health Centre 1"
+  },
+  {
+    "description": "Kolonakiou - Andrea kai Annas Poupoutsi",
+    "lat": 34.6979314157932,
+    "lon": 33.072009030751,
+    "name": "Kolonakiou - Andrea kai Annas Poupoutsi"
+  },
+  {
+    "description": "Linopetra High School 1",
+    "lat": 34.6956343997182,
+    "lon": 33.0675632411505,
+    "name": "Linopetra High School 1"
+  },
+  {
+    "description": "Griva Digeni - Stratigou Timagia",
+    "lat": 34.693201300988,
+    "lon": 33.0643622582278,
+    "name": "Griva Digeni - Stratigou Timagia"
+  },
+  {
+    "description": "Griva Digeni - Griva Digeni Hideout 1",
+    "lat": 34.6916422609963,
+    "lon": 33.0623303213213,
+    "name": "Griva Digeni - Griva Digeni Hideout 1"
+  },
+  {
+    "description": "Agios Nikolaos Church 1",
+    "lat": 34.6887681600871,
+    "lon": 33.0570004139943,
+    "name": "Agios Nikolaos Church 1"
+  },
+  {
+    "description": "Griva Digeni - Archiep. Makariou C´ Ave.",
+    "lat": 34.6872090893536,
+    "lon": 33.054761294322,
+    "name": "Griva Digeni - Archiep. Makariou C´ Ave."
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Griva Digeni 1",
+    "lat": 34.6867049916607,
+    "lon": 33.0527085182304,
+    "name": "Archiep. Makariou C´ Ave. - Griva Digeni 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kosta Partasidi",
+    "lat": 34.6873833341999,
+    "lon": 33.0478616468077,
+    "name": "Archiep. Makariou C´ Ave. - Kosta Partasidi"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Ipparchou",
+    "lat": 34.6875115795247,
+    "lon": 33.0424794608923,
+    "name": "Archiep. Makariou C´ Ave. - Ipparchou"
+  },
+  {
+    "description": "Laniteio School 1",
+    "lat": 34.6870615943218,
+    "lon": 33.0397826570356,
+    "name": "Laniteio School 1"
+  },
+  {
+    "description": "Agias Fylaxeos - Episkopou Lavrentiou 2",
+    "lat": 34.6854660810192,
+    "lon": 33.037718562991,
+    "name": "Agias Fylaxeos - Episkopou Lavrentiou 2"
+  },
+  {
+    "description": "Agias Fylaxeos - Athinaidos Lanitou",
+    "lat": 34.6807851830011,
+    "lon": 33.0396159078497,
+    "name": "Agias Fylaxeos - Athinaidos Lanitou"
+  },
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  }
+]

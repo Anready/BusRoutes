@@ -1,0 +1,134 @@
+[
+  {
+    "description": "Coral Bay",
+    "lat": 34.8582765056372,
+    "lon": 32.3606891964891,
+    "name": "Coral Bay"
+  },
+  {
+    "description": "Coral Beach Hotel 2",
+    "lat": 34.8573834446953,
+    "lon": 32.3640654786388,
+    "name": "Coral Beach Hotel 2"
+  },
+  {
+    "description": "Coral Bay Beach 2",
+    "lat": 34.8547120034302,
+    "lon": 32.3705620261294,
+    "name": "Coral Bay Beach 2"
+  },
+  {
+    "description": "Kolpou Korallion Ave. - Trikomou",
+    "lat": 34.8536343351561,
+    "lon": 32.3766742146693,
+    "name": "Kolpou Korallion Ave. - Trikomou"
+  },
+  {
+    "description": "Kolpou Korallion Ave. - Agiou Georgiou Ave. 2",
+    "lat": 34.8537835772232,
+    "lon": 32.3794078530934,
+    "name": "Kolpou Korallion Ave. - Agiou Georgiou Ave. 2"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Exakamarou",
+    "lat": 34.8525794097797,
+    "lon": 32.3819984754014,
+    "name": "Agiou Georgiou Ave. - Exakamarou"
+  },
+  {
+    "description": "Potima Bay 2",
+    "lat": 34.8443988822341,
+    "lon": 32.3870144658865,
+    "name": "Potima Bay 2"
+  },
+  {
+    "description": "Potima Beach 2",
+    "lat": 34.8346019742066,
+    "lon": 32.391625747483,
+    "name": "Potima Beach 2"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Mpananies",
+    "lat": 34.8262107462232,
+    "lon": 32.3924420060286,
+    "name": "Agiou Georgiou Ave. - Mpananies"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Mosfilion 2",
+    "lat": 34.8246689154845,
+    "lon": 32.3924751992581,
+    "name": "Agiou Georgiou Ave. - Mosfilion 2"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Krasari 2",
+    "lat": 34.821661809168,
+    "lon": 32.3934267389107,
+    "name": "Agiou Georgiou Ave. - Krasari 2"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Tremithos 2",
+    "lat": 34.811071707447,
+    "lon": 32.3963470424489,
+    "name": "Agiou Georgiou Ave. - Tremithos 2"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Georgiou Griva Digeni 2",
+    "lat": 34.8052598781162,
+    "lon": 32.3972530998576,
+    "name": "Agiou Georgiou Ave. - Georgiou Griva Digeni 2"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Ellados",
+    "lat": 34.8010952215192,
+    "lon": 32.3993714481375,
+    "name": "Agiou Georgiou Ave. - Ellados"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Nikolaou Pentara",
+    "lat": 34.7975859855538,
+    "lon": 32.4009163983342,
+    "name": "Agiou Georgiou Ave. - Nikolaou Pentara"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Plataion 2",
+    "lat": 34.7950469385855,
+    "lon": 32.4017108871367,
+    "name": "Agiou Georgiou Ave. - Plataion 2"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Marathonos Ave. 2",
+    "lat": 34.7890563120282,
+    "lon": 32.4029455808908,
+    "name": "Agiou Georgiou Ave. - Marathonos Ave. 2"
+  },
+  {
+    "description": "Tafoi Ton Vasileon - Pinelopis Delta 2",
+    "lat": 34.7863274205851,
+    "lon": 32.4054901137154,
+    "name": "Tafoi Ton Vasileon - Pinelopis Delta 2"
+  },
+  {
+    "description": "Venus Beach Hotel 2",
+    "lat": 34.781099374451,
+    "lon": 32.4059320135991,
+    "name": "Venus Beach Hotel 2"
+  },
+  {
+    "description": "Tafoi Ton Vasileon - Morfou",
+    "lat": 34.7767966220426,
+    "lon": 32.4075038316405,
+    "name": "Tafoi Ton Vasileon - Morfou"
+  },
+  {
+    "description": "Tombs of the Kings 2",
+    "lat": 34.7741885130192,
+    "lon": 32.4089431881183,
+    "name": "Tombs of the Kings 2"
+  },
+  {
+    "description": "Tombs of the Kings Bus Station",
+    "lat": 34.7700851526625,
+    "lon": 32.4107318563524,
+    "name": "Tombs of the Kings Bus Station"
+  }
+]

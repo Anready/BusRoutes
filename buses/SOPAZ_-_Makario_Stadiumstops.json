@@ -1,0 +1,266 @@
+[
+  {
+    "description": "Leoforos Ammochostou - Palaion",
+    "lat": 35.1582332489525,
+    "lon": 33.3972950479646,
+    "name": "Leoforos Ammochostou - Palaion"
+  },
+  {
+    "description": "Ammochostou - John Kennedy",
+    "lat": 35.1664624361865,
+    "lon": 33.3983453099318,
+    "name": "Ammochostou - John Kennedy"
+  },
+  {
+    "description": "Ave. Ammochostou - Tzon Kennenty Avenue",
+    "lat": 35.1690069908407,
+    "lon": 33.397819638183,
+    "name": "Ave. Ammochostou - Tzon Kennenty Avenue"
+  },
+  {
+    "description": "Ave. Tzon Kennenty - Roundabout Sopaz 1",
+    "lat": 35.1727225594446,
+    "lon": 33.3949056110701,
+    "name": "Ave. Tzon Kennenty - Roundabout Sopaz 1"
+  },
+  {
+    "description": "Ave. Tzon Kennenty - Psaron",
+    "lat": 35.1725388969519,
+    "lon": 33.3875579521449,
+    "name": "Ave. Tzon Kennenty - Psaron"
+  },
+  {
+    "description": "Agapis - Enotitos",
+    "lat": 35.1732910248294,
+    "lon": 33.3863974481248,
+    "name": "Agapis - Enotitos"
+  },
+  {
+    "description": "Enotitos - Petraki Kyprianou",
+    "lat": 35.175219508769,
+    "lon": 33.3895803946637,
+    "name": "Enotitos - Petraki Kyprianou"
+  },
+  {
+    "description": "Enotitos - Michalaki Kousoulidi",
+    "lat": 35.1770732193919,
+    "lon": 33.3907643478972,
+    "name": "Enotitos - Michalaki Kousoulidi"
+  },
+  {
+    "description": "Kolokotroni - Agiou Ilarionos",
+    "lat": 35.1776483983268,
+    "lon": 33.3941386993692,
+    "name": "Kolokotroni - Agiou Ilarionos"
+  },
+  {
+    "description": "Agiou Ilarionos - Kolokotroni",
+    "lat": 35.1787719399024,
+    "lon": 33.3952423784857,
+    "name": "Agiou Ilarionos - Kolokotroni"
+  },
+  {
+    "description": "Agiou Ilarionos - Municipal Market 2",
+    "lat": 35.1812084525437,
+    "lon": 33.3946610977498,
+    "name": "Agiou Ilarionos - Municipal Market 2"
+  },
+  {
+    "description": "Agiou Ilarionos - Roundabout Sopaz 2",
+    "lat": 35.1843010964312,
+    "lon": 33.3919521898989,
+    "name": "Agiou Ilarionos - Roundabout Sopaz 2"
+  },
+  {
+    "description": "Kantaras - Kantaras",
+    "lat": 35.1846431549567,
+    "lon": 33.389339795272,
+    "name": "Kantaras - Kantaras"
+  },
+  {
+    "description": "Kantaras - Georgiou Zachariou",
+    "lat": 35.1832430588515,
+    "lon": 33.3872902498712,
+    "name": "Kantaras - Georgiou Zachariou"
+  },
+  {
+    "description": "Agiou Andreou - Irakleiou",
+    "lat": 35.1810944142399,
+    "lon": 33.385270191347,
+    "name": "Agiou Andreou - Irakleiou"
+  },
+  {
+    "description": "Agiou Andreou - Sokratous",
+    "lat": 35.1792081298565,
+    "lon": 33.3829659228681,
+    "name": "Agiou Andreou - Sokratous"
+  },
+  {
+    "description": "Agiou Andreou - Evangelistria Church 2",
+    "lat": 35.1765687836269,
+    "lon": 33.3792525202926,
+    "name": "Agiou Andreou - Evangelistria Church 2"
+  },
+  {
+    "description": "Agiou Andreou - Markou Drakou",
+    "lat": 35.1747635687111,
+    "lon": 33.3769379111749,
+    "name": "Agiou Andreou - Markou Drakou"
+  },
+  {
+    "description": "Markou Drakou - Tzon Kennenty Avenue",
+    "lat": 35.1726294777796,
+    "lon": 33.375983631652,
+    "name": "Markou Drakou - Tzon Kennenty Avenue"
+  },
+  {
+    "description": "Ave. Digeni Akrita - Imvrou",
+    "lat": 35.1701195167146,
+    "lon": 33.3741052388471,
+    "name": "Ave. Digeni Akrita - Imvrou"
+  },
+  {
+    "description": "Ave. Digeni Akrita - Nafpaktou",
+    "lat": 35.1686722141035,
+    "lon": 33.3726600717402,
+    "name": "Ave. Digeni Akrita - Nafpaktou"
+  },
+  {
+    "description": "Ave. Digeni Akrita - Agios Antonios Market 2",
+    "lat": 35.166840723569,
+    "lon": 33.3700492280287,
+    "name": "Ave. Digeni Akrita - Agios Antonios Market 2"
+  },
+  {
+    "description": "Ave. Digeni Akrita - Dimitsanis",
+    "lat": 35.1648037474777,
+    "lon": 33.3667897165298,
+    "name": "Ave. Digeni Akrita - Dimitsanis"
+  },
+  {
+    "description": "Ave. Spyrou Kyprianou - E.A.C. 1",
+    "lat": 35.1643094810361,
+    "lon": 33.363240755468,
+    "name": "Ave. Spyrou Kyprianou - E.A.C. 1"
+  },
+  {
+    "description": "Ave. Spyrou Kyprianou - Skopa",
+    "lat": 35.1631725520934,
+    "lon": 33.3604796015874,
+    "name": "Ave. Spyrou Kyprianou - Skopa"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Iasonos",
+    "lat": 35.1629939222639,
+    "lon": 33.356855264624,
+    "name": "Ave. Georgiou Griva Digeni - Iasonos"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Simou Menardou",
+    "lat": 35.1637008675452,
+    "lon": 33.3525429974023,
+    "name": "Ave. Georgiou Griva Digeni - Simou Menardou"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Prodromou 1",
+    "lat": 35.1641323080403,
+    "lon": 33.3499095135503,
+    "name": "Ave. Georgiou Griva Digeni - Prodromou 1"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Europa Hotel",
+    "lat": 35.162988916153,
+    "lon": 33.346149300987,
+    "name": "Ave. Georgiou Griva Digeni - Europa Hotel"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Engomi High School 1",
+    "lat": 35.1613009026507,
+    "lon": 33.34361669671,
+    "name": "Ave. Georgiou Griva Digeni - Engomi High School 1"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Metochi Kikkou 1",
+    "lat": 35.1607047007138,
+    "lon": 33.3408032709995,
+    "name": "Ave. Georgiou Griva Digeni - Metochi Kikkou 1"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Archangelou Michail",
+    "lat": 35.1618232326204,
+    "lon": 33.3374369841471,
+    "name": "Ave. Georgiou Griva Digeni - Archangelou Michail"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni",
+    "lat": 35.1628389952049,
+    "lon": 33.3353329351681,
+    "name": "Ave. Georgiou Griva Digeni"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Nikou Kranidioti",
+    "lat": 35.1638126213518,
+    "lon": 33.3321415854085,
+    "name": "Ave. Georgiou Griva Digeni - Nikou Kranidioti"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Engomi Old Cemetery",
+    "lat": 35.1639737046588,
+    "lon": 33.329287285989,
+    "name": "Ave. Georgiou Griva Digeni - Engomi Old Cemetery"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Hilton Park 1",
+    "lat": 35.1641171007951,
+    "lon": 33.3262791757632,
+    "name": "Ave. Georgiou Griva Digeni - Hilton Park 1"
+  },
+  {
+    "description": "Ave. G. Griva Digeni - Cyprus Football Association",
+    "lat": 35.1642780167762,
+    "lon": 33.3234358335579,
+    "name": "Ave. G. Griva Digeni - Cyprus Football Association"
+  },
+  {
+    "description": "Av. Griva Digeni - Ag. Dometios-Engomi Ind. Area 1",
+    "lat": 35.1648452145143,
+    "lon": 33.3203744599751,
+    "name": "Av. Griva Digeni - Ag. Dometios-Engomi Ind. Area 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kolakasidi Roundabout 2",
+    "lat": 35.165888165599,
+    "lon": 33.3181055131897,
+    "name": "Georg. Griva Digeni Ave. - Kolakasidi Roundabout 2"
+  },
+  {
+    "description": "University of Nicosia 1",
+    "lat": 35.1663131804593,
+    "lon": 33.3141869821712,
+    "name": "University of Nicosia 1"
+  },
+  {
+    "description": "Makedonitissis - School for the Deaf 1",
+    "lat": 35.1637894566526,
+    "lon": 33.3137709949041,
+    "name": "Makedonitissis - School for the Deaf 1"
+  },
+  {
+    "description": "Makedonitissis - Papaflesa",
+    "lat": 35.1598803611156,
+    "lon": 33.3120870151481,
+    "name": "Makedonitissis - Papaflesa"
+  },
+  {
+    "description": "Makedonitissas Tomb 2",
+    "lat": 35.153712719255,
+    "lon": 33.308528151779,
+    "name": "Makedonitissas Tomb 2"
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  }
+]

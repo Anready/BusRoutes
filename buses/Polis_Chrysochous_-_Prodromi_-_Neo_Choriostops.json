@@ -1,0 +1,74 @@
+[
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  },
+  {
+    "description": "Vas. Stasioikou A` Ave. - Efesou",
+    "lat": 35.0329856467103,
+    "lon": 32.4252624441259,
+    "name": "Vas. Stasioikou A` Ave. - Efesou"
+  },
+  {
+    "description": "Vas. Stasioikou A` Ave. - 1st Stop",
+    "lat": 35.0295858130422,
+    "lon": 32.419509027489,
+    "name": "Vas. Stasioikou A` Ave. - 1st Stop"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 35.0290661786874,
+    "lon": 32.4183287633213,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "Akamantos Ave. - Georgiou Chatzigianni",
+    "lat": 35.0313755743707,
+    "lon": 32.4147824133601,
+    "name": "Akamantos Ave. - Georgiou Chatzigianni"
+  },
+  {
+    "description": "Akamantos Ave. - 1st Stop",
+    "lat": 35.0340611792501,
+    "lon": 32.4107398281387,
+    "name": "Akamantos Ave. - 1st Stop"
+  },
+  {
+    "description": "Latsi Marina - Parking Place 2",
+    "lat": 35.0392809125707,
+    "lon": 32.3976335722363,
+    "name": "Latsi Marina - Parking Place 2"
+  },
+  {
+    "description": "Latsi Marina 1",
+    "lat": 35.0409081080837,
+    "lon": 32.3930277320431,
+    "name": "Latsi Marina 1"
+  },
+  {
+    "description": "Latsi Beach 1",
+    "lat": 35.0407977264116,
+    "lon": 32.3854305407177,
+    "name": "Latsi Beach 1"
+  },
+  {
+    "description": "1st Stop Neo Chorio Pafou",
+    "lat": 35.0382952671989,
+    "lon": 32.3774348902635,
+    "name": "1st Stop Neo Chorio Pafou"
+  },
+  {
+    "description": "5th Stop Neo Chorio Pafou",
+    "lat": 35.0278517725078,
+    "lon": 32.3649514112114,
+    "name": "5th Stop Neo Chorio Pafou"
+  },
+  {
+    "description": "7th Stop Neo Chorio Pafou",
+    "lat": 35.0248503590399,
+    "lon": 32.3600527808968,
+    "name": "7th Stop Neo Chorio Pafou"
+  }
+]

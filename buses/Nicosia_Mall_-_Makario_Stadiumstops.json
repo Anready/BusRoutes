@@ -1,0 +1,50 @@
+[
+  {
+    "description": "NICOSIA MALL",
+    "lat": 35.1328996865444,
+    "lon": 33.2793510969183,
+    "name": "NICOSIA MALL"
+  },
+  {
+    "description": "Kopegchagus - Copenhagen",
+    "lat": 35.1261890057772,
+    "lon": 33.2916317559509,
+    "name": "Kopegchagus - Copenhagen"
+  },
+  {
+    "description": "Archangelou Michail - Alexandrou Panagouli",
+    "lat": 35.1318416814806,
+    "lon": 33.3031111555501,
+    "name": "Archangelou Michail - Alexandrou Panagouli"
+  },
+  {
+    "description": "Stadiou - Alexandrou Panagouli",
+    "lat": 35.1401141831134,
+    "lon": 33.3052165462797,
+    "name": "Stadiou - Alexandrou Panagouli"
+  },
+  {
+    "description": "Lykavitou Ave.  - Gravias",
+    "lat": 35.1400290263535,
+    "lon": 33.3103426673482,
+    "name": "Lykavitou Ave.  - Gravias"
+  },
+  {
+    "description": "Lykavitou Ave.  - Nikolaou Saripolou",
+    "lat": 35.1431929023549,
+    "lon": 33.3107937887305,
+    "name": "Lykavitou Ave.  - Nikolaou Saripolou"
+  },
+  {
+    "description": "Lykavitou Ave.",
+    "lat": 35.1466381635678,
+    "lon": 33.31052145137,
+    "name": "Lykavitou Ave."
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  }
+]

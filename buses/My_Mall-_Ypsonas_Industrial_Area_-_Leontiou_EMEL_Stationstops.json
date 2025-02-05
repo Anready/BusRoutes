@@ -1,0 +1,158 @@
+[
+  {
+    "description": "MY MALL",
+    "lat": 34.6512127016143,
+    "lon": 32.9954930950808,
+    "name": "MY MALL"
+  },
+  {
+    "description": "Kathetos Limaniou - Fragklinou Rousvelt 2",
+    "lat": 34.6592026213638,
+    "lon": 32.9958528130199,
+    "name": "Kathetos Limaniou - Fragklinou Rousvelt 2"
+  },
+  {
+    "description": "Epimitheos 2",
+    "lat": 34.6658667540483,
+    "lon": 32.9930583629114,
+    "name": "Epimitheos 2"
+  },
+  {
+    "description": "Acharnon - Limassol Industrial Area 2",
+    "lat": 34.6690050481238,
+    "lon": 32.9940513602555,
+    "name": "Acharnon - Limassol Industrial Area 2"
+  },
+  {
+    "description": "Dilou - Limassol Industrial Area 2",
+    "lat": 34.6705472144888,
+    "lon": 32.9966817981718,
+    "name": "Dilou - Limassol Industrial Area 2"
+  },
+  {
+    "description": "23 Elementary School - Agios Spyridonas 2",
+    "lat": 34.6675352619475,
+    "lon": 32.9986029129538,
+    "name": "23 Elementary School - Agios Spyridonas 2"
+  },
+  {
+    "description": "Pigasou - Aidonion 2",
+    "lat": 34.6671925600187,
+    "lon": 33.0026304421223,
+    "name": "Pigasou - Aidonion 2"
+  },
+  {
+    "description": "Miltonos - Tefkrou Anthia",
+    "lat": 34.6690321692655,
+    "lon": 33.0043550606097,
+    "name": "Miltonos - Tefkrou Anthia"
+  },
+  {
+    "description": "Miltonos - Tefkrou Anthia 2",
+    "lat": 34.6703577805953,
+    "lon": 33.004999121636,
+    "name": "Miltonos - Tefkrou Anthia 2"
+  },
+  {
+    "description": "Mytilinis - Chiou 2",
+    "lat": 34.6705110464897,
+    "lon": 33.0058723414701,
+    "name": "Mytilinis - Chiou 2"
+  },
+  {
+    "description": "Mytilinis - Antipaxou 2",
+    "lat": 34.6659299877357,
+    "lon": 33.0046714197054,
+    "name": "Mytilinis - Antipaxou 2"
+  },
+  {
+    "description": "Sarantaporou - Zyrichis",
+    "lat": 34.6656862833522,
+    "lon": 33.0086879420416,
+    "name": "Sarantaporou - Zyrichis"
+  },
+  {
+    "description": "Sarantaporou - Markou Charalampous 2",
+    "lat": 34.6665517291078,
+    "lon": 33.0119515018197,
+    "name": "Sarantaporou - Markou Charalampous 2"
+  },
+  {
+    "description": "Asias - Ilioupoleos 2",
+    "lat": 34.6654151944615,
+    "lon": 33.0144834943597,
+    "name": "Asias - Ilioupoleos 2"
+  },
+  {
+    "description": "Vasileos Pavlou A´ - Aiginis",
+    "lat": 34.6669571821565,
+    "lon": 33.0151386426989,
+    "name": "Vasileos Pavlou A´ - Aiginis"
+  },
+  {
+    "description": "Vasileos Pavlou A´ - Kyriakou Katoli 2",
+    "lat": 34.6701494770532,
+    "lon": 33.0155649117474,
+    "name": "Vasileos Pavlou A´ - Kyriakou Katoli 2"
+  },
+  {
+    "description": "Vasileos Pavlou A´ - Pafou 2",
+    "lat": 34.6727645352742,
+    "lon": 33.0166351128825,
+    "name": "Vasileos Pavlou A´ - Pafou 2"
+  },
+  {
+    "description": "Misiaouli kai Kavazoglou - Soranou 2",
+    "lat": 34.6735215520626,
+    "lon": 33.0198990069736,
+    "name": "Misiaouli kai Kavazoglou - Soranou 2"
+  },
+  {
+    "description": "Misiaouli kai Kavazoglou - Ippokratous",
+    "lat": 34.6738546243294,
+    "lon": 33.0232392514133,
+    "name": "Misiaouli kai Kavazoglou - Ippokratous"
+  },
+  {
+    "description": "D´ Elementary School",
+    "lat": 34.6744131686009,
+    "lon": 33.0260447280247,
+    "name": "D´ Elementary School"
+  },
+  {
+    "description": "Markoni - Filellinon",
+    "lat": 34.6752963166793,
+    "lon": 33.0287521130018,
+    "name": "Markoni - Filellinon"
+  },
+  {
+    "description": "Asklipiou - Areos",
+    "lat": 34.6785878395651,
+    "lon": 33.0288296639255,
+    "name": "Asklipiou - Areos"
+  },
+  {
+    "description": "Dimitriou Charalampous - Monis Machaira",
+    "lat": 34.6789211532071,
+    "lon": 33.0302707225517,
+    "name": "Dimitriou Charalampous - Monis Machaira"
+  },
+  {
+    "description": "Aiolou - Panagioti Diomidous 2",
+    "lat": 34.6805890757129,
+    "lon": 33.0318105495945,
+    "name": "Aiolou - Panagioti Diomidous 2"
+  },
+  {
+    "description": "Archiepiskopou Leontiou A´ - Filiou Zanettou",
+    "lat": 34.6816798914142,
+    "lon": 33.0331318750662,
+    "name": "Archiepiskopou Leontiou A´ - Filiou Zanettou"
+  },
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "description": "Konnos Beach 2",
+    "lat": 34.9841597211068,
+    "lon": 34.0666031761156,
+    "name": "Konnos Beach 2"
+  },
+  {
+    "description": "Konnou - Grecian Park Hotel 2",
+    "lat": 34.9866236799533,
+    "lon": 34.068388138255,
+    "name": "Konnou - Grecian Park Hotel 2"
+  },
+  {
+    "description": "Konnou - Kirkis 2",
+    "lat": 34.9907938318521,
+    "lon": 34.0699434107199,
+    "name": "Konnou - Kirkis 2"
+  },
+  {
+    "description": "Konnou - Iras 2",
+    "lat": 34.9935092581186,
+    "lon": 34.0677434862426,
+    "name": "Konnou - Iras 2"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 16th Stop",
+    "lat": 34.9968767879216,
+    "lon": 34.0641821670893,
+    "name": "Protara - Kavo Gkreko Ave. - 16th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - Symis",
+    "lat": 35.0022869766562,
+    "lon": 34.0600551685562,
+    "name": "Protara - Kavo Gkreko Ave. - Symis"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - Amorgou",
+    "lat": 35.0065769542827,
+    "lon": 34.0582255742268,
+    "name": "Protara - Kavo Gkreko Ave. - Amorgou"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 14th Stop",
+    "lat": 35.0105343106267,
+    "lon": 34.055240773071,
+    "name": "Protara - Kavo Gkreko Ave. - 14th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 11th Stop",
+    "lat": 35.0139016696138,
+    "lon": 34.0495739090244,
+    "name": "Protara - Kavo Gkreko Ave. - 11th Stop"
+  },
+  {
+    "description": "Protara - Vrisi Beach",
+    "lat": 35.0176241558379,
+    "lon": 34.0476595600232,
+    "name": "Protara - Vrisi Beach"
+  },
+  {
+    "description": "Protara - Sunrise Beach",
+    "lat": 35.0152820487031,
+    "lon": 34.0526055766132,
+    "name": "Protara - Sunrise Beach"
+  },
+  {
+    "description": "Protara - Fig Tree Bay",
+    "lat": 35.0114130577117,
+    "lon": 34.0568412003122,
+    "name": "Protara - Fig Tree Bay"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 14th Stop",
+    "lat": 35.0105343106267,
+    "lon": 34.055240773071,
+    "name": "Protara - Kavo Gkreko Ave. - 14th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 11th Stop",
+    "lat": 35.0139016696138,
+    "lon": 34.0495739090244,
+    "name": "Protara - Kavo Gkreko Ave. - 11th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - Profiti Ilia",
+    "lat": 35.0185892060078,
+    "lon": 34.0444933088719,
+    "name": "Protara - Kavo Gkreko Ave. - Profiti Ilia"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 10th Stop",
+    "lat": 35.0211153390735,
+    "lon": 34.0411823632523,
+    "name": "Protara - Kavo Gkreko Ave. - 10th Stop"
+  },
+  {
+    "description": "Protara - Kavo Gkreko Ave. - 8th Stop",
+    "lat": 35.0234537511705,
+    "lon": 34.0387238168104,
+    "name": "Protara - Kavo Gkreko Ave. - 8th Stop"
+  },
+  {
+    "description": "Perneras Ave. - 3rd Stop",
+    "lat": 35.0271555393389,
+    "lon": 34.0392091150548,
+    "name": "Perneras Ave. - 3rd Stop"
+  },
+  {
+    "description": "Perneras Ave. - Odysseos",
+    "lat": 35.0283722100142,
+    "lon": 34.0382269848111,
+    "name": "Perneras Ave. - Odysseos"
+  },
+  {
+    "description": "Perneras Ave. - Perneras 2",
+    "lat": 35.0301022179587,
+    "lon": 34.0373170841924,
+    "name": "Perneras Ave. - Perneras 2"
+  },
+  {
+    "description": "Perneras Ave. - Ymittou",
+    "lat": 35.0319083831968,
+    "lon": 34.0338209935472,
+    "name": "Perneras Ave. - Ymittou"
+  },
+  {
+    "description": "Pinias - Perneras Ave. 2",
+    "lat": 35.0329272508308,
+    "lon": 34.0317071028224,
+    "name": "Pinias - Perneras Ave. 2"
+  },
+  {
+    "description": "Paralimni Port 2",
+    "lat": 35.0366222562559,
+    "lon": 34.0351082191561,
+    "name": "Paralimni Port 2"
+  },
+  {
+    "description": "Vrysoudion - 4th Stop",
+    "lat": 35.0418758899428,
+    "lon": 34.0312494864957,
+    "name": "Vrysoudion - 4th Stop"
+  },
+  {
+    "description": "Louma Beach 2",
+    "lat": 35.0434305548747,
+    "lon": 34.029745043708,
+    "name": "Louma Beach 2"
+  },
+  {
+    "description": "Vrysoudion - 2nd Stop",
+    "lat": 35.0471302007719,
+    "lon": 34.0251645035037,
+    "name": "Vrysoudion - 2nd Stop"
+  },
+  {
+    "description": "Agia Triada Beach 2",
+    "lat": 35.0486137156564,
+    "lon": 34.0171021335341,
+    "name": "Agia Triada Beach 2"
+  },
+  {
+    "description": "Protara Ave. - 6th Stop",
+    "lat": 35.0484251890754,
+    "lon": 34.0126920356441,
+    "name": "Protara Ave. - 6th Stop"
+  },
+  {
+    "description": "Protara Ave. - 6th Stop",
+    "lat": 35.0484551551314,
+    "lon": 34.0090960209171,
+    "name": "Protara Ave. - 6th Stop"
+  },
+  {
+    "description": "Protara Ave. - 4th Stop",
+    "lat": 35.0474471006079,
+    "lon": 34.0067043351779,
+    "name": "Protara Ave. - 4th Stop"
+  },
+  {
+    "description": "Agia Varvara Church 1",
+    "lat": 35.0451536141066,
+    "lon": 34.0016436482031,
+    "name": "Agia Varvara Church 1"
+  },
+  {
+    "description": "Protara Ave. - 2nd Stop",
+    "lat": 35.043076613677,
+    "lon": 33.9943492396182,
+    "name": "Protara Ave. - 2nd Stop"
+  },
+  {
+    "description": "B´ Paralimni Elementary School 2",
+    "lat": 35.0414428746177,
+    "lon": 33.9912486515845,
+    "name": "B´ Paralimni Elementary School 2"
+  },
+  {
+    "description": "Paralimni Municipality",
+    "lat": 35.0405176522239,
+    "lon": 33.9830586648857,
+    "name": "Paralimni Municipality"
+  },
+  {
+    "description": "1 Apriliou Ave. - Tasou Markou 1",
+    "lat": 35.0407491591044,
+    "lon": 33.9778427683324,
+    "name": "1 Apriliou Ave. - Tasou Markou 1"
+  },
+  {
+    "description": "Xenion Education 1",
+    "lat": 35.0418675043459,
+    "lon": 33.9778122394597,
+    "name": "Xenion Education 1"
+  },
+  {
+    "description": "1 Apriliou Ave. - Cheimaras",
+    "lat": 35.0461075260558,
+    "lon": 33.9775557668991,
+    "name": "1 Apriliou Ave. - Cheimaras"
+  },
+  {
+    "description": "Griva Digeni Ave. - Daidalou",
+    "lat": 35.0500492091422,
+    "lon": 33.9762759889819,
+    "name": "Griva Digeni Ave. - Daidalou"
+  },
+  {
+    "description": "Roundabout Paralimni - Deryneia 2",
+    "lat": 35.0523734114263,
+    "lon": 33.9731785815848,
+    "name": "Roundabout Paralimni - Deryneia 2"
+  },
+  {
+    "description": "New Famagusta Central Bus Station",
+    "lat": 35.0518260701067,
+    "lon": 33.9728431356542,
+    "name": "New Famagusta Central Bus Station"
+  }
+]

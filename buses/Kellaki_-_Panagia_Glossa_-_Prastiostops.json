@@ -1,0 +1,26 @@
+[
+  {
+    "description": "Kellaki 1",
+    "lat": 34.8165971946072,
+    "lon": 33.1574875775381,
+    "name": "Kellaki 1"
+  },
+  {
+    "description": "Panagia Glossa Monastery",
+    "lat": 34.808882468865,
+    "lon": 33.174091559905,
+    "name": "Panagia Glossa Monastery"
+  },
+  {
+    "description": "2nd Prastio Kellakiou 1",
+    "lat": 34.8117996629316,
+    "lon": 33.142969406583,
+    "name": "2nd Prastio Kellakiou 1"
+  },
+  {
+    "description": "1st Prastio Kellakiou",
+    "lat": 34.8108379125247,
+    "lon": 33.1402671483645,
+    "name": "1st Prastio Kellakiou"
+  }
+]

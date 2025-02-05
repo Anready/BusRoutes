@@ -1,0 +1,236 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Larnaka Municipal Theatre 1",
+    "lat": 34.9160219121426,
+    "lon": 33.6276067226033,
+    "name": "Larnaka Municipal Theatre 1"
+  },
+  {
+    "description": "Old G.S.Z.",
+    "lat": 34.913394111229,
+    "lon": 33.6283311144079,
+    "name": "Old G.S.Z."
+  },
+  {
+    "description": "Artemidos Ave. - Okkoular 1",
+    "lat": 34.9094569090795,
+    "lon": 33.6294176522971,
+    "name": "Artemidos Ave. - Okkoular 1"
+  },
+  {
+    "description": "Larnaka Courthouse 1",
+    "lat": 34.9021385907397,
+    "lon": 33.6304235189556,
+    "name": "Larnaka Courthouse 1"
+  },
+  {
+    "description": "Artemidos Ave. - Salt Lake",
+    "lat": 34.8981437002275,
+    "lon": 33.6304586623638,
+    "name": "Artemidos Ave. - Salt Lake"
+  },
+  {
+    "description": "Artemidos Ave. - Touzchane 1",
+    "lat": 34.8941481028894,
+    "lon": 33.6323652921298,
+    "name": "Artemidos Ave. - Touzchane 1"
+  },
+  {
+    "description": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1",
+    "lat": 34.8897896000335,
+    "lon": 33.6294865018293,
+    "name": "Artemidos Ave. - Tasou Mitsopoulou Ave. 1"
+  },
+  {
+    "description": "Artemidos Ave. - Old Airport 1",
+    "lat": 34.8871216677803,
+    "lon": 33.6257563183331,
+    "name": "Artemidos Ave. - Old Airport 1"
+  },
+  {
+    "description": "Larnaka Airport",
+    "lat": 34.8710309947938,
+    "lon": 33.606891856567,
+    "name": "Larnaka Airport"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 2nd Stop",
+    "lat": 34.8639811537269,
+    "lon": 33.5974203593952,
+    "name": "Archiep. Makariou C´ Ave. - 2nd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Agiou Andronikou",
+    "lat": 34.861047980987,
+    "lon": 33.5942484186861,
+    "name": "Archiep. Makariou C´ Ave. - Agiou Andronikou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Georg. Griva Digeni 1",
+    "lat": 34.859704294902,
+    "lon": 33.5905629612655,
+    "name": "Archiep. Makariou C´ Ave. - Georg. Griva Digeni 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Geraniou 1",
+    "lat": 34.8576378541096,
+    "lon": 33.5871350400825,
+    "name": "Archiep. Makariou C´ Ave. - Geraniou 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Galinis",
+    "lat": 34.8550838610927,
+    "lon": 33.5838132391959,
+    "name": "Archiep. Makariou C´ Ave. - Galinis"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Gypsou",
+    "lat": 34.8533895712274,
+    "lon": 33.5817228542324,
+    "name": "Archiep. Makariou C´ Ave. - Gypsou"
+  },
+  {
+    "description": "Kiti Municipal Stadium 1",
+    "lat": 34.850711628236,
+    "lon": 33.5778864068306,
+    "name": "Kiti Municipal Stadium 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Grigori Afxentiou",
+    "lat": 34.8485355286219,
+    "lon": 33.5746881204538,
+    "name": "Archiep. Makariou C´ Ave. - Grigori Afxentiou"
+  },
+  {
+    "description": "Kiti Police Station 1",
+    "lat": 34.8460382352448,
+    "lon": 33.5726581552762,
+    "name": "Kiti Police Station 1"
+  },
+  {
+    "description": "Archagelos Michail Church",
+    "lat": 34.8444839757917,
+    "lon": 33.5733474119548,
+    "name": "Archagelos Michail Church"
+  },
+  {
+    "description": "Pervolion Ave. - Apostolou Pavlou 1",
+    "lat": 34.8406121311408,
+    "lon": 33.574053364791,
+    "name": "Pervolion Ave. - Apostolou Pavlou 1"
+  },
+  {
+    "description": "Pervolion Ave. - Lakonias 1",
+    "lat": 34.8367093506045,
+    "lon": 33.5755793013119,
+    "name": "Pervolion Ave. - Lakonias 1"
+  },
+  {
+    "description": "Pervolion Ave. - Protomagias 1",
+    "lat": 34.8336720483512,
+    "lon": 33.5771439446984,
+    "name": "Pervolion Ave. - Protomagias 1"
+  },
+  {
+    "description": "Keryneias",
+    "lat": 34.8335994119586,
+    "lon": 33.5810368017907,
+    "name": "Keryneias"
+  },
+  {
+    "description": "Antistaseos - Ifigeneias",
+    "lat": 34.8340693213607,
+    "lon": 33.5827133839199,
+    "name": "Antistaseos - Ifigeneias"
+  },
+  {
+    "description": "Spirou Ttantí",
+    "lat": 34.8326749011931,
+    "lon": 33.583906551485,
+    "name": "Spirou Ttantí"
+  },
+  {
+    "description": "Eirinis kai Filias - Agiou Filonos",
+    "lat": 34.8304696556984,
+    "lon": 33.5849408395492,
+    "name": "Eirinis kai Filias - Agiou Filonos"
+  },
+  {
+    "description": "Venetikou Pyrgou - Vasilissas Karlotas",
+    "lat": 34.8281688436404,
+    "lon": 33.5852198334754,
+    "name": "Venetikou Pyrgou - Vasilissas Karlotas"
+  },
+  {
+    "description": "Pervolia Tourist Area - 14th Stop",
+    "lat": 34.8215961735776,
+    "lon": 33.5887271602943,
+    "name": "Pervolia Tourist Area - 14th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 12th Stop",
+    "lat": 34.8195995728184,
+    "lon": 33.5932070576969,
+    "name": "Pervolia Tourist Area - 12th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 10th Stop",
+    "lat": 34.8175617943565,
+    "lon": 33.5986923949268,
+    "name": "Pervolia Tourist Area - 10th Stop"
+  },
+  {
+    "description": "Faros (Lighthouse)",
+    "lat": 34.8186009487264,
+    "lon": 33.6019146318565,
+    "name": "Faros (Lighthouse)"
+  },
+  {
+    "description": "Faros Beach 2",
+    "lat": 34.8206696201672,
+    "lon": 33.6011751859175,
+    "name": "Faros Beach 2"
+  },
+  {
+    "description": "Pervolia Tourist Area - 8th Stop",
+    "lat": 34.8243942671946,
+    "lon": 33.6010928974528,
+    "name": "Pervolia Tourist Area - 8th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 6th Stop",
+    "lat": 34.8366136364227,
+    "lon": 33.604604920235,
+    "name": "Pervolia Tourist Area - 6th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 4th Stop",
+    "lat": 34.8400831311919,
+    "lon": 33.6104707818138,
+    "name": "Pervolia Tourist Area - 4th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 2nd Stop",
+    "lat": 34.8443072924624,
+    "lon": 33.6150521006807,
+    "name": "Pervolia Tourist Area - 2nd Stop"
+  }
+]

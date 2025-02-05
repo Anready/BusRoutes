@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Ministry of Finance",
+    "lat": 35.1686262204901,
+    "lon": 33.3549471767997,
+    "name": "Ministry of Finance"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Amaldas",
+    "lat": 35.1679798300117,
+    "lon": 33.3600945139754,
+    "name": "Archiep. Makariou III Ave. - Amaldas"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Naxou",
+    "lat": 35.1625065679554,
+    "lon": 33.366065678288,
+    "name": "Archiep. Makariou III Ave. - Naxou"
+  },
+  {
+    "description": "Technical School Nicosia III",
+    "lat": 35.1568467559872,
+    "lon": 33.3739566285601,
+    "name": "Technical School Nicosia III"
+  },
+  {
+    "description": "Lemesou Ave. - Alpha Bank",
+    "lat": 35.1542545605751,
+    "lon": 33.3753391341205,
+    "name": "Lemesou Ave. - Alpha Bank"
+  },
+  {
+    "description": "Lemesou Ave. - Melkonian",
+    "lat": 35.1513172204667,
+    "lon": 33.3746120178924,
+    "name": "Lemesou Ave. - Melkonian"
+  },
+  {
+    "description": "Traffic Education Park",
+    "lat": 35.1474406118456,
+    "lon": 33.3743637064748,
+    "name": "Traffic Education Park"
+  },
+  {
+    "description": "Lemesou Ave. - Kalispera",
+    "lat": 35.1413169604423,
+    "lon": 33.3746869478481,
+    "name": "Lemesou Ave. - Kalispera"
+  },
+  {
+    "description": "GSP Stadium",
+    "lat": 35.1133833931296,
+    "lon": 33.3592396226367,
+    "name": "GSP Stadium"
+  }
+]

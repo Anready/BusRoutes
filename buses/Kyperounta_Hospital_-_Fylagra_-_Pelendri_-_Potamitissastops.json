@@ -1,0 +1,116 @@
+[
+  {
+    "description": "Kyperounta Hospital",
+    "lat": 34.950619411433,
+    "lon": 32.9524349017202,
+    "name": "Kyperounta Hospital"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 11th Kyperounta 1",
+    "lat": 34.9499058158471,
+    "lon": 32.9494344566838,
+    "name": "Archiep. Makariou C´ Ave. - 11th Kyperounta 1"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ Avenue - Karvounas 2",
+    "lat": 34.9423130453557,
+    "lon": 32.9310633008533,
+    "name": "Archiepiskopou Makariou C´ Avenue - Karvounas 2"
+  },
+  {
+    "description": "1st Amiantos 2",
+    "lat": 34.9200958282866,
+    "lon": 32.9346947470828,
+    "name": "1st Amiantos 2"
+  },
+  {
+    "description": "2nd Amiantos 2",
+    "lat": 34.9183830065589,
+    "lon": 32.9356595140413,
+    "name": "2nd Amiantos 2"
+  },
+  {
+    "description": "Ap. Andreas Church - Amiantos 2",
+    "lat": 34.9173196798609,
+    "lon": 32.9370835451353,
+    "name": "Ap. Andreas Church - Amiantos 2"
+  },
+  {
+    "description": "Fylagra 2",
+    "lat": 34.8852943924522,
+    "lon": 32.9300603797764,
+    "name": "Fylagra 2"
+  },
+  {
+    "description": "Fylagra 1",
+    "lat": 34.8854477357899,
+    "lon": 32.9301368541693,
+    "name": "Fylagra 1"
+  },
+  {
+    "description": "Grigori Afxentiou - 3rd Pelendri 2",
+    "lat": 34.8999451468519,
+    "lon": 32.9653797043942,
+    "name": "Grigori Afxentiou - 3rd Pelendri 2"
+  },
+  {
+    "description": "Grigori Afxentiou - 4th Pelendri",
+    "lat": 34.8976906741242,
+    "lon": 32.9651179679856,
+    "name": "Grigori Afxentiou - 4th Pelendri"
+  },
+  {
+    "description": "Sotiri Tsangari - 5th Pelendri 2",
+    "lat": 34.8981690365632,
+    "lon": 32.9666500885006,
+    "name": "Sotiri Tsangari - 5th Pelendri 2"
+  },
+  {
+    "description": "Archagelos Michail Church - Pelendri",
+    "lat": 34.896302788335,
+    "lon": 32.9681174614023,
+    "name": "Archagelos Michail Church - Pelendri"
+  },
+  {
+    "description": "Pelendri Elementary School 2",
+    "lat": 34.8945082522448,
+    "lon": 32.9679868186267,
+    "name": "Pelendri Elementary School 2"
+  },
+  {
+    "description": "Pelendri Village Center 2",
+    "lat": 34.8956530767956,
+    "lon": 32.9664650432856,
+    "name": "Pelendri Village Center 2"
+  },
+  {
+    "description": "Agios Ioannis Church",
+    "lat": 34.8954719816097,
+    "lon": 32.9638711981665,
+    "name": "Agios Ioannis Church"
+  },
+  {
+    "description": "Pelendri Village Center 1",
+    "lat": 34.8957432648181,
+    "lon": 32.9665087859962,
+    "name": "Pelendri Village Center 1"
+  },
+  {
+    "description": "Pelendri Elementary School 1",
+    "lat": 34.8944450828209,
+    "lon": 32.9678117284348,
+    "name": "Pelendri Elementary School 1"
+  },
+  {
+    "description": "Nikou Karasamani - 1st Pelendri 1",
+    "lat": 34.8946262233217,
+    "lon": 32.9709418398885,
+    "name": "Nikou Karasamani - 1st Pelendri 1"
+  },
+  {
+    "description": "Panagia Potamitissa Church 1",
+    "lat": 34.9075063749346,
+    "lon": 32.9896775428609,
+    "name": "Panagia Potamitissa Church 1"
+  }
+]

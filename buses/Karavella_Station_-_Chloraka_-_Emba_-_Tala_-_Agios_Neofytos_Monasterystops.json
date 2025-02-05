@@ -1,0 +1,134 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Municipal Market",
+    "lat": 34.7780851611252,
+    "lon": 32.4185220603598,
+    "name": "Municipal Market"
+  },
+  {
+    "description": "Agia Sofia Church",
+    "lat": 34.7795782318935,
+    "lon": 32.4196045123866,
+    "name": "Agia Sofia Church"
+  },
+  {
+    "description": "Nikolaou Ellina - Fellachoglou",
+    "lat": 34.7815261083344,
+    "lon": 32.4215144685154,
+    "name": "Nikolaou Ellina - Fellachoglou"
+  },
+  {
+    "description": "Akamantidos - Elenis Kouloumou",
+    "lat": 34.7850898641537,
+    "lon": 32.4218939983843,
+    "name": "Akamantidos - Elenis Kouloumou"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ioan. Kapodistria",
+    "lat": 34.792951193443,
+    "lon": 32.4195764108171,
+    "name": "Archiep. Makariou C` Ave. - Ioan. Kapodistria"
+  },
+  {
+    "description": "Agios Nektarios Church 1",
+    "lat": 34.7950349544689,
+    "lon": 32.4178346601492,
+    "name": "Agios Nektarios Church 1"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Nik. Chatzioikonomou",
+    "lat": 34.7962012335346,
+    "lon": 32.4165802744962,
+    "name": "Archiep. Makariou C` Ave. - Nik. Chatzioikonomou"
+  },
+  {
+    "description": "Christou Kkeli Ave. - Andrea Ellina",
+    "lat": 34.7983863992611,
+    "lon": 32.4171879909892,
+    "name": "Christou Kkeli Ave. - Andrea Ellina"
+  },
+  {
+    "description": "Christou Kkeli Ave. - Zolias",
+    "lat": 34.7974695293554,
+    "lon": 32.4196868573255,
+    "name": "Christou Kkeli Ave. - Zolias"
+  },
+  {
+    "description": "Empas Ave. - Ioanni Makrygianni",
+    "lat": 34.798403121905,
+    "lon": 32.4225881649193,
+    "name": "Empas Ave. - Ioanni Makrygianni"
+  },
+  {
+    "description": "Nikolaou Ellina - Agiou Neofytou",
+    "lat": 34.8027721492319,
+    "lon": 32.4235416101613,
+    "name": "Nikolaou Ellina - Agiou Neofytou"
+  },
+  {
+    "description": "Empa Elementary School 1",
+    "lat": 34.8053929013844,
+    "lon": 32.4247368919966,
+    "name": "Empa Elementary School 1"
+  },
+  {
+    "description": "Agia Paraskevi Church 1",
+    "lat": 34.8071411152493,
+    "lon": 32.4244842202391,
+    "name": "Agia Paraskevi Church 1"
+  },
+  {
+    "description": "Nikolaou Ellina - Evag. Pallikaridi",
+    "lat": 34.8093532035815,
+    "lon": 32.4231677892295,
+    "name": "Nikolaou Ellina - Evag. Pallikaridi"
+  },
+  {
+    "description": "Nikolaou Ellina - 1st Stop",
+    "lat": 34.8122126092256,
+    "lon": 32.4233446675475,
+    "name": "Nikolaou Ellina - 1st Stop"
+  },
+  {
+    "description": "Nikolaou Ellina - 3rd Stop",
+    "lat": 34.8148616622482,
+    "lon": 32.4228997872357,
+    "name": "Nikolaou Ellina - 3rd Stop"
+  },
+  {
+    "description": "Nikolaou Ellina - 5th Stop",
+    "lat": 34.8177739247165,
+    "lon": 32.4228138730008,
+    "name": "Nikolaou Ellina - 5th Stop"
+  },
+  {
+    "description": "Miltiadi Stylianou Ave. - Agiou Andronikou",
+    "lat": 34.8312553256628,
+    "lon": 32.4285815677533,
+    "name": "Miltiadi Stylianou Ave. - Agiou Andronikou"
+  },
+  {
+    "description": "M.Stylianou 4",
+    "lat": 34.8356885792279,
+    "lon": 32.4317116432854,
+    "name": "M.Stylianou 4"
+  },
+  {
+    "description": "Igoum. Leontiou Ave. - Mouttalion",
+    "lat": 34.8396361260086,
+    "lon": 32.4390233912776,
+    "name": "Igoum. Leontiou Ave. - Mouttalion"
+  },
+  {
+    "description": "Agios Neofytos Monastery",
+    "lat": 34.8457039337022,
+    "lon": 32.4466825933203,
+    "name": "Agios Neofytos Monastery"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "description": "7th Stop Neo Chorio Pafou",
+    "lat": 35.0248503590399,
+    "lon": 32.3600527808968,
+    "name": "7th Stop Neo Chorio Pafou"
+  },
+  {
+    "description": "8th Stop Neo Chorio Pafou",
+    "lat": 35.0246436518078,
+    "lon": 32.3618959671685,
+    "name": "8th Stop Neo Chorio Pafou"
+  },
+  {
+    "description": "Agios Minas Church",
+    "lat": 35.0256179509724,
+    "lon": 32.3636971079285,
+    "name": "Agios Minas Church"
+  },
+  {
+    "description": "6th Stop Neo Chorio Pafou",
+    "lat": 35.0298255382583,
+    "lon": 32.3630396405385,
+    "name": "6th Stop Neo Chorio Pafou"
+  },
+  {
+    "description": "4th Stop Neo Chorio Pafou",
+    "lat": 35.0373266866186,
+    "lon": 32.3749535308229,
+    "name": "4th Stop Neo Chorio Pafou"
+  },
+  {
+    "description": "2nd Stop Neo Chorio Pafou",
+    "lat": 35.0383760813227,
+    "lon": 32.3773684956474,
+    "name": "2nd Stop Neo Chorio Pafou"
+  },
+  {
+    "description": "Latsi Beach 2",
+    "lat": 35.0409334235562,
+    "lon": 32.3855172361646,
+    "name": "Latsi Beach 2"
+  },
+  {
+    "description": "Latsi Marina 2",
+    "lat": 35.0411055467441,
+    "lon": 32.3928398841411,
+    "name": "Latsi Marina 2"
+  },
+  {
+    "description": "Latsi Marina - Parking Place 1",
+    "lat": 35.0394684159612,
+    "lon": 32.3972594280966,
+    "name": "Latsi Marina - Parking Place 1"
+  },
+  {
+    "description": "Polis Municipal Beach",
+    "lat": 35.0390844157875,
+    "lon": 32.4016586975734,
+    "name": "Polis Municipal Beach"
+  },
+  {
+    "description": "Akamantos Ave. - 2nd Stop",
+    "lat": 35.0346971710619,
+    "lon": 32.4098691750489,
+    "name": "Akamantos Ave. - 2nd Stop"
+  },
+  {
+    "description": "Akamantos Ave. - Afroditis",
+    "lat": 35.0316551518515,
+    "lon": 32.4147913831721,
+    "name": "Akamantos Ave. - Afroditis"
+  },
+  {
+    "description": "Agios Georgios Church 2",
+    "lat": 35.0291477514104,
+    "lon": 32.41841588462,
+    "name": "Agios Georgios Church 2"
+  },
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  }
+]

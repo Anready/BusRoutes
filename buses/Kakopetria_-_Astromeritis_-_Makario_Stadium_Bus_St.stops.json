@@ -1,0 +1,308 @@
+[
+  {
+    "description": "Archiepiskopou Makariou C Avenue 2",
+    "lat": 34.9904498215295,
+    "lon": 32.9062591796455,
+    "name": "Archiepiskopou Makariou C Avenue 2"
+  },
+  {
+    "description": "Kakopetria Square 2",
+    "lat": 34.9900695154937,
+    "lon": 32.9042434559069,
+    "name": "Kakopetria Square 2"
+  },
+  {
+    "description": "Troodos Development Company 2",
+    "lat": 34.9918445649997,
+    "lon": 32.9024991282473,
+    "name": "Troodos Development Company 2"
+  },
+  {
+    "description": "E.A.C.Galata 2",
+    "lat": 34.9930343904056,
+    "lon": 32.9019059976224,
+    "name": "E.A.C.Galata 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave - Andrea Avraamidi",
+    "lat": 34.9945033960972,
+    "lon": 32.900874195989,
+    "name": "Archiep. Makariou C´ Ave - Andrea Avraamidi"
+  },
+  {
+    "description": "Galata Folk Art Museum 2",
+    "lat": 34.9959992820137,
+    "lon": 32.8996450776855,
+    "name": "Galata Folk Art Museum 2"
+  },
+  {
+    "description": "Galata Square 2",
+    "lat": 34.9974953199333,
+    "lon": 32.8986131649908,
+    "name": "Galata Square 2"
+  },
+  {
+    "description": "Lefkosias - Troodous - Sinaoros 2",
+    "lat": 35.0079548140162,
+    "lon": 32.8977454001492,
+    "name": "Lefkosias - Troodous - Sinaoros 2"
+  },
+  {
+    "description": "Ag. Ioannis Theologos Church 2",
+    "lat": 35.0108859796688,
+    "lon": 32.898344560686,
+    "name": "Ag. Ioannis Theologos Church 2"
+  },
+  {
+    "description": "Lefkosias - Troodous - Chaniou Avenue 2",
+    "lat": 35.0156283336553,
+    "lon": 32.8973851044034,
+    "name": "Lefkosias - Troodous - Chaniou Avenue 2"
+  },
+  {
+    "description": "Lefkosias-Troodous - Old Kalliana Train Station 2",
+    "lat": 35.0195782790577,
+    "lon": 32.8977638157998,
+    "name": "Lefkosias-Troodous - Old Kalliana Train Station 2"
+  },
+  {
+    "description": "OSEL Tempria Offices",
+    "lat": 35.0234390983141,
+    "lon": 32.8994032837034,
+    "name": "OSEL Tempria Offices"
+  },
+  {
+    "description": "Chrysanhos Mylona Military Camp 2",
+    "lat": 35.0260819896801,
+    "lon": 32.9003647179312,
+    "name": "Chrysanhos Mylona Military Camp 2"
+  },
+  {
+    "description": "Lefkosias - Troodous 2",
+    "lat": 35.0316551108319,
+    "lon": 32.9008183977288,
+    "name": "Lefkosias - Troodous 2"
+  },
+  {
+    "description": "Lefkosias - Troodous - Grigori Afxentiou",
+    "lat": 35.0370670286684,
+    "lon": 32.9026537515129,
+    "name": "Lefkosias - Troodous - Grigori Afxentiou"
+  },
+  {
+    "description": "Markos Drakos Military Camp 2",
+    "lat": 35.0465286537763,
+    "lon": 32.9056907730917,
+    "name": "Markos Drakos Military Camp 2"
+  },
+  {
+    "description": "Distrato Ag. Theodorou 2",
+    "lat": 35.0569574201835,
+    "lon": 32.9119405439076,
+    "name": "Distrato Ag. Theodorou 2"
+  },
+  {
+    "description": "Mitropoliti Chrysanthou Sarigianni - Atsas 2",
+    "lat": 35.0706398707507,
+    "lon": 32.9306813623997,
+    "name": "Mitropoliti Chrysanthou Sarigianni - Atsas 2"
+  },
+  {
+    "description": "Koutrafas Shooting Range 2",
+    "lat": 35.0862884148429,
+    "lon": 32.957907212713,
+    "name": "Koutrafas Shooting Range 2"
+  },
+  {
+    "description": "Koutrafas 2",
+    "lat": 35.104516559496,
+    "lon": 32.9724805292081,
+    "name": "Koutrafas 2"
+  },
+  {
+    "description": "21 Mili 2",
+    "lat": 35.127648276975,
+    "lon": 33.0130282480008,
+    "name": "21 Mili 2"
+  },
+  {
+    "description": "Lefkosias - Troodous - SEDIGEP 2",
+    "lat": 35.1352754841962,
+    "lon": 33.0224695117189,
+    "name": "Lefkosias - Troodous - SEDIGEP 2"
+  },
+  {
+    "description": "Troodous - Georgiou Griva Digeni",
+    "lat": 35.1370146667056,
+    "lon": 33.0279694837028,
+    "name": "Troodous - Georgiou Griva Digeni"
+  },
+  {
+    "description": "Troodous - Grigori Afxentiou",
+    "lat": 35.13742701768,
+    "lon": 33.0370696317743,
+    "name": "Troodous - Grigori Afxentiou"
+  },
+  {
+    "description": "Troodous - Stylianou Lena",
+    "lat": 35.1376237012367,
+    "lon": 33.0422509194108,
+    "name": "Troodous - Stylianou Lena"
+  },
+  {
+    "description": "Troodous - Karydion 2",
+    "lat": 35.1390995095593,
+    "lon": 33.0501663247556,
+    "name": "Troodous - Karydion 2"
+  },
+  {
+    "description": "Troodous - Skopy 2",
+    "lat": 35.1362651159556,
+    "lon": 33.0569153993925,
+    "name": "Troodous - Skopy 2"
+  },
+  {
+    "description": "Troodous",
+    "lat": 35.1353711438667,
+    "lon": 33.0595492121365,
+    "name": "Troodous"
+  },
+  {
+    "description": "Morfou Avenue - Makariou C´ Avenue 2",
+    "lat": 35.1327396695326,
+    "lon": 33.0731690809374,
+    "name": "Morfou Avenue - Makariou C´ Avenue 2"
+  },
+  {
+    "description": "Morfou Avenue - Pentadaktylou",
+    "lat": 35.1330882094539,
+    "lon": 33.0781856552081,
+    "name": "Morfou Avenue - Pentadaktylou"
+  },
+  {
+    "description": "Lefkosias Avenue - Avlonos",
+    "lat": 35.1329774856172,
+    "lon": 33.0819943910701,
+    "name": "Lefkosias Avenue - Avlonos"
+  },
+  {
+    "description": "Lefkosias Ave. - Christou Tsiarta Ave. 2",
+    "lat": 35.1328385875585,
+    "lon": 33.0872080750771,
+    "name": "Lefkosias Ave. - Christou Tsiarta Ave. 2"
+  },
+  {
+    "description": "Lefkosias Avenue - Apostolou Andrea",
+    "lat": 35.1329877314877,
+    "lon": 33.0927952672432,
+    "name": "Lefkosias Avenue - Apostolou Andrea"
+  },
+  {
+    "description": "Grigori Afxentiou - 1st Peristerona 2",
+    "lat": 35.1350360825432,
+    "lon": 33.102215654455,
+    "name": "Grigori Afxentiou - 1st Peristerona 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Potato Packaging Factory 1",
+    "lat": 35.1351577456264,
+    "lon": 33.1172320394481,
+    "name": "Grigori Afxentiou - Potato Packaging Factory 1"
+  },
+  {
+    "description": "Grigori Afxentiou - Kosti Palama",
+    "lat": 35.136662529355,
+    "lon": 33.1272561781652,
+    "name": "Grigori Afxentiou - Kosti Palama"
+  },
+  {
+    "description": "Grigori Afxentiou - Deneias",
+    "lat": 35.137083449297,
+    "lon": 33.1299791376865,
+    "name": "Grigori Afxentiou - Deneias"
+  },
+  {
+    "description": "Akaki High School 2",
+    "lat": 35.1372974877789,
+    "lon": 33.1401991227321,
+    "name": "Akaki High School 2"
+  },
+  {
+    "description": "Grigori Afxentiou - 2nd Akaki 2",
+    "lat": 35.1373454073169,
+    "lon": 33.1454462430781,
+    "name": "Grigori Afxentiou - 2nd Akaki 2"
+  },
+  {
+    "description": "Grigori Afxentiou - 1st Akaki 2",
+    "lat": 35.137394852176,
+    "lon": 33.1492773295786,
+    "name": "Grigori Afxentiou - 1st Akaki 2"
+  },
+  {
+    "description": "Cyprus Forest Industries",
+    "lat": 35.1469093112316,
+    "lon": 33.1752475161912,
+    "name": "Cyprus Forest Industries"
+  },
+  {
+    "description": "Palaiometocho Lyceum 2",
+    "lat": 35.1471213033133,
+    "lon": 33.1843051284717,
+    "name": "Palaiometocho Lyceum 2"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ - Kerkyras",
+    "lat": 35.1480911098447,
+    "lon": 33.1927058686848,
+    "name": "Archiepiskopou Makariou C´ - Kerkyras"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ - Anexartisias",
+    "lat": 35.1488327568933,
+    "lon": 33.1969233993943,
+    "name": "Archiepiskopou Makariou C´ - Anexartisias"
+  },
+  {
+    "description": "Kokkinotrimithia Police Station 2",
+    "lat": 35.1486976912466,
+    "lon": 33.2022806213232,
+    "name": "Kokkinotrimithia Police Station 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Archiepiskopou Kyprianou",
+    "lat": 35.1484221359408,
+    "lon": 33.2052770815661,
+    "name": "Grigori Afxentiou - Archiepiskopou Kyprianou"
+  },
+  {
+    "description": "Grigori Afxentiou - Apostolos Varnavas Church 2",
+    "lat": 35.148560691633,
+    "lon": 33.2086258904512,
+    "name": "Grigori Afxentiou - Apostolos Varnavas Church 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Post Office 2",
+    "lat": 35.1492534053677,
+    "lon": 33.2147098318443,
+    "name": "Grigori Afxentiou - Post Office 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Zalongou",
+    "lat": 35.1489518406072,
+    "lon": 33.2219329652653,
+    "name": "Grigori Afxentiou - Zalongou"
+  },
+  {
+    "description": "Grigori Afxentiou - Industrial Area 2",
+    "lat": 35.1498409593112,
+    "lon": 33.2287092544218,
+    "name": "Grigori Afxentiou - Industrial Area 2"
+  },
+  {
+    "description": "Archangelou Michail - Alexandrou Panagouli",
+    "lat": 35.1318416814806,
+    "lon": 33.3031111555501,
+    "name": "Archangelou Michail - Alexandrou Panagouli"
+  }
+]

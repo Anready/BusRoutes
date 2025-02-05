@@ -1,0 +1,158 @@
+[
+  {
+    "description": "Michail Karaoli - 25 Martiou",
+    "lat": 34.9764993181115,
+    "lon": 33.6552698566124,
+    "name": "Michail Karaoli - 25 Martiou"
+  },
+  {
+    "description": "25 Martiou - 1 Maiou",
+    "lat": 34.9776627488322,
+    "lon": 33.6535591133232,
+    "name": "25 Martiou - 1 Maiou"
+  },
+  {
+    "description": "1 Maiou - Tefkrou Anthia",
+    "lat": 34.9780446407148,
+    "lon": 33.6529705486173,
+    "name": "1 Maiou - Tefkrou Anthia"
+  },
+  {
+    "description": "1 Maiou - Pentadaktylou 1",
+    "lat": 34.9796421609536,
+    "lon": 33.6526983805477,
+    "name": "1 Maiou - Pentadaktylou 1"
+  },
+  {
+    "description": "1 Maiou - Antistaseos",
+    "lat": 34.9823888251822,
+    "lon": 33.6516903021564,
+    "name": "1 Maiou - Antistaseos"
+  },
+  {
+    "description": "Archagelos Michail Church 1",
+    "lat": 34.98389624395,
+    "lon": 33.6530827422528,
+    "name": "Archagelos Michail Church 1"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Artemis",
+    "lat": 34.9849393718193,
+    "lon": 33.6536169355694,
+    "name": "Georgiou Griva Digeni - Artemis"
+  },
+  {
+    "description": "Grigori Afxentiou - Nikis",
+    "lat": 34.9860786708055,
+    "lon": 33.6547106943939,
+    "name": "Grigori Afxentiou - Nikis"
+  },
+  {
+    "description": "Oroklini Municipal Stadium",
+    "lat": 34.9865605563851,
+    "lon": 33.6556458475833,
+    "name": "Oroklini Municipal Stadium"
+  },
+  {
+    "description": "Kyriakou Matsi - Evagora Papachristoforou",
+    "lat": 34.9870182629433,
+    "lon": 33.6527021368988,
+    "name": "Kyriakou Matsi - Evagora Papachristoforou"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Andrea Karyou",
+    "lat": 34.9849841612846,
+    "lon": 33.6536720738337,
+    "name": "Georgiou Griva Digeni - Andrea Karyou"
+  },
+  {
+    "description": "Oroklini Elementary School 2",
+    "lat": 34.9823054364056,
+    "lon": 33.6571238672127,
+    "name": "Oroklini Elementary School 2"
+  },
+  {
+    "description": "Paideias - 28 Oktovriou",
+    "lat": 34.981423083524,
+    "lon": 33.6585410951571,
+    "name": "Paideias - 28 Oktovriou"
+  },
+  {
+    "description": "Ammochostou - Taki Sofokleous",
+    "lat": 34.9784598406573,
+    "lon": 33.6595691076228,
+    "name": "Ammochostou - Taki Sofokleous"
+  },
+  {
+    "description": "Oroklini Park 2",
+    "lat": 34.9767855658795,
+    "lon": 33.6573646111417,
+    "name": "Oroklini Park 2"
+  },
+  {
+    "description": "T. Papadopoulou",
+    "lat": 34.9746639211988,
+    "lon": 33.6561754645891,
+    "name": "T. Papadopoulou"
+  },
+  {
+    "description": "Christou Afxentiou Ave. - Agias Triados",
+    "lat": 34.9726706325679,
+    "lon": 33.652916941495,
+    "name": "Christou Afxentiou Ave. - Agias Triados"
+  },
+  {
+    "description": "T. Papadopoulou (EKO)",
+    "lat": 34.971091961429,
+    "lon": 33.6547119245044,
+    "name": "T. Papadopoulou (EKO)"
+  },
+  {
+    "description": "Oroklini Lake 2",
+    "lat": 34.9685441903461,
+    "lon": 33.6572878144671,
+    "name": "Oroklini Lake 2"
+  },
+  {
+    "description": "Livadia Community Stadium",
+    "lat": 34.9601066917913,
+    "lon": 33.6347445685445,
+    "name": "Livadia Community Stadium"
+  },
+  {
+    "description": "Intercollege 2",
+    "lat": 34.9413730343365,
+    "lon": 33.6424956075423,
+    "name": "Intercollege 2"
+  },
+  {
+    "description": "Tassou Papadopoulou - Aristoteli Valaoriti",
+    "lat": 34.9334211459855,
+    "lon": 33.6388092769418,
+    "name": "Tassou Papadopoulou - Aristoteli Valaoriti"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Golgon",
+    "lat": 34.9281285866492,
+    "lon": 33.6369726300189,
+    "name": "Archiep. Makariou C´ Ave. - Golgon"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Salaminos 2",
+    "lat": 34.9259738126869,
+    "lon": 33.6369012336907,
+    "name": "Archiep. Makariou C´ Ave. - Salaminos 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Georgiou Georgiadi",
+    "lat": 34.9238185788252,
+    "lon": 33.6369174251071,
+    "name": "Archiep. Makariou C´ Ave. - Georgiou Georgiadi"
+  },
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  }
+]

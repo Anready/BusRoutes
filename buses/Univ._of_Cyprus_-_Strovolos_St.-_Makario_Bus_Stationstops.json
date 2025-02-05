@@ -1,0 +1,218 @@
+[
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  },
+  {
+    "description": "University of Cyprus - Parking Place",
+    "lat": 35.1472155482355,
+    "lon": 33.4104484021488,
+    "name": "University of Cyprus - Parking Place"
+  },
+  {
+    "description": "University of Cyprus - University House",
+    "lat": 35.1460482761817,
+    "lon": 33.4089824472376,
+    "name": "University of Cyprus - University House"
+  },
+  {
+    "description": "Ave. Athalassis - UCY Student Halls 2",
+    "lat": 35.1437463814322,
+    "lon": 33.4043602372873,
+    "name": "Ave. Athalassis - UCY Student Halls 2"
+  },
+  {
+    "description": "Ave. Kiryneias - Athalassa Park 2",
+    "lat": 35.1450221674864,
+    "lon": 33.4030491853514,
+    "name": "Ave. Kiryneias - Athalassa Park 2"
+  },
+  {
+    "description": "Ave. Kiryneias - Egnatias",
+    "lat": 35.1469347590797,
+    "lon": 33.4000395894814,
+    "name": "Ave. Kiryneias - Egnatias"
+  },
+  {
+    "description": "Ave. Kiryneias - Kythreas",
+    "lat": 35.1492100120912,
+    "lon": 33.3991504806645,
+    "name": "Ave. Kiryneias - Kythreas"
+  },
+  {
+    "description": "Ave. Kiryneias - Epidavrou",
+    "lat": 35.1501945095736,
+    "lon": 33.3959055887757,
+    "name": "Ave. Kiryneias - Epidavrou"
+  },
+  {
+    "description": "Ave. Kiryneias - Aglantzia Health Centre 1",
+    "lat": 35.1495802395558,
+    "lon": 33.3934763355959,
+    "name": "Ave. Kiryneias - Aglantzia Health Centre 1"
+  },
+  {
+    "description": "Ave. Kiryneias - Apostolos Andreas Church 1",
+    "lat": 35.1488876340352,
+    "lon": 33.3901574820819,
+    "name": "Ave. Kiryneias - Apostolos Andreas Church 1"
+  },
+  {
+    "description": "Ave. Kiryneias - Akadimias Avenue",
+    "lat": 35.1485486789483,
+    "lon": 33.3833491954001,
+    "name": "Ave. Kiryneias - Akadimias Avenue"
+  },
+  {
+    "description": "Ave. Akadimias - Rik Avenue",
+    "lat": 35.146859403687,
+    "lon": 33.3814639887923,
+    "name": "Ave. Akadimias - Rik Avenue"
+  },
+  {
+    "description": "Avenue Rik - Police Academy 1",
+    "lat": 35.1445731225187,
+    "lon": 33.3772816931493,
+    "name": "Avenue Rik - Police Academy 1"
+  },
+  {
+    "description": "Ave. Athalassas - Apostolos Varnavas Church 2",
+    "lat": 35.1407732169351,
+    "lon": 33.3726426486731,
+    "name": "Ave. Athalassas - Apostolos Varnavas Church 2"
+  },
+  {
+    "description": "Ave. Athalassas - Andrea Avraamidi",
+    "lat": 35.1423555053648,
+    "lon": 33.3682917237483,
+    "name": "Ave. Athalassas - Andrea Avraamidi"
+  },
+  {
+    "description": "Ave. Athalassas - Nikou Theofanous",
+    "lat": 35.1430192409762,
+    "lon": 33.3664833825378,
+    "name": "Ave. Athalassas - Nikou Theofanous"
+  },
+  {
+    "description": "Ave. Athalassas - Michalaki Kousoulidi",
+    "lat": 35.1439190434628,
+    "lon": 33.3641271705653,
+    "name": "Ave. Athalassas - Michalaki Kousoulidi"
+  },
+  {
+    "description": "Ave. Athalassas - Iosif Chr. Chatziiosif Avenue",
+    "lat": 35.1450192054376,
+    "lon": 33.361091155062,
+    "name": "Ave. Athalassas - Iosif Chr. Chatziiosif Avenue"
+  },
+  {
+    "description": "Ave. Athalassas - Nicosia Water Board 1",
+    "lat": 35.1462918475022,
+    "lon": 33.3576386412,
+    "name": "Ave. Athalassas - Nicosia Water Board 1"
+  },
+  {
+    "description": "Ave. Athalassas - Peiraios",
+    "lat": 35.1473101477786,
+    "lon": 33.3547887265677,
+    "name": "Ave. Athalassas - Peiraios"
+  },
+  {
+    "description": "Ave. Athalassas - Defkalionos",
+    "lat": 35.1485554324537,
+    "lon": 33.3513798138086,
+    "name": "Ave. Athalassas - Defkalionos"
+  },
+  {
+    "description": "Ave. Athalassas - Strovolou Avenue",
+    "lat": 35.1496908393089,
+    "lon": 33.3485192625446,
+    "name": "Ave. Athalassas - Strovolou Avenue"
+  },
+  {
+    "description": "Ave. Strovolou - SEK 1",
+    "lat": 35.1495246806746,
+    "lon": 33.3467180562083,
+    "name": "Ave. Strovolou - SEK 1"
+  },
+  {
+    "description": "Ave. Strovolou - Omirou",
+    "lat": 35.1469582378711,
+    "lon": 33.3455105358698,
+    "name": "Ave. Strovolou - Omirou"
+  },
+  {
+    "description": "Strovolos City Hall 1",
+    "lat": 35.1441120653755,
+    "lon": 33.3443677814721,
+    "name": "Strovolos City Hall 1"
+  },
+  {
+    "description": "Ave. Strovolou - Pythonos",
+    "lat": 35.1425967535343,
+    "lon": 33.3413315491086,
+    "name": "Ave. Strovolou - Pythonos"
+  },
+  {
+    "description": "Ave. Strovolou - Kantaras",
+    "lat": 35.1407733733759,
+    "lon": 33.3387991184145,
+    "name": "Ave. Strovolou - Kantaras"
+  },
+  {
+    "description": "Evzonon - Evdoxias",
+    "lat": 35.137538875903,
+    "lon": 33.3313103523975,
+    "name": "Evzonon - Evdoxias"
+  },
+  {
+    "description": "Elaionon - Kostaki Ompasi",
+    "lat": 35.1399691711074,
+    "lon": 33.3295967522158,
+    "name": "Elaionon - Kostaki Ompasi"
+  },
+  {
+    "description": "Elaionon",
+    "lat": 35.1429573010792,
+    "lon": 33.3316396852448,
+    "name": "Elaionon"
+  },
+  {
+    "description": "Elaionon - Makedonitissis",
+    "lat": 35.1454606766103,
+    "lon": 33.332879388081,
+    "name": "Elaionon - Makedonitissis"
+  },
+  {
+    "description": "Makedonitissis - Old Strovolos Cemetery 2",
+    "lat": 35.1465189553771,
+    "lon": 33.3316870682969,
+    "name": "Makedonitissis - Old Strovolos Cemetery 2"
+  },
+  {
+    "description": "Makedonitissis - Archangelou Michail",
+    "lat": 35.1468491583231,
+    "lon": 33.3263090443113,
+    "name": "Makedonitissis - Archangelou Michail"
+  },
+  {
+    "description": "Avenue Lefkotheou - Agias Annas",
+    "lat": 35.1475968267882,
+    "lon": 33.3232270996973,
+    "name": "Avenue Lefkotheou - Agias Annas"
+  },
+  {
+    "description": "Apolloneio Hospital 1",
+    "lat": 35.147759176593,
+    "lon": 33.3198134535275,
+    "name": "Apolloneio Hospital 1"
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  }
+]

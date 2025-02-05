@@ -1,0 +1,170 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Evag. Pallikaridi Ave. - Athinas",
+    "lat": 34.780091716565,
+    "lon": 32.4251967432691,
+    "name": "Evag. Pallikaridi Ave. - Athinas"
+  },
+  {
+    "description": "Ellados Ave. - Olgas Xinaridou",
+    "lat": 34.7823110544337,
+    "lon": 32.4273235593229,
+    "name": "Ellados Ave. - Olgas Xinaridou"
+  },
+  {
+    "description": "Dasoudi Park",
+    "lat": 34.789801336744,
+    "lon": 32.4343220448345,
+    "name": "Dasoudi Park"
+  },
+  {
+    "description": "Mesogis Ave. - Panagioti Toumazou",
+    "lat": 34.795172058822,
+    "lon": 32.4374008005802,
+    "name": "Mesogis Ave. - Panagioti Toumazou"
+  },
+  {
+    "description": "Mesogis Ave. - Viktorias",
+    "lat": 34.7977631588805,
+    "lon": 32.4400177369083,
+    "name": "Mesogis Ave. - Viktorias"
+  },
+  {
+    "description": "Mesogis Ave. - Foti Pitta",
+    "lat": 34.7998172708492,
+    "lon": 32.4415671179024,
+    "name": "Mesogis Ave. - Foti Pitta"
+  },
+  {
+    "description": "Mesogi Industrial Area - 1st Stop",
+    "lat": 34.8056177513665,
+    "lon": 32.4459885516962,
+    "name": "Mesogi Industrial Area - 1st Stop"
+  },
+  {
+    "description": "Mesogi Industrial Area - 3rd Stop",
+    "lat": 34.8109734073654,
+    "lon": 32.4497903476892,
+    "name": "Mesogi Industrial Area - 3rd Stop"
+  },
+  {
+    "description": "Mesogis Ave. - Michalaki Karaoli",
+    "lat": 34.8160313398671,
+    "lon": 32.4515827204013,
+    "name": "Mesogis Ave. - Michalaki Karaoli"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Teratsou",
+    "lat": 34.8407984637966,
+    "lon": 32.4689511405419,
+    "name": "Archiep. Makariou C` Ave. - Teratsou"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Ifaistou 1",
+    "lat": 34.8402587910995,
+    "lon": 32.4734170368357,
+    "name": "Grigori Afxentiou Ave. - Ifaistou 1"
+  },
+  {
+    "description": "Tsada Square",
+    "lat": 34.8385972093865,
+    "lon": 32.4749588137102,
+    "name": "Tsada Square"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Agiou Konstantinou",
+    "lat": 34.8369851881292,
+    "lon": 32.4754502722784,
+    "name": "Grigori Afxentiou Ave. - Agiou Konstantinou"
+  },
+  {
+    "description": "Gerolakkou Ave. - Agiou Konstantinou 1",
+    "lat": 34.8350805550285,
+    "lon": 32.4750030138766,
+    "name": "Gerolakkou Ave. - Agiou Konstantinou 1"
+  },
+  {
+    "description": "Gerolakkou Ave. - Zinonos 1",
+    "lat": 34.8334438921123,
+    "lon": 32.4781521587959,
+    "name": "Gerolakkou Ave. - Zinonos 1"
+  },
+  {
+    "description": "kallepeia Village Center - Agios Georgios Church",
+    "lat": 34.8464153376903,
+    "lon": 32.5006357005157,
+    "name": "kallepeia Village Center - Agios Georgios Church"
+  },
+  {
+    "description": "2nd Stop Kalepeia",
+    "lat": 34.8472346220129,
+    "lon": 32.4981258878109,
+    "name": "2nd Stop Kalepeia"
+  },
+  {
+    "description": "Kallepeia Comm. Board - Folk Art Museum",
+    "lat": 34.8509787121365,
+    "lon": 32.4942089550438,
+    "name": "Kallepeia Comm. Board - Folk Art Museum"
+  },
+  {
+    "description": "1st Stop Letymvou",
+    "lat": 34.8579114886601,
+    "lon": 32.5091976479585,
+    "name": "1st Stop Letymvou"
+  },
+  {
+    "description": "Letymvou Village Centre 1",
+    "lat": 34.8567920547617,
+    "lon": 32.5133722618602,
+    "name": "Letymvou Village Centre 1"
+  },
+  {
+    "description": "3rd Stop Letymvou",
+    "lat": 34.8548346623933,
+    "lon": 32.5154841305723,
+    "name": "3rd Stop Letymvou"
+  },
+  {
+    "description": "5th Stop Letymvou",
+    "lat": 34.8530694142064,
+    "lon": 32.5183058157317,
+    "name": "5th Stop Letymvou"
+  },
+  {
+    "description": "7th Stop Letymvou 1",
+    "lat": 34.8563210929066,
+    "lon": 32.5406690558807,
+    "name": "7th Stop Letymvou 1"
+  },
+  {
+    "description": "2nd Stop Lemona",
+    "lat": 34.8630846214573,
+    "lon": 32.557796934313,
+    "name": "2nd Stop Lemona"
+  },
+  {
+    "description": "1st Stop Lemona 1",
+    "lat": 34.8652335952884,
+    "lon": 32.5560896253641,
+    "name": "1st Stop Lemona 1"
+  },
+  {
+    "description": "1st Stop Choulou 1",
+    "lat": 34.8683873158259,
+    "lon": 32.5554271522462,
+    "name": "1st Stop Choulou 1"
+  },
+  {
+    "description": "Choulou Village Centre",
+    "lat": 34.8718663050513,
+    "lon": 32.5574107315993,
+    "name": "Choulou Village Centre"
+  }
+]

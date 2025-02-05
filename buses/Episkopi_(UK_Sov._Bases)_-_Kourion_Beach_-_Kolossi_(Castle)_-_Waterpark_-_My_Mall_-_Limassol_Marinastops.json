@@ -1,0 +1,206 @@
+[
+  {
+    "description": "Radio Sonde",
+    "lat": 34.6726658030215,
+    "lon": 32.8120039188162,
+    "name": "Radio Sonde"
+  },
+  {
+    "description": "Happy Valley",
+    "lat": 34.6719906924468,
+    "lon": 32.8187729343177,
+    "name": "Happy Valley"
+  },
+  {
+    "description": "Kensington 2",
+    "lat": 34.6741465682036,
+    "lon": 32.8384381360929,
+    "name": "Kensington 2"
+  },
+  {
+    "description": "Garrison",
+    "lat": 34.6752867495066,
+    "lon": 32.841426835953,
+    "name": "Garrison"
+  },
+  {
+    "description": "Apollon Hylates Sanctuary 2",
+    "lat": 34.6698845385619,
+    "lon": 32.8633763567973,
+    "name": "Apollon Hylates Sanctuary 2"
+  },
+  {
+    "description": "Agios Ermogenis",
+    "lat": 34.6623103971613,
+    "lon": 32.8911650429356,
+    "name": "Agios Ermogenis"
+  },
+  {
+    "description": "Kourion Beach - 1st Stop 1",
+    "lat": 34.6632484652551,
+    "lon": 32.8817012286141,
+    "name": "Kourion Beach - 1st Stop 1"
+  },
+  {
+    "description": "Kourion Beach",
+    "lat": 34.6651847159342,
+    "lon": 32.8790462711465,
+    "name": "Kourion Beach"
+  },
+  {
+    "description": "Kourion Beach - 1st Stop 2",
+    "lat": 34.6633026680588,
+    "lon": 32.8817993791923,
+    "name": "Kourion Beach - 1st Stop 2"
+  },
+  {
+    "description": "Agios Ermogenis 2",
+    "lat": 34.6623824918516,
+    "lon": 32.8911103783733,
+    "name": "Agios Ermogenis 2"
+  },
+  {
+    "description": "14 Street - 16 Street",
+    "lat": 34.6657738584198,
+    "lon": 32.9025006850635,
+    "name": "14 Street - 16 Street"
+  },
+  {
+    "description": "14 Street - 28 Street",
+    "lat": 34.6677630826458,
+    "lon": 32.909341913681,
+    "name": "14 Street - 28 Street"
+  },
+  {
+    "description": "14 Street - 15 Street 2",
+    "lat": 34.6732216822085,
+    "lon": 32.913123639462,
+    "name": "14 Street - 15 Street 2"
+  },
+  {
+    "description": "Cyprus Wine Museum",
+    "lat": 34.6753797754139,
+    "lon": 32.9171602199446,
+    "name": "Cyprus Wine Museum"
+  },
+  {
+    "description": "Pafou - Fountain",
+    "lat": 34.6741016756379,
+    "lon": 32.9208400496814,
+    "name": "Pafou - Fountain"
+  },
+  {
+    "description": "Kolossi Elementary School A´ 2",
+    "lat": 34.6708448891661,
+    "lon": 32.9337557982178,
+    "name": "Kolossi Elementary School A´ 2"
+  },
+  {
+    "description": "Archiepiskopou Makariou C 1",
+    "lat": 34.6677981052626,
+    "lon": 32.9361485591316,
+    "name": "Archiepiskopou Makariou C 1"
+  },
+  {
+    "description": "Kolossi Castle",
+    "lat": 34.6650740320009,
+    "lon": 32.9349064054231,
+    "name": "Kolossi Castle"
+  },
+  {
+    "description": "Griva Digeni - Ethnikis Antistaseos",
+    "lat": 34.6552391214127,
+    "lon": 32.9661802095772,
+    "name": "Griva Digeni - Ethnikis Antistaseos"
+  },
+  {
+    "description": "Fasouri Waterpark 2",
+    "lat": 34.6506684596507,
+    "lon": 32.9718565819348,
+    "name": "Fasouri Waterpark 2"
+  },
+  {
+    "description": "MY MALL",
+    "lat": 34.6512127016143,
+    "lon": 32.9954930950808,
+    "name": "MY MALL"
+  },
+  {
+    "description": "Kathetos Limaniou - Lady´s Mile Junction",
+    "lat": 34.6497158034051,
+    "lon": 32.9999454379672,
+    "name": "Kathetos Limaniou - Lady´s Mile Junction"
+  },
+  {
+    "description": "Port Parallel Road - 4th Stop",
+    "lat": 34.6481014565212,
+    "lon": 33.0056634292202,
+    "name": "Port Parallel Road - 4th Stop"
+  },
+  {
+    "description": "Port Parallel Road - 5th Stop",
+    "lat": 34.6534849138796,
+    "lon": 33.0098325233245,
+    "name": "Port Parallel Road - 5th Stop"
+  },
+  {
+    "description": "Port Parallel Road - 6th Stop",
+    "lat": 34.6578218232407,
+    "lon": 33.0165448188319,
+    "name": "Port Parallel Road - 6th Stop"
+  },
+  {
+    "description": "Ave. Omonoias - Optikou Nikolaidi",
+    "lat": 34.6615189433628,
+    "lon": 33.0182153884961,
+    "name": "Ave. Omonoias - Optikou Nikolaidi"
+  },
+  {
+    "description": "Fragklinou Rousvelt - New Port Traffic Lights",
+    "lat": 34.6635480288833,
+    "lon": 33.0178884059459,
+    "name": "Fragklinou Rousvelt - New Port Traffic Lights"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Galilaiou",
+    "lat": 34.6659910008168,
+    "lon": 33.0231715682533,
+    "name": "Fragklinou Rousvelt - Galilaiou"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Social Insurance",
+    "lat": 34.6677399450672,
+    "lon": 33.0258352588422,
+    "name": "Fragklinou Rousvelt - Social Insurance"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Water Board 2",
+    "lat": 34.6691642028609,
+    "lon": 33.0284225455108,
+    "name": "Fragklinou Rousvelt - Water Board 2"
+  },
+  {
+    "description": "Fragklinou Rousvelt - KEO 2",
+    "lat": 34.6711832773642,
+    "lon": 33.0322108166503,
+    "name": "Fragklinou Rousvelt - KEO 2"
+  },
+  {
+    "description": "Tzelal Bagiar - Agios Antonios Church 2",
+    "lat": 34.6718760191865,
+    "lon": 33.0379088772409,
+    "name": "Tzelal Bagiar - Agios Antonios Church 2"
+  },
+  {
+    "description": "Agias Theklis - Old Port",
+    "lat": 34.6716856136187,
+    "lon": 33.0410851387219,
+    "name": "Agias Theklis - Old Port"
+  },
+  {
+    "description": "Old Port",
+    "lat": 34.671198762756,
+    "lon": 33.0407356112366,
+    "name": "Old Port"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "description": "Odysseos - Lamprou Katsoni",
+    "lat": 35.0732096718292,
+    "lon": 33.3834243010048,
+    "name": "Odysseos - Lamprou Katsoni"
+  },
+  {
+    "description": "Carlsberg",
+    "lat": 35.0777703750481,
+    "lon": 33.3812079580474,
+    "name": "Carlsberg"
+  },
+  {
+    "description": "Lemesou Ave. - Megalou Alexandrou",
+    "lat": 35.0805394937328,
+    "lon": 33.3809466042865,
+    "name": "Lemesou Ave. - Megalou Alexandrou"
+  },
+  {
+    "description": "Giannou Kranidioti Ave.- North Round About",
+    "lat": 35.0835695560149,
+    "lon": 33.3808619626571,
+    "name": "Giannou Kranidioti Ave.- North Round About"
+  },
+  {
+    "description": "Giannou Kranidioti Ave. - Grigoriou Papaflessa",
+    "lat": 35.0870180841367,
+    "lon": 33.3796054440194,
+    "name": "Giannou Kranidioti Ave. - Grigoriou Papaflessa"
+  },
+  {
+    "description": "Giannou Kranidioti Ave. - Arkadiou",
+    "lat": 35.0970638615189,
+    "lon": 33.3794215972043,
+    "name": "Giannou Kranidioti Ave. - Arkadiou"
+  },
+  {
+    "description": "Giannou Kranidioti Ave. - Eleftheriou Venizelou",
+    "lat": 35.1001831243166,
+    "lon": 33.3796445174537,
+    "name": "Giannou Kranidioti Ave. - Eleftheriou Venizelou"
+  },
+  {
+    "description": "Giannou Kranidioti Ave. - Pentadaktylou",
+    "lat": 35.1032051206557,
+    "lon": 33.3792525491623,
+    "name": "Giannou Kranidioti Ave. - Pentadaktylou"
+  },
+  {
+    "description": "Giannou Kranidioti Ave. - Filippou Papakyprianou",
+    "lat": 35.1087380401032,
+    "lon": 33.3775334475191,
+    "name": "Giannou Kranidioti Ave. - Filippou Papakyprianou"
+  },
+  {
+    "description": "Giannou Kranidioti Ave. - Steliou Mavrommati",
+    "lat": 35.1124096995151,
+    "lon": 33.3770016991509,
+    "name": "Giannou Kranidioti Ave. - Steliou Mavrommati"
+  },
+  {
+    "description": "Giannou Kranidioti Ave. - Isaak and Solomou",
+    "lat": 35.1153939421058,
+    "lon": 33.3771471338357,
+    "name": "Giannou Kranidioti Ave. - Isaak and Solomou"
+  },
+  {
+    "description": "Lemesou Ave. - Kampou",
+    "lat": 35.1197592623922,
+    "lon": 33.3768270383084,
+    "name": "Lemesou Ave. - Kampou"
+  },
+  {
+    "description": "Lemesou Ave. - Volvo",
+    "lat": 35.1268358517556,
+    "lon": 33.3745328069755,
+    "name": "Lemesou Ave. - Volvo"
+  },
+  {
+    "description": "The Mall of Cyprus - Verginas",
+    "lat": 35.1296954455061,
+    "lon": 33.3741617405526,
+    "name": "The Mall of Cyprus - Verginas"
+  },
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Kalamon - Strovolos Industrial Zone",
+    "lat": 35.1240546553602,
+    "lon": 33.3728737926889,
+    "name": "Kalamon - Strovolos Industrial Zone"
+  },
+  {
+    "description": "Kalamon - Meteoron",
+    "lat": 35.1268639058609,
+    "lon": 33.3683207493343,
+    "name": "Kalamon - Meteoron"
+  },
+  {
+    "description": "Lemesou Ave. - Ellispontou",
+    "lat": 35.1423644970571,
+    "lon": 33.3741867753681,
+    "name": "Lemesou Ave. - Ellispontou"
+  },
+  {
+    "description": "Police Headquarters",
+    "lat": 35.1477840726805,
+    "lon": 33.3741017977825,
+    "name": "Police Headquarters"
+  },
+  {
+    "description": "Lemesou Ave. - San Sousi",
+    "lat": 35.1531199796396,
+    "lon": 33.3748288840826,
+    "name": "Lemesou Ave. - San Sousi"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Ethnikis Frouras",
+    "lat": 35.1563864814598,
+    "lon": 33.3740862769427,
+    "name": "Archiep. Makariou III Ave. - Ethnikis Frouras"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimitriou Papanikoli",
+    "lat": 35.1607907799319,
+    "lon": 33.3698681032299,
+    "name": "Archiep. Makariou III Ave. - Dimitriou Papanikoli"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Karpenisiou",
+    "lat": 35.1614829573628,
+    "lon": 33.3676093064794,
+    "name": "Archiep. Makariou III Ave. - Karpenisiou"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimofontos",
+    "lat": 35.1627608014222,
+    "lon": 33.3654848553327,
+    "name": "Archiep. Makariou III Ave. - Dimofontos"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Mnasiadou",
+    "lat": 35.1661974886152,
+    "lon": 33.3620961581633,
+    "name": "Archiep. Makariou III Ave. - Mnasiadou"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Theofani Theodotou",
+    "lat": 35.1677813251555,
+    "lon": 33.3601375632642,
+    "name": "Archiep. Makariou III Ave. - Theofani Theodotou"
+  },
+  {
+    "description": "Solomos Square Alighting ",
+    "lat": 35.170392452312,
+    "lon": 33.3583920449795,
+    "name": "Solomos Square Alighting "
+  }
+]

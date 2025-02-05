@@ -1,0 +1,104 @@
+[
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Kalamon - Strovolos Industrial Zone",
+    "lat": 35.1240546553602,
+    "lon": 33.3728737926889,
+    "name": "Kalamon - Strovolos Industrial Zone"
+  },
+  {
+    "description": "Kalamon - Meteoron",
+    "lat": 35.1268639058609,
+    "lon": 33.3683207493343,
+    "name": "Kalamon - Meteoron"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Vikela",
+    "lat": 35.1283788685882,
+    "lon": 33.3592835109107,
+    "name": "Spyrou Kyprianou Ave. - Vikela"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Public Market Strovolou",
+    "lat": 35.1269384136388,
+    "lon": 33.3554466968901,
+    "name": "Spyrou Kyprianou Ave. - Public Market Strovolou"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Water Dev Department Tower",
+    "lat": 35.1238462213217,
+    "lon": 33.3458519153358,
+    "name": "Spyrou Kyprianou Ave. - Water Dev Department Tower"
+  },
+  {
+    "description": "Hospital American Heard",
+    "lat": 35.1219946608161,
+    "lon": 33.340554162072,
+    "name": "Hospital American Heard"
+  },
+  {
+    "description": "Theoktisto - Roundabout Tseriou",
+    "lat": 35.1211327430198,
+    "lon": 33.3359850420351,
+    "name": "Theoktisto - Roundabout Tseriou"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Kythnou",
+    "lat": 35.1229516399975,
+    "lon": 33.3303622926777,
+    "name": "Spyrou Kyprianou Ave. - Kythnou"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave - Lakatameia Roundabout Metro",
+    "lat": 35.1255452189541,
+    "lon": 33.3249399253155,
+    "name": "Spyrou Kyprianou Ave - Lakatameia Roundabout Metro"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. -  Agios Mamas",
+    "lat": 35.1276059097574,
+    "lon": 33.3197565981635,
+    "name": "Spyrou Kyprianou Ave. -  Agios Mamas"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Pediaiou",
+    "lat": 35.1290184655151,
+    "lon": 33.3175230352669,
+    "name": "Spyrou Kyprianou Ave. - Pediaiou"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Dimokratias",
+    "lat": 35.1312902568766,
+    "lon": 33.3142719197273,
+    "name": "Spyrou Kyprianou Ave. - Dimokratias"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - APOEL",
+    "lat": 35.1345713982596,
+    "lon": 33.3112110652074,
+    "name": "Spyrou Kyprianou Ave. - APOEL"
+  },
+  {
+    "description": "Avenue Lefkotheou - Agias Annas",
+    "lat": 35.1475968267882,
+    "lon": 33.3232270996973,
+    "name": "Avenue Lefkotheou - Agias Annas"
+  },
+  {
+    "description": "Apolloneio Hospital 1",
+    "lat": 35.147759176593,
+    "lon": 33.3198134535275,
+    "name": "Apolloneio Hospital 1"
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  }
+]

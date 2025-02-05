@@ -1,0 +1,38 @@
+[
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  },
+  {
+    "description": "Vas. Stasioikou A` Ave. - Efesou",
+    "lat": 35.0329856467103,
+    "lon": 32.4252624441259,
+    "name": "Vas. Stasioikou A` Ave. - Efesou"
+  },
+  {
+    "description": "Vas. Stasioikou A` Ave. - 1st Stop",
+    "lat": 35.0295858130422,
+    "lon": 32.419509027489,
+    "name": "Vas. Stasioikou A` Ave. - 1st Stop"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 35.0290661786874,
+    "lon": 32.4183287633213,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "Akamantos Ave. - Georgiou Chatzigianni",
+    "lat": 35.0313755743707,
+    "lon": 32.4147824133601,
+    "name": "Akamantos Ave. - Georgiou Chatzigianni"
+  },
+  {
+    "description": "Androlikou",
+    "lat": 34.9985234276895,
+    "lon": 32.3815826293706,
+    "name": "Androlikou"
+  }
+]

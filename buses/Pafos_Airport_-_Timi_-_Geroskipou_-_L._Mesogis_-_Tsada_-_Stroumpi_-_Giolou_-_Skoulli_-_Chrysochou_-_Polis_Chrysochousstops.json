@@ -1,0 +1,260 @@
+[
+  {
+    "description": "Pafos Airport",
+    "lat": 34.7114810421567,
+    "lon": 32.4889879499105,
+    "name": "Pafos Airport"
+  },
+  {
+    "description": "Timi - Airport Road - 10th Stop",
+    "lat": 34.7076189146822,
+    "lon": 32.4970487135434,
+    "name": "Timi - Airport Road - 10th Stop"
+  },
+  {
+    "description": "Timi - Airport Road - 8th Stop",
+    "lat": 34.707456711141,
+    "lon": 32.4992664217665,
+    "name": "Timi - Airport Road - 8th Stop"
+  },
+  {
+    "description": "Timi - Airport Road - 6th Stop",
+    "lat": 34.7086123481371,
+    "lon": 32.5040096529604,
+    "name": "Timi - Airport Road - 6th Stop"
+  },
+  {
+    "description": "Timi - Airport Road - 4th Stop",
+    "lat": 34.7123132757592,
+    "lon": 32.5116100541374,
+    "name": "Timi - Airport Road - 4th Stop"
+  },
+  {
+    "description": "Timi - Airport Road - 1st Stop",
+    "lat": 34.726669325853,
+    "lon": 32.5160802620385,
+    "name": "Timi - Airport Road - 1st Stop"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Anexartisias 2",
+    "lat": 34.7286638056832,
+    "lon": 32.5119508057315,
+    "name": "Archiep. Makariou C` Ave. - Anexartisias 2"
+  },
+  {
+    "description": "4th Stop Acheleia",
+    "lat": 34.7345136680278,
+    "lon": 32.4958044062628,
+    "name": "4th Stop Acheleia"
+  },
+  {
+    "description": "Ag. Georgios Church - Acheleia 2",
+    "lat": 34.7382228312019,
+    "lon": 32.4857100615028,
+    "name": "Ag. Georgios Church - Acheleia 2"
+  },
+  {
+    "description": "2nd Stop Acheleia",
+    "lat": 34.7402995485645,
+    "lon": 32.4799620168692,
+    "name": "2nd Stop Acheleia"
+  },
+  {
+    "description": "American Academy 2",
+    "lat": 34.7449272669711,
+    "lon": 32.4740445759668,
+    "name": "American Academy 2"
+  },
+  {
+    "description": "Elea Golf Club",
+    "lat": 34.7475868776227,
+    "lon": 32.4718208475347,
+    "name": "Elea Golf Club"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ag. Sergiou 2",
+    "lat": 34.7496650436112,
+    "lon": 32.4686174095776,
+    "name": "Archiep. Makariou C` Ave. - Ag. Sergiou 2"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - G. Vasileiadi",
+    "lat": 34.753011603243,
+    "lon": 32.4647282371788,
+    "name": "Archiep. Makariou C` Ave. - G. Vasileiadi"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ag. Sergiou 2",
+    "lat": 34.7564595946437,
+    "lon": 32.4613734773989,
+    "name": "Archiep. Makariou C` Ave. - Ag. Sergiou 2"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Markou Drakou",
+    "lat": 34.7577215568147,
+    "lon": 32.4592237027772,
+    "name": "Archiep. Makariou C` Ave. - Markou Drakou"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ippokratous",
+    "lat": 34.7586955567914,
+    "lon": 32.4572177929723,
+    "name": "Archiep. Makariou C` Ave. - Ippokratous"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Arsinois",
+    "lat": 34.7595984592426,
+    "lon": 32.4554526898932,
+    "name": "Archiep. Makariou C` Ave. - Arsinois"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Korytsas",
+    "lat": 34.7605031851966,
+    "lon": 32.4520922254356,
+    "name": "Archiep. Makariou C` Ave. - Korytsas"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Kosta Karnavalou",
+    "lat": 34.7620282607071,
+    "lon": 32.450333831363,
+    "name": "Archiep. Makariou C` Ave. - Kosta Karnavalou"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Kyr. Partasidi",
+    "lat": 34.7637497118435,
+    "lon": 32.4481369780267,
+    "name": "Archiep. Makariou C` Ave. - Kyr. Partasidi"
+  },
+  {
+    "description": "A` High School - Ag. Theodoros 2",
+    "lat": 34.7667249358952,
+    "lon": 32.4440411799213,
+    "name": "A` High School - Ag. Theodoros 2"
+  },
+  {
+    "description": "Stelios Kyriakides Stadium",
+    "lat": 34.7692365888427,
+    "lon": 32.4411393633762,
+    "name": "Stelios Kyriakides Stadium"
+  },
+  {
+    "description": "Dimokratias Ave. - Andrea Evagorou",
+    "lat": 34.7769472198322,
+    "lon": 32.44322945016,
+    "name": "Dimokratias Ave. - Andrea Evagorou"
+  },
+  {
+    "description": "Dimokratias Ave. - Agiou Ioannou",
+    "lat": 34.7859093528205,
+    "lon": 32.4409613456044,
+    "name": "Dimokratias Ave. - Agiou Ioannou"
+  },
+  {
+    "description": "Mesogis Ave. - Panagioti Toumazou",
+    "lat": 34.795172058822,
+    "lon": 32.4374008005802,
+    "name": "Mesogis Ave. - Panagioti Toumazou"
+  },
+  {
+    "description": "Mesogis Ave. - Viktorias",
+    "lat": 34.7977631588805,
+    "lon": 32.4400177369083,
+    "name": "Mesogis Ave. - Viktorias"
+  },
+  {
+    "description": "Mesogis Ave. - Foti Pitta",
+    "lat": 34.7998172708492,
+    "lon": 32.4415671179024,
+    "name": "Mesogis Ave. - Foti Pitta"
+  },
+  {
+    "description": "Mesogi Industrial Area - 1st Stop",
+    "lat": 34.8056177513665,
+    "lon": 32.4459885516962,
+    "name": "Mesogi Industrial Area - 1st Stop"
+  },
+  {
+    "description": "Mesogi Industrial Area - 3rd Stop",
+    "lat": 34.8109734073654,
+    "lon": 32.4497903476892,
+    "name": "Mesogi Industrial Area - 3rd Stop"
+  },
+  {
+    "description": "Mesogis Ave. - Michalaki Karaoli",
+    "lat": 34.8160313398671,
+    "lon": 32.4515827204013,
+    "name": "Mesogis Ave. - Michalaki Karaoli"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Teratsou",
+    "lat": 34.8407984637966,
+    "lon": 32.4689511405419,
+    "name": "Archiep. Makariou C` Ave. - Teratsou"
+  },
+  {
+    "description": "1st Stop Stroumpi",
+    "lat": 34.8769718777316,
+    "lon": 32.482461998289,
+    "name": "1st Stop Stroumpi"
+  },
+  {
+    "description": "Eleftherias Ave. - Agias Sofias Square",
+    "lat": 34.8843385983535,
+    "lon": 32.482328272277,
+    "name": "Eleftherias Ave. - Agias Sofias Square"
+  },
+  {
+    "description": "Eleftherias Ave. - Charilaou Michail",
+    "lat": 34.8898567446617,
+    "lon": 32.4779817651117,
+    "name": "Eleftherias Ave. - Charilaou Michail"
+  },
+  {
+    "description": "1st Stop Giolou",
+    "lat": 34.9199431699347,
+    "lon": 32.4726896092335,
+    "name": "1st Stop Giolou"
+  },
+  {
+    "description": "3rd Stop Giolou",
+    "lat": 34.921403900298,
+    "lon": 32.4768405387943,
+    "name": "3rd Stop Giolou"
+  },
+  {
+    "description": "1st Stop Skoulli",
+    "lat": 34.9809229157666,
+    "lon": 32.4512525089997,
+    "name": "1st Stop Skoulli"
+  },
+  {
+    "description": "3rd Stop Skoulli",
+    "lat": 34.9841491239898,
+    "lon": 32.4528087081713,
+    "name": "3rd Stop Skoulli"
+  },
+  {
+    "description": "1st Stop Goudi",
+    "lat": 34.9875249313606,
+    "lon": 32.4515481195813,
+    "name": "1st Stop Goudi"
+  },
+  {
+    "description": "2nd Stop Chrysochou",
+    "lat": 35.0059128194857,
+    "lon": 32.4400496543755,
+    "name": "2nd Stop Chrysochou"
+  },
+  {
+    "description": "Konstantinoupoleos - 2nd  Stop",
+    "lat": 35.0271454577489,
+    "lon": 32.4316394421102,
+    "name": "Konstantinoupoleos - 2nd  Stop"
+  },
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  }
+]

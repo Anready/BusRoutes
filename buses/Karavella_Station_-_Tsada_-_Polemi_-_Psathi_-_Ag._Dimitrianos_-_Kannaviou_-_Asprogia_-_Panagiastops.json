@@ -1,0 +1,176 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Ellados Ave. - Olgas Xinaridou",
+    "lat": 34.7823110544337,
+    "lon": 32.4273235593229,
+    "name": "Ellados Ave. - Olgas Xinaridou"
+  },
+  {
+    "description": "Dasoudi Park",
+    "lat": 34.789801336744,
+    "lon": 32.4343220448345,
+    "name": "Dasoudi Park"
+  },
+  {
+    "description": "Mesogis Ave. - Panagioti Toumazou",
+    "lat": 34.795172058822,
+    "lon": 32.4374008005802,
+    "name": "Mesogis Ave. - Panagioti Toumazou"
+  },
+  {
+    "description": "Mesogis Ave. - Viktorias",
+    "lat": 34.7977631588805,
+    "lon": 32.4400177369083,
+    "name": "Mesogis Ave. - Viktorias"
+  },
+  {
+    "description": "Mesogis Ave. - Foti Pitta",
+    "lat": 34.7998172708492,
+    "lon": 32.4415671179024,
+    "name": "Mesogis Ave. - Foti Pitta"
+  },
+  {
+    "description": "Mesogi Industrial Area - 1st Stop",
+    "lat": 34.8056177513665,
+    "lon": 32.4459885516962,
+    "name": "Mesogi Industrial Area - 1st Stop"
+  },
+  {
+    "description": "Mesogi Industrial Area - 3rd Stop",
+    "lat": 34.8109734073654,
+    "lon": 32.4497903476892,
+    "name": "Mesogi Industrial Area - 3rd Stop"
+  },
+  {
+    "description": "Mesogis Ave. - Michalaki Karaoli",
+    "lat": 34.8160313398671,
+    "lon": 32.4515827204013,
+    "name": "Mesogis Ave. - Michalaki Karaoli"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Teratsou",
+    "lat": 34.8407984637966,
+    "lon": 32.4689511405419,
+    "name": "Archiep. Makariou C` Ave. - Teratsou"
+  },
+  {
+    "description": "1st Stop Stroumpi",
+    "lat": 34.8769718777316,
+    "lon": 32.482461998289,
+    "name": "1st Stop Stroumpi"
+  },
+  {
+    "description": "Archiep. Makariou C - Grigori Afxentiou",
+    "lat": 34.8852556084179,
+    "lon": 32.5054894913817,
+    "name": "Archiep. Makariou C - Grigori Afxentiou"
+  },
+  {
+    "description": "Archiep. Makariou C` - Evag. Pallikaridi",
+    "lat": 34.88572401791,
+    "lon": 32.5075878125535,
+    "name": "Archiep. Makariou C` - Evag. Pallikaridi"
+  },
+  {
+    "description": "Archiep. Makariou C - Andrea Thoukydidi",
+    "lat": 34.8853974578573,
+    "lon": 32.5093406932188,
+    "name": "Archiep. Makariou C - Andrea Thoukydidi"
+  },
+  {
+    "description": "Archiep. Makariou C - Nikou Karapataki 1",
+    "lat": 34.8870593779867,
+    "lon": 32.5122527423796,
+    "name": "Archiep. Makariou C - Nikou Karapataki 1"
+  },
+  {
+    "description": "Polemi Elementary School",
+    "lat": 34.8891879877296,
+    "lon": 32.5146259194643,
+    "name": "Polemi Elementary School"
+  },
+  {
+    "description": "1st Stop Psathi",
+    "lat": 34.8980256994353,
+    "lon": 32.5285178794268,
+    "name": "1st Stop Psathi"
+  },
+  {
+    "description": "3rd Stop Psathi",
+    "lat": 34.8991654681379,
+    "lon": 32.5317730259857,
+    "name": "3rd Stop Psathi"
+  },
+  {
+    "description": "1st Stop Kannaviou",
+    "lat": 34.9134646425445,
+    "lon": 32.5726886488285,
+    "name": "1st Stop Kannaviou"
+  },
+  {
+    "description": "3rd Stop Kannaviou",
+    "lat": 34.9159609863451,
+    "lon": 32.574832353555,
+    "name": "3rd Stop Kannaviou"
+  },
+  {
+    "description": "5th Stop Kannaviou",
+    "lat": 34.9188940633432,
+    "lon": 32.5755178879281,
+    "name": "5th Stop Kannaviou"
+  },
+  {
+    "description": "2nd Stop Asprogia 1",
+    "lat": 34.9235165393119,
+    "lon": 32.6150836180097,
+    "name": "2nd Stop Asprogia 1"
+  },
+  {
+    "description": "Asprogia - Panagia Road - 1st Stop",
+    "lat": 34.9284838177963,
+    "lon": 32.6232831967052,
+    "name": "Asprogia - Panagia Road - 1st Stop"
+  },
+  {
+    "description": "Asprogia - Panagia Road - 3rd Stop",
+    "lat": 34.9239406984146,
+    "lon": 32.6238294889199,
+    "name": "Asprogia - Panagia Road - 3rd Stop"
+  },
+  {
+    "description": "1st Stop Panagia",
+    "lat": 34.9216027068716,
+    "lon": 32.62595315893,
+    "name": "1st Stop Panagia"
+  },
+  {
+    "description": "3rd Stop Panagia",
+    "lat": 34.9216042894756,
+    "lon": 32.6294127808546,
+    "name": "3rd Stop Panagia"
+  },
+  {
+    "description": "Archiep. Makarios Cultural Centre 1",
+    "lat": 34.920135359211,
+    "lon": 32.6297149800756,
+    "name": "Archiep. Makarios Cultural Centre 1"
+  },
+  {
+    "description": "Archiep. Makariou C` - Filippou Nathanail",
+    "lat": 34.919662696962,
+    "lon": 32.6314468770339,
+    "name": "Archiep. Makariou C` - Filippou Nathanail"
+  },
+  {
+    "description": "Panagia Community Board",
+    "lat": 34.9185173575317,
+    "lon": 32.6314082059189,
+    "name": "Panagia Community Board"
+  }
+]

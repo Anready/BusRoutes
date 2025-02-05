@@ -1,0 +1,104 @@
+[
+  {
+    "description": "Cyprus Pedagogical Institute / Univ. of Cyprus 2",
+    "lat": 35.0995627031604,
+    "lon": 33.3703264711085,
+    "name": "Cyprus Pedagogical Institute / Univ. of Cyprus 2"
+  },
+  {
+    "description": "Ave. Makedonias - Tseriou",
+    "lat": 35.1029522648203,
+    "lon": 33.3676645377139,
+    "name": "Ave. Makedonias - Tseriou"
+  },
+  {
+    "description": "Ave. Ioustinianou - Agias Sofias",
+    "lat": 35.1048342586992,
+    "lon": 33.3655442961639,
+    "name": "Ave. Ioustinianou - Agias Sofias"
+  },
+  {
+    "description": "Spyrou Kyprianou - Senior School 2",
+    "lat": 35.1059460392974,
+    "lon": 33.3586144550465,
+    "name": "Spyrou Kyprianou - Senior School 2"
+  },
+  {
+    "description": "Filopappou",
+    "lat": 35.1034492319697,
+    "lon": 33.3552240015533,
+    "name": "Filopappou"
+  },
+  {
+    "description": "Kallistratou - Ferekratous",
+    "lat": 35.102975976205,
+    "lon": 33.3505257619312,
+    "name": "Kallistratou - Ferekratous"
+  },
+  {
+    "description": "Ferekrati - Marikas Kotopouli",
+    "lat": 35.1062527367118,
+    "lon": 33.3493108326193,
+    "name": "Ferekrati - Marikas Kotopouli"
+  },
+  {
+    "description": "Filopappou - Agios Fanourios Church 2",
+    "lat": 35.1076267553839,
+    "lon": 33.3543533123191,
+    "name": "Filopappou - Agios Fanourios Church 2"
+  },
+  {
+    "description": "Ave. Dimitriou Vikela - 25 Martiou Avenue",
+    "lat": 35.1165755267941,
+    "lon": 33.3561698784204,
+    "name": "Ave. Dimitriou Vikela - 25 Martiou Avenue"
+  },
+  {
+    "description": "Ave. Dimitriou Vikela - Dim. Vikela Side-Street",
+    "lat": 35.1204973804523,
+    "lon": 33.3563844935431,
+    "name": "Ave. Dimitriou Vikela - Dim. Vikela Side-Street"
+  },
+  {
+    "description": "Ave. Dimitriou Vikela - Spyrou Kyprianou Avenue",
+    "lat": 35.12594402137,
+    "lon": 33.3562984636804,
+    "name": "Ave. Dimitriou Vikela - Spyrou Kyprianou Avenue"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Agios Therissos",
+    "lat": 35.1289742897005,
+    "lon": 33.3622166863752,
+    "name": "Spyrou Kyprianou Ave. - Agios Therissos"
+  },
+  {
+    "description": "Kalamon - Kampou",
+    "lat": 35.1271343844758,
+    "lon": 33.3683329427313,
+    "name": "Kalamon - Kampou"
+  },
+  {
+    "description": "Kalamon -Hospital Round About",
+    "lat": 35.1243067279532,
+    "lon": 33.3730066444956,
+    "name": "Kalamon -Hospital Round About"
+  },
+  {
+    "description": "Lemesou Ave. - Volvo",
+    "lat": 35.1268358517556,
+    "lon": 33.3745328069755,
+    "name": "Lemesou Ave. - Volvo"
+  },
+  {
+    "description": "The Mall of Cyprus - Verginas",
+    "lat": 35.1296954455061,
+    "lon": 33.3741617405526,
+    "name": "The Mall of Cyprus - Verginas"
+  },
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  }
+]

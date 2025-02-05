@@ -1,0 +1,50 @@
+[
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  },
+  {
+    "description": "University of Cyprus - University House",
+    "lat": 35.1460482761817,
+    "lon": 33.4089824472376,
+    "name": "University of Cyprus - University House"
+  },
+  {
+    "description": "Athalassis - Athalassis Avenue",
+    "lat": 35.1405359635377,
+    "lon": 33.4017427128763,
+    "name": "Athalassis - Athalassis Avenue"
+  },
+  {
+    "description": "Athalassis - Military Camp",
+    "lat": 35.1396018892484,
+    "lon": 33.3978850945119,
+    "name": "Athalassis - Military Camp"
+  },
+  {
+    "description": "Athalassis - Agriculture Research Institute",
+    "lat": 35.1383699491183,
+    "lon": 33.3828294552832,
+    "name": "Athalassis - Agriculture Research Institute"
+  },
+  {
+    "description": "Athalassis - Department of Forest",
+    "lat": 35.1376882965686,
+    "lon": 33.3787976895466,
+    "name": "Athalassis - Department of Forest"
+  },
+  {
+    "description": "Verginas",
+    "lat": 35.1330948406325,
+    "lon": 33.3741882675092,
+    "name": "Verginas"
+  },
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  }
+]

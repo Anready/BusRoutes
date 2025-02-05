@@ -1,0 +1,194 @@
+[
+  {
+    "description": "Kofinou Station",
+    "lat": 34.826273309476,
+    "lon": 33.3899202268482,
+    "name": "Kofinou Station"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Evgeniou Panagiotou",
+    "lat": 34.8286384079375,
+    "lon": 33.3919545098653,
+    "name": "Archiep. Makariou C´ Ave. - Evgeniou Panagiotou"
+  },
+  {
+    "description": "Kofinou Police Station",
+    "lat": 34.8302653116882,
+    "lon": 33.3935916947298,
+    "name": "Kofinou Police Station"
+  },
+  {
+    "description": "Menogeia 1",
+    "lat": 34.8444134587682,
+    "lon": 33.441042195122,
+    "name": "Menogeia 1"
+  },
+  {
+    "description": "Anglisides - Menogeia Road - 2nd Stop",
+    "lat": 34.8466193274217,
+    "lon": 33.4395007361835,
+    "name": "Anglisides - Menogeia Road - 2nd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kyriakou Matsi",
+    "lat": 34.8521238626443,
+    "lon": 33.4532036875843,
+    "name": "Archiep. Makariou C´ Ave. - Kyriakou Matsi"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Tasou Isaak",
+    "lat": 34.8529203656834,
+    "lon": 33.454827034241,
+    "name": "Archiep. Makariou C´ Ave. - Tasou Isaak"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Solomou Solomou",
+    "lat": 34.8541426869154,
+    "lon": 33.4583124292326,
+    "name": "Archiep. Makariou C´ Ave. - Solomou Solomou"
+  },
+  {
+    "description": "Poseidonio 2",
+    "lat": 34.8549077194886,
+    "lon": 33.4610843166874,
+    "name": "Poseidonio 2"
+  },
+  {
+    "description": "Aglisides - Alethriko Road - 2nd Stop",
+    "lat": 34.8628339971958,
+    "lon": 33.479770907049,
+    "name": "Aglisides - Alethriko Road - 2nd Stop"
+  },
+  {
+    "description": "Anexartisias Ave. - Filias Ave. 2",
+    "lat": 34.8646542567515,
+    "lon": 33.4891466183131,
+    "name": "Anexartisias Ave. - Filias Ave. 2"
+  },
+  {
+    "description": "Anexartisias Ave. - Eirinis Avenue 2",
+    "lat": 34.865674941296,
+    "lon": 33.4931897861284,
+    "name": "Anexartisias Ave. - Eirinis Avenue 2"
+  },
+  {
+    "description": "Anexartisias Ave. - Highway Exit 2",
+    "lat": 34.86650117679,
+    "lon": 33.4962362678988,
+    "name": "Anexartisias Ave. - Highway Exit 2"
+  },
+  {
+    "description": "A2 Industrial Area",
+    "lat": 34.9085910283765,
+    "lon": 33.5729498422037,
+    "name": "A2 Industrial Area"
+  },
+  {
+    "description": "Lemesou Ave. - Charilaou Trikoupi 2",
+    "lat": 34.9083162703107,
+    "lon": 33.5795485625504,
+    "name": "Lemesou Ave. - Charilaou Trikoupi 2"
+  },
+  {
+    "description": "Lemesou Ave. - Makedonias 2",
+    "lat": 34.9097790299223,
+    "lon": 33.5847912719885,
+    "name": "Lemesou Ave. - Makedonias 2"
+  },
+  {
+    "description": "Lemesou Ave. - Kritis",
+    "lat": 34.91100376662,
+    "lon": 33.5907221029325,
+    "name": "Lemesou Ave. - Kritis"
+  },
+  {
+    "description": "Kamares - Old Aqueduct 2",
+    "lat": 34.912833624016,
+    "lon": 33.5982338403757,
+    "name": "Kamares - Old Aqueduct 2"
+  },
+  {
+    "description": "G. Christodoulidi Ave. - Dafnidos",
+    "lat": 34.9186395946966,
+    "lon": 33.6003122340309,
+    "name": "G. Christodoulidi Ave. - Dafnidos"
+  },
+  {
+    "description": "Vergina High School 2",
+    "lat": 34.9201261487427,
+    "lon": 33.596918271296,
+    "name": "Vergina High School 2"
+  },
+  {
+    "description": "Vergina Lyceum",
+    "lat": 34.9211554385646,
+    "lon": 33.5948127586923,
+    "name": "Vergina Lyceum"
+  },
+  {
+    "description": "G.S.Z. Stadium 1",
+    "lat": 34.9251981674185,
+    "lon": 33.6015424405138,
+    "name": "G.S.Z. Stadium 1"
+  },
+  {
+    "description": "Eleftherias Ave. - Giorgou Christodoulidi Ave.",
+    "lat": 34.9290161344417,
+    "lon": 33.6026323651284,
+    "name": "Eleftherias Ave. - Giorgou Christodoulidi Ave."
+  },
+  {
+    "description": "Eleftherias Ave. - Ellados Ave.",
+    "lat": 34.9317212281835,
+    "lon": 33.5971774427588,
+    "name": "Eleftherias Ave. - Ellados Ave."
+  },
+  {
+    "description": "Akropoleos Ave. - Aradippou Ind. Area",
+    "lat": 34.9382665922812,
+    "lon": 33.5881909002962,
+    "name": "Akropoleos Ave. - Aradippou Ind. Area"
+  },
+  {
+    "description": "Department of Road Transport",
+    "lat": 34.9407619857672,
+    "lon": 33.584956383554,
+    "name": "Department of Road Transport"
+  },
+  {
+    "description": "Akropoleos Ave. - Stadiou Ave. 1",
+    "lat": 34.9433213047759,
+    "lon": 33.5815359563742,
+    "name": "Akropoleos Ave. - Stadiou Ave. 1"
+  },
+  {
+    "description": "Panagias Aimatousis - Ag. Georgiou Ptochou",
+    "lat": 34.9507313694201,
+    "lon": 33.5705925220225,
+    "name": "Panagias Aimatousis - Ag. Georgiou Ptochou"
+  },
+  {
+    "description": "Pascal English School 2",
+    "lat": 34.9535135660529,
+    "lon": 33.567632768845,
+    "name": "Pascal English School 2"
+  },
+  {
+    "description": "Neas Ionias 2",
+    "lat": 34.9526185043049,
+    "lon": 33.566202811091,
+    "name": "Neas Ionias 2"
+  },
+  {
+    "description": "Neas Ionias 1",
+    "lat": 34.953256928835,
+    "lon": 33.5665905315849,
+    "name": "Neas Ionias 1"
+  },
+  {
+    "description": "Pascal English School 1",
+    "lat": 34.9529781277762,
+    "lon": 33.5683628787852,
+    "name": "Pascal English School 1"
+  }
+]

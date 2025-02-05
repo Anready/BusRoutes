@@ -1,0 +1,116 @@
+[
+  {
+    "description": "Kofinou Station",
+    "lat": 34.826273309476,
+    "lon": 33.3899202268482,
+    "name": "Kofinou Station"
+  },
+  {
+    "description": "Lefkosia - Lemesos Old Road - 3rd Stop",
+    "lat": 34.8213148744709,
+    "lon": 33.3751784816719,
+    "name": "Lefkosia - Lemesos Old Road - 3rd Stop"
+  },
+  {
+    "description": "Lefkosia - Lemesos Old Road - 1st Stop",
+    "lat": 34.8165197362086,
+    "lon": 33.3685415072339,
+    "name": "Lefkosia - Lemesos Old Road - 1st Stop"
+  },
+  {
+    "description": "Skarinou Cemetery 1",
+    "lat": 34.8177282146389,
+    "lon": 33.3594603724684,
+    "name": "Skarinou Cemetery 1"
+  },
+  {
+    "description": "Environmental Education Centre 1",
+    "lat": 34.8214788938781,
+    "lon": 33.3596844291258,
+    "name": "Environmental Education Centre 1"
+  },
+  {
+    "description": "Agiou Louka Avenue",
+    "lat": 34.8223787701032,
+    "lon": 33.3603225739282,
+    "name": "Agiou Louka Avenue"
+  },
+  {
+    "description": "Distrato Lefkara - Kato Drys",
+    "lat": 34.8570401234095,
+    "lon": 33.3122626219933,
+    "name": "Distrato Lefkara - Kato Drys"
+  },
+  {
+    "description": "4th Stop Kato Drys",
+    "lat": 34.8523408516343,
+    "lon": 33.3055939330894,
+    "name": "4th Stop Kato Drys"
+  },
+  {
+    "description": "Kato Dris Rural Museum 1",
+    "lat": 34.8516038013608,
+    "lon": 33.3046395202452,
+    "name": "Kato Dris Rural Museum 1"
+  },
+  {
+    "description": "1st Stop Kato Drys",
+    "lat": 34.8507612048968,
+    "lon": 33.3026127314953,
+    "name": "1st Stop Kato Drys"
+  },
+  {
+    "description": "Agios Minas Monastery 1",
+    "lat": 34.8409741986627,
+    "lon": 33.2851424753561,
+    "name": "Agios Minas Monastery 1"
+  },
+  {
+    "description": "Vavla Community Board 1",
+    "lat": 34.8415160997107,
+    "lon": 33.2689348006758,
+    "name": "Vavla Community Board 1"
+  },
+  {
+    "description": "2nd Stop Vavla",
+    "lat": 34.8423562076807,
+    "lon": 33.268270331872,
+    "name": "2nd Stop Vavla"
+  },
+  {
+    "description": "1st Stop Vavla",
+    "lat": 34.8416078264711,
+    "lon": 33.2641116045662,
+    "name": "1st Stop Vavla"
+  },
+  {
+    "description": "Lageia 1",
+    "lat": 34.8438615154037,
+    "lon": 33.2472962665799,
+    "name": "Lageia 1"
+  },
+  {
+    "description": "Ora - Lageia Road - 2nd Stop",
+    "lat": 34.8533423240652,
+    "lon": 33.2121441885009,
+    "name": "Ora - Lageia Road - 2nd Stop"
+  },
+  {
+    "description": "Ora - Lageia Road - 1st Stop",
+    "lat": 34.8570965985302,
+    "lon": 33.1997591510228,
+    "name": "Ora - Lageia Road - 1st Stop"
+  },
+  {
+    "description": "Agioi Vavatsinias - Ora Road - 1st Stop",
+    "lat": 34.8641448815404,
+    "lon": 33.1963736559815,
+    "name": "Agioi Vavatsinias - Ora Road - 1st Stop"
+  },
+  {
+    "description": "Agioi Vavatsinias Elem. School 1",
+    "lat": 34.8793817862553,
+    "lon": 33.1925252469703,
+    "name": "Agioi Vavatsinias Elem. School 1"
+  }
+]

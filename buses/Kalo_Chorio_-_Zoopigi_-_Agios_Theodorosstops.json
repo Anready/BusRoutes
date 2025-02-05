@@ -1,0 +1,26 @@
+[
+  {
+    "description": "Kalo Chorio Cemetery",
+    "lat": 34.8509792723656,
+    "lon": 33.0351904745565,
+    "name": "Kalo Chorio Cemetery"
+  },
+  {
+    "description": "Kalo Chorio Police Station",
+    "lat": 34.8500895513304,
+    "lon": 33.0224026475192,
+    "name": "Kalo Chorio Police Station"
+  },
+  {
+    "description": "Zoopigi 1",
+    "lat": 34.8617324048048,
+    "lon": 33.0156227969874,
+    "name": "Zoopigi 1"
+  },
+  {
+    "description": "Agios Theodoros 1",
+    "lat": 34.8975919346646,
+    "lon": 33.0332621175535,
+    "name": "Agios Theodoros 1"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Pafos District Courthouse 1",
+    "lat": 34.7745233269912,
+    "lon": 32.4280658729993,
+    "name": "Pafos District Courthouse 1"
+  },
+  {
+    "description": "Fire Station 1",
+    "lat": 34.7695891522913,
+    "lon": 32.435465367438,
+    "name": "Fire Station 1"
+  },
+  {
+    "description": "Stelios Kyriakides Stadium",
+    "lat": 34.7692365888427,
+    "lon": 32.4411393633762,
+    "name": "Stelios Kyriakides Stadium"
+  },
+  {
+    "description": "Dimokratias Ave. - Andrea Evagorou",
+    "lat": 34.7769472198322,
+    "lon": 32.44322945016,
+    "name": "Dimokratias Ave. - Andrea Evagorou"
+  },
+  {
+    "description": "Choirokoitia Neolithic Settlement (OASIS)",
+    "lat": 34.7981724763475,
+    "lon": 33.3489355474517,
+    "name": "Choirokoitia Neolithic Settlement (OASIS)"
+  },
+  {
+    "description": "Lemesou Ave. - Makedonias 2",
+    "lat": 34.9097790299223,
+    "lon": 33.5847912719885,
+    "name": "Lemesou Ave. - Makedonias 2"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - I. Kondylaki",
+    "lat": 34.9166611267941,
+    "lon": 33.6046877386619,
+    "name": "Nikou kai Despoinas Pattichi Ave. - I. Kondylaki"
+  },
+  {
+    "description": "Municipal Library 2",
+    "lat": 34.916724235321,
+    "lon": 33.6243059543314,
+    "name": "Municipal Library 2"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  }
+]

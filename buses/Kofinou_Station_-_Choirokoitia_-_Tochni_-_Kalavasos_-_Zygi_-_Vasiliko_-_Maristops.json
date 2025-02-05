@@ -1,0 +1,188 @@
+[
+  {
+    "description": "Kofinou Station",
+    "lat": 34.826273309476,
+    "lon": 33.3899202268482,
+    "name": "Kofinou Station"
+  },
+  {
+    "description": "Lefkosia - Lemesos Old Road - 3rd Stop",
+    "lat": 34.8213148744709,
+    "lon": 33.3751784816719,
+    "name": "Lefkosia - Lemesos Old Road - 3rd Stop"
+  },
+  {
+    "description": "Lefkosia - Lemesos Old Road - 1st Stop",
+    "lat": 34.8165197362086,
+    "lon": 33.3685415072339,
+    "name": "Lefkosia - Lemesos Old Road - 1st Stop"
+  },
+  {
+    "description": "Agias Paraskevis - 1st Stop",
+    "lat": 34.8022153607091,
+    "lon": 33.3510406702215,
+    "name": "Agias Paraskevis - 1st Stop"
+  },
+  {
+    "description": "Choirokoitia Neolithic Settlement 1",
+    "lat": 34.7966923495642,
+    "lon": 33.3462073268595,
+    "name": "Choirokoitia Neolithic Settlement 1"
+  },
+  {
+    "description": "Agios Fanourios Church",
+    "lat": 34.7952207771555,
+    "lon": 33.3436213483527,
+    "name": "Agios Fanourios Church"
+  },
+  {
+    "description": "Agiou Fanouriou - 3rd Stop",
+    "lat": 34.7945026361725,
+    "lon": 33.3424596430151,
+    "name": "Agiou Fanouriou - 3rd Stop"
+  },
+  {
+    "description": "Agiou Fanouriou - 5th Stop",
+    "lat": 34.7924800067922,
+    "lon": 33.3369529313488,
+    "name": "Agiou Fanouriou - 5th Stop"
+  },
+  {
+    "description": "1st Stop Tochni",
+    "lat": 34.7869869222561,
+    "lon": 33.3275195237647,
+    "name": "1st Stop Tochni"
+  },
+  {
+    "description": "3rd Stop Tochni",
+    "lat": 34.7814215898222,
+    "lon": 33.3246776747193,
+    "name": "3rd Stop Tochni"
+  },
+  {
+    "description": "5th Stop Tochni",
+    "lat": 34.7813535782801,
+    "lon": 33.3231253979055,
+    "name": "5th Stop Tochni"
+  },
+  {
+    "description": "7th Stop Tochni",
+    "lat": 34.7772772632563,
+    "lon": 33.323240654419,
+    "name": "7th Stop Tochni"
+  },
+  {
+    "description": "9th Stop Tochni",
+    "lat": 34.7696072214961,
+    "lon": 33.3217135968255,
+    "name": "9th Stop Tochni"
+  },
+  {
+    "description": "11th Stop Tochni",
+    "lat": 34.7649180461099,
+    "lon": 33.3216954026902,
+    "name": "11th Stop Tochni"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 1st Stop",
+    "lat": 34.7563069739877,
+    "lon": 33.3109432514255,
+    "name": "Archiep. Makariou C´ Ave. - 1st Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 3rd Stop",
+    "lat": 34.7655142398489,
+    "lon": 33.3001048436041,
+    "name": "Archiep. Makariou C´ Ave. - 3rd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 5th Stop",
+    "lat": 34.7687765334266,
+    "lon": 33.2972972273874,
+    "name": "Archiep. Makariou C´ Ave. - 5th Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 6th Stop",
+    "lat": 34.7669590298752,
+    "lon": 33.2993123463111,
+    "name": "Archiep. Makariou C´ Ave. - 6th Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 4th Stop",
+    "lat": 34.7655952102849,
+    "lon": 33.3001816297289,
+    "name": "Archiep. Makariou C´ Ave. - 4th Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 2nd Stop",
+    "lat": 34.7563787525731,
+    "lon": 33.3110855632231,
+    "name": "Archiep. Makariou C´ Ave. - 2nd Stop"
+  },
+  {
+    "description": "Zygi - Kalavasos Road - 1st Stop",
+    "lat": 34.7542612821691,
+    "lon": 33.3174147503713,
+    "name": "Zygi - Kalavasos Road - 1st Stop"
+  },
+  {
+    "description": "Kalavasos - Mari Road - 1st Stop",
+    "lat": 34.7512572304482,
+    "lon": 33.3143768412003,
+    "name": "Kalavasos - Mari Road - 1st Stop"
+  },
+  {
+    "description": "1st Stop Mari",
+    "lat": 34.7425956895237,
+    "lon": 33.2982303153996,
+    "name": "1st Stop Mari"
+  },
+  {
+    "description": "3rd Stop Mari",
+    "lat": 34.7414755123343,
+    "lon": 33.2990346960282,
+    "name": "3rd Stop Mari"
+  },
+  {
+    "description": "5th Stop Mari",
+    "lat": 34.7384803190574,
+    "lon": 33.2995591812689,
+    "name": "5th Stop Mari"
+  },
+  {
+    "description": "Vasiliko Cement Works - 2nd Stop",
+    "lat": 34.7213339992647,
+    "lon": 33.3152355701513,
+    "name": "Vasiliko Cement Works - 2nd Stop"
+  },
+  {
+    "description": "Vasiliko - Zygi Road - 2nd Stop",
+    "lat": 34.7258363537642,
+    "lon": 33.3211944136839,
+    "name": "Vasiliko - Zygi Road - 2nd Stop"
+  },
+  {
+    "description": "Grigori Afxentiou - Andrea Dimitriou 2",
+    "lat": 34.7275064046818,
+    "lon": 33.3306488851858,
+    "name": "Grigori Afxentiou - Andrea Dimitriou 2"
+  },
+  {
+    "description": "Zygi Elementary School",
+    "lat": 34.728936246342,
+    "lon": 33.3354059718492,
+    "name": "Zygi Elementary School"
+  },
+  {
+    "description": "Konstantinoupoleos - Agiou Kyriakou 2",
+    "lat": 34.7309371499078,
+    "lon": 33.335785437035,
+    "name": "Konstantinoupoleos - Agiou Kyriakou 2"
+  },
+  {
+    "description": "Oktagono 2",
+    "lat": 34.7507300203995,
+    "lon": 33.3159918348286,
+    "name": "Oktagono 2"
+  }
+]

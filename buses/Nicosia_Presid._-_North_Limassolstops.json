@@ -1,0 +1,80 @@
+[
+  {
+    "description": "Chilonos - Michail Paridi",
+    "lat": 35.1708040725686,
+    "lon": 33.3533313787656,
+    "name": "Chilonos - Michail Paridi"
+  },
+  {
+    "description": "Ave. Louki Akrita - Ministry of Agriculture 2",
+    "lat": 35.1722093723791,
+    "lon": 33.3475720695211,
+    "name": "Ave. Louki Akrita - Ministry of Agriculture 2"
+  },
+  {
+    "description": "Ministry of Foreign Affairs",
+    "lat": 35.1575986350105,
+    "lon": 33.3517261281266,
+    "name": "Ministry of Foreign Affairs"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Naxou",
+    "lat": 35.1625065679554,
+    "lon": 33.366065678288,
+    "name": "Archiep. Makariou III Ave. - Naxou"
+  },
+  {
+    "description": "Technical School Nicosia III",
+    "lat": 35.1568467559872,
+    "lon": 33.3739566285601,
+    "name": "Technical School Nicosia III"
+  },
+  {
+    "description": "Traffic Education Park",
+    "lat": 35.1474406118456,
+    "lon": 33.3743637064748,
+    "name": "Traffic Education Park"
+  },
+  {
+    "description": "Lemesou Ave. - Kalispera",
+    "lat": 35.1413169604423,
+    "lon": 33.3746869478481,
+    "name": "Lemesou Ave. - Kalispera"
+  },
+  {
+    "description": "Mesolongiou - Georgiou Griva Digeni 2",
+    "lat": 34.711097180969,
+    "lon": 33.1274963546279,
+    "name": "Mesolongiou - Georgiou Griva Digeni 2"
+  },
+  {
+    "description": "Michail Zavou - Dimitri Lagiou 2",
+    "lat": 34.7093473162386,
+    "lon": 33.073241987991,
+    "name": "Michail Zavou - Dimitri Lagiou 2"
+  },
+  {
+    "description": "Tsirio Stadium 2",
+    "lat": 34.6992401846558,
+    "lon": 33.0224274284057,
+    "name": "Tsirio Stadium 2"
+  },
+  {
+    "description": "Agios Georgios Chavouzas Church 1",
+    "lat": 34.6935960503076,
+    "lon": 33.0155911361463,
+    "name": "Agios Georgios Chavouzas Church 1"
+  },
+  {
+    "description": "Theodorou Potamianou - Troodos Roundabout 2",
+    "lat": 34.6883752286932,
+    "lon": 33.010524447915,
+    "name": "Theodorou Potamianou - Troodos Roundabout 2"
+  },
+  {
+    "description": "New Port - Passenger Building",
+    "lat": 34.6556927006373,
+    "lon": 33.0221319488309,
+    "name": "New Port - Passenger Building"
+  }
+]

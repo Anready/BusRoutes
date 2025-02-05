@@ -1,0 +1,86 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Pafos District Courthouse 1",
+    "lat": 34.7745233269912,
+    "lon": 32.4280658729993,
+    "name": "Pafos District Courthouse 1"
+  },
+  {
+    "description": "Stratigou Alex. Papagou - Evzonon",
+    "lat": 34.7743159110939,
+    "lon": 32.4357938204752,
+    "name": "Stratigou Alex. Papagou - Evzonon"
+  },
+  {
+    "description": "Fire Station 1",
+    "lat": 34.7695891522913,
+    "lon": 32.435465367438,
+    "name": "Fire Station 1"
+  },
+  {
+    "description": "Stelios Kyriakides Stadium",
+    "lat": 34.7692365888427,
+    "lon": 32.4411393633762,
+    "name": "Stelios Kyriakides Stadium"
+  },
+  {
+    "description": "Dimokratias Ave. - Andrea Evagorou",
+    "lat": 34.7769472198322,
+    "lon": 32.44322945016,
+    "name": "Dimokratias Ave. - Andrea Evagorou"
+  },
+  {
+    "description": "EAC Paphos",
+    "lat": 34.7839190238198,
+    "lon": 32.4434886439427,
+    "name": "EAC Paphos"
+  },
+  {
+    "description": "Nicosia General Hospital - Intercity",
+    "lat": 35.1265734070068,
+    "lon": 33.374838920964,
+    "name": "Nicosia General Hospital - Intercity"
+  },
+  {
+    "description": "Lemesou Ave. - Ellispontou",
+    "lat": 35.1423644970571,
+    "lon": 33.3741867753681,
+    "name": "Lemesou Ave. - Ellispontou"
+  },
+  {
+    "description": "Police Headquarters",
+    "lat": 35.1477840726805,
+    "lon": 33.3741017977825,
+    "name": "Police Headquarters"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Ethnikis Frouras",
+    "lat": 35.1563864814598,
+    "lon": 33.3740862769427,
+    "name": "Archiep. Makariou III Ave. - Ethnikis Frouras"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Dimofontos",
+    "lat": 35.1627608014222,
+    "lon": 33.3654848553327,
+    "name": "Archiep. Makariou III Ave. - Dimofontos"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Mnasiadou",
+    "lat": 35.1661974886152,
+    "lon": 33.3620961581633,
+    "name": "Archiep. Makariou III Ave. - Mnasiadou"
+  },
+  {
+    "description": "Dionysios Solomos Square",
+    "lat": 35.1707064870553,
+    "lon": 33.3589205343724,
+    "name": "Dionysios Solomos Square"
+  }
+]

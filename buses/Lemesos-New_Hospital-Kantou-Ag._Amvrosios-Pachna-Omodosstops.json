@@ -1,0 +1,182 @@
+[
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Panagioti Diomidous",
+    "lat": 34.6813100525199,
+    "lon": 33.0335138069715,
+    "name": "Archiep. Leontiou A´ - Panagioti Diomidous"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Karatza 1",
+    "lat": 34.6819325517798,
+    "lon": 33.0325424776436,
+    "name": "Archiep. Leontiou A´ - Karatza 1"
+  },
+  {
+    "description": "Nikou & Despoinas Pattichi - Vas. Konstantinou 1",
+    "lat": 34.6845128197195,
+    "lon": 33.0279256090837,
+    "name": "Nikou & Despoinas Pattichi - Vas. Konstantinou 1"
+  },
+  {
+    "description": "Nikou & Despoinas Pattichi - Dikaiarchou 1",
+    "lat": 34.6862361771836,
+    "lon": 33.0234828890117,
+    "name": "Nikou & Despoinas Pattichi - Dikaiarchou 1"
+  },
+  {
+    "description": "Nikou & Despoinas Pattichi - Nafsikas",
+    "lat": 34.6883290651579,
+    "lon": 33.0193020886893,
+    "name": "Nikou & Despoinas Pattichi - Nafsikas"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Nafsikas",
+    "lat": 34.6884376593107,
+    "lon": 33.016736504893,
+    "name": "Spyrou Kyprianou Ave. - Nafsikas"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Theodorou Potamianou",
+    "lat": 34.685299724983,
+    "lon": 33.014410536802,
+    "name": "Spyrou Kyprianou Ave. - Theodorou Potamianou"
+  },
+  {
+    "description": "15Elementary School - Agios Neofytos 1",
+    "lat": 34.6822067990434,
+    "lon": 33.0124340841501,
+    "name": "15Elementary School - Agios Neofytos 1"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Kalavryton",
+    "lat": 34.6785731003138,
+    "lon": 33.0052397714628,
+    "name": "Spyrou Kyprianou Ave. - Kalavryton"
+  },
+  {
+    "description": "Pafou - 28th Elementary School 1",
+    "lat": 34.6773467574147,
+    "lon": 32.9978822902509,
+    "name": "Pafou - 28th Elementary School 1"
+  },
+  {
+    "description": "Pafou - Monovolikos 1",
+    "lat": 34.6789879110542,
+    "lon": 32.9944545475505,
+    "name": "Pafou - Monovolikos 1"
+  },
+  {
+    "description": "Nikaias Avenue - 22 Street 1",
+    "lat": 34.6921085695519,
+    "lon": 32.9886889859154,
+    "name": "Nikaias Avenue - 22 Street 1"
+  },
+  {
+    "description": "General Hospital 2",
+    "lat": 34.7071225147914,
+    "lon": 32.9817746211046,
+    "name": "General Hospital 2"
+  },
+  {
+    "description": "General Hospital 1",
+    "lat": 34.7052831120946,
+    "lon": 32.9834894170244,
+    "name": "General Hospital 1"
+  },
+  {
+    "description": "Nikaias Avenue - 22 Street 2",
+    "lat": 34.6921085896216,
+    "lon": 32.988907345257,
+    "name": "Nikaias Avenue - 22 Street 2"
+  },
+  {
+    "description": "Kantou Community Board 1",
+    "lat": 34.6901261803086,
+    "lon": 32.9075707068184,
+    "name": "Kantou Community Board 1"
+  },
+  {
+    "description": "Troodous - Souni - Zanakia 1",
+    "lat": 34.7375836242928,
+    "lon": 32.8825020735664,
+    "name": "Troodous - Souni - Zanakia 1"
+  },
+  {
+    "description": "Agiou Panteleimonos Ave. - 4th Pano Kyvides 2",
+    "lat": 34.754289691128,
+    "lon": 32.8615876452801,
+    "name": "Agiou Panteleimonos Ave. - 4th Pano Kyvides 2"
+  },
+  {
+    "description": "Agiou Panteleimonos Ave. - 3rd Pano Kyvides 1",
+    "lat": 34.7558372460214,
+    "lon": 32.8585366149548,
+    "name": "Agiou Panteleimonos Ave. - 3rd Pano Kyvides 1"
+  },
+  {
+    "description": "Agiou Panteleimonos Ave. - 2nd Pano Kyvides 1",
+    "lat": 34.7586079475665,
+    "lon": 32.8528172245803,
+    "name": "Agiou Panteleimonos Ave. - 2nd Pano Kyvides 1"
+  },
+  {
+    "description": "Agelikis Sotiriou - 1st Pano Kyvides 1",
+    "lat": 34.7609158197729,
+    "lon": 32.8450003208322,
+    "name": "Agelikis Sotiriou - 1st Pano Kyvides 1"
+  },
+  {
+    "description": "Pano Kyvides - Agios Amvrosios Road",
+    "lat": 34.7770141743223,
+    "lon": 32.8326093819059,
+    "name": "Pano Kyvides - Agios Amvrosios Road"
+  },
+  {
+    "description": "Agios Amvrosios Community Board 1",
+    "lat": 34.7805690218496,
+    "lon": 32.8274762235454,
+    "name": "Agios Amvrosios Community Board 1"
+  },
+  {
+    "description": "Agios Efraim Church 1",
+    "lat": 34.7833825209765,
+    "lon": 32.8274485060662,
+    "name": "Agios Efraim Church 1"
+  },
+  {
+    "description": "Pano Pachna",
+    "lat": 34.7763646980416,
+    "lon": 32.7915831030831,
+    "name": "Pano Pachna"
+  },
+  {
+    "description": "Apost. Petrou And Pavlou Church",
+    "lat": 34.7784291303084,
+    "lon": 32.7965398145446,
+    "name": "Apost. Petrou And Pavlou Church"
+  },
+  {
+    "description": "Distrato Malias",
+    "lat": 34.811367881021,
+    "lon": 32.789472285737,
+    "name": "Distrato Malias"
+  },
+  {
+    "description": "Omodos Elementary School 1",
+    "lat": 34.8478991442726,
+    "lon": 32.8061479797943,
+    "name": "Omodos Elementary School 1"
+  },
+  {
+    "description": "Omodos High School",
+    "lat": 34.8501294274644,
+    "lon": 32.8079914025801,
+    "name": "Omodos High School"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Lemesou Ave. - Athalassis",
+    "lat": 35.1201286891813,
+    "lon": 33.3769165370365,
+    "name": "Lemesou Ave. - Athalassis"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Aiantos",
+    "lat": 35.1167058504821,
+    "lon": 33.3786237261302,
+    "name": "Ave. Archiepiskopou Makariou C - Aiantos"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Artemiou Fragkeskou",
+    "lat": 35.1142375218471,
+    "lon": 33.3807412432467,
+    "name": "Ave. Archiep. Makariou C - Artemiou Fragkeskou"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Nikou Evagorou",
+    "lat": 35.1122942931075,
+    "lon": 33.3821807238965,
+    "name": "Ave. Archiepiskopou Makariou C - Nikou Evagorou"
+  },
+  {
+    "description": "Agios Eleftherios Church 1",
+    "lat": 35.1120099454775,
+    "lon": 33.3837047261826,
+    "name": "Agios Eleftherios Church 1"
+  },
+  {
+    "description": "Iroon 1",
+    "lat": 35.1135101092668,
+    "lon": 33.3826582741789,
+    "name": "Iroon 1"
+  },
+  {
+    "description": "Antistaseos - Akropoleos",
+    "lat": 35.1146713004234,
+    "lon": 33.3833001924021,
+    "name": "Antistaseos - Akropoleos"
+  },
+  {
+    "description": "Antistaseos - Danaon",
+    "lat": 35.1140892708287,
+    "lon": 33.3848557569097,
+    "name": "Antistaseos - Danaon"
+  },
+  {
+    "description": "Antistaseos - Dimokratias",
+    "lat": 35.1130077096223,
+    "lon": 33.3875282612842,
+    "name": "Antistaseos - Dimokratias"
+  },
+  {
+    "description": "Dimokratias - Panagioti Georgiadi",
+    "lat": 35.1113746026795,
+    "lon": 33.3878387612853,
+    "name": "Dimokratias - Panagioti Georgiadi"
+  },
+  {
+    "description": "Dimokratias - Iroon 1",
+    "lat": 35.1103734711834,
+    "lon": 33.3850797006522,
+    "name": "Dimokratias - Iroon 1"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Christodoulou Englezou",
+    "lat": 35.109266878092,
+    "lon": 33.3842844227256,
+    "name": "Ave. Arch. Makariou C - Christodoulou Englezou"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Panagias Melandrinas",
+    "lat": 35.106161485516,
+    "lon": 33.385378100198,
+    "name": "Ave. Archiep. Makariou C - Panagias Melandrinas"
+  },
+  {
+    "description": "Ave. Geriou - Dimitri Christodoulou",
+    "lat": 35.1057928250388,
+    "lon": 33.393474262039,
+    "name": "Ave. Geriou - Dimitri Christodoulou"
+  },
+  {
+    "description": "Ave. Geriou - Mazeron",
+    "lat": 35.1063602299327,
+    "lon": 33.39645062699,
+    "name": "Ave. Geriou - Mazeron"
+  },
+  {
+    "description": "Ave. Geriou - Odyssea Elyti",
+    "lat": 35.1071674381551,
+    "lon": 33.4005145238919,
+    "name": "Ave. Geriou - Odyssea Elyti"
+  },
+  {
+    "description": "Geri Municipal Stadium",
+    "lat": 35.1067884329398,
+    "lon": 33.4060210592968,
+    "name": "Geri Municipal Stadium"
+  },
+  {
+    "description": "Ave. Geriou - ASPIS",
+    "lat": 35.1059212251355,
+    "lon": 33.4091659433717,
+    "name": "Ave. Geriou - ASPIS"
+  },
+  {
+    "description": "Ave. Geriou - Ammochostou",
+    "lat": 35.1055613997514,
+    "lon": 33.4142225686507,
+    "name": "Ave. Geriou - Ammochostou"
+  },
+  {
+    "description": "Geri Elementary School A",
+    "lat": 35.1060884452192,
+    "lon": 33.4182961394005,
+    "name": "Geri Elementary School A"
+  },
+  {
+    "description": "Agiou Mina - Griva Digeni",
+    "lat": 35.1063078563674,
+    "lon": 33.4226315223646,
+    "name": "Agiou Mina - Griva Digeni"
+  },
+  {
+    "description": "Dimokratias 2",
+    "lat": 35.1029895293208,
+    "lon": 33.4200358870299,
+    "name": "Dimokratias 2"
+  }
+]

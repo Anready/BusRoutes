@@ -1,0 +1,308 @@
+[
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  },
+  {
+    "description": "Dodekanisou - Archiep. Leontiou A´ 1",
+    "lat": 34.6807414343687,
+    "lon": 33.0352492973061,
+    "name": "Dodekanisou - Archiep. Leontiou A´ 1"
+  },
+  {
+    "description": "Dodekanisou - Katholiki High School 1",
+    "lat": 34.6833929067955,
+    "lon": 33.0345299106883,
+    "name": "Dodekanisou - Katholiki High School 1"
+  },
+  {
+    "description": "Ioanni Tsirou - Post Office 1",
+    "lat": 34.6851783126075,
+    "lon": 33.0350219194879,
+    "name": "Ioanni Tsirou - Post Office 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Ioanni Tsirou",
+    "lat": 34.6863054088023,
+    "lon": 33.0355136683255,
+    "name": "Archiep. Makariou C´ Ave. - Ioanni Tsirou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Larnakos",
+    "lat": 34.6842233453819,
+    "lon": 33.0316154347584,
+    "name": "Archiep. Makariou C´ Ave. - Larnakos"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Fire Station 1",
+    "lat": 34.6819785912338,
+    "lon": 33.0287653392861,
+    "name": "Archiep. Makariou C´ Ave. - Fire Station 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Nikolaou Skoufa",
+    "lat": 34.678426506456,
+    "lon": 33.024288480921,
+    "name": "Archiep. Makariou C´ Ave. - Nikolaou Skoufa"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Souez 1",
+    "lat": 34.6767045091013,
+    "lon": 33.0220502094444,
+    "name": "Archiep. Makariou C´ Ave. - Souez 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Agios Ioannis Church",
+    "lat": 34.6755865370387,
+    "lon": 33.0206199435505,
+    "name": "Archiep. Makariou C´ Ave. - Agios Ioannis Church"
+  },
+  {
+    "description": "Agios Ioannis Police Station 1",
+    "lat": 34.6740538047787,
+    "lon": 33.018665671764,
+    "name": "Agios Ioannis Police Station 1"
+  },
+  {
+    "description": "Pafou - Vasileos Pavlou A´ 1",
+    "lat": 34.6738827936264,
+    "lon": 33.0163733626552,
+    "name": "Pafou - Vasileos Pavlou A´ 1"
+  },
+  {
+    "description": "Pafou - Omonoias Ave.",
+    "lat": 34.6748120474387,
+    "lon": 33.0129896794722,
+    "name": "Pafou - Omonoias Ave."
+  },
+  {
+    "description": "Pafou - Evgeniou Voulgareos",
+    "lat": 34.6757773149791,
+    "lon": 33.009136544433,
+    "name": "Pafou - Evgeniou Voulgareos"
+  },
+  {
+    "description": "Pafou - Miltonos",
+    "lat": 34.6759758721961,
+    "lon": 33.0066150049513,
+    "name": "Pafou - Miltonos"
+  },
+  {
+    "description": "Pafou - Apostolou Vakalopoulou",
+    "lat": 34.6757595695826,
+    "lon": 33.0035585577702,
+    "name": "Pafou - Apostolou Vakalopoulou"
+  },
+  {
+    "description": "Pafou - Sotirias Skipi",
+    "lat": 34.6759760446396,
+    "lon": 33.0013099019743,
+    "name": "Pafou - Sotirias Skipi"
+  },
+  {
+    "description": "Pafou - 28th Elementary School 1",
+    "lat": 34.6773467574147,
+    "lon": 32.9978822902509,
+    "name": "Pafou - 28th Elementary School 1"
+  },
+  {
+    "description": "Pafou - Monovolikos 1",
+    "lat": 34.6789879110542,
+    "lon": 32.9944545475505,
+    "name": "Pafou - Monovolikos 1"
+  },
+  {
+    "description": "Ilia Kannaourou - Ymittou",
+    "lat": 34.6809984771997,
+    "lon": 32.9883630016125,
+    "name": "Ilia Kannaourou - Ymittou"
+  },
+  {
+    "description": "Ilia Kannaourou - Dimitriou Papanikoli",
+    "lat": 34.6807815232888,
+    "lon": 32.983778110261,
+    "name": "Ilia Kannaourou - Dimitriou Papanikoli"
+  },
+  {
+    "description": "Ilia Kannaourou - Danais",
+    "lat": 34.6812857280735,
+    "lon": 32.9786035689758,
+    "name": "Ilia Kannaourou - Danais"
+  },
+  {
+    "description": "Ilia Kannaourou - Menelaou",
+    "lat": 34.6820598471002,
+    "lon": 32.9716385485763,
+    "name": "Ilia Kannaourou - Menelaou"
+  },
+  {
+    "description": "Ilia Kannaourou - Lefkosias",
+    "lat": 34.6832670409223,
+    "lon": 32.9668565759133,
+    "name": "Ilia Kannaourou - Lefkosias"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 34.6838159114305,
+    "lon": 32.9626315254588,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Smyrnis",
+    "lat": 34.6841569033264,
+    "lon": 32.9574785848706,
+    "name": "Agiou Georgiou Ave. - Smyrnis"
+  },
+  {
+    "description": "Agiou Georgiou Ave. - Iakovou Patatsou",
+    "lat": 34.6831724293266,
+    "lon": 32.9533197900453,
+    "name": "Agiou Georgiou Ave. - Iakovou Patatsou"
+  },
+  {
+    "description": "Kolossi Community Stadium 1",
+    "lat": 34.6746721901774,
+    "lon": 32.9409570975215,
+    "name": "Kolossi Community Stadium 1"
+  },
+  {
+    "description": "Apostolou Louka Ave. - Archiep. Makariou C´",
+    "lat": 34.6722447894699,
+    "lon": 32.9377824507898,
+    "name": "Apostolou Louka Ave. - Archiep. Makariou C´"
+  },
+  {
+    "description": "Kolossi Elementary School A´ 1",
+    "lat": 34.6707362444976,
+    "lon": 32.9329699932043,
+    "name": "Kolossi Elementary School A´ 1"
+  },
+  {
+    "description": "Pafou - 1 Maiou",
+    "lat": 34.6737328890035,
+    "lon": 32.9223140000444,
+    "name": "Pafou - 1 Maiou"
+  },
+  {
+    "description": "14 Street - 15 Street 1",
+    "lat": 34.6709575828936,
+    "lon": 32.9122855339159,
+    "name": "14 Street - 15 Street 1"
+  },
+  {
+    "description": "14 Street - 30 Street",
+    "lat": 34.6678082695911,
+    "lon": 32.9094728417389,
+    "name": "14 Street - 30 Street"
+  },
+  {
+    "description": "Episkopi Community Park 1",
+    "lat": 34.6673832829458,
+    "lon": 32.9079452435462,
+    "name": "Episkopi Community Park 1"
+  },
+  {
+    "description": "Episkopi Police Station 1",
+    "lat": 34.6700699112624,
+    "lon": 32.9070035756323,
+    "name": "Episkopi Police Station 1"
+  },
+  {
+    "description": "Mykinon 1",
+    "lat": 34.6714230803799,
+    "lon": 32.9076351477158,
+    "name": "Mykinon 1"
+  },
+  {
+    "description": "Nikou Georgiou - 31 Street",
+    "lat": 34.673008847369,
+    "lon": 32.9058214218518,
+    "name": "Nikou Georgiou - 31 Street"
+  },
+  {
+    "description": "Nikou Georgiou - Agiou Ermogenous",
+    "lat": 34.6735200499597,
+    "lon": 32.9022405519762,
+    "name": "Nikou Georgiou - Agiou Ermogenous"
+  },
+  {
+    "description": "Kremastis Rodou - Spyrou Petousi",
+    "lat": 34.6745721038743,
+    "lon": 32.8985170758957,
+    "name": "Kremastis Rodou - Spyrou Petousi"
+  },
+  {
+    "description": "Kremastis Rodou - Konstantinou Kavafi",
+    "lat": 34.6747057302831,
+    "lon": 32.8965630067408,
+    "name": "Kremastis Rodou - Konstantinou Kavafi"
+  },
+  {
+    "description": "Kremastis Rodou - Aikaterinis Kornaro",
+    "lat": 34.6757133709623,
+    "lon": 32.8938109701708,
+    "name": "Kremastis Rodou - Aikaterinis Kornaro"
+  },
+  {
+    "description": "Episkopiana",
+    "lat": 34.6781449453354,
+    "lon": 32.890129131509,
+    "name": "Episkopiana"
+  },
+  {
+    "description": "Kremastis Rodou - Aisopou",
+    "lat": 34.6760197417929,
+    "lon": 32.8935376829133,
+    "name": "Kremastis Rodou - Aisopou"
+  },
+  {
+    "description": "Kremastis Rodou - Aristotelous",
+    "lat": 34.6749844946738,
+    "lon": 32.8956348245429,
+    "name": "Kremastis Rodou - Aristotelous"
+  },
+  {
+    "description": "Nikou Georgiou - Agiou Mamantos",
+    "lat": 34.6735742011949,
+    "lon": 32.9022950659976,
+    "name": "Nikou Georgiou - Agiou Mamantos"
+  },
+  {
+    "description": "Episkopi Community Council 1",
+    "lat": 34.6709953045417,
+    "lon": 32.9025818890903,
+    "name": "Episkopi Community Council 1"
+  },
+  {
+    "description": "1 Street - 1 Street Side-Street",
+    "lat": 34.6695166879727,
+    "lon": 32.902987474944,
+    "name": "1 Street - 1 Street Side-Street"
+  },
+  {
+    "description": "9 Street 1",
+    "lat": 34.6662691428577,
+    "lon": 32.9016269391849,
+    "name": "9 Street 1"
+  },
+  {
+    "description": "14 Street - 29 Street",
+    "lat": 34.6648083006157,
+    "lon": 32.9017050664618,
+    "name": "14 Street - 29 Street"
+  },
+  {
+    "description": "Agios Ermogenis",
+    "lat": 34.6623103971613,
+    "lon": 32.8911650429356,
+    "name": "Agios Ermogenis"
+  },
+  {
+    "description": "Kourion Beach - 1st Stop 1",
+    "lat": 34.6632484652551,
+    "lon": 32.8817012286141,
+    "name": "Kourion Beach - 1st Stop 1"
+  }
+]

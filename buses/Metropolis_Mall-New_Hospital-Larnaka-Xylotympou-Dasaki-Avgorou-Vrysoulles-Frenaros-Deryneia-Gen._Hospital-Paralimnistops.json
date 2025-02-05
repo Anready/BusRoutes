@@ -1,0 +1,308 @@
+[
+  {
+    "description": "Olympic Swimming Pool",
+    "lat": 34.9238488050625,
+    "lon": 33.6008866395403,
+    "name": "Olympic Swimming Pool"
+  },
+  {
+    "description": "New Hospital 2",
+    "lat": 34.9217524628238,
+    "lon": 33.6035755347927,
+    "name": "New Hospital 2"
+  },
+  {
+    "description": "Mall Metropolis",
+    "lat": 34.924193545739,
+    "lon": 33.6077209580138,
+    "name": "Mall Metropolis"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 2",
+    "lat": 34.9232552988576,
+    "lon": 33.6114036101475,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 2"
+  },
+  {
+    "description": "Fire Station 2",
+    "lat": 34.9212721837046,
+    "lon": 33.6148375251659,
+    "name": "Fire Station 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2",
+    "lat": 34.9194167146212,
+    "lon": 33.6179766426449,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Chr. Iakovidou",
+    "lat": 34.918561253722,
+    "lon": 33.6195138485714,
+    "name": "Georg. Griva Digeni Ave. - Chr. Iakovidou"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Thessalonikis Ave.",
+    "lat": 34.9180133596127,
+    "lon": 33.6208562831158,
+    "name": "Georg. Griva Digeni Ave. - Thessalonikis Ave."
+  },
+  {
+    "description": "Municipal Library 2",
+    "lat": 34.916724235321,
+    "lon": 33.6243059543314,
+    "name": "Municipal Library 2"
+  },
+  {
+    "description": "Municipal Park 2",
+    "lat": 34.9168095577485,
+    "lon": 33.6269996632646,
+    "name": "Municipal Park 2"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.9178223662695,
+    "lon": 33.6351304406883,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.9187528603531,
+    "lon": 33.6365279619346,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Nigritis",
+    "lat": 34.9259656563968,
+    "lon": 33.636736941393,
+    "name": "Archiep. Makariou C´ Ave. - Nigritis"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kleov. Papakyriakou",
+    "lat": 34.9283904237115,
+    "lon": 33.6369089601145,
+    "name": "Archiep. Makariou C´ Ave. - Kleov. Papakyriakou"
+  },
+  {
+    "description": "Tassou Papadopoulou",
+    "lat": 34.9327117968735,
+    "lon": 33.638234402941,
+    "name": "Tassou Papadopoulou"
+  },
+  {
+    "description": "Intercollege 1",
+    "lat": 34.9399431574488,
+    "lon": 33.6417617240314,
+    "name": "Intercollege 1"
+  },
+  {
+    "description": "Ammochostou Ave. - Thetidos",
+    "lat": 34.9461674095319,
+    "lon": 33.6447342181427,
+    "name": "Ammochostou Ave. - Thetidos"
+  },
+  {
+    "description": "Oil and Gas Storages 1",
+    "lat": 34.9503430392395,
+    "lon": 33.6480086580294,
+    "name": "Oil and Gas Storages 1"
+  },
+  {
+    "description": "Ammochostou Ave. - Dafnis",
+    "lat": 34.9555679119241,
+    "lon": 33.6523431769861,
+    "name": "Ammochostou Ave. - Dafnis"
+  },
+  {
+    "description": "Ammochostou Ave. - Athinon 1",
+    "lat": 34.9587872927012,
+    "lon": 33.6556545787598,
+    "name": "Ammochostou Ave. - Athinon 1"
+  },
+  {
+    "description": "Oroklini Fire Station 1",
+    "lat": 34.9617170868278,
+    "lon": 33.6591391761901,
+    "name": "Oroklini Fire Station 1"
+  },
+  {
+    "description": "Ammochostou Ave. - Kalliskala 1",
+    "lat": 34.9641437428232,
+    "lon": 33.6622694541844,
+    "name": "Ammochostou Ave. - Kalliskala 1"
+  },
+  {
+    "description": "Ammochostou Ave. - Galaxia 1",
+    "lat": 34.9679861487431,
+    "lon": 33.6670216298259,
+    "name": "Ammochostou Ave. - Galaxia 1"
+  },
+  {
+    "description": "Princess Beach Hotel 1",
+    "lat": 34.9697600402302,
+    "lon": 33.6691173485713,
+    "name": "Princess Beach Hotel 1"
+  },
+  {
+    "description": "Akropoleos Ave. - Ithakis",
+    "lat": 34.9738980258788,
+    "lon": 33.6758006653445,
+    "name": "Akropoleos Ave. - Ithakis"
+  },
+  {
+    "description": "Akropoleos Ave. - Kantaras",
+    "lat": 34.9756647815467,
+    "lon": 33.6807559723753,
+    "name": "Akropoleos Ave. - Kantaras"
+  },
+  {
+    "description": "Pyla Beach Park 1",
+    "lat": 34.9774279899023,
+    "lon": 33.6863030546131,
+    "name": "Pyla Beach Park 1"
+  },
+  {
+    "description": "Akropoleos Ave. - Lordos - Sandy - Golden Bay",
+    "lat": 34.978150542462,
+    "lon": 33.6908665793858,
+    "name": "Akropoleos Ave. - Lordos - Sandy - Golden Bay"
+  },
+  {
+    "description": "Dasaki Pylas Beach 1",
+    "lat": 34.9791648261302,
+    "lon": 33.6964186578063,
+    "name": "Dasaki Pylas Beach 1"
+  },
+  {
+    "description": "K.O.T. Beach 1",
+    "lat": 34.9795098220434,
+    "lon": 33.6991495465459,
+    "name": "K.O.T. Beach 1"
+  },
+  {
+    "description": "Larnaka - Dekeleia Ave. - 1st Stop",
+    "lat": 34.9797626880691,
+    "lon": 33.7022083432584,
+    "name": "Larnaka - Dekeleia Ave. - 1st Stop"
+  },
+  {
+    "description": "British Base (near highway exit)",
+    "lat": 35.0044219903979,
+    "lon": 33.7271863299191,
+    "name": "British Base (near highway exit)"
+  },
+  {
+    "description": "Xylotymvou - Dasaki Achnas Road",
+    "lat": 35.0087626668366,
+    "lon": 33.7326168510379,
+    "name": "Xylotymvou - Dasaki Achnas Road"
+  },
+  {
+    "description": "Xylotymvou Public Kindergarden",
+    "lat": 35.010274497604,
+    "lon": 33.7346140491871,
+    "name": "Xylotymvou Public Kindergarden"
+  },
+  {
+    "description": "Xylotymvou City Hall 2",
+    "lat": 35.0169418173936,
+    "lon": 33.7429051216765,
+    "name": "Xylotymvou City Hall 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Andrea Souroukli",
+    "lat": 35.0194070834731,
+    "lon": 33.7452621075565,
+    "name": "Archiep. Makariou C´ Ave. - Andrea Souroukli"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kostaki Pantelidi",
+    "lat": 35.022400837628,
+    "lon": 33.7481830769859,
+    "name": "Archiep. Makariou C´ Ave. - Kostaki Pantelidi"
+  },
+  {
+    "description": "Griva Digeni - Nikolaou Michail",
+    "lat": 35.0338964880996,
+    "lon": 33.7614213928747,
+    "name": "Griva Digeni - Nikolaou Michail"
+  },
+  {
+    "description": "Dasaki Achnas Stadium 2",
+    "lat": 35.0329893090036,
+    "lon": 33.7637261235598,
+    "name": "Dasaki Achnas Stadium 2"
+  },
+  {
+    "description": "Griva Digeni - Foti Pitta",
+    "lat": 35.0319791657708,
+    "lon": 33.7666218245848,
+    "name": "Griva Digeni - Foti Pitta"
+  },
+  {
+    "description": "Dasos Achnas Square 2",
+    "lat": 35.0292431016362,
+    "lon": 33.7700822772254,
+    "name": "Dasos Achnas Square 2"
+  },
+  {
+    "description": "Arch. Michail and Agia Marina Church 2",
+    "lat": 35.0270480051101,
+    "lon": 33.7735366343891,
+    "name": "Arch. Michail and Agia Marina Church 2"
+  },
+  {
+    "description": "Charalampou Mouskou - Achna Roundabout",
+    "lat": 35.025882776957,
+    "lon": 33.7794888829559,
+    "name": "Charalampou Mouskou - Achna Roundabout"
+  },
+  {
+    "description": "Achna Livestock Area 1",
+    "lat": 35.0361062924448,
+    "lon": 33.7853745133991,
+    "name": "Achna Livestock Area 1"
+  },
+  {
+    "description": "Technical and Agriculture School of Famagusta 2",
+    "lat": 35.0459327411789,
+    "lon": 33.8277475273236,
+    "name": "Technical and Agriculture School of Famagusta 2"
+  },
+  {
+    "description": "B´ Avgorou Elementary School 2",
+    "lat": 35.042942871871,
+    "lon": 33.8324647969131,
+    "name": "B´ Avgorou Elementary School 2"
+  },
+  {
+    "description": "Michail Karaoli - Petraki Giallourou 2",
+    "lat": 35.0399526712081,
+    "lon": 33.8372036469139,
+    "name": "Michail Karaoli - Petraki Giallourou 2"
+  },
+  {
+    "description": "Agios Georgios Church 2",
+    "lat": 35.0375050492655,
+    "lon": 33.8403909284225,
+    "name": "Agios Georgios Church 2"
+  },
+  {
+    "description": "Karyon - Panagioti Pafiti",
+    "lat": 35.0358039832481,
+    "lon": 33.8399349885632,
+    "name": "Karyon - Panagioti Pafiti"
+  }
+]

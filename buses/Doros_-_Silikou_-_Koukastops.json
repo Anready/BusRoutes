@@ -1,0 +1,44 @@
+[
+  {
+    "description": "Distrato Lanias - Doros 1",
+    "lat": 34.8162553716525,
+    "lon": 32.9161009807602,
+    "name": "Distrato Lanias - Doros 1"
+  },
+  {
+    "description": "Laneia",
+    "lat": 34.8228674914984,
+    "lon": 32.919265481458,
+    "name": "Laneia"
+  },
+  {
+    "description": "Doros",
+    "lat": 34.816088806264,
+    "lon": 32.9101528944442,
+    "name": "Doros"
+  },
+  {
+    "description": "Monagri 1",
+    "lat": 34.8095971287364,
+    "lon": 32.9116250209466,
+    "name": "Monagri 1"
+  },
+  {
+    "description": "Agios Georgios Lemesou 2",
+    "lat": 34.8162688579727,
+    "lon": 32.8983108353766,
+    "name": "Agios Georgios Lemesou 2"
+  },
+  {
+    "description": "Silikou 1",
+    "lat": 34.8320248120355,
+    "lon": 32.8902750898176,
+    "name": "Silikou 1"
+  },
+  {
+    "description": "Kouka",
+    "lat": 34.8521133963884,
+    "lon": 32.8872292489542,
+    "name": "Kouka"
+  }
+]

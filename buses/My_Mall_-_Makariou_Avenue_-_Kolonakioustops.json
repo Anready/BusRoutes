@@ -1,0 +1,188 @@
+[
+  {
+    "description": "MY MALL",
+    "lat": 34.6512127016143,
+    "lon": 32.9954930950808,
+    "name": "MY MALL"
+  },
+  {
+    "description": "Kathetos Limaniou - Fragklinou Rousvelt 2",
+    "lat": 34.6592026213638,
+    "lon": 32.9958528130199,
+    "name": "Kathetos Limaniou - Fragklinou Rousvelt 2"
+  },
+  {
+    "description": "Kathetos Limaniou - Epimitheos 2",
+    "lat": 34.6679857294604,
+    "lon": 32.9896745976795,
+    "name": "Kathetos Limaniou - Epimitheos 2"
+  },
+  {
+    "description": "Kathetos Limaniou - Georgiou Varnakioti 2",
+    "lat": 34.6752721401832,
+    "lon": 32.9888113486574,
+    "name": "Kathetos Limaniou - Georgiou Varnakioti 2"
+  },
+  {
+    "description": "Pafou - Monovolikos 2",
+    "lat": 34.6795920652345,
+    "lon": 32.9935157033909,
+    "name": "Pafou - Monovolikos 2"
+  },
+  {
+    "description": "Pafou - 28 Elementary School 2",
+    "lat": 34.6779870140949,
+    "lon": 32.9971181459976,
+    "name": "Pafou - 28 Elementary School 2"
+  },
+  {
+    "description": "Pafou - Christou Keli",
+    "lat": 34.6758768063371,
+    "lon": 33.0034275727436,
+    "name": "Pafou - Christou Keli"
+  },
+  {
+    "description": "Pafou - Omonoias Ave.",
+    "lat": 34.6760209945225,
+    "lon": 33.0059818889107,
+    "name": "Pafou - Omonoias Ave."
+  },
+  {
+    "description": "Pafou - Evgeniou Voulgareos",
+    "lat": 34.6757772831842,
+    "lon": 33.0095513457284,
+    "name": "Pafou - Evgeniou Voulgareos"
+  },
+  {
+    "description": "Pafou - Dimosthenous",
+    "lat": 34.6749834247207,
+    "lon": 33.0126404032058,
+    "name": "Pafou - Dimosthenous"
+  },
+  {
+    "description": "Pafou - Vasileos Pavlou A´ 2",
+    "lat": 34.6739729552189,
+    "lon": 33.0165043674397,
+    "name": "Pafou - Vasileos Pavlou A´ 2"
+  },
+  {
+    "description": "Agios Ioannis Police Station 2",
+    "lat": 34.67454972814,
+    "lon": 33.0190696625303,
+    "name": "Agios Ioannis Police Station 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Souez 2",
+    "lat": 34.6762176885773,
+    "lon": 33.0212204734455,
+    "name": "Archiep. Makariou C´ Ave. - Souez 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Vyzantiou",
+    "lat": 34.6788863567926,
+    "lon": 33.0246051858907,
+    "name": "Archiep. Makariou C´ Ave. - Vyzantiou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Fire Station 2",
+    "lat": 34.681518858102,
+    "lon": 33.0279901033579,
+    "name": "Archiep. Makariou C´ Ave. - Fire Station 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Ammochostou",
+    "lat": 34.6845840077666,
+    "lon": 33.0318229944535,
+    "name": "Archiep. Makariou C´ Ave. - Ammochostou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Agias Fylaxeos",
+    "lat": 34.6865397108503,
+    "lon": 33.036070547384,
+    "name": "Archiep. Makariou C´ Ave. - Agias Fylaxeos"
+  },
+  {
+    "description": "Laniteio School 2",
+    "lat": 34.6870438265049,
+    "lon": 33.0389529336289,
+    "name": "Laniteio School 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Platonos",
+    "lat": 34.6875747883206,
+    "lon": 33.0422393110185,
+    "name": "Archiep. Makariou C´ Ave. - Platonos"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kimonos",
+    "lat": 34.6877175955059,
+    "lon": 33.0463115698808,
+    "name": "Archiep. Makariou C´ Ave. - Kimonos"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Alasias",
+    "lat": 34.6874010936318,
+    "lon": 33.0485603672913,
+    "name": "Archiep. Makariou C´ Ave. - Alasias"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Griva Digeni 2",
+    "lat": 34.686876524564,
+    "lon": 33.0522610185188,
+    "name": "Archiep. Makariou C´ Ave. - Griva Digeni 2"
+  },
+  {
+    "description": "Agios Nikolaos Church 2",
+    "lat": 34.6891647065961,
+    "lon": 33.0575138120151,
+    "name": "Agios Nikolaos Church 2"
+  },
+  {
+    "description": "Griva Digeni - Griva Digeni Hideout 2",
+    "lat": 34.6918135842314,
+    "lon": 33.062363203529,
+    "name": "Griva Digeni - Griva Digeni Hideout 2"
+  },
+  {
+    "description": "Griva Digeni - Georgiou Neofytou",
+    "lat": 34.6938051985473,
+    "lon": 33.0649304714732,
+    "name": "Griva Digeni - Georgiou Neofytou"
+  },
+  {
+    "description": "Linopetra High School 2",
+    "lat": 34.6956166173062,
+    "lon": 33.0671046528369,
+    "name": "Linopetra High School 2"
+  },
+  {
+    "description": "Kolonakiou - Petrompei Mavromichali",
+    "lat": 34.6979766083109,
+    "lon": 33.0718343701403,
+    "name": "Kolonakiou - Petrompei Mavromichali"
+  },
+  {
+    "description": "Health Centre 2",
+    "lat": 34.6995620757721,
+    "lon": 33.0746309896614,
+    "name": "Health Centre 2"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Dodekanison",
+    "lat": 34.7023549708026,
+    "lon": 33.0788374315713,
+    "name": "Spyrou Kyprianou Ave. - Dodekanison"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Samou",
+    "lat": 34.7047867729789,
+    "lon": 33.0833823038881,
+    "name": "Spyrou Kyprianou Ave. - Samou"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Christaki Kranou",
+    "lat": 34.7059036356265,
+    "lon": 33.0853380642205,
+    "name": "Spyrou Kyprianou Ave. - Christaki Kranou"
+  }
+]

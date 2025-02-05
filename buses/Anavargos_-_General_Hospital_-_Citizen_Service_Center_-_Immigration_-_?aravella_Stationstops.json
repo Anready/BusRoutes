@@ -1,0 +1,86 @@
+[
+  {
+    "description": "Anavargos Square - Ag. Georgios Church",
+    "lat": 34.7941553284313,
+    "lon": 32.4517276050192,
+    "name": "Anavargos Square - Ag. Georgios Church"
+  },
+  {
+    "description": "8 Elementary School - Iordaneio 2",
+    "lat": 34.7924143853649,
+    "lon": 32.447618143939,
+    "name": "8 Elementary School - Iordaneio 2"
+  },
+  {
+    "description": "Pafos General Hospital 1",
+    "lat": 34.7886669339612,
+    "lon": 32.4445060792828,
+    "name": "Pafos General Hospital 1"
+  },
+  {
+    "description": "Pafos General Hospital 2",
+    "lat": 34.7886122812177,
+    "lon": 32.4443862103678,
+    "name": "Pafos General Hospital 2"
+  },
+  {
+    "description": "Aristotelous Ave. - Oikonomou Dositheou",
+    "lat": 34.7897190286127,
+    "lon": 32.441886603103,
+    "name": "Aristotelous Ave. - Oikonomou Dositheou"
+  },
+  {
+    "description": "Dimokratias Ave. - Mariou",
+    "lat": 34.7863155843641,
+    "lon": 32.4410569762503,
+    "name": "Dimokratias Ave. - Mariou"
+  },
+  {
+    "description": "Elefth. Venizelou Ave. - Eirinis",
+    "lat": 34.7829859298893,
+    "lon": 32.4405875986818,
+    "name": "Elefth. Venizelou Ave. - Eirinis"
+  },
+  {
+    "description": "Elefth. Venizelou Ave. - Chanion",
+    "lat": 34.7820931747888,
+    "lon": 32.4386262930758,
+    "name": "Elefth. Venizelou Ave. - Chanion"
+  },
+  {
+    "description": "Citizen Service Centre 2",
+    "lat": 34.7814046999228,
+    "lon": 32.4359969396581,
+    "name": "Citizen Service Centre 2"
+  },
+  {
+    "description": "Elefth. Venizelou Ave. - Dim. Liperti",
+    "lat": 34.7805994004,
+    "lon": 32.4315322859269,
+    "name": "Elefth. Venizelou Ave. - Dim. Liperti"
+  },
+  {
+    "description": "S.E.K. Pafos 2",
+    "lat": 34.7806936899669,
+    "lon": 32.4285588329808,
+    "name": "S.E.K. Pafos 2"
+  },
+  {
+    "description": "Elefth. Venizelou Ave. - Christod. Tsielepou",
+    "lat": 34.7808368584499,
+    "lon": 32.426404743787,
+    "name": "Elefth. Venizelou Ave. - Christod. Tsielepou"
+  },
+  {
+    "description": "Evag. Pallikaridi Ave. - Petraki Giallourou",
+    "lat": 34.7800741463408,
+    "lon": 32.4252952292824,
+    "name": "Evag. Pallikaridi Ave. - Petraki Giallourou"
+  },
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  }
+]

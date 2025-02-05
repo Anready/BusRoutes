@@ -1,0 +1,98 @@
+[
+  {
+    "description": "Dionysios Solomos Square",
+    "lat": 35.1707064870553,
+    "lon": 33.3589205343724,
+    "name": "Dionysios Solomos Square"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Iras",
+    "lat": 35.1656621977647,
+    "lon": 33.3631918662444,
+    "name": "Archiep. Makariou III Ave. - Iras"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Naxou",
+    "lat": 35.1625065679554,
+    "lon": 33.366065678288,
+    "name": "Archiep. Makariou III Ave. - Naxou"
+  },
+  {
+    "description": "Technical School Nicosia III",
+    "lat": 35.1568467559872,
+    "lon": 33.3739566285601,
+    "name": "Technical School Nicosia III"
+  },
+  {
+    "description": "Traffic Education Park",
+    "lat": 35.1474406118456,
+    "lon": 33.3743637064748,
+    "name": "Traffic Education Park"
+  },
+  {
+    "description": "Lemesou Ave. - Kalispera",
+    "lat": 35.1413169604423,
+    "lon": 33.3746869478481,
+    "name": "Lemesou Ave. - Kalispera"
+  },
+  {
+    "description": "Nicosia General Hospital - Intercity",
+    "lat": 35.1265734070068,
+    "lon": 33.374838920964,
+    "name": "Nicosia General Hospital - Intercity"
+  },
+  {
+    "description": "Agias Theklas - Waterpark 2",
+    "lat": 34.9839579449415,
+    "lon": 33.9427979315675,
+    "name": "Agias Theklas - Waterpark 2"
+  },
+  {
+    "description": "Nissi Bay Beach 2",
+    "lat": 34.9889263480932,
+    "lon": 33.9668719922403,
+    "name": "Nissi Bay Beach 2"
+  },
+  {
+    "description": "Nisi Ave. - Isaak kai Solomou",
+    "lat": 34.9887921376311,
+    "lon": 33.9835793257224,
+    "name": "Nisi Ave. - Isaak kai Solomou"
+  },
+  {
+    "description": "Nisi Ave. - Katalymmata",
+    "lat": 34.9873425670791,
+    "lon": 33.9954826080579,
+    "name": "Nisi Ave. - Katalymmata"
+  },
+  {
+    "description": "Agia Napa Monastery 2",
+    "lat": 34.9883223044173,
+    "lon": 34.0002496230693,
+    "name": "Agia Napa Monastery 2"
+  },
+  {
+    "description": "Kryou Nerou Ave. - Marina Hotel 1",
+    "lat": 34.9852241979448,
+    "lon": 34.0160873994527,
+    "name": "Kryou Nerou Ave. - Marina Hotel 1"
+  },
+  {
+    "description": "Protara - Vrisi Beach",
+    "lat": 35.0176241558379,
+    "lon": 34.0476595600232,
+    "name": "Protara - Vrisi Beach"
+  },
+  {
+    "description": "Paralimni Municipality",
+    "lat": 35.0405176522239,
+    "lon": 33.9830586648857,
+    "name": "Paralimni Municipality"
+  },
+  {
+    "description": "New Famagusta Central Bus Station",
+    "lat": 35.0518260701067,
+    "lon": 33.9728431356542,
+    "name": "New Famagusta Central Bus Station"
+  }
+]

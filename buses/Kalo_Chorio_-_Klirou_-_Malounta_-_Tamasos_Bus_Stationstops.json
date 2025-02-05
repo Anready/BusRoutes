@@ -1,0 +1,80 @@
+[
+  {
+    "description": "Agios Georgios Church 2",
+    "lat": 35.0056075939349,
+    "lon": 33.1625834122199,
+    "name": "Agios Georgios Church 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 3rd Kalo Chorio 2",
+    "lat": 35.0095477100972,
+    "lon": 33.1629528868723,
+    "name": "Archiep. Makariou C´ Ave. - 3rd Kalo Chorio 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 2nd Kalo Chorio 2",
+    "lat": 35.0123339654873,
+    "lon": 33.1630460955811,
+    "name": "Archiep. Makariou C´ Ave. - 2nd Kalo Chorio 2"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - 1st Kalo Chorio 2",
+    "lat": 35.0150560937424,
+    "lon": 33.1638845111227,
+    "name": "Grigori Afxentiou Ave. - 1st Kalo Chorio 2"
+  },
+  {
+    "description": "Klirou Cinema 2",
+    "lat": 35.0163832951577,
+    "lon": 33.1692579874425,
+    "name": "Klirou Cinema 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 5th Klirou 2",
+    "lat": 35.0190366775699,
+    "lon": 33.1740315889862,
+    "name": "Archiep. Makariou C´ Ave. - 5th Klirou 2"
+  },
+  {
+    "description": "Panagia Evangelistria Church 2",
+    "lat": 35.021493130218,
+    "lon": 33.1776869916498,
+    "name": "Panagia Evangelistria Church 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 3rd Klirou 2",
+    "lat": 35.0243144714668,
+    "lon": 33.1784385072367,
+    "name": "Archiep. Makariou C´ Ave. - 3rd Klirou 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 2nd Klirou 2",
+    "lat": 35.0275156501137,
+    "lon": 33.1784345010809,
+    "name": "Archiep. Makariou C´ Ave. - 2nd Klirou 2"
+  },
+  {
+    "description": "Klirou Community Health Centre - 1st Klirou 2",
+    "lat": 35.0301036632158,
+    "lon": 33.1784181999184,
+    "name": "Klirou Community Health Centre - 1st Klirou 2"
+  },
+  {
+    "description": "Panagia Chrysopantanassa Church",
+    "lat": 35.0332637413581,
+    "lon": 33.181801710078,
+    "name": "Panagia Chrysopantanassa Church"
+  },
+  {
+    "description": "Malounta Community Centre",
+    "lat": 35.0358492772977,
+    "lon": 33.1834300297629,
+    "name": "Malounta Community Centre"
+  },
+  {
+    "description": "Tamasos Bus Station",
+    "lat": 35.0432605918433,
+    "lon": 33.1899156249265,
+    "name": "Tamasos Bus Station"
+  }
+]

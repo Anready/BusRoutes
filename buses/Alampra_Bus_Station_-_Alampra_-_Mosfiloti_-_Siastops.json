@@ -1,0 +1,86 @@
+[
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  },
+  {
+    "description": "Grigori Afxentiou - Lemesou Ave. 1",
+    "lat": 34.9943675587916,
+    "lon": 33.4040186301577,
+    "name": "Grigori Afxentiou - Lemesou Ave. 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Theodorou Kolokotroni",
+    "lat": 34.9904043829162,
+    "lon": 33.4026733185596,
+    "name": "Archiep. Makariou C´ - Theodorou Kolokotroni"
+  },
+  {
+    "description": "Lemesou Ave. - 1 Apriliou",
+    "lat": 34.9519530748393,
+    "lon": 33.4189901730124,
+    "name": "Lemesou Ave. - 1 Apriliou"
+  },
+  {
+    "description": "1 Apriliou - Kyriakou Matsi",
+    "lat": 34.9517640904999,
+    "lon": 33.4214863084424,
+    "name": "1 Apriliou - Kyriakou Matsi"
+  },
+  {
+    "description": "1 Apriliou - Papamiichail Konstantinou 1",
+    "lat": 34.9506235495676,
+    "lon": 33.4278874058807,
+    "name": "1 Apriliou - Papamiichail Konstantinou 1"
+  },
+  {
+    "description": "Platini Museum 2",
+    "lat": 34.9517169127904,
+    "lon": 33.4272469092918,
+    "name": "Platini Museum 2"
+  },
+  {
+    "description": "Agia Marina Church 2",
+    "lat": 34.9533510737498,
+    "lon": 33.4241011007615,
+    "name": "Agia Marina Church 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Omirou 2",
+    "lat": 34.9526953752076,
+    "lon": 33.4207682234411,
+    "name": "Archiep. Makariou C´ - Omirou 2"
+  },
+  {
+    "description": "Trimythountos Bishopric",
+    "lat": 34.9514919846149,
+    "lon": 33.4193382954616,
+    "name": "Trimythountos Bishopric"
+  },
+  {
+    "description": "Mosfiloti - Sia Road",
+    "lat": 34.9514793158275,
+    "lon": 33.4125040929404,
+    "name": "Mosfiloti - Sia Road"
+  },
+  {
+    "description": "Griva Digeni Ave. - 3rd Sia",
+    "lat": 34.9512420422889,
+    "lon": 33.3998641609562,
+    "name": "Griva Digeni Ave. - 3rd Sia"
+  },
+  {
+    "description": "Griva Digeni Ave. - 2nd Sia",
+    "lat": 34.9549565971892,
+    "lon": 33.3917553590959,
+    "name": "Griva Digeni Ave. - 2nd Sia"
+  },
+  {
+    "description": "Archiep. Makariou C Ave. - 1st Sia",
+    "lat": 34.9557225373901,
+    "lon": 33.3862935957325,
+    "name": "Archiep. Makariou C Ave. - 1st Sia"
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  },
+  {
+    "description": "Vas. Stasioikou A` Ave. - Efesou",
+    "lat": 35.0329856467103,
+    "lon": 32.4252624441259,
+    "name": "Vas. Stasioikou A` Ave. - Efesou"
+  },
+  {
+    "description": "Vas. Stasioikou A` Ave. - 1st Stop",
+    "lat": 35.0295858130422,
+    "lon": 32.419509027489,
+    "name": "Vas. Stasioikou A` Ave. - 1st Stop"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 35.0290661786874,
+    "lon": 32.4183287633213,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "Akamantos Ave. - Georgiou Chatzigianni",
+    "lat": 35.0313755743707,
+    "lon": 32.4147824133601,
+    "name": "Akamantos Ave. - Georgiou Chatzigianni"
+  },
+  {
+    "description": "Agios Epifanios Church 2",
+    "lat": 34.9626345805549,
+    "lon": 32.3977240401473,
+    "name": "Agios Epifanios Church 2"
+  },
+  {
+    "description": "1st Stop Drouseia 2",
+    "lat": 34.9604938526737,
+    "lon": 32.398813120652,
+    "name": "1st Stop Drouseia 2"
+  },
+  {
+    "description": "2nd Stop Drouseia 2",
+    "lat": 34.9578733324039,
+    "lon": 32.3977041111562,
+    "name": "2nd Stop Drouseia 2"
+  },
+  {
+    "description": "1st Stop Ineia 2",
+    "lat": 34.9565434049023,
+    "lon": 32.3950085222236,
+    "name": "1st Stop Ineia 2"
+  },
+  {
+    "description": "Ineia Square 2",
+    "lat": 34.9556352606065,
+    "lon": 32.3937227906582,
+    "name": "Ineia Square 2"
+  },
+  {
+    "description": "Kato Arodes 2",
+    "lat": 34.9406186283693,
+    "lon": 32.4022652868445,
+    "name": "Kato Arodes 2"
+  },
+  {
+    "description": "Pano Arodes 2",
+    "lat": 34.9361987037247,
+    "lon": 32.4074986087154,
+    "name": "Pano Arodes 2"
+  },
+  {
+    "description": "1st Stop Kathikas 1",
+    "lat": 34.9132666274406,
+    "lon": 32.4261090737599,
+    "name": "1st Stop Kathikas 1"
+  },
+  {
+    "description": "Kathikas Square",
+    "lat": 34.9124170533641,
+    "lon": 32.4256990055517,
+    "name": "Kathikas Square"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Markou Drakou",
+    "lat": 34.8844912330312,
+    "lon": 32.3800415916662,
+    "name": "Grigori Afxentiou Ave. - Markou Drakou"
+  },
+  {
+    "description": "Pegeia Square 2",
+    "lat": 34.8841589461121,
+    "lon": 32.3820795005603,
+    "name": "Pegeia Square 2"
+  },
+  {
+    "description": "Tassou Markou- Kolikas",
+    "lat": 34.8751753499933,
+    "lon": 32.3676159056177,
+    "name": "Tassou Markou- Kolikas"
+  },
+  {
+    "description": "Tassou Markou- Sea Caves",
+    "lat": 34.862264468909,
+    "lon": 32.3576935532755,
+    "name": "Tassou Markou- Sea Caves"
+  },
+  {
+    "description": "Coral Bay",
+    "lat": 34.8582765056372,
+    "lon": 32.3606891964891,
+    "name": "Coral Bay"
+  }
+]

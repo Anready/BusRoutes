@@ -1,0 +1,134 @@
+[
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  },
+  {
+    "description": "University of Cyprus - University House",
+    "lat": 35.1460482761817,
+    "lon": 33.4089824472376,
+    "name": "University of Cyprus - University House"
+  },
+  {
+    "description": "Athalassis - Athalassis Avenue",
+    "lat": 35.1405359635377,
+    "lon": 33.4017427128763,
+    "name": "Athalassis - Athalassis Avenue"
+  },
+  {
+    "description": "Athalassis - Military Camp",
+    "lat": 35.1396018892484,
+    "lon": 33.3978850945119,
+    "name": "Athalassis - Military Camp"
+  },
+  {
+    "description": "Athalassis - Agriculture Research Institute",
+    "lat": 35.1383699491183,
+    "lon": 33.3828294552832,
+    "name": "Athalassis - Agriculture Research Institute"
+  },
+  {
+    "description": "Athalassis - Department of Forest",
+    "lat": 35.1376882965686,
+    "lon": 33.3787976895466,
+    "name": "Athalassis - Department of Forest"
+  },
+  {
+    "description": "Verginas",
+    "lat": 35.1330948406325,
+    "lon": 33.3741882675092,
+    "name": "Verginas"
+  },
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Lemesou Ave. - Athalassis",
+    "lat": 35.1201286891813,
+    "lon": 33.3769165370365,
+    "name": "Lemesou Ave. - Athalassis"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Aiantos",
+    "lat": 35.1167058504821,
+    "lon": 33.3786237261302,
+    "name": "Ave. Archiepiskopou Makariou C - Aiantos"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Artemiou Fragkeskou",
+    "lat": 35.1142375218471,
+    "lon": 33.3807412432467,
+    "name": "Ave. Archiep. Makariou C - Artemiou Fragkeskou"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Nikou Evagorou",
+    "lat": 35.1122942931075,
+    "lon": 33.3821807238965,
+    "name": "Ave. Archiepiskopou Makariou C - Nikou Evagorou"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Christodoulou Englezou",
+    "lat": 35.109266878092,
+    "lon": 33.3842844227256,
+    "name": "Ave. Arch. Makariou C - Christodoulou Englezou"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Panagias Melandrinas",
+    "lat": 35.106161485516,
+    "lon": 33.385378100198,
+    "name": "Ave. Archiep. Makariou C - Panagias Melandrinas"
+  },
+  {
+    "description": "Dimitri Stavrou - Michail Koutsofta",
+    "lat": 35.1014490459943,
+    "lon": 33.3870895251724,
+    "name": "Dimitri Stavrou - Michail Koutsofta"
+  },
+  {
+    "description": "Idaliou - Manou Loizou",
+    "lat": 35.0973316374362,
+    "lon": 33.3888255237333,
+    "name": "Idaliou - Manou Loizou"
+  },
+  {
+    "description": "Dimitri Stavrou - Sporting Club 1",
+    "lat": 35.0899504868235,
+    "lon": 33.393189712408,
+    "name": "Dimitri Stavrou - Sporting Club 1"
+  },
+  {
+    "description": "Idaliou - Filippou",
+    "lat": 35.0856238059393,
+    "lon": 33.3954726599606,
+    "name": "Idaliou - Filippou"
+  },
+  {
+    "description": "Filipou - Irodotou",
+    "lat": 35.0837096275034,
+    "lon": 33.3989956963602,
+    "name": "Filipou - Irodotou"
+  },
+  {
+    "description": "Ftelias - Idaliou",
+    "lat": 35.0795122554089,
+    "lon": 33.4057432775345,
+    "name": "Ftelias - Idaliou"
+  },
+  {
+    "description": "Ermou - Pigis",
+    "lat": 35.0667092593372,
+    "lon": 33.397114276073,
+    "name": "Ermou - Pigis"
+  },
+  {
+    "description": "Odysseos - Lamprou Katsoni",
+    "lat": 35.0732096718292,
+    "lon": 33.3834243010048,
+    "name": "Odysseos - Lamprou Katsoni"
+  }
+]

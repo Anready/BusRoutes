@@ -1,0 +1,140 @@
+[
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Apolloneio Hospital",
+    "lat": 35.1478491445453,
+    "lon": 33.3198906545292,
+    "name": "Apolloneio Hospital"
+  },
+  {
+    "description": "Archangelou Michail - Agiou Alexiou",
+    "lat": 35.1454886437929,
+    "lon": 33.3225381212525,
+    "name": "Archangelou Michail - Agiou Alexiou"
+  },
+  {
+    "description": "Archangelou Michail - Lake Magkli",
+    "lat": 35.1409631844903,
+    "lon": 33.3152421818919,
+    "name": "Archangelou Michail - Lake Magkli"
+  },
+  {
+    "description": "Archangelou Michail - Lefkosias - Troodous HWY",
+    "lat": 35.131157614699,
+    "lon": 33.3026146917464,
+    "name": "Archangelou Michail - Lefkosias - Troodous HWY"
+  },
+  {
+    "description": "Ave. Anthoupoleos - Eptanisou",
+    "lat": 35.124205350685,
+    "lon": 33.2953013994849,
+    "name": "Ave. Anthoupoleos - Eptanisou"
+  },
+  {
+    "description": "Eptanisou - Ydras",
+    "lat": 35.1229284052001,
+    "lon": 33.2975576601991,
+    "name": "Eptanisou - Ydras"
+  },
+  {
+    "description": "Lakatameia Health Centre 1",
+    "lat": 35.1209214096231,
+    "lon": 33.2996575280144,
+    "name": "Lakatameia Health Centre 1"
+  },
+  {
+    "description": "Dodekanisou - Ikarias",
+    "lat": 35.1202177402684,
+    "lon": 33.296121088008,
+    "name": "Dodekanisou - Ikarias"
+  },
+  {
+    "description": "Ave. Anthoupoleos - Samou",
+    "lat": 35.1197385477934,
+    "lon": 33.2929367004653,
+    "name": "Ave. Anthoupoleos - Samou"
+  },
+  {
+    "description": "Lakatameia Elementary School D Agios Neofytos 1",
+    "lat": 35.1173782265966,
+    "lon": 33.2920283546861,
+    "name": "Lakatameia Elementary School D Agios Neofytos 1"
+  },
+  {
+    "description": "Kasou - Sporadon",
+    "lat": 35.1157680529904,
+    "lon": 33.29414061729,
+    "name": "Kasou - Sporadon"
+  },
+  {
+    "description": "Sporadon 1",
+    "lat": 35.1160737471697,
+    "lon": 33.2907726438097,
+    "name": "Sporadon 1"
+  },
+  {
+    "description": "Ave. Agiou Georgiou - Evoias",
+    "lat": 35.1131070243603,
+    "lon": 33.2907950255558,
+    "name": "Ave. Agiou Georgiou - Evoias"
+  },
+  {
+    "description": "Ave. Eleftherias - Andrianis",
+    "lat": 35.1110295683565,
+    "lon": 33.2922471208117,
+    "name": "Ave. Eleftherias - Andrianis"
+  },
+  {
+    "description": "Ave. Eleftherias - Aiglis",
+    "lat": 35.1090763539594,
+    "lon": 33.2907807070345,
+    "name": "Ave. Eleftherias - Aiglis"
+  },
+  {
+    "description": "Anthoupoli Elementary School 2",
+    "lat": 35.1064932010373,
+    "lon": 33.2887744656587,
+    "name": "Anthoupoli Elementary School 2"
+  },
+  {
+    "description": "Dimokratias - Pafou",
+    "lat": 35.1057113969023,
+    "lon": 33.2914161500442,
+    "name": "Dimokratias - Pafou"
+  },
+  {
+    "description": "Dimokratias - Agias Triados",
+    "lat": 35.1040226234696,
+    "lon": 33.2924744777724,
+    "name": "Dimokratias - Agias Triados"
+  },
+  {
+    "description": "Dimokratias - Evagorou",
+    "lat": 35.1025587288131,
+    "lon": 33.290011439063,
+    "name": "Dimokratias - Evagorou"
+  },
+  {
+    "description": "Iroon - Antistaseos",
+    "lat": 35.1031070433549,
+    "lon": 33.2869520704811,
+    "name": "Iroon - Antistaseos"
+  },
+  {
+    "description": "Iroon 1",
+    "lat": 35.1054447728284,
+    "lon": 33.2859946612012,
+    "name": "Iroon 1"
+  },
+  {
+    "description": "Ave. Eleftherias - Dimokratias",
+    "lat": 35.1039339952886,
+    "lon": 33.2880631961994,
+    "name": "Ave. Eleftherias - Dimokratias"
+  }
+]

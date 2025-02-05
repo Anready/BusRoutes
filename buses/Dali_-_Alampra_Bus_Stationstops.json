@@ -1,0 +1,38 @@
+[
+  {
+    "description": "A´ Dali Elementary School",
+    "lat": 35.0284611467252,
+    "lon": 33.4254204937097,
+    "name": "A´ Dali Elementary School"
+  },
+  {
+    "description": "Agios Andronikos Church ",
+    "lat": 35.025048854467,
+    "lon": 33.421324972195,
+    "name": "Agios Andronikos Church "
+  },
+  {
+    "description": "Griva Digeni - 25 Martiou",
+    "lat": 35.0234591204126,
+    "lon": 33.4194971683741,
+    "name": "Griva Digeni - 25 Martiou"
+  },
+  {
+    "description": "Ave. Lemesou - Archiepiskopou Makariou C",
+    "lat": 35.0142741467419,
+    "lon": 33.3941862764731,
+    "name": "Ave. Lemesou - Archiepiskopou Makariou C"
+  },
+  {
+    "description": "Ave. Lemesou - Kimonos",
+    "lat": 35.0074573839602,
+    "lon": 33.394076856097,
+    "name": "Ave. Lemesou - Kimonos"
+  },
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  }
+]

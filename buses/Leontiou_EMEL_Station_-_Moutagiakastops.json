@@ -1,0 +1,236 @@
+[
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Panagioti Diomidous",
+    "lat": 34.6813100525199,
+    "lon": 33.0335138069715,
+    "name": "Archiep. Leontiou A´ - Panagioti Diomidous"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Karatza 1",
+    "lat": 34.6819325517798,
+    "lon": 33.0325424776436,
+    "name": "Archiep. Leontiou A´ - Karatza 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Ammochostou",
+    "lat": 34.6845840077666,
+    "lon": 33.0318229944535,
+    "name": "Archiep. Makariou C´ Ave. - Ammochostou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Agias Fylaxeos",
+    "lat": 34.6865397108503,
+    "lon": 33.036070547384,
+    "name": "Archiep. Makariou C´ Ave. - Agias Fylaxeos"
+  },
+  {
+    "description": "Laniteio School 2",
+    "lat": 34.6870438265049,
+    "lon": 33.0389529336289,
+    "name": "Laniteio School 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Platonos",
+    "lat": 34.6875747883206,
+    "lon": 33.0422393110185,
+    "name": "Archiep. Makariou C´ Ave. - Platonos"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kimonos",
+    "lat": 34.6877175955059,
+    "lon": 33.0463115698808,
+    "name": "Archiep. Makariou C´ Ave. - Kimonos"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Alasias",
+    "lat": 34.6874010936318,
+    "lon": 33.0485603672913,
+    "name": "Archiep. Makariou C´ Ave. - Alasias"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Griva Digeni 2",
+    "lat": 34.686876524564,
+    "lon": 33.0522610185188,
+    "name": "Archiep. Makariou C´ Ave. - Griva Digeni 2"
+  },
+  {
+    "description": "Enaerios 1",
+    "lat": 34.6858906569177,
+    "lon": 33.0586687655374,
+    "name": "Enaerios 1"
+  },
+  {
+    "description": "28 Oktovriou - Olympic Residence",
+    "lat": 34.6865822109648,
+    "lon": 33.064269797254,
+    "name": "28 Oktovriou - Olympic Residence"
+  },
+  {
+    "description": "28 Oktovriou - Debenhams 2",
+    "lat": 34.6885545404173,
+    "lon": 33.0690095156999,
+    "name": "28 Oktovriou - Debenhams 2"
+  },
+  {
+    "description": "Promachon Eleftherias - Kosta Pitsillidi",
+    "lat": 34.6897428875577,
+    "lon": 33.0724823157706,
+    "name": "Promachon Eleftherias - Kosta Pitsillidi"
+  },
+  {
+    "description": "Promachon Eleftherias - KEAN 2",
+    "lat": 34.6909223618055,
+    "lon": 33.0755621658399,
+    "name": "Promachon Eleftherias - KEAN 2"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Panagioti Tsagkari",
+    "lat": 34.6927586425113,
+    "lon": 33.0808154161997,
+    "name": "Vasileos Georgiou A´ - Panagioti Tsagkari"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Park Beach Hotel",
+    "lat": 34.6938659197996,
+    "lon": 33.0836661411318,
+    "name": "Vasileos Georgiou A´ - Park Beach Hotel"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Germasogeia Police Station",
+    "lat": 34.6951532392487,
+    "lon": 33.0868665169204,
+    "name": "Vasileos Georgiou A´ - Germasogeia Police Station"
+  },
+  {
+    "description": "Christaki Kranou - Vasileos Georgiou A´ 1",
+    "lat": 34.697334507205,
+    "lon": 33.0883428137703,
+    "name": "Christaki Kranou - Vasileos Georgiou A´ 1"
+  },
+  {
+    "description": "Daidalidon - Xanthippis 1",
+    "lat": 34.699758875909,
+    "lon": 33.090310804412,
+    "name": "Daidalidon - Xanthippis 1"
+  },
+  {
+    "description": "Voltairou - Ampelakion 1",
+    "lat": 34.7003259583129,
+    "lon": 33.0917090578674,
+    "name": "Voltairou - Ampelakion 1"
+  },
+  {
+    "description": "Prophitis Ilias Church 1",
+    "lat": 34.7020184936988,
+    "lon": 33.0953907172116,
+    "name": "Prophitis Ilias Church 1"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - McDonald´s",
+    "lat": 34.7002911311858,
+    "lon": 33.1015143141621,
+    "name": "Vasileos Georgiou A´ - McDonald´s"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Ariadnis",
+    "lat": 34.7017042673695,
+    "lon": 33.1046716950113,
+    "name": "Vasileos Georgiou A´ - Ariadnis"
+  },
+  {
+    "description": "Ariadnis - Alkaiou",
+    "lat": 34.7046877539718,
+    "lon": 33.1063243140363,
+    "name": "Ariadnis - Alkaiou"
+  },
+  {
+    "description": "Riga Feraiou - Iakovou Patatsou",
+    "lat": 34.7134974262861,
+    "lon": 33.1072201695897,
+    "name": "Riga Feraiou - Iakovou Patatsou"
+  },
+  {
+    "description": "Anthypol. Kleanthi Kleanthous",
+    "lat": 34.7138930709075,
+    "lon": 33.1085093372485,
+    "name": "Anthypol. Kleanthi Kleanthous"
+  },
+  {
+    "description": "Eleftherias - Rigainis 2",
+    "lat": 34.7149676716731,
+    "lon": 33.1068398333605,
+    "name": "Eleftherias - Rigainis 2"
+  },
+  {
+    "description": "Grigori Afxentiou - Keryneias",
+    "lat": 34.7163422655774,
+    "lon": 33.1023202472491,
+    "name": "Grigori Afxentiou - Keryneias"
+  },
+  {
+    "description": "Petraki Giallourou - Keryneias",
+    "lat": 34.7168727079103,
+    "lon": 33.1042211919753,
+    "name": "Petraki Giallourou - Keryneias"
+  },
+  {
+    "description": "Agiou Eleftheriou - Archiep. Makariou C´ 1",
+    "lat": 34.7226639208633,
+    "lon": 33.1021532832925,
+    "name": "Agiou Eleftheriou - Archiep. Makariou C´ 1"
+  },
+  {
+    "description": "Agiou Eleftheriou - Ammochostou 1",
+    "lat": 34.7232864534377,
+    "lon": 33.1017936210914,
+    "name": "Agiou Eleftheriou - Ammochostou 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Ammochostou 1",
+    "lat": 34.7257942475564,
+    "lon": 33.1007918353469,
+    "name": "Archiep. Makariou C´ - Ammochostou 1"
+  },
+  {
+    "description": "Michail Karaoli - Griva Digeni",
+    "lat": 34.7284980008883,
+    "lon": 33.102706597378,
+    "name": "Michail Karaoli - Griva Digeni"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Ammochostou 2",
+    "lat": 34.7258572819847,
+    "lon": 33.1009011358195,
+    "name": "Archiep. Makariou C´ - Ammochostou 2"
+  },
+  {
+    "description": "Mouttagiaka Elementary School 1",
+    "lat": 34.722251153873,
+    "lon": 33.099673499251,
+    "name": "Mouttagiaka Elementary School 1"
+  },
+  {
+    "description": "Agiou Georgiou - Evagora Pallikaridi 1",
+    "lat": 34.7196476164814,
+    "lon": 33.0964157440061,
+    "name": "Agiou Georgiou - Evagora Pallikaridi 1"
+  },
+  {
+    "description": "Agias Paraskevis - Salaminos",
+    "lat": 34.7192589449543,
+    "lon": 33.0975511318895,
+    "name": "Agias Paraskevis - Salaminos"
+  },
+  {
+    "description": "Mouttagiaka Square",
+    "lat": 34.7202124396557,
+    "lon": 33.1005010984064,
+    "name": "Mouttagiaka Square"
+  }
+]

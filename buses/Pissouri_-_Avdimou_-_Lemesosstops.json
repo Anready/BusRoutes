@@ -1,0 +1,80 @@
+[
+  {
+    "description": "Pissouri Police Station 2",
+    "lat": 34.6760011056743,
+    "lon": 32.698952180794,
+    "name": "Pissouri Police Station 2"
+  },
+  {
+    "description": "Gialousas Ave. - 2nd Avdimou 1",
+    "lat": 34.6931412911943,
+    "lon": 32.7630664888418,
+    "name": "Gialousas Ave. - 2nd Avdimou 1"
+  },
+  {
+    "description": "Avdimou Health Centre ",
+    "lat": 34.6953142244578,
+    "lon": 32.762874684271,
+    "name": "Avdimou Health Centre "
+  },
+  {
+    "description": "Gialousas Ave. - 3rd Avdimou",
+    "lat": 34.6905694043771,
+    "lon": 32.762145810263,
+    "name": "Gialousas Ave. - 3rd Avdimou"
+  },
+  {
+    "description": "Paramali 2",
+    "lat": 34.6764398872969,
+    "lon": 32.7925978588581,
+    "name": "Paramali 2"
+  },
+  {
+    "description": "Nikou & Despoinas Pattichi - Sp. Kyprianou Ave. 1",
+    "lat": 34.6917652918361,
+    "lon": 33.0165406520715,
+    "name": "Nikou & Despoinas Pattichi - Sp. Kyprianou Ave. 1"
+  },
+  {
+    "description": "Nikou & Despoinas Pattichi - Epidamnou",
+    "lat": 34.6882839198098,
+    "lon": 33.0196514370874,
+    "name": "Nikou & Despoinas Pattichi - Epidamnou"
+  },
+  {
+    "description": "Nikou & Despoinas Pattichi - Annis Marias",
+    "lat": 34.6874811173972,
+    "lon": 33.0209067437208,
+    "name": "Nikou & Despoinas Pattichi - Annis Marias"
+  },
+  {
+    "description": "Nikou & Despoinas Pattichi - Dikaiarchou 2",
+    "lat": 34.6863624089101,
+    "lon": 33.023581179568,
+    "name": "Nikou & Despoinas Pattichi - Dikaiarchou 2"
+  },
+  {
+    "description": "Nikou & Despoinas Pattichi - Vas. Konstantinou 2",
+    "lat": 34.6842149398374,
+    "lon": 33.0291591222144,
+    "name": "Nikou & Despoinas Pattichi - Vas. Konstantinou 2"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Karatza 2",
+    "lat": 34.6823114227731,
+    "lon": 33.0320950419712,
+    "name": "Archiep. Leontiou A´ - Karatza 2"
+  },
+  {
+    "description": "Archiepiskopou Leontiou A´ - Filiou Zanettou",
+    "lat": 34.6816798914142,
+    "lon": 33.0331318750662,
+    "name": "Archiepiskopou Leontiou A´ - Filiou Zanettou"
+  },
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  }
+]

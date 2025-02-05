@@ -1,0 +1,224 @@
+[
+  {
+    "description": "Tombs of the Kings Bus Station",
+    "lat": 34.7700851526625,
+    "lon": 32.4107318563524,
+    "name": "Tombs of the Kings Bus Station"
+  },
+  {
+    "description": "Tafoi Ton Vasileon - Angelou Sikelianou",
+    "lat": 34.7662613381543,
+    "lon": 32.4106606857937,
+    "name": "Tafoi Ton Vasileon - Angelou Sikelianou"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Agias Solomonis",
+    "lat": 34.761237439771,
+    "lon": 32.4123026383695,
+    "name": "Apostolou Pavlou Ave. - Agias Solomonis"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Pafias Afroditis",
+    "lat": 34.7595872171301,
+    "lon": 32.4123034058985,
+    "name": "Apostolou Pavlou Ave. - Pafias Afroditis"
+  },
+  {
+    "description": "Paphos Harbour Station",
+    "lat": 34.7565660916918,
+    "lon": 32.408533407359,
+    "name": "Paphos Harbour Station"
+  },
+  {
+    "description": "Annabelle Hotel 1",
+    "lat": 34.7561585690932,
+    "lon": 32.4175285664989,
+    "name": "Annabelle Hotel 1"
+  },
+  {
+    "description": "Poseidonos Ave. - 1st Stop",
+    "lat": 34.7538167248285,
+    "lon": 32.4199924088154,
+    "name": "Poseidonos Ave. - 1st Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 3rd Stop",
+    "lat": 34.7524242349487,
+    "lon": 32.4210947149952,
+    "name": "Poseidonos Ave. - 3rd Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 5th Stop",
+    "lat": 34.7494882035672,
+    "lon": 32.4237809794508,
+    "name": "Poseidonos Ave. - 5th Stop"
+  },
+  {
+    "description": "Neapolis University 2",
+    "lat": 34.7498037060993,
+    "lon": 32.4275808135072,
+    "name": "Neapolis University 2"
+  },
+  {
+    "description": "Neapolis University 1",
+    "lat": 34.7492075329655,
+    "lon": 32.4273664210965,
+    "name": "Neapolis University 1"
+  },
+  {
+    "description": "Poseidonos Ave. - 7th Stop",
+    "lat": 34.7449853134053,
+    "lon": 32.4288703977653,
+    "name": "Poseidonos Ave. - 7th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 9th Stop",
+    "lat": 34.7433272232012,
+    "lon": 32.4310448624992,
+    "name": "Poseidonos Ave. - 9th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 11th Stop",
+    "lat": 34.7416143276334,
+    "lon": 32.4330775987073,
+    "name": "Poseidonos Ave. - 11th Stop"
+  },
+  {
+    "description": "Theas Afroditis Ave. - 1st Stop",
+    "lat": 34.7384249014927,
+    "lon": 32.4375781705336,
+    "name": "Theas Afroditis Ave. - 1st Stop"
+  },
+  {
+    "description": "Theas Afroditis Ave. - 3rd Stop",
+    "lat": 34.7413664635358,
+    "lon": 32.443861534233,
+    "name": "Theas Afroditis Ave. - 3rd Stop"
+  },
+  {
+    "description": "Ierokipion Ave. - 1st Stop",
+    "lat": 34.7466426309659,
+    "lon": 32.4460220894897,
+    "name": "Ierokipion Ave. - 1st Stop"
+  },
+  {
+    "description": "Geroskipou High School 1",
+    "lat": 34.7551187720507,
+    "lon": 32.4518983462542,
+    "name": "Geroskipou High School 1"
+  },
+  {
+    "description": "Ippokratous - Kozanis",
+    "lat": 34.7559942364575,
+    "lon": 32.4560882198715,
+    "name": "Ippokratous - Kozanis"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Al. Panagouli",
+    "lat": 34.7589023723357,
+    "lon": 32.4570853205206,
+    "name": "Archiep. Makariou C` Ave. - Al. Panagouli"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Ag. Sergiou 1",
+    "lat": 34.756191246285,
+    "lon": 32.4618669001097,
+    "name": "Archiep. Makariou C` Ave. - Ag. Sergiou 1"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Filias",
+    "lat": 34.7528419525787,
+    "lon": 32.4651117343522,
+    "name": "Archiep. Makariou C` Ave. - Filias"
+  },
+  {
+    "description": "American Academy 1",
+    "lat": 34.7453419748184,
+    "lon": 32.4740200977946,
+    "name": "American Academy 1"
+  },
+  {
+    "description": "1st Stop Acheleia",
+    "lat": 34.740112978729,
+    "lon": 32.4806186330465,
+    "name": "1st Stop Acheleia"
+  },
+  {
+    "description": "Ag. Georgios Church - Acheleia 1",
+    "lat": 34.7386787516233,
+    "lon": 32.4847677782398,
+    "name": "Ag. Georgios Church - Acheleia 1"
+  },
+  {
+    "description": "3rd Stop Acheleia",
+    "lat": 34.7349074057902,
+    "lon": 32.4950701441028,
+    "name": "3rd Stop Acheleia"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Anexartisias 1",
+    "lat": 34.7287723221796,
+    "lon": 32.5120266264025,
+    "name": "Archiep. Makariou C` Ave. - Anexartisias 1"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 1st Stop",
+    "lat": 34.7233747153902,
+    "lon": 32.5267592749869,
+    "name": "Old Lemesos - Pafos Road - 1st Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 3rd Stop",
+    "lat": 34.7202521982316,
+    "lon": 32.5355142956288,
+    "name": "Old Lemesos - Pafos Road - 3rd Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 5th Stop",
+    "lat": 34.7180309322553,
+    "lon": 32.5418938045008,
+    "name": "Old Lemesos - Pafos Road - 5th Stop"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 7th Stop",
+    "lat": 34.7145815546232,
+    "lon": 32.5503436827246,
+    "name": "Old Lemesos - Pafos Road - 7th Stop"
+  },
+  {
+    "description": "Kouklia Archaeological Site 1",
+    "lat": 34.7055665912889,
+    "lon": 32.573705859095,
+    "name": "Kouklia Archaeological Site 1"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 9th Stop 1",
+    "lat": 34.7007067366251,
+    "lon": 32.5739164083462,
+    "name": "Old Lemesos - Pafos Road - 9th Stop 1"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 11th Stop",
+    "lat": 34.6861793422567,
+    "lon": 32.5844494186138,
+    "name": "Old Lemesos - Pafos Road - 11th Stop"
+  },
+  {
+    "description": "Aphrodite Hills",
+    "lat": 34.6830939284883,
+    "lon": 32.6085688807181,
+    "name": "Aphrodite Hills"
+  },
+  {
+    "description": "Old Lemesos - Pafos Road - 13th Stop",
+    "lat": 34.673811794653,
+    "lon": 32.6077065696775,
+    "name": "Old Lemesos - Pafos Road - 13th Stop"
+  },
+  {
+    "description": "Petra tou Romiou ",
+    "lat": 34.6653628237004,
+    "lon": 32.6280907854719,
+    "name": "Petra tou Romiou "
+  }
+]

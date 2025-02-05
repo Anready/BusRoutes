@@ -1,0 +1,230 @@
+[
+  {
+    "description": "University of Cyprus - Oceanography Center",
+    "lat": 35.1443862687783,
+    "lon": 33.4071517965074,
+    "name": "University of Cyprus - Oceanography Center"
+  },
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  },
+  {
+    "description": "Larnakos - Panepistimiou Avenue",
+    "lat": 35.1484874185252,
+    "lon": 33.412968860005,
+    "name": "Larnakos - Panepistimiou Avenue"
+  },
+  {
+    "description": "Larnakos",
+    "lat": 35.150676805777,
+    "lon": 33.4081712189029,
+    "name": "Larnakos"
+  },
+  {
+    "description": "Larnakos - Charilaou Michail",
+    "lat": 35.1527656835822,
+    "lon": 33.4037131750903,
+    "name": "Larnakos - Charilaou Michail"
+  },
+  {
+    "description": "Larnakos - Athalassis Avenue",
+    "lat": 35.1538918143343,
+    "lon": 33.4013033119756,
+    "name": "Larnakos - Athalassis Avenue"
+  },
+  {
+    "description": "Larnakos - Markou Drakou",
+    "lat": 35.1553086442271,
+    "lon": 33.3982250578305,
+    "name": "Larnakos - Markou Drakou"
+  },
+  {
+    "description": "Larnakos - Grigoriou Lampraki",
+    "lat": 35.156907096164,
+    "lon": 33.3947303495763,
+    "name": "Larnakos - Grigoriou Lampraki"
+  },
+  {
+    "description": "Larnakos - Aglantzias Avenue",
+    "lat": 35.1578330387169,
+    "lon": 33.3928243472456,
+    "name": "Larnakos - Aglantzias Avenue"
+  },
+  {
+    "description": "Larnakos - Athinas",
+    "lat": 35.159095340547,
+    "lon": 33.3900634776295,
+    "name": "Larnakos - Athinas"
+  },
+  {
+    "description": "Larnakos - Parthenonos",
+    "lat": 35.1607369252419,
+    "lon": 33.3871066780304,
+    "name": "Larnakos - Parthenonos"
+  },
+  {
+    "description": "Larnakos - Akadimia Park 2",
+    "lat": 35.1641842025237,
+    "lon": 33.3834115693828,
+    "name": "Larnakos - Akadimia Park 2"
+  },
+  {
+    "description": "Larnakos - Poseidonos",
+    "lat": 35.1652157140812,
+    "lon": 33.3822853944564,
+    "name": "Larnakos - Poseidonos"
+  },
+  {
+    "description": "Larnakos - Andrea Dimitriou",
+    "lat": 35.1665815692603,
+    "lon": 33.3809301518236,
+    "name": "Larnakos - Andrea Dimitriou"
+  },
+  {
+    "description": "Larnakos - Dios",
+    "lat": 35.1692512802464,
+    "lon": 33.3778458802729,
+    "name": "Larnakos - Dios"
+  },
+  {
+    "description": "Larnakos - Digeni Akrita Avenue",
+    "lat": 35.1706277398092,
+    "lon": 33.3759634351733,
+    "name": "Larnakos - Digeni Akrita Avenue"
+  },
+  {
+    "description": "Larnakos - Volonaki",
+    "lat": 35.1722150487511,
+    "lon": 33.3729507789734,
+    "name": "Larnakos - Volonaki"
+  },
+  {
+    "description": "Ave. Salaminos - Vasileos Georgiou B Square",
+    "lat": 35.175028451496,
+    "lon": 33.3729306811504,
+    "name": "Ave. Salaminos - Vasileos Georgiou B Square"
+  },
+  {
+    "description": "Ave. Salaminos - Anoigma Kolokasi 2",
+    "lat": 35.1710398246555,
+    "lon": 33.3709907006317,
+    "name": "Ave. Salaminos - Anoigma Kolokasi 2"
+  },
+  {
+    "description": "Ave. Stasinou - Alkaiou",
+    "lat": 35.1690375102022,
+    "lon": 33.3682033474436,
+    "name": "Ave. Stasinou - Alkaiou"
+  },
+  {
+    "description": "Ave. Stasinou - Kritis",
+    "lat": 35.1682151650405,
+    "lon": 33.3658167311003,
+    "name": "Ave. Stasinou - Kritis"
+  },
+  {
+    "description": "Bastion Davila",
+    "lat": 35.1685125276104,
+    "lon": 33.3628860850149,
+    "name": "Bastion Davila"
+  },
+  {
+    "description": "Diagorou",
+    "lat": 35.169683481778,
+    "lon": 33.3572468736466,
+    "name": "Diagorou"
+  },
+  {
+    "description": "Chilonos - Michail Paridi",
+    "lat": 35.1708040725686,
+    "lon": 33.3533313787656,
+    "name": "Chilonos - Michail Paridi"
+  },
+  {
+    "description": "Ministry of Health 1",
+    "lat": 35.1693560161352,
+    "lon": 33.348943572246,
+    "name": "Ministry of Health 1"
+  },
+  {
+    "description": "Ministry of Transport Communications and Works 1",
+    "lat": 35.1688630420403,
+    "lon": 33.3447576120447,
+    "name": "Ministry of Transport Communications and Works 1"
+  },
+  {
+    "description": "Prigipos Karolou - Vasileos Konstantinou",
+    "lat": 35.1689662810938,
+    "lon": 33.3401349372564,
+    "name": "Prigipos Karolou - Vasileos Konstantinou"
+  },
+  {
+    "description": "Prigipos Karolou - Vasileos Georgiou",
+    "lat": 35.1688559106146,
+    "lon": 33.3376856596343,
+    "name": "Prigipos Karolou - Vasileos Georgiou"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Egkomis",
+    "lat": 35.168540102215,
+    "lon": 33.3345107856869,
+    "name": "Ave. Kyriakou Matsi - Egkomis"
+  },
+  {
+    "description": "Agios Dometios Police Station 1",
+    "lat": 35.1684008795973,
+    "lon": 33.3326763572084,
+    "name": "Agios Dometios Police Station 1"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Neas Egkomis",
+    "lat": 35.1682563232066,
+    "lon": 33.3294802482566,
+    "name": "Ave. Kyriakou Matsi - Neas Egkomis"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Dimokratias Avenue",
+    "lat": 35.1685531625958,
+    "lon": 33.326417687976,
+    "name": "Ave. Kyriakou Matsi - Dimokratias Avenue"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Vasilissis Freiderikis",
+    "lat": 35.1685717509259,
+    "lon": 33.3194446910405,
+    "name": "Ave. Kyriakou Matsi - Vasilissis Freiderikis"
+  },
+  {
+    "description": "University of Nicosia 1",
+    "lat": 35.1663131804593,
+    "lon": 33.3141869821712,
+    "name": "University of Nicosia 1"
+  },
+  {
+    "description": "Makedonitissis - School for the Deaf 1",
+    "lat": 35.1637894566526,
+    "lon": 33.3137709949041,
+    "name": "Makedonitissis - School for the Deaf 1"
+  },
+  {
+    "description": "Makedonitissis - Papaflesa",
+    "lat": 35.1598803611156,
+    "lon": 33.3120870151481,
+    "name": "Makedonitissis - Papaflesa"
+  },
+  {
+    "description": "Makedonitissas Tomb 2",
+    "lat": 35.153712719255,
+    "lon": 33.308528151779,
+    "name": "Makedonitissas Tomb 2"
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  }
+]

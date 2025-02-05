@@ -1,0 +1,230 @@
+[
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  },
+  {
+    "description": "Kantaras - Vasili Chatzigianni",
+    "lat": 35.1373801444484,
+    "lon": 33.3365567249384,
+    "name": "Kantaras - Vasili Chatzigianni"
+  },
+  {
+    "description": "Kantaras - Nikokleous",
+    "lat": 35.1350104788111,
+    "lon": 33.3358883709387,
+    "name": "Kantaras - Nikokleous"
+  },
+  {
+    "description": "Kantaras - Thessalias",
+    "lat": 35.1310209444394,
+    "lon": 33.334049943843,
+    "name": "Kantaras - Thessalias"
+  },
+  {
+    "description": "Kantaras - Symis",
+    "lat": 35.1284719457505,
+    "lon": 33.3330078070179,
+    "name": "Kantaras - Symis"
+  },
+  {
+    "description": "Mesaorias - Tamasou",
+    "lat": 35.1258130465081,
+    "lon": 33.3325799160564,
+    "name": "Mesaorias - Tamasou"
+  },
+  {
+    "description": "Tamasou - Trikomou",
+    "lat": 35.1245394038153,
+    "lon": 33.3333869106388,
+    "name": "Tamasou - Trikomou"
+  },
+  {
+    "description": "Ave. Tseriou - Spyrou Kyprianou Avenue 1",
+    "lat": 35.1230896675848,
+    "lon": 33.3359162520119,
+    "name": "Ave. Tseriou - Spyrou Kyprianou Avenue 1"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Kythnou",
+    "lat": 35.1229516399975,
+    "lon": 33.3303622926777,
+    "name": "Spyrou Kyprianou Ave. - Kythnou"
+  },
+  {
+    "description": "Kyvelis - Kallikratidas",
+    "lat": 35.1219847050471,
+    "lon": 33.3278121988111,
+    "name": "Kyvelis - Kallikratidas"
+  },
+  {
+    "description": "Kyvelis - Ayiou Stylianou",
+    "lat": 35.120985110507,
+    "lon": 33.3273253020089,
+    "name": "Kyvelis - Ayiou Stylianou"
+  },
+  {
+    "description": "Karavostasiou - Agiou Memnonos",
+    "lat": 35.1190937656453,
+    "lon": 33.3264836692872,
+    "name": "Karavostasiou - Agiou Memnonos"
+  },
+  {
+    "description": "Karavostasiou - Mousoulitas",
+    "lat": 35.1158072918096,
+    "lon": 33.3246927495327,
+    "name": "Karavostasiou - Mousoulitas"
+  },
+  {
+    "description": "Ippokratus - Themistokleus",
+    "lat": 35.112756502452,
+    "lon": 33.3190182068856,
+    "name": "Ippokratus - Themistokleus"
+  },
+  {
+    "description": "Agiou Dimitrianou - Iliodorou",
+    "lat": 35.114347197076,
+    "lon": 33.3141629530254,
+    "name": "Agiou Dimitrianou - Iliodorou"
+  },
+  {
+    "description": "Orfeos - Areos",
+    "lat": 35.1131705462911,
+    "lon": 33.3123806843285,
+    "name": "Orfeos - Areos"
+  },
+  {
+    "description": "Axiou - Karyatidon",
+    "lat": 35.1093621829939,
+    "lon": 33.3100727377089,
+    "name": "Axiou - Karyatidon"
+  },
+  {
+    "description": "Axiou - Spercheiou",
+    "lat": 35.104976451503,
+    "lon": 33.307850618185,
+    "name": "Axiou - Spercheiou"
+  },
+  {
+    "description": "John Kennedy - Tseriou",
+    "lat": 35.1008584744757,
+    "lon": 33.3067050066482,
+    "name": "John Kennedy - Tseriou"
+  },
+  {
+    "description": "Tseriou - Kyproleontos",
+    "lat": 35.0981292653386,
+    "lon": 33.3055098345175,
+    "name": "Tseriou - Kyproleontos"
+  },
+  {
+    "description": "Agios Ioannis Chrisostomos Church 2",
+    "lat": 35.096887194301,
+    "lon": 33.3081603283506,
+    "name": "Agios Ioannis Chrisostomos Church 2"
+  },
+  {
+    "description": "Glyfou",
+    "lat": 35.0980389616783,
+    "lon": 33.3091192047139,
+    "name": "Glyfou"
+  },
+  {
+    "description": "Axiou - Argous",
+    "lat": 35.1051930025139,
+    "lon": 33.3077965688559,
+    "name": "Axiou - Argous"
+  },
+  {
+    "description": "Ave. Giannou Kranidioti - Karyatidon",
+    "lat": 35.1092201612841,
+    "lon": 33.3127057800043,
+    "name": "Ave. Giannou Kranidioti - Karyatidon"
+  },
+  {
+    "description": "Orfeos - Dioskouron",
+    "lat": 35.1128284321066,
+    "lon": 33.3121708777143,
+    "name": "Orfeos - Dioskouron"
+  },
+  {
+    "description": "Agiou Dimitrianou - Neapoleos",
+    "lat": 35.1140291193053,
+    "lon": 33.3151164609424,
+    "name": "Agiou Dimitrianou - Neapoleos"
+  },
+  {
+    "description": "Ippokratous - Trikomou",
+    "lat": 35.1128716433483,
+    "lon": 33.3198087647585,
+    "name": "Ippokratous - Trikomou"
+  },
+  {
+    "description": "Karavostasiou - Assias",
+    "lat": 35.1157445833652,
+    "lon": 33.3245388630575,
+    "name": "Karavostasiou - Assias"
+  },
+  {
+    "description": "Karavostasiou - Smyrnis",
+    "lat": 35.1189768977515,
+    "lon": 33.3263515083804,
+    "name": "Karavostasiou - Smyrnis"
+  },
+  {
+    "description": "Agios Stylianos High School 1",
+    "lat": 35.1209928999241,
+    "lon": 33.3244279795532,
+    "name": "Agios Stylianos High School 1"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Roundabout Metro",
+    "lat": 35.125697950573,
+    "lon": 33.3251490655893,
+    "name": "Spyrou Kyprianou Ave. - Roundabout Metro"
+  },
+  {
+    "description": "Kantaras - Pantainou",
+    "lat": 35.1244579753845,
+    "lon": 33.3301927703475,
+    "name": "Kantaras - Pantainou"
+  },
+  {
+    "description": "Kantaras - Ekalis",
+    "lat": 35.1285084060928,
+    "lon": 33.3328652696529,
+    "name": "Kantaras - Ekalis"
+  },
+  {
+    "description": "Kantaras - Agiou Stefanou",
+    "lat": 35.1312193204775,
+    "lon": 33.3340507540025,
+    "name": "Kantaras - Agiou Stefanou"
+  },
+  {
+    "description": "Kantaras - Ileias",
+    "lat": 35.1351638605197,
+    "lon": 33.3358560707177,
+    "name": "Kantaras - Ileias"
+  },
+  {
+    "description": "Kantaras - Kosti Palama",
+    "lat": 35.138751045416,
+    "lon": 33.3364525951216,
+    "name": "Kantaras - Kosti Palama"
+  },
+  {
+    "description": "Ave. Strovolou - Ilia Venezi",
+    "lat": 35.1408111281378,
+    "lon": 33.3381955135068,
+    "name": "Ave. Strovolou - Ilia Venezi"
+  },
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "description": "NICOSIA MALL",
+    "lat": 35.1333323319374,
+    "lon": 33.2794294100809,
+    "name": "NICOSIA MALL"
+  },
+  {
+    "description": "Ave. Iroon - Isokratous",
+    "lat": 35.133472627912,
+    "lon": 33.2999559656293,
+    "name": "Ave. Iroon - Isokratous"
+  },
+  {
+    "description": "Ave. Iroon - Kosta Krystalli",
+    "lat": 35.1432660854082,
+    "lon": 33.3032632822852,
+    "name": "Ave. Iroon - Kosta Krystalli"
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Cyprus International Fair",
+    "lat": 35.1496594592518,
+    "lon": 33.317273835866,
+    "name": "Cyprus International Fair"
+  },
+  {
+    "description": "Ilia Papakyriakou - Cyprus International Fair",
+    "lat": 35.15184127593,
+    "lon": 33.3174030737528,
+    "name": "Ilia Papakyriakou - Cyprus International Fair"
+  },
+  {
+    "description": "Ilia Papakyriakou - Nikolaou Skoufa",
+    "lat": 35.1550725464794,
+    "lon": 33.3162078888731,
+    "name": "Ilia Papakyriakou - Nikolaou Skoufa"
+  },
+  {
+    "description": "Ave. 28 Oktovriou - Papaflesa",
+    "lat": 35.158013743371,
+    "lon": 33.3155934214839,
+    "name": "Ave. 28 Oktovriou - Papaflesa"
+  },
+  {
+    "description": "Ave.8 Oktovriou - Palaion Patron Germanou",
+    "lat": 35.1604177459165,
+    "lon": 33.3169642416892,
+    "name": "Ave.8 Oktovriou - Palaion Patron Germanou"
+  },
+  {
+    "description": "Mall of Engomi",
+    "lat": 35.1631212254142,
+    "lon": 33.3176006175545,
+    "name": "Mall of Engomi"
+  },
+  {
+    "description": "Markou Drakou - Ag. Dometios-Engomi Ind. Area 2",
+    "lat": 35.1649078110405,
+    "lon": 33.3205723584704,
+    "name": "Markou Drakou - Ag. Dometios-Engomi Ind. Area 2"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Neas Egkomis",
+    "lat": 35.1643854001784,
+    "lon": 33.3237437169393,
+    "name": "Ave. Georgiou Griva Digeni - Neas Egkomis"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Hilton Park 2",
+    "lat": 35.1642034480622,
+    "lon": 33.3276960213495,
+    "name": "Ave. Georgiou Griva Digeni - Hilton Park 2"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - 25 Martiou",
+    "lat": 35.164079278944,
+    "lon": 33.3302540050329,
+    "name": "Ave. Georgiou Griva Digeni - 25 Martiou"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Grigori Afxentiou",
+    "lat": 35.1631463342177,
+    "lon": 33.3350596846282,
+    "name": "Ave. Georgiou Griva Digeni - Grigori Afxentiou"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Iakovou Patatsou",
+    "lat": 35.1621033724326,
+    "lon": 33.3372185343613,
+    "name": "Ave. Georgiou Griva Digeni - Iakovou Patatsou"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Metochi Kikkou 2",
+    "lat": 35.1609041560846,
+    "lon": 33.3404197967511,
+    "name": "Ave. Georgiou Griva Digeni - Metochi Kikkou 2"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Engomi High School 2",
+    "lat": 35.1624413524021,
+    "lon": 33.3452795308849,
+    "name": "Ave. Georgiou Griva Digeni - Engomi High School 2"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Prodromou 2",
+    "lat": 35.1642091903337,
+    "lon": 33.3482627501334,
+    "name": "Ave. Georgiou Griva Digeni - Prodromou 2"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Lordou Vyronos Avenue",
+    "lat": 35.163945061928,
+    "lon": 33.3522914978052,
+    "name": "Ave. Georgiou Griva Digeni - Lordou Vyronos Avenue"
+  },
+  {
+    "description": "Ave. Dimostheni Severi - Ministry of Interior",
+    "lat": 35.1652643510752,
+    "lon": 33.3544274541658,
+    "name": "Ave. Dimostheni Severi - Ministry of Interior"
+  },
+  {
+    "description": "Ministry of Finance",
+    "lat": 35.1686262204901,
+    "lon": 33.3549471767997,
+    "name": "Ministry of Finance"
+  },
+  {
+    "description": "Solomos Square Alighting ",
+    "lat": 35.170392452312,
+    "lon": 33.3583920449795,
+    "name": "Solomos Square Alighting "
+  }
+]

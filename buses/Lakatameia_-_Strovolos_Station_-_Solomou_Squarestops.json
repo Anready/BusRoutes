@@ -1,0 +1,170 @@
+[
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Strakka Lake 2",
+    "lat": 35.0955708260207,
+    "lon": 33.2935633794572,
+    "name": "Ave. Archiepiskopou Makariou C - Strakka Lake 2"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Florinis",
+    "lat": 35.0979000318829,
+    "lon": 33.29613911543,
+    "name": "Ave. Archiepiskopou Makariou C - Florinis"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Profiti Ilia",
+    "lat": 35.1012893042079,
+    "lon": 33.3002988608563,
+    "name": "Ave. Archiepiskopou Makariou C - Profiti Ilia"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Archiep. Kyprianou",
+    "lat": 35.1043670612924,
+    "lon": 33.3027680118951,
+    "name": "Ave. Archiep. Makariou C - Archiep. Kyprianou"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Agiou Georgiou",
+    "lat": 35.1081332673743,
+    "lon": 33.3039670356337,
+    "name": "Ave. Archiepiskopou Makariou C - Agiou Georgiou"
+  },
+  {
+    "description": "Elementary School A Lakatameia - Agia Paraskevi 2",
+    "lat": 35.1097171430421,
+    "lon": 33.3052238752552,
+    "name": "Elementary School A Lakatameia - Agia Paraskevi 2"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Irakleous",
+    "lat": 35.1125897351511,
+    "lon": 33.3067709052956,
+    "name": "Ave. Archiepiskopou Makariou C - Irakleous"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Nikou Alexandrou",
+    "lat": 35.1143620750018,
+    "lon": 33.3083687696129,
+    "name": "Ave. Archiep. Makariou C - Nikou Alexandrou"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Archangelou Michail",
+    "lat": 35.1168695211054,
+    "lon": 33.3116375776133,
+    "name": "Ave. Archiep. Makariou C - Archangelou Michail"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Antheon",
+    "lat": 35.1202813962671,
+    "lon": 33.3172915836503,
+    "name": "Ave. Archiepiskopou Makariou C - Antheon"
+  },
+  {
+    "description": "Ave. Archiepiskopou Makariou C - Voufavento",
+    "lat": 35.1223753171321,
+    "lon": 33.3199885812926,
+    "name": "Ave. Archiepiskopou Makariou C - Voufavento"
+  },
+  {
+    "description": "Ave. Strovolou - Averkiou",
+    "lat": 35.1248579344291,
+    "lon": 33.3223031131762,
+    "name": "Ave. Strovolou - Averkiou"
+  },
+  {
+    "description": "Ave. Strovolou - Lakatameia Roundabout  2",
+    "lat": 35.1277745312816,
+    "lon": 33.3241695029266,
+    "name": "Ave. Strovolou - Lakatameia Roundabout  2"
+  },
+  {
+    "description": "Ave. Strovolou - Zografou",
+    "lat": 35.1316259771456,
+    "lon": 33.3271154253656,
+    "name": "Ave. Strovolou - Zografou"
+  },
+  {
+    "description": "Ave. Strovolou - PEPSI",
+    "lat": 35.1343230701379,
+    "lon": 33.3300898976182,
+    "name": "Ave. Strovolou - PEPSI"
+  },
+  {
+    "description": "Public Works Department 2",
+    "lat": 35.1381279815904,
+    "lon": 33.3335081633724,
+    "name": "Public Works Department 2"
+  },
+  {
+    "description": "Ave. Strovolou - Ilia Venezi",
+    "lat": 35.1408111281378,
+    "lon": 33.3381955135068,
+    "name": "Ave. Strovolou - Ilia Venezi"
+  },
+  {
+    "description": "Strovolos City Hall 2",
+    "lat": 35.1433329628898,
+    "lon": 33.3424653377379,
+    "name": "Strovolos City Hall 2"
+  },
+  {
+    "description": "Ave. Strovolou - Agias Marinas",
+    "lat": 35.1463101046099,
+    "lon": 33.3451235590251,
+    "name": "Ave. Strovolou - Agias Marinas"
+  },
+  {
+    "description": "Ave. Strovolou - SEK 2",
+    "lat": 35.1491470633039,
+    "lon": 33.3463322036359,
+    "name": "Ave. Strovolou - SEK 2"
+  },
+  {
+    "description": "Ave. Strovolou - Themidos",
+    "lat": 35.1515514101736,
+    "lon": 33.3474622409941,
+    "name": "Ave. Strovolou - Themidos"
+  },
+  {
+    "description": "Presidential Palace",
+    "lat": 35.1544421916331,
+    "lon": 33.3487591098419,
+    "name": "Presidential Palace"
+  },
+  {
+    "description": "Ave. Dimostheni Severi - Apelli",
+    "lat": 35.1577789119856,
+    "lon": 33.3517488636013,
+    "name": "Ave. Dimostheni Severi - Apelli"
+  },
+  {
+    "description": "Ave. Dimostheni Severi - Markou Mpotsari",
+    "lat": 35.1597138377975,
+    "lon": 33.3530418545614,
+    "name": "Ave. Dimostheni Severi - Markou Mpotsari"
+  },
+  {
+    "description": "Ave. Dimostheni Severi - Konstantinou Kanari",
+    "lat": 35.1615069141695,
+    "lon": 33.3534997927003,
+    "name": "Ave. Dimostheni Severi - Konstantinou Kanari"
+  },
+  {
+    "description": "Ave. Dimostheni Severi - Ministry of Interior",
+    "lat": 35.1652643510752,
+    "lon": 33.3544274541658,
+    "name": "Ave. Dimostheni Severi - Ministry of Interior"
+  },
+  {
+    "description": "Ministry of Finance",
+    "lat": 35.1686262204901,
+    "lon": 33.3549471767997,
+    "name": "Ministry of Finance"
+  },
+  {
+    "description": "Solomos Square Alighting ",
+    "lat": 35.170392452312,
+    "lon": 33.3583920449795,
+    "name": "Solomos Square Alighting "
+  }
+]

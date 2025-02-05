@@ -1,0 +1,134 @@
+[
+  {
+    "description": "Dionysios Solomos Square D",
+    "lat": 35.1713757611785,
+    "lon": 33.3582426177153,
+    "name": "Dionysios Solomos Square D"
+  },
+  {
+    "description": "Themistokli Dervi - Florinis",
+    "lat": 35.1656690623777,
+    "lon": 33.3578552232461,
+    "name": "Themistokli Dervi - Florinis"
+  },
+  {
+    "description": "Themistokli Dervi - Spyrou Kyprianou Avenue",
+    "lat": 35.1643141390697,
+    "lon": 33.3586508739235,
+    "name": "Themistokli Dervi - Spyrou Kyprianou Avenue"
+  },
+  {
+    "description": "Nikis - Tzon Kennenty",
+    "lat": 35.1621498264015,
+    "lon": 33.3587182351632,
+    "name": "Nikis - Tzon Kennenty"
+  },
+  {
+    "description": "Nikis - 25 Martiou",
+    "lat": 35.1603297845076,
+    "lon": 33.3582381004355,
+    "name": "Nikis - 25 Martiou"
+  },
+  {
+    "description": "Nikis - Kastoros",
+    "lat": 35.1575354468153,
+    "lon": 33.3579074378792,
+    "name": "Nikis - Kastoros"
+  },
+  {
+    "description": "Korytsas - Makarios Hospital 1",
+    "lat": 35.1511680570978,
+    "lon": 33.3583406657338,
+    "name": "Korytsas - Makarios Hospital 1"
+  },
+  {
+    "description": "Blind School Agios Varnavas 1",
+    "lat": 35.1494619379485,
+    "lon": 33.3559178867555,
+    "name": "Blind School Agios Varnavas 1"
+  },
+  {
+    "description": "Ave. Georgiou Paraskevaidi - Akropolis Park 1",
+    "lat": 35.1472040421581,
+    "lon": 33.3601896043787,
+    "name": "Ave. Georgiou Paraskevaidi - Akropolis Park 1"
+  },
+  {
+    "description": "Ave. Iosif Chr. Chatziiosif - Paraskeva Ioannou",
+    "lat": 35.144338642721,
+    "lon": 33.3594963473004,
+    "name": "Ave. Iosif Chr. Chatziiosif - Paraskeva Ioannou"
+  },
+  {
+    "description": "Ave. Iosif Chr. Chatziiosif - Laodikeias",
+    "lat": 35.1407796393108,
+    "lon": 33.3585585917607,
+    "name": "Ave. Iosif Chr. Chatziiosif - Laodikeias"
+  },
+  {
+    "description": "Ave. Iosif Chr. Chatziiosif - Stavrou 1",
+    "lat": 35.1368855037083,
+    "lon": 33.3581243930857,
+    "name": "Ave. Iosif Chr. Chatziiosif - Stavrou 1"
+  },
+  {
+    "description": "Ave. Iosif Chr. Chatziiosif - Dimokratias",
+    "lat": 35.1340181100332,
+    "lon": 33.358100860457,
+    "name": "Ave. Iosif Chr. Chatziiosif - Dimokratias"
+  },
+  {
+    "description": "Ave. Iosif Chatziiosif - Lyceum Ap. Varnavas 1",
+    "lat": 35.1316301103678,
+    "lon": 33.3575745220594,
+    "name": "Ave. Iosif Chatziiosif - Lyceum Ap. Varnavas 1"
+  },
+  {
+    "description": "Ave. Iosif Chatziiosif - Spyrou Kyprianou Avenue",
+    "lat": 35.1285129199443,
+    "lon": 33.3566389268962,
+    "name": "Ave. Iosif Chatziiosif - Spyrou Kyprianou Avenue"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Strovolos Industrial Zone",
+    "lat": 35.1279690819096,
+    "lon": 33.3575914460331,
+    "name": "Spyrou Kyprianou Ave. - Strovolos Industrial Zone"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Agios Therissos",
+    "lat": 35.1289742897005,
+    "lon": 33.3622166863752,
+    "name": "Spyrou Kyprianou Ave. - Agios Therissos"
+  },
+  {
+    "description": "Kalamon - Kampou",
+    "lat": 35.1271343844758,
+    "lon": 33.3683329427313,
+    "name": "Kalamon - Kampou"
+  },
+  {
+    "description": "Kalamon -Hospital Round About",
+    "lat": 35.1243067279532,
+    "lon": 33.3730066444956,
+    "name": "Kalamon -Hospital Round About"
+  },
+  {
+    "description": "Lemesou Ave. - Volvo",
+    "lat": 35.1268358517556,
+    "lon": 33.3745328069755,
+    "name": "Lemesou Ave. - Volvo"
+  },
+  {
+    "description": "The Mall of Cyprus - Verginas",
+    "lat": 35.1296954455061,
+    "lon": 33.3741617405526,
+    "name": "The Mall of Cyprus - Verginas"
+  },
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  }
+]

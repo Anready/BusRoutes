@@ -1,0 +1,68 @@
+[
+  {
+    "description": "A´ Avgorou Elementary School 1",
+    "lat": 35.0332075582365,
+    "lon": 33.839864570256,
+    "name": "A´ Avgorou Elementary School 1"
+  },
+  {
+    "description": "Karyon - Riga Feraiou",
+    "lat": 35.0358767216452,
+    "lon": 33.8398480281902,
+    "name": "Karyon - Riga Feraiou"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 35.0374876997809,
+    "lon": 33.8402920810549,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "2nd Stop Frenaros Industrial Zone 2",
+    "lat": 35.0376021848448,
+    "lon": 33.9094496467439,
+    "name": "2nd Stop Frenaros Industrial Zone 2"
+  },
+  {
+    "description": "1st Stop Frenaros Industrial Zone 2",
+    "lat": 35.0366556576701,
+    "lon": 33.9118181559969,
+    "name": "1st Stop Frenaros Industrial Zone 2"
+  },
+  {
+    "description": "Foti Pitta - Petrou Peskesi",
+    "lat": 35.0375544957556,
+    "lon": 33.9181758554259,
+    "name": "Foti Pitta - Petrou Peskesi"
+  },
+  {
+    "description": "Eleftheria Square",
+    "lat": 35.0277749558078,
+    "lon": 33.9516099188182,
+    "name": "Eleftheria Square"
+  },
+  {
+    "description": "Agias Theklas - Apostolou Andrea",
+    "lat": 35.0234269167761,
+    "lon": 33.9483917101869,
+    "name": "Agias Theklas - Apostolou Andrea"
+  },
+  {
+    "description": "Paralimni - Agia Napa Road - 4th Stop",
+    "lat": 35.002389368232,
+    "lon": 33.9990838762707,
+    "name": "Paralimni - Agia Napa Road - 4th Stop"
+  },
+  {
+    "description": "Paralimni - Agia Napa Road - 2nd Stop",
+    "lat": 34.9971214509638,
+    "lon": 34.0004224335575,
+    "name": "Paralimni - Agia Napa Road - 2nd Stop"
+  },
+  {
+    "description": "Agia Napa Athletic Centre",
+    "lat": 34.9926971757643,
+    "lon": 34.0152593540454,
+    "name": "Agia Napa Athletic Centre"
+  }
+]

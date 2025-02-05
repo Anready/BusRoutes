@@ -1,0 +1,116 @@
+[
+  {
+    "description": "Dionysios Solomos Square C",
+    "lat": 35.1714384904596,
+    "lon": 33.3583746719,
+    "name": "Dionysios Solomos Square C"
+  },
+  {
+    "description": "Evagorou Ave.  - Vasileos Pavlou",
+    "lat": 35.1677905885467,
+    "lon": 33.3570079918293,
+    "name": "Evagorou Ave.  - Vasileos Pavlou"
+  },
+  {
+    "description": "Ministry of Finance",
+    "lat": 35.1686262204901,
+    "lon": 33.3549471767997,
+    "name": "Ministry of Finance"
+  },
+  {
+    "description": "Embassy of Greece",
+    "lat": 35.1706382690864,
+    "lon": 33.3545276428611,
+    "name": "Embassy of Greece"
+  },
+  {
+    "description": "Chilonos - Michail Paridi",
+    "lat": 35.1708040725686,
+    "lon": 33.3533313787656,
+    "name": "Chilonos - Michail Paridi"
+  },
+  {
+    "description": "Prodromou - Fotiou",
+    "lat": 35.1672724826499,
+    "lon": 33.3491433111854,
+    "name": "Prodromou - Fotiou"
+  },
+  {
+    "description": "Ministry of Defense 1",
+    "lat": 35.1647375900383,
+    "lon": 33.3495168012768,
+    "name": "Ministry of Defense 1"
+  },
+  {
+    "description": "Prodromou - Kondylaki",
+    "lat": 35.1631006950944,
+    "lon": 33.3480493958725,
+    "name": "Prodromou - Kondylaki"
+  },
+  {
+    "description": "Prodromou Post Office 1",
+    "lat": 35.1606259507815,
+    "lon": 33.3463149721325,
+    "name": "Prodromou Post Office 1"
+  },
+  {
+    "description": "Prodromou - Military Camp 1",
+    "lat": 35.1581310514674,
+    "lon": 33.3453162157971,
+    "name": "Prodromou - Military Camp 1"
+  },
+  {
+    "description": "Prodromou - Theodorou Kolokotroni",
+    "lat": 35.154933311959,
+    "lon": 33.3441388898542,
+    "name": "Prodromou - Theodorou Kolokotroni"
+  },
+  {
+    "description": "Prodromou - Solonos",
+    "lat": 35.1520863222455,
+    "lon": 33.343281519624,
+    "name": "Prodromou - Solonos"
+  },
+  {
+    "description": "Strovolos Municipal Library",
+    "lat": 35.1504196901113,
+    "lon": 33.3427365602932,
+    "name": "Strovolos Municipal Library"
+  },
+  {
+    "description": "Archiepiskopou Kyprianou - Panagias Chryseleousis",
+    "lat": 35.146917009725,
+    "lon": 33.3409653466374,
+    "name": "Archiepiskopou Kyprianou - Panagias Chryseleousis"
+  },
+  {
+    "description": "Archiepiskopou Kyprianou - Psaron",
+    "lat": 35.1450888596164,
+    "lon": 33.3401343679148,
+    "name": "Archiepiskopou Kyprianou - Psaron"
+  },
+  {
+    "description": "Alexandroupoleos - Pediaios Driveway 1",
+    "lat": 35.1437171863392,
+    "lon": 33.3405128866562,
+    "name": "Alexandroupoleos - Pediaios Driveway 1"
+  },
+  {
+    "description": "Ave. Strovolou - Kantaras",
+    "lat": 35.1407733733759,
+    "lon": 33.3387991184145,
+    "name": "Ave. Strovolou - Kantaras"
+  },
+  {
+    "description": "Ave. Strovolou - Ilia Venezi",
+    "lat": 35.1408111281378,
+    "lon": 33.3381955135068,
+    "name": "Ave. Strovolou - Ilia Venezi"
+  },
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  }
+]

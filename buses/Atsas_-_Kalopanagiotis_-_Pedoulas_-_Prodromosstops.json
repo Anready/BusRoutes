@@ -1,0 +1,86 @@
+[
+  {
+    "description": "Mitropoliti Chrysanthou Sarigianni - Atsas 1",
+    "lat": 35.0705133450478,
+    "lon": 32.9301879039791,
+    "name": "Mitropoliti Chrysanthou Sarigianni - Atsas 1"
+  },
+  {
+    "description": "Linou Cemetery",
+    "lat": 35.0761524272109,
+    "lon": 32.8968157894311,
+    "name": "Linou Cemetery"
+  },
+  {
+    "description": "Linou - Katydatya Intersection",
+    "lat": 35.0765602371678,
+    "lon": 32.8889066808213,
+    "name": "Linou - Katydatya Intersection"
+  },
+  {
+    "description": "Marathasas Ave.  - 3rd Kalopanagioti",
+    "lat": 35.0023102768925,
+    "lon": 32.8265956214059,
+    "name": "Marathasas Ave.  - 3rd Kalopanagioti"
+  },
+  {
+    "description": "Oikos",
+    "lat": 35.0002052866976,
+    "lon": 32.8301945210985,
+    "name": "Oikos"
+  },
+  {
+    "description": "Markou Drakou - 3rd Kalopanagioti",
+    "lat": 34.9984315239517,
+    "lon": 32.8257161672615,
+    "name": "Markou Drakou - 3rd Kalopanagioti"
+  },
+  {
+    "description": "Markou Drakou - 2nd Kalopanagioti",
+    "lat": 34.9933848095149,
+    "lon": 32.8278526804189,
+    "name": "Markou Drakou - 2nd Kalopanagioti"
+  },
+  {
+    "description": "Sofokles Pogiatzis Square",
+    "lat": 34.9909500615249,
+    "lon": 32.8278249055875,
+    "name": "Sofokles Pogiatzis Square"
+  },
+  {
+    "description": "Eleftherias Avenue - 2nd Moutoulla",
+    "lat": 34.9827363983318,
+    "lon": 32.8224186896001,
+    "name": "Eleftherias Avenue - 2nd Moutoulla"
+  },
+  {
+    "description": "Panagias Moutoullas - 1st Moutoulla",
+    "lat": 34.9832806446007,
+    "lon": 32.8246197628487,
+    "name": "Panagias Moutoullas - 1st Moutoulla"
+  },
+  {
+    "description": "Filoxenias - 2nd Pedoulas",
+    "lat": 34.9687031106313,
+    "lon": 32.8272032387105,
+    "name": "Filoxenias - 2nd Pedoulas"
+  },
+  {
+    "description": "Filoxenias - 1st Pedoulas",
+    "lat": 34.9666748694918,
+    "lon": 32.8276894843205,
+    "name": "Filoxenias - 1st Pedoulas"
+  },
+  {
+    "description": "Prodromos Camping Site",
+    "lat": 34.9518939212383,
+    "lon": 32.8332294184157,
+    "name": "Prodromos Camping Site"
+  },
+  {
+    "description": "Prodromos Vilalge Center 1",
+    "lat": 34.9497919905832,
+    "lon": 32.8326094109962,
+    "name": "Prodromos Vilalge Center 1"
+  }
+]

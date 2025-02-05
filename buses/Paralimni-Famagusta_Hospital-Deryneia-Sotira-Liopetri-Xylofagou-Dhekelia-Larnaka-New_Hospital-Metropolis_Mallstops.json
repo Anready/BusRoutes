@@ -1,0 +1,308 @@
+[
+  {
+    "description": "Paralimni Square Bus Station",
+    "lat": 35.0394760084475,
+    "lon": 33.983638211908,
+    "name": "Paralimni Square Bus Station"
+  },
+  {
+    "description": "1 Apriliou Ave. - Tasou Markou 1",
+    "lat": 35.0407491591044,
+    "lon": 33.9778427683324,
+    "name": "1 Apriliou Ave. - Tasou Markou 1"
+  },
+  {
+    "description": "Xenion Education 1",
+    "lat": 35.0418675043459,
+    "lon": 33.9778122394597,
+    "name": "Xenion Education 1"
+  },
+  {
+    "description": "1 Apriliou Ave. - Cheimaras",
+    "lat": 35.0461075260558,
+    "lon": 33.9775557668991,
+    "name": "1 Apriliou Ave. - Cheimaras"
+  },
+  {
+    "description": "Griva Digeni Ave. - Daidalou",
+    "lat": 35.0500492091422,
+    "lon": 33.9762759889819,
+    "name": "Griva Digeni Ave. - Daidalou"
+  },
+  {
+    "description": "Eleftherias - Nikodimou Mylona",
+    "lat": 35.0541375220769,
+    "lon": 33.9724538651353,
+    "name": "Eleftherias - Nikodimou Mylona"
+  },
+  {
+    "description": "Eleftherias - Grigori Afxentiou",
+    "lat": 35.0570790045973,
+    "lon": 33.9699556448853,
+    "name": "Eleftherias - Grigori Afxentiou"
+  },
+  {
+    "description": "Eleftherias - Agiou Stylianou",
+    "lat": 35.0589530333582,
+    "lon": 33.9667537938205,
+    "name": "Eleftherias - Agiou Stylianou"
+  },
+  {
+    "description": "Famagusta General Hospital",
+    "lat": 35.0616307747604,
+    "lon": 33.9713035177178,
+    "name": "Famagusta General Hospital"
+  },
+  {
+    "description": "Eleftherias - Afroditis",
+    "lat": 35.061678409114,
+    "lon": 33.9630683116465,
+    "name": "Eleftherias - Afroditis"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Stadiou",
+    "lat": 35.062309950079,
+    "lon": 33.9596103162169,
+    "name": "Archiep. Makariou C´ - Stadiou"
+  },
+  {
+    "description": "C´ Deryneia Elementary School 1",
+    "lat": 35.0578854780643,
+    "lon": 33.9581110436136,
+    "name": "C´ Deryneia Elementary School 1"
+  },
+  {
+    "description": "Apostolos Varnavas Church 1",
+    "lat": 35.0498224757317,
+    "lon": 33.9572054685385,
+    "name": "Apostolos Varnavas Church 1"
+  },
+  {
+    "description": "Ammochostou 1",
+    "lat": 35.0362902529368,
+    "lon": 33.9546357621689,
+    "name": "Ammochostou 1"
+  },
+  {
+    "description": "Eleftheria Square",
+    "lat": 35.0277749558078,
+    "lon": 33.9516099188182,
+    "name": "Eleftheria Square"
+  },
+  {
+    "description": "1 Apriliou - Dimokratias",
+    "lat": 35.0280493934788,
+    "lon": 33.951108850971,
+    "name": "1 Apriliou - Dimokratias"
+  },
+  {
+    "description": "Stadiou - Theod. Kolokotroni",
+    "lat": 35.0280811994521,
+    "lon": 33.9470423417539,
+    "name": "Stadiou - Theod. Kolokotroni"
+  },
+  {
+    "description": "Stadiou - Louki Akrita",
+    "lat": 35.0272544658782,
+    "lon": 33.9408832193972,
+    "name": "Stadiou - Louki Akrita"
+  },
+  {
+    "description": "1 Apriliou - Andrea Karyou",
+    "lat": 35.0112885049205,
+    "lon": 33.8963901621194,
+    "name": "1 Apriliou - Andrea Karyou"
+  },
+  {
+    "description": "Achyronas Liopetriou 2",
+    "lat": 35.0078923272399,
+    "lon": 33.8935036927081,
+    "name": "Achyronas Liopetriou 2"
+  },
+  {
+    "description": "Michail Koutsofta - Mpoumpoulinas",
+    "lat": 35.0043678283111,
+    "lon": 33.8933448222245,
+    "name": "Michail Koutsofta - Mpoumpoulinas"
+  },
+  {
+    "description": "Michali Vrachimi - Potamou 1",
+    "lat": 34.9751410618299,
+    "lon": 33.8548493180133,
+    "name": "Michali Vrachimi - Potamou 1"
+  },
+  {
+    "description": "Eleftherias - Andrea Kazi",
+    "lat": 34.97750483052,
+    "lon": 33.8495277007459,
+    "name": "Eleftherias - Andrea Kazi"
+  },
+  {
+    "description": "British Base (near highway exit)",
+    "lat": 35.0044219903979,
+    "lon": 33.7271863299191,
+    "name": "British Base (near highway exit)"
+  },
+  {
+    "description": "Larnaka - Dekeleia Ave. - 4th Stop",
+    "lat": 34.9826556679201,
+    "lon": 33.7163664163668,
+    "name": "Larnaka - Dekeleia Ave. - 4th Stop"
+  },
+  {
+    "description": "Larnaka - Dekeleia Ave. - 2nd Stop",
+    "lat": 34.9796717597997,
+    "lon": 33.7023390355508,
+    "name": "Larnaka - Dekeleia Ave. - 2nd Stop"
+  },
+  {
+    "description": "K.O.T. Beach 2",
+    "lat": 34.9793037601176,
+    "lon": 33.6989177261062,
+    "name": "K.O.T. Beach 2"
+  },
+  {
+    "description": "Dasaki Pylas Beach 2",
+    "lat": 34.9790570014533,
+    "lon": 33.696352011111,
+    "name": "Dasaki Pylas Beach 2"
+  },
+  {
+    "description": "Akropoleos Ave. - Sandy - Golden Bay Hotels",
+    "lat": 34.978171417342,
+    "lon": 33.6919513512797,
+    "name": "Akropoleos Ave. - Sandy - Golden Bay Hotels"
+  },
+  {
+    "description": "Akropoleos Ave. - Lordos Beach Hotel",
+    "lat": 34.9779217109195,
+    "lon": 33.6898786635676,
+    "name": "Akropoleos Ave. - Lordos Beach Hotel"
+  },
+  {
+    "description": "Pyla Beach Park 2",
+    "lat": 34.9773115760011,
+    "lon": 33.6861596630513,
+    "name": "Pyla Beach Park 2"
+  },
+  {
+    "description": "Akropoleos Ave. - Kantaras 2",
+    "lat": 34.9755389142608,
+    "lon": 33.6806891997664,
+    "name": "Akropoleos Ave. - Kantaras 2"
+  },
+  {
+    "description": "Akropoleos Ave. - Yanathes Beach",
+    "lat": 34.9744034414537,
+    "lon": 33.6773385212545,
+    "name": "Akropoleos Ave. - Yanathes Beach"
+  },
+  {
+    "description": "Akropoleos Ave. - Mesaorias Ave.",
+    "lat": 34.9724933979327,
+    "lon": 33.6738063131729,
+    "name": "Akropoleos Ave. - Mesaorias Ave."
+  },
+  {
+    "description": "Palm Beach Hotel",
+    "lat": 34.9712518273965,
+    "lon": 33.6716709505678,
+    "name": "Palm Beach Hotel"
+  },
+  {
+    "description": "Princess Beach Hotel 2",
+    "lat": 34.9697138693175,
+    "lon": 33.6693141525442,
+    "name": "Princess Beach Hotel 2"
+  },
+  {
+    "description": "Ammochostou Ave. - Galaxia 2",
+    "lat": 34.9670065564412,
+    "lon": 33.6664221709246,
+    "name": "Ammochostou Ave. - Galaxia 2"
+  },
+  {
+    "description": "Ammochostou Ave. - Kalliskala 2",
+    "lat": 34.9639100800552,
+    "lon": 33.6621251765952,
+    "name": "Ammochostou Ave. - Kalliskala 2"
+  },
+  {
+    "description": "Oroklini Fire Station 2",
+    "lat": 34.9617338126212,
+    "lon": 33.6593802839924,
+    "name": "Oroklini Fire Station 2"
+  },
+  {
+    "description": "Ammochostou Ave. - Athinon 2",
+    "lat": 34.9586429038747,
+    "lon": 33.6556753346415,
+    "name": "Ammochostou Ave. - Athinon 2"
+  },
+  {
+    "description": "Ammochostou Ave. - Thyras",
+    "lat": 34.9565364411918,
+    "lon": 33.6533365917294,
+    "name": "Ammochostou Ave. - Thyras"
+  },
+  {
+    "description": "Larnaka Nautical Club",
+    "lat": 34.9530069587741,
+    "lon": 33.6506691038844,
+    "name": "Larnaka Nautical Club"
+  },
+  {
+    "description": "Oil and Gas Storages 2",
+    "lat": 34.9502605428027,
+    "lon": 33.648259901138,
+    "name": "Oil and Gas Storages 2"
+  },
+  {
+    "description": "Ammochostou Ave. - Katinas Paxinou",
+    "lat": 34.9461118544692,
+    "lon": 33.6450075654844,
+    "name": "Ammochostou Ave. - Katinas Paxinou"
+  },
+  {
+    "description": "Intercollege 2",
+    "lat": 34.9413730343365,
+    "lon": 33.6424956075423,
+    "name": "Intercollege 2"
+  },
+  {
+    "description": "Tassou Papadopoulou - Aristoteli Valaoriti",
+    "lat": 34.9334211459855,
+    "lon": 33.6388092769418,
+    "name": "Tassou Papadopoulou - Aristoteli Valaoriti"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Golgon",
+    "lat": 34.9281285866492,
+    "lon": 33.6369726300189,
+    "name": "Archiep. Makariou C´ Ave. - Golgon"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Salaminos 2",
+    "lat": 34.9259738126869,
+    "lon": 33.6369012336907,
+    "name": "Archiep. Makariou C´ Ave. - Salaminos 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Georgiou Georgiadi",
+    "lat": 34.9238185788252,
+    "lon": 33.6369174251071,
+    "name": "Archiep. Makariou C´ Ave. - Georgiou Georgiadi"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 2",
+    "lat": 34.9194730735577,
+    "lon": 33.6367524778022,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 2"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Kalamon - Strovolos Industrial Zone",
+    "lat": 35.1240546553602,
+    "lon": 33.3728737926889,
+    "name": "Kalamon - Strovolos Industrial Zone"
+  },
+  {
+    "description": "Kalamon - Meteoron",
+    "lat": 35.1268639058609,
+    "lon": 33.3683207493343,
+    "name": "Kalamon - Meteoron"
+  },
+  {
+    "description": "Andrea Avraamidi - Aretaeio 2",
+    "lat": 35.1397181211671,
+    "lon": 33.3637681654799,
+    "name": "Andrea Avraamidi - Aretaeio 2"
+  },
+  {
+    "description": "Andrea Avraamidi - Livaniou",
+    "lat": 35.141120826918,
+    "lon": 33.3620838692572,
+    "name": "Andrea Avraamidi - Livaniou"
+  },
+  {
+    "description": "Ave. Iosif Chr. Chatziiosif - Laodikeias",
+    "lat": 35.1407796393108,
+    "lon": 33.3585585917607,
+    "name": "Ave. Iosif Chr. Chatziiosif - Laodikeias"
+  },
+  {
+    "description": "Ave. Iosif Chr. Chatziiosif - Stavrou 1",
+    "lat": 35.1368855037083,
+    "lon": 33.3581243930857,
+    "name": "Ave. Iosif Chr. Chatziiosif - Stavrou 1"
+  },
+  {
+    "description": "Stavrou - Karchidonos",
+    "lat": 35.1350521167978,
+    "lon": 33.3591042674506,
+    "name": "Stavrou - Karchidonos"
+  },
+  {
+    "description": "Apostolos Andreas Church 1",
+    "lat": 35.1345448059851,
+    "lon": 33.3659185260535,
+    "name": "Apostolos Andreas Church 1"
+  },
+  {
+    "description": "Iroon - Isidorou",
+    "lat": 35.133035804524,
+    "lon": 33.3669545351003,
+    "name": "Iroon - Isidorou"
+  },
+  {
+    "description": "Dimokratias - Andromachis",
+    "lat": 35.1311593917943,
+    "lon": 33.3672314973213,
+    "name": "Dimokratias - Andromachis"
+  },
+  {
+    "description": "Dimokratias 1",
+    "lat": 35.1303912170328,
+    "lon": 33.3648133133077,
+    "name": "Dimokratias 1"
+  },
+  {
+    "description": "Ave. Iosif Chatziiosif - Oktagono",
+    "lat": 35.1337842175474,
+    "lon": 33.357913235396,
+    "name": "Ave. Iosif Chatziiosif - Oktagono"
+  },
+  {
+    "description": "Stavrou - Sotiros",
+    "lat": 35.1364345935953,
+    "lon": 33.3519863397952,
+    "name": "Stavrou - Sotiros"
+  },
+  {
+    "description": "Stavrou - Archiepiskopou Leontiou",
+    "lat": 35.137479274442,
+    "lon": 33.34932341877,
+    "name": "Stavrou - Archiepiskopou Leontiou"
+  },
+  {
+    "description": "Athinon - Irakleous",
+    "lat": 35.1388210205731,
+    "lon": 33.346815369841,
+    "name": "Athinon - Irakleous"
+  },
+  {
+    "description": "Athinon - Odysseos",
+    "lat": 35.1412163387,
+    "lon": 33.344794686401,
+    "name": "Athinon - Odysseos"
+  },
+  {
+    "description": "Ave. Strovolou - Kantaras",
+    "lat": 35.1407733733759,
+    "lon": 33.3387991184145,
+    "name": "Ave. Strovolou - Kantaras"
+  },
+  {
+    "description": "Ave. Strovolou - Ilia Venezi",
+    "lat": 35.1408111281378,
+    "lon": 33.3381955135068,
+    "name": "Ave. Strovolou - Ilia Venezi"
+  },
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  }
+]

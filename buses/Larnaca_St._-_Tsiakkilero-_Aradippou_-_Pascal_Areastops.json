@@ -1,0 +1,212 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Evryviadeio High School 1",
+    "lat": 34.9180855066626,
+    "lon": 33.6313555548262,
+    "name": "Evryviadeio High School 1"
+  },
+  {
+    "description": "Chrysopolitissis - Rigainis",
+    "lat": 34.9199270332819,
+    "lon": 33.6292348326816,
+    "name": "Chrysopolitissis - Rigainis"
+  },
+  {
+    "description": "Panagia Chrisopolitissa Church 1",
+    "lat": 34.9222101876161,
+    "lon": 33.6271502202292,
+    "name": "Panagia Chrisopolitissa Church 1"
+  },
+  {
+    "description": "Mitropoleos Square",
+    "lat": 34.9224331365609,
+    "lon": 33.6241302251364,
+    "name": "Mitropoleos Square"
+  },
+  {
+    "description": "Sintika Chanoum 1",
+    "lat": 34.9255629867088,
+    "lon": 33.6186796367258,
+    "name": "Sintika Chanoum 1"
+  },
+  {
+    "description": "Smyrnis - Granikou",
+    "lat": 34.9277779500993,
+    "lon": 33.6175575809534,
+    "name": "Smyrnis - Granikou"
+  },
+  {
+    "description": "Stratigou Timagia Ave. - Mavromichali",
+    "lat": 34.9286157540654,
+    "lon": 33.61771714473,
+    "name": "Stratigou Timagia Ave. - Mavromichali"
+  },
+  {
+    "description": "Stratigou Timagia Ave. - Sintika Chanoum",
+    "lat": 34.9275225160337,
+    "lon": 33.6163622434525,
+    "name": "Stratigou Timagia Ave. - Sintika Chanoum"
+  },
+  {
+    "description": "Agriniou - Kavalas",
+    "lat": 34.9268782372968,
+    "lon": 33.6135983388953,
+    "name": "Agriniou - Kavalas"
+  },
+  {
+    "description": "Kastorias - Kosta Krystalli",
+    "lat": 34.9271852490472,
+    "lon": 33.6099327772097,
+    "name": "Kastorias - Kosta Krystalli"
+  },
+  {
+    "description": "Pavlou Mela - Ippolytis",
+    "lat": 34.928111355669,
+    "lon": 33.6086695560068,
+    "name": "Pavlou Mela - Ippolytis"
+  },
+  {
+    "description": "Pavlou Nirvana",
+    "lat": 34.9302651893071,
+    "lon": 33.6071306761159,
+    "name": "Pavlou Nirvana"
+  },
+  {
+    "description": "Afstralias Ave. - Chiou",
+    "lat": 34.9303649735847,
+    "lon": 33.6052043477343,
+    "name": "Afstralias Ave. - Chiou"
+  },
+  {
+    "description": "Omirou - Afstralias Ave.",
+    "lat": 34.9304791168368,
+    "lon": 33.6040117187538,
+    "name": "Omirou - Afstralias Ave."
+  },
+  {
+    "description": "D´ Elementary School Aradippou - Ag. Fanourios 1",
+    "lat": 34.9328263195599,
+    "lon": 33.6016528706024,
+    "name": "D´ Elementary School Aradippou - Ag. Fanourios 1"
+  },
+  {
+    "description": "Omirou - Falirou",
+    "lat": 34.9386857776038,
+    "lon": 33.5965380523428,
+    "name": "Omirou - Falirou"
+  },
+  {
+    "description": "Agios Fanourios Church 1",
+    "lat": 34.9450776818517,
+    "lon": 33.594985470846,
+    "name": "Agios Fanourios Church 1"
+  },
+  {
+    "description": "Coop Bank Allileggie 1",
+    "lat": 34.947390973339,
+    "lon": 33.593994645374,
+    "name": "Coop Bank Allileggie 1"
+  },
+  {
+    "description": "Papaflessa",
+    "lat": 34.9498133695562,
+    "lon": 33.5928183698951,
+    "name": "Papaflessa"
+  },
+  {
+    "description": "A´ Aradippou Elementary School",
+    "lat": 34.9488795503938,
+    "lon": 33.5920012220558,
+    "name": "A´ Aradippou Elementary School"
+  },
+  {
+    "description": "B´ Aradippou Elementary School 1",
+    "lat": 34.948251908976,
+    "lon": 33.5894121294244,
+    "name": "B´ Aradippou Elementary School 1"
+  },
+  {
+    "description": "Aradippou City Hall",
+    "lat": 34.9480135844158,
+    "lon": 33.5864863509319,
+    "name": "Aradippou City Hall"
+  },
+  {
+    "description": "Stadiou Ave. - Akropoleos Ave.",
+    "lat": 34.9435387517085,
+    "lon": 33.5832020424099,
+    "name": "Stadiou Ave. - Akropoleos Ave."
+  },
+  {
+    "description": "Aradippou Police Station",
+    "lat": 34.9448822340285,
+    "lon": 33.5794553034608,
+    "name": "Aradippou Police Station"
+  },
+  {
+    "description": "Ioanni Makrygianni - Panagias Aimatousis",
+    "lat": 34.9481022535994,
+    "lon": 33.5716694659924,
+    "name": "Ioanni Makrygianni - Panagias Aimatousis"
+  },
+  {
+    "description": "Agiou Georgiou Ptochou - Cosmyria",
+    "lat": 34.9498783466416,
+    "lon": 33.5698199822865,
+    "name": "Agiou Georgiou Ptochou - Cosmyria"
+  },
+  {
+    "description": "Panagias Aimatousis - Ag. Georgiou Ptochou",
+    "lat": 34.9507313694201,
+    "lon": 33.5705925220225,
+    "name": "Panagias Aimatousis - Ag. Georgiou Ptochou"
+  },
+  {
+    "description": "Pascal English School 2",
+    "lat": 34.9535135660529,
+    "lon": 33.567632768845,
+    "name": "Pascal English School 2"
+  },
+  {
+    "description": "Neas Ionias 2",
+    "lat": 34.9526185043049,
+    "lon": 33.566202811091,
+    "name": "Neas Ionias 2"
+  },
+  {
+    "description": "Neas Ionias 1",
+    "lat": 34.953256928835,
+    "lon": 33.5665905315849,
+    "name": "Neas Ionias 1"
+  },
+  {
+    "description": "Pascal English School 1",
+    "lat": 34.9529781277762,
+    "lon": 33.5683628787852,
+    "name": "Pascal English School 1"
+  }
+]

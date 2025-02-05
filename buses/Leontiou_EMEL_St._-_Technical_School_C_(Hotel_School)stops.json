@@ -1,0 +1,224 @@
+[
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  },
+  {
+    "description": "Dodekanisou - Archiep. Leontiou A´ 1",
+    "lat": 34.6807414343687,
+    "lon": 33.0352492973061,
+    "name": "Dodekanisou - Archiep. Leontiou A´ 1"
+  },
+  {
+    "description": "Dodekanisou - Katholiki High School 1",
+    "lat": 34.6833929067955,
+    "lon": 33.0345299106883,
+    "name": "Dodekanisou - Katholiki High School 1"
+  },
+  {
+    "description": "Debenhams Apollon 1",
+    "lat": 34.6858735027688,
+    "lon": 33.0320745822666,
+    "name": "Debenhams Apollon 1"
+  },
+  {
+    "description": "Petrou Tsirou - Kallikrati",
+    "lat": 34.6887142597414,
+    "lon": 33.0316280595684,
+    "name": "Petrou Tsirou - Kallikrati"
+  },
+  {
+    "description": "Petrou Tsirou - Gkropious",
+    "lat": 34.6905448254297,
+    "lon": 33.0318907821075,
+    "name": "Petrou Tsirou - Gkropious"
+  },
+  {
+    "description": "Gkropious - Kallikrati",
+    "lat": 34.6911314009924,
+    "lon": 33.0302751669921,
+    "name": "Gkropious - Kallikrati"
+  },
+  {
+    "description": "Gkropious - Theofilou",
+    "lat": 34.689347032252,
+    "lon": 33.025099572916,
+    "name": "Gkropious - Theofilou"
+  },
+  {
+    "description": "Vasileos Konstantinou - Achaias",
+    "lat": 34.6895907053487,
+    "lon": 33.0241607297417,
+    "name": "Vasileos Konstantinou - Achaias"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Taxiarchon",
+    "lat": 34.6927919811442,
+    "lon": 33.0245547099891,
+    "name": "Spyrou Kyprianou Ave. - Taxiarchon"
+  },
+  {
+    "description": "26 Elementary School - Panagia Tricherousa 1",
+    "lat": 34.6943333697317,
+    "lon": 33.0276887055594,
+    "name": "26 Elementary School - Panagia Tricherousa 1"
+  },
+  {
+    "description": "Panagia Tricheroussa Church 1",
+    "lat": 34.6967678124266,
+    "lon": 33.0293491403256,
+    "name": "Panagia Tricheroussa Church 1"
+  },
+  {
+    "description": "Vasileos Georgiou B´ - Sina",
+    "lat": 34.6978321587039,
+    "lon": 33.0283559127123,
+    "name": "Vasileos Georgiou B´ - Sina"
+  },
+  {
+    "description": "Vasileos Georgiou B´ - Vasili Logothetidi",
+    "lat": 34.69589398059,
+    "lon": 33.0253199186364,
+    "name": "Vasileos Georgiou B´ - Vasili Logothetidi"
+  },
+  {
+    "description": "Ivykou - Tempon",
+    "lat": 34.6950377417104,
+    "lon": 33.022994048973,
+    "name": "Ivykou - Tempon"
+  },
+  {
+    "description": "Vasileos Konstantinou - Solomou Solomou 1",
+    "lat": 34.6968055771746,
+    "lon": 33.0211820530209,
+    "name": "Vasileos Konstantinou - Solomou Solomou 1"
+  },
+  {
+    "description": "Vasileos Konstantinou - Steliou Kyriakidi 2",
+    "lat": 34.698933831306,
+    "lon": 33.0209969746482,
+    "name": "Vasileos Konstantinou - Steliou Kyriakidi 2"
+  },
+  {
+    "description": "Renou Fragkoudi - Konstantinou Symeonidi 1",
+    "lat": 34.6981944259683,
+    "lon": 33.0206364685961,
+    "name": "Renou Fragkoudi - Konstantinou Symeonidi 1"
+  },
+  {
+    "description": "Titanon - Chatsatourian 1",
+    "lat": 34.6960661925835,
+    "lon": 33.020701451213,
+    "name": "Titanon - Chatsatourian 1"
+  },
+  {
+    "description": "Christofi Ergatoudi - Georgiou Anastasiou",
+    "lat": 34.6947499938119,
+    "lon": 33.0181025647604,
+    "name": "Christofi Ergatoudi - Georgiou Anastasiou"
+  },
+  {
+    "description": "Agios Georgios Chavouzas Church 1",
+    "lat": 34.6935960503076,
+    "lon": 33.0155911361463,
+    "name": "Agios Georgios Chavouzas Church 1"
+  },
+  {
+    "description": "Giannou Kranidioti - Amaryllidos",
+    "lat": 34.6961485015986,
+    "lon": 33.0121959620334,
+    "name": "Giannou Kranidioti - Amaryllidos"
+  },
+  {
+    "description": "Alois - Anoixeos 2",
+    "lat": 34.6972486043774,
+    "lon": 33.0129713470218,
+    "name": "Alois - Anoixeos 2"
+  },
+  {
+    "description": "Alois - Ilianthemou",
+    "lat": 34.6990072572451,
+    "lon": 33.0113228715892,
+    "name": "Alois - Ilianthemou"
+  },
+  {
+    "description": "Kamelias - Edelweiss",
+    "lat": 34.7010722075047,
+    "lon": 33.0127972373821,
+    "name": "Kamelias - Edelweiss"
+  },
+  {
+    "description": "Kamelias - Aimiliou Zola",
+    "lat": 34.7020728375402,
+    "lon": 33.0158220308663,
+    "name": "Kamelias - Aimiliou Zola"
+  },
+  {
+    "description": "Kamelias - Marias Iordanidou 1",
+    "lat": 34.7021266027254,
+    "lon": 33.018267960471,
+    "name": "Kamelias - Marias Iordanidou 1"
+  },
+  {
+    "description": "Gkogia - Mane 1",
+    "lat": 34.7035511965067,
+    "lon": 33.0197533215147,
+    "name": "Gkogia - Mane 1"
+  },
+  {
+    "description": "Pavlou Liasidi - Skandinavias",
+    "lat": 34.7043536689511,
+    "lon": 33.0204742042225,
+    "name": "Pavlou Liasidi - Skandinavias"
+  },
+  {
+    "description": "Domnitsas Lanitou Kavounidou - Evagora Laniti 1",
+    "lat": 34.7052823682833,
+    "lon": 33.0213043300211,
+    "name": "Domnitsas Lanitou Kavounidou - Evagora Laniti 1"
+  },
+  {
+    "description": "Axiou - Gianni Papadopoulou 1",
+    "lat": 34.70766329734,
+    "lon": 33.0200709792466,
+    "name": "Axiou - Gianni Papadopoulou 1"
+  },
+  {
+    "description": "Axiou - Mimozas 1",
+    "lat": 34.707510243979,
+    "lon": 33.0184875436978,
+    "name": "Axiou - Mimozas 1"
+  },
+  {
+    "description": "Lykavittou - Xenofanous",
+    "lat": 34.7075379257231,
+    "lon": 33.0137373525005,
+    "name": "Lykavittou - Xenofanous"
+  },
+  {
+    "description": "Lykavittou - Kreontos 1",
+    "lat": 34.70670845365,
+    "lon": 33.012110152519,
+    "name": "Lykavittou - Kreontos 1"
+  },
+  {
+    "description": "Kilikias - Diodorou",
+    "lat": 34.7067176081651,
+    "lon": 33.0106468891018,
+    "name": "Kilikias - Diodorou"
+  },
+  {
+    "description": "Agia Fyla High School 1",
+    "lat": 34.707349021622,
+    "lon": 33.0085940157899,
+    "name": "Agia Fyla High School 1"
+  },
+  {
+    "description": "Department of Road Transport 1",
+    "lat": 34.7092429394214,
+    "lon": 33.0058204762649,
+    "name": "Department of Road Transport 1"
+  }
+]

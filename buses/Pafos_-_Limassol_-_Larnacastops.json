@@ -1,0 +1,140 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "Pafos District Courthouse 1",
+    "lat": 34.7745233269912,
+    "lon": 32.4280658729993,
+    "name": "Pafos District Courthouse 1"
+  },
+  {
+    "description": "Fire Station 1",
+    "lat": 34.7695891522913,
+    "lon": 32.435465367438,
+    "name": "Fire Station 1"
+  },
+  {
+    "description": "Stelios Kyriakides Stadium",
+    "lat": 34.7692365888427,
+    "lon": 32.4411393633762,
+    "name": "Stelios Kyriakides Stadium"
+  },
+  {
+    "description": "Dimokratias Ave. - Andrea Evagorou",
+    "lat": 34.7769472198322,
+    "lon": 32.44322945016,
+    "name": "Dimokratias Ave. - Andrea Evagorou"
+  },
+  {
+    "description": "Agios Georgios Chavouzas Church 2",
+    "lat": 34.6936681976649,
+    "lon": 33.0155583951598,
+    "name": "Agios Georgios Chavouzas Church 2"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Old Hospital",
+    "lat": 34.6791086542181,
+    "lon": 33.0370607045984,
+    "name": "Archiep. Leontiou A´ - Old Hospital"
+  },
+  {
+    "description": "Tzelal Bagiar - Agios Antonios Church 1",
+    "lat": 34.6717678514845,
+    "lon": 33.0377560138059,
+    "name": "Tzelal Bagiar - Agios Antonios Church 1"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Synergatismou",
+    "lat": 34.6664867793441,
+    "lon": 33.0242413375462,
+    "name": "Fragklinou Rousvelt - Synergatismou"
+  },
+  {
+    "description": "Omonoias Ave. - Tsiflikoudion",
+    "lat": 34.6625110053161,
+    "lon": 33.0176153309949,
+    "name": "Omonoias Ave. - Tsiflikoudion"
+  },
+  {
+    "description": "New Port - Passenger Building",
+    "lat": 34.6556927006373,
+    "lon": 33.0221319488309,
+    "name": "New Port - Passenger Building"
+  },
+  {
+    "description": "Tzelal Bagiar - Agios Antonios Church 2",
+    "lat": 34.6718760191865,
+    "lon": 33.0379088772409,
+    "name": "Tzelal Bagiar - Agios Antonios Church 2"
+  },
+  {
+    "description": "Spyrou Araouzou - Agia Napa Church",
+    "lat": 34.6732624152377,
+    "lon": 33.0448735932546,
+    "name": "Spyrou Araouzou - Agia Napa Church"
+  },
+  {
+    "description": "28 Oktovriou - Sotiri Michailidi",
+    "lat": 34.6807075676039,
+    "lon": 33.0538836963295,
+    "name": "28 Oktovriou - Sotiri Michailidi"
+  },
+  {
+    "description": "28 Oktovriou - Debenhams 2",
+    "lat": 34.6885545404173,
+    "lon": 33.0690095156999,
+    "name": "28 Oktovriou - Debenhams 2"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Ampelakion",
+    "lat": 34.6966654515964,
+    "lon": 33.0907005119513,
+    "name": "Vasileos Georgiou A´ - Ampelakion"
+  },
+  {
+    "description": "Amathountos Ave. - Hawaii Hotel",
+    "lat": 34.7143264108286,
+    "lon": 33.1644357049357,
+    "name": "Amathountos Ave. - Hawaii Hotel"
+  },
+  {
+    "description": "Choirokoitia Neolithic Settlement (OASIS)",
+    "lat": 34.7981724763475,
+    "lon": 33.3489355474517,
+    "name": "Choirokoitia Neolithic Settlement (OASIS)"
+  },
+  {
+    "description": "Lemesou Ave. - Makedonias 2",
+    "lat": 34.9097790299223,
+    "lon": 33.5847912719885,
+    "name": "Lemesou Ave. - Makedonias 2"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - I. Kondylaki",
+    "lat": 34.9166611267941,
+    "lon": 33.6046877386619,
+    "name": "Nikou kai Despoinas Pattichi Ave. - I. Kondylaki"
+  },
+  {
+    "description": "Municipal Library 2",
+    "lat": 34.916724235321,
+    "lon": 33.6243059543314,
+    "name": "Municipal Library 2"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  }
+]

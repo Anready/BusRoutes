@@ -1,0 +1,170 @@
+[
+  {
+    "description": "Panagia Cheyseleousa Church - Koili",
+    "lat": 34.8602676188841,
+    "lon": 32.4547572339766,
+    "name": "Panagia Cheyseleousa Church - Koili"
+  },
+  {
+    "description": "4th Stop Koili",
+    "lat": 34.8557056292665,
+    "lon": 32.4549514260581,
+    "name": "4th Stop Koili"
+  },
+  {
+    "description": "2nd Stop Koili",
+    "lat": 34.8547903946987,
+    "lon": 32.4579876327284,
+    "name": "2nd Stop Koili"
+  },
+  {
+    "description": "Koili - Tsada Road",
+    "lat": 34.8425965208612,
+    "lon": 32.4656473633838,
+    "name": "Koili - Tsada Road"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Ifaistou 1",
+    "lat": 34.8402587910995,
+    "lon": 32.4734170368357,
+    "name": "Grigori Afxentiou Ave. - Ifaistou 1"
+  },
+  {
+    "description": "Tsada Square",
+    "lat": 34.8385972093865,
+    "lon": 32.4749588137102,
+    "name": "Tsada Square"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Agiou Konstantinou",
+    "lat": 34.8369851881292,
+    "lon": 32.4754502722784,
+    "name": "Grigori Afxentiou Ave. - Agiou Konstantinou"
+  },
+  {
+    "description": "Gerolakkou Ave. - Agiou Konstantinou 2",
+    "lat": 34.8350890530977,
+    "lon": 32.4748826568078,
+    "name": "Gerolakkou Ave. - Agiou Konstantinou 2"
+  },
+  {
+    "description": "Gerolakkou Avenue - Klimaka 2",
+    "lat": 34.8361473755332,
+    "lon": 32.4735525855467,
+    "name": "Gerolakkou Avenue - Klimaka 2"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Gerolakkou Ave.",
+    "lat": 34.8409790005802,
+    "lon": 32.4689937307068,
+    "name": "Archiep. Makariou C` Ave. - Gerolakkou Ave."
+  },
+  {
+    "description": "Agiou Neofytou Ave. - Papasavva",
+    "lat": 34.8152948986165,
+    "lon": 32.454255500568,
+    "name": "Agiou Neofytou Ave. - Papasavva"
+  },
+  {
+    "description": "Kosta Karnavalou - Dimostheni Georgiou",
+    "lat": 34.8143084982969,
+    "lon": 32.4575093697614,
+    "name": "Kosta Karnavalou - Dimostheni Georgiou"
+  },
+  {
+    "description": "Dimostheni Georgiou - 1st Stop",
+    "lat": 34.8110725757226,
+    "lon": 32.4598484721769,
+    "name": "Dimostheni Georgiou - 1st Stop"
+  },
+  {
+    "description": "Mesa Choro Village Centre",
+    "lat": 34.8091676877419,
+    "lon": 32.4613915516629,
+    "name": "Mesa Choro Village Centre"
+  },
+  {
+    "description": "Dimostheni Georgiou - 2nd Stop",
+    "lat": 34.8109193298015,
+    "lon": 32.45986040562,
+    "name": "Dimostheni Georgiou - 2nd Stop"
+  },
+  {
+    "description": "Trimithousa Community Board",
+    "lat": 34.8170343491878,
+    "lon": 32.446065214591,
+    "name": "Trimithousa Community Board"
+  },
+  {
+    "description": "Mesogis Avenue - Georgiou Tsioupi",
+    "lat": 34.8157159314405,
+    "lon": 32.4516285467492,
+    "name": "Mesogis Avenue - Georgiou Tsioupi"
+  },
+  {
+    "description": "Mesogis Ave. - Panikou Chatzipanagi",
+    "lat": 34.8126566007797,
+    "lon": 32.4511021327807,
+    "name": "Mesogis Ave. - Panikou Chatzipanagi"
+  },
+  {
+    "description": "Mesogi Industrial Area - 4th Stop",
+    "lat": 34.8108027705444,
+    "lon": 32.4499445498068,
+    "name": "Mesogi Industrial Area - 4th Stop"
+  },
+  {
+    "description": "Mesogi Industrial Area - 2nd Stop",
+    "lat": 34.8085410696061,
+    "lon": 32.4483305428774,
+    "name": "Mesogi Industrial Area - 2nd Stop"
+  },
+  {
+    "description": "Mesogis Ave. - Grigori Afxentiou",
+    "lat": 34.8041982487347,
+    "lon": 32.4451671765174,
+    "name": "Mesogis Ave. - Grigori Afxentiou"
+  },
+  {
+    "description": "Mesogis Ave. - Agiou Dimitriou",
+    "lat": 34.799474512754,
+    "lon": 32.4415475654362,
+    "name": "Mesogis Ave. - Agiou Dimitriou"
+  },
+  {
+    "description": "Mesogis Ave. - Agias Anastasias",
+    "lat": 34.7968683821903,
+    "lon": 32.4395755924128,
+    "name": "Mesogis Ave. - Agias Anastasias"
+  },
+  {
+    "description": "Mesogis Ave. - Andrea Lardou",
+    "lat": 34.7953820831052,
+    "lon": 32.4379678055821,
+    "name": "Mesogis Ave. - Andrea Lardou"
+  },
+  {
+    "description": "Ellados Ave. - Panikou Dimitriou",
+    "lat": 34.7883106338134,
+    "lon": 32.4337201189126,
+    "name": "Ellados Ave. - Panikou Dimitriou"
+  },
+  {
+    "description": "Ellados Ave. - Onoufriou Kliridi",
+    "lat": 34.7822936881398,
+    "lon": 32.4274657647083,
+    "name": "Ellados Ave. - Onoufriou Kliridi"
+  },
+  {
+    "description": "Evag. Pallikaridi Ave. - Petraki Giallourou",
+    "lat": 34.7800741463408,
+    "lon": 32.4252952292824,
+    "name": "Evag. Pallikaridi Ave. - Petraki Giallourou"
+  },
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  }
+]

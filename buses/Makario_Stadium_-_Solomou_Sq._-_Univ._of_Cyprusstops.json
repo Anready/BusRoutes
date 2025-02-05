@@ -1,0 +1,284 @@
+[
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Cyprus International Fair",
+    "lat": 35.1496594592518,
+    "lon": 33.317273835866,
+    "name": "Cyprus International Fair"
+  },
+  {
+    "description": "Ilia Papakyriakou - Cyprus International Fair",
+    "lat": 35.15184127593,
+    "lon": 33.3174030737528,
+    "name": "Ilia Papakyriakou - Cyprus International Fair"
+  },
+  {
+    "description": "Ilia Papakyriakou - Nikolaou Skoufa",
+    "lat": 35.1550725464794,
+    "lon": 33.3162078888731,
+    "name": "Ilia Papakyriakou - Nikolaou Skoufa"
+  },
+  {
+    "description": "Ave. 28 Oktovriou - Papaflesa",
+    "lat": 35.158013743371,
+    "lon": 33.3155934214839,
+    "name": "Ave. 28 Oktovriou - Papaflesa"
+  },
+  {
+    "description": "Ave.8 Oktovriou - Palaion Patron Germanou",
+    "lat": 35.1604177459165,
+    "lon": 33.3169642416892,
+    "name": "Ave.8 Oktovriou - Palaion Patron Germanou"
+  },
+  {
+    "description": "Mall of Engomi",
+    "lat": 35.1631212254142,
+    "lon": 33.3176006175545,
+    "name": "Mall of Engomi"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kolakasidi Roundabout 2",
+    "lat": 35.165888165599,
+    "lon": 33.3181055131897,
+    "name": "Georg. Griva Digeni Ave. - Kolakasidi Roundabout 2"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Valesta",
+    "lat": 35.1683752847991,
+    "lon": 33.3187191641901,
+    "name": "Ave. Kyriakou Matsi - Valesta"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Aristeidou",
+    "lat": 35.1687746427559,
+    "lon": 33.3211475771486,
+    "name": "Ave. Kyriakou Matsi - Aristeidou"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Gravias",
+    "lat": 35.1686798745059,
+    "lon": 33.3262424946991,
+    "name": "Ave. Kyriakou Matsi - Gravias"
+  },
+  {
+    "description": "Agios Dometios Police Station 2",
+    "lat": 35.1682952949492,
+    "lon": 33.3317205650544,
+    "name": "Agios Dometios Police Station 2"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Konstantinou Kanari",
+    "lat": 35.1686122688282,
+    "lon": 33.3345001000144,
+    "name": "Ave. Kyriakou Matsi - Konstantinou Kanari"
+  },
+  {
+    "description": "Prigipos Karolou - Kyriakou Matsi Avenue",
+    "lat": 35.1689459278779,
+    "lon": 33.337740938081,
+    "name": "Prigipos Karolou - Kyriakou Matsi Avenue"
+  },
+  {
+    "description": "Prigipos Karolou - Vasileos Tefkrou",
+    "lat": 35.1690377696294,
+    "lon": 33.3403658416335,
+    "name": "Prigipos Karolou - Vasileos Tefkrou"
+  },
+  {
+    "description": "Ministry of Transport Communications and Works 2",
+    "lat": 35.1689542430701,
+    "lon": 33.34439561548,
+    "name": "Ministry of Transport Communications and Works 2"
+  },
+  {
+    "description": "Ministry of Health 2",
+    "lat": 35.1692939718771,
+    "lon": 33.3485699429262,
+    "name": "Ministry of Health 2"
+  },
+  {
+    "description": "Chilonos - Nechrou Avenue",
+    "lat": 35.1708327878509,
+    "lon": 33.352760464628,
+    "name": "Chilonos - Nechrou Avenue"
+  },
+  {
+    "description": "Museum - THOK",
+    "lat": 35.1727003004999,
+    "lon": 33.3555139703451,
+    "name": "Museum - THOK"
+  },
+  {
+    "description": "Ave. Aigyptou - Omirou Avenue",
+    "lat": 35.1723542968642,
+    "lon": 33.3566545620449,
+    "name": "Ave. Aigyptou - Omirou Avenue"
+  },
+  {
+    "description": "Ave. Omirou",
+    "lat": 35.1701737999665,
+    "lon": 33.3591488032536,
+    "name": "Ave. Omirou"
+  },
+  {
+    "description": "Eleftheria Square",
+    "lat": 35.1685241073787,
+    "lon": 33.362029603427,
+    "name": "Eleftheria Square"
+  },
+  {
+    "description": "Ave. Stasinou - Archiepiskopou Makariou B Square",
+    "lat": 35.1684963159087,
+    "lon": 33.3652799120464,
+    "name": "Ave. Stasinou - Archiepiskopou Makariou B Square"
+  },
+  {
+    "description": "Ave. Stasinou - Archiepiskopou Makariou B Square",
+    "lat": 35.1692447677516,
+    "lon": 33.3682482068855,
+    "name": "Ave. Stasinou - Archiepiskopou Makariou B Square"
+  },
+  {
+    "description": "Ave. Salaminos - Anoigma Kolokasi 1",
+    "lat": 35.1721217296881,
+    "lon": 33.3710395418196,
+    "name": "Ave. Salaminos - Anoigma Kolokasi 1"
+  },
+  {
+    "description": "Ave. Salaminos - Vasileos Georgiou B Square",
+    "lat": 35.175028451496,
+    "lon": 33.3729306811504,
+    "name": "Ave. Salaminos - Vasileos Georgiou B Square"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Gianni Freiderikou",
+    "lat": 35.1788169993213,
+    "lon": 33.37830747898,
+    "name": "Ave. Kyriakou Matsi - Gianni Freiderikou"
+  },
+  {
+    "description": "Agiou Andreou - Evangelistria Church 2",
+    "lat": 35.1765687836269,
+    "lon": 33.3792525202926,
+    "name": "Agiou Andreou - Evangelistria Church 2"
+  },
+  {
+    "description": "Agiou Andreou - Markou Drakou",
+    "lat": 35.1747635687111,
+    "lon": 33.3769379111749,
+    "name": "Agiou Andreou - Markou Drakou"
+  },
+  {
+    "description": "Markou Drakou - Tzon Kennenty Avenue",
+    "lat": 35.1726294777796,
+    "lon": 33.375983631652,
+    "name": "Markou Drakou - Tzon Kennenty Avenue"
+  },
+  {
+    "description": "Ave. Tzon Kennenty - Perikleous",
+    "lat": 35.1721507589833,
+    "lon": 33.3762449879763,
+    "name": "Ave. Tzon Kennenty - Perikleous"
+  },
+  {
+    "description": "Ave. Tzon Kennenty - Archiepiskopou Makariou B",
+    "lat": 35.1724822321311,
+    "lon": 33.3798265552282,
+    "name": "Ave. Tzon Kennenty - Archiepiskopou Makariou B"
+  },
+  {
+    "description": "Larnakos - Lakonias",
+    "lat": 35.1662461782528,
+    "lon": 33.3814886126309,
+    "name": "Larnakos - Lakonias"
+  },
+  {
+    "description": "Larnakos - Elenis Christou",
+    "lat": 35.1651335211775,
+    "lon": 33.3826144316808,
+    "name": "Larnakos - Elenis Christou"
+  },
+  {
+    "description": "Larnakos - Akadimia Park 1",
+    "lat": 35.1638581650781,
+    "lon": 33.3838602420496,
+    "name": "Larnakos - Akadimia Park 1"
+  },
+  {
+    "description": "Larnakos - Dionysiou Solomou",
+    "lat": 35.1607995880416,
+    "lon": 33.3872497167874,
+    "name": "Larnakos - Dionysiou Solomou"
+  },
+  {
+    "description": "Larnakos - Kalliopis",
+    "lat": 35.1593483465467,
+    "lon": 33.3898999862064,
+    "name": "Larnakos - Kalliopis"
+  },
+  {
+    "description": "Larnakos - Parnassou",
+    "lat": 35.1579773106186,
+    "lon": 33.3928250408062,
+    "name": "Larnakos - Parnassou"
+  },
+  {
+    "description": "Larnakos - Parnithos",
+    "lat": 35.1570328689589,
+    "lon": 33.3948736923646,
+    "name": "Larnakos - Parnithos"
+  },
+  {
+    "description": "Larnakos - Irakleous",
+    "lat": 35.1558073545048,
+    "lon": 33.3973820689846,
+    "name": "Larnakos - Irakleous"
+  },
+  {
+    "description": "Larnakos - Metsovou",
+    "lat": 35.1540545201082,
+    "lon": 33.4011833393769,
+    "name": "Larnakos - Metsovou"
+  },
+  {
+    "description": "Larnakos - Stadiou",
+    "lat": 35.1528921043299,
+    "lon": 33.4036589041939,
+    "name": "Larnakos - Stadiou"
+  },
+  {
+    "description": "Larnakos - Ilysion",
+    "lat": 35.150903228662,
+    "lon": 33.4078759218881,
+    "name": "Larnakos - Ilysion"
+  },
+  {
+    "description": "Larnakos - Lidras",
+    "lat": 35.148458383123,
+    "lon": 33.4135505724348,
+    "name": "Larnakos - Lidras"
+  },
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  },
+  {
+    "description": "University of Cyprus - Parking Place",
+    "lat": 35.1472155482355,
+    "lon": 33.4104484021488,
+    "name": "University of Cyprus - Parking Place"
+  },
+  {
+    "description": "University of Cyprus - University House",
+    "lat": 35.1460482761817,
+    "lon": 33.4089824472376,
+    "name": "University of Cyprus - University House"
+  }
+]

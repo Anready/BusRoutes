@@ -1,0 +1,98 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Archaeological Museum",
+    "lat": 34.9201560701946,
+    "lon": 33.6337470951532,
+    "name": "Archaeological Museum"
+  },
+  {
+    "description": "Dimitras- Apollonos",
+    "lat": 34.9217931087833,
+    "lon": 33.6345369930831,
+    "name": "Dimitras- Apollonos"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Nigritis",
+    "lat": 34.9259656563968,
+    "lon": 33.636736941393,
+    "name": "Archiep. Makariou C´ Ave. - Nigritis"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kleov. Papakyriakou",
+    "lat": 34.9283904237115,
+    "lon": 33.6369089601145,
+    "name": "Archiep. Makariou C´ Ave. - Kleov. Papakyriakou"
+  },
+  {
+    "description": "Tassou Papadopoulou",
+    "lat": 34.9327117968735,
+    "lon": 33.638234402941,
+    "name": "Tassou Papadopoulou"
+  },
+  {
+    "description": "Intercollege 1",
+    "lat": 34.9399431574488,
+    "lon": 33.6417617240314,
+    "name": "Intercollege 1"
+  },
+  {
+    "description": "Ammochostou Ave. - Thetidos",
+    "lat": 34.9461674095319,
+    "lon": 33.6447342181427,
+    "name": "Ammochostou Ave. - Thetidos"
+  },
+  {
+    "description": "Oil and Gas Storages 1",
+    "lat": 34.9503430392395,
+    "lon": 33.6480086580294,
+    "name": "Oil and Gas Storages 1"
+  },
+  {
+    "description": "Ammochostou Ave. - Dafnis",
+    "lat": 34.9555679119241,
+    "lon": 33.6523431769861,
+    "name": "Ammochostou Ave. - Dafnis"
+  },
+  {
+    "description": "Ammochostou Ave. - Athinon 1",
+    "lat": 34.9587872927012,
+    "lon": 33.6556545787598,
+    "name": "Ammochostou Ave. - Athinon 1"
+  },
+  {
+    "description": "Henipa Hotel 1",
+    "lat": 34.9631148917062,
+    "lon": 33.6574525711284,
+    "name": "Henipa Hotel 1"
+  },
+  {
+    "description": "Oroklini Lake 1",
+    "lat": 34.9689794904337,
+    "lon": 33.6568312098688,
+    "name": "Oroklini Lake 1"
+  },
+  {
+    "description": "Chr. Afxentiou Ave. - Larnaka - Ag. Napa Road 1",
+    "lat": 34.9709480454512,
+    "lon": 33.6546450518527,
+    "name": "Chr. Afxentiou Ave. - Larnaka - Ag. Napa Road 1"
+  },
+  {
+    "description": "Michail Karaoli - 25 Martiou",
+    "lat": 34.9764993181115,
+    "lon": 33.6552698566124,
+    "name": "Michail Karaoli - 25 Martiou"
+  }
+]

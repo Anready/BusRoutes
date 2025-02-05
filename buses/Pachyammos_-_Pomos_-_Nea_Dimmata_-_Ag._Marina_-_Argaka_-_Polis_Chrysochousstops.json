@@ -1,0 +1,188 @@
+[
+  {
+    "description": "Agios Rafail Church 2",
+    "lat": 35.1710390088406,
+    "lon": 32.5843255082644,
+    "name": "Agios Rafail Church 2"
+  },
+  {
+    "description": "1st Stop Pachyammos 2",
+    "lat": 35.1710855653209,
+    "lon": 32.5795263503629,
+    "name": "1st Stop Pachyammos 2"
+  },
+  {
+    "description": "10th Stop Pomos",
+    "lat": 35.1701568081279,
+    "lon": 32.5494311715624,
+    "name": "10th Stop Pomos"
+  },
+  {
+    "description": "8th Stop Pomos",
+    "lat": 35.1681343634936,
+    "lon": 32.5487285563906,
+    "name": "8th Stop Pomos"
+  },
+  {
+    "description": "6th Stop Pomos",
+    "lat": 35.166679283241,
+    "lon": 32.5478361609082,
+    "name": "6th Stop Pomos"
+  },
+  {
+    "description": "Pomos Cultural Centre",
+    "lat": 35.162076430448,
+    "lon": 32.546730667051,
+    "name": "Pomos Cultural Centre"
+  },
+  {
+    "description": "4th Stop Pomos",
+    "lat": 35.1598955715471,
+    "lon": 32.5446675474531,
+    "name": "4th Stop Pomos"
+  },
+  {
+    "description": "2nd Stop Pomos",
+    "lat": 35.1589639793243,
+    "lon": 32.5439151281913,
+    "name": "2nd Stop Pomos"
+  },
+  {
+    "description": "4th Stop Nea Dimmata",
+    "lat": 35.1400287391087,
+    "lon": 32.5230211660393,
+    "name": "4th Stop Nea Dimmata"
+  },
+  {
+    "description": "2nd Stop Nea Dimmata",
+    "lat": 35.1360442671937,
+    "lon": 32.5210137033094,
+    "name": "2nd Stop Nea Dimmata"
+  },
+  {
+    "description": "12th Stop Agia Marina Chrysochous",
+    "lat": 35.1305233081378,
+    "lon": 32.5181154347865,
+    "name": "12th Stop Agia Marina Chrysochous"
+  },
+  {
+    "description": "10th Stop Agia Marina Chrysochous",
+    "lat": 35.1230739705824,
+    "lon": 32.5155582303574,
+    "name": "10th Stop Agia Marina Chrysochous"
+  },
+  {
+    "description": "Agia Marina Church 2",
+    "lat": 35.1201082401399,
+    "lon": 32.513534507291,
+    "name": "Agia Marina Church 2"
+  },
+  {
+    "description": "8th Stop Agia Marina Chrysochous",
+    "lat": 35.1171594478708,
+    "lon": 32.5112474470894,
+    "name": "8th Stop Agia Marina Chrysochous"
+  },
+  {
+    "description": "6th Stop Agia Marina Chrysochous",
+    "lat": 35.1150256899284,
+    "lon": 32.5098335765322,
+    "name": "6th Stop Agia Marina Chrysochous"
+  },
+  {
+    "description": "4th Stop Agia Marina Chrysochous",
+    "lat": 35.1110679997176,
+    "lon": 32.507816221612,
+    "name": "4th Stop Agia Marina Chrysochous"
+  },
+  {
+    "description": "2nd Stop Agia Marina Chrysochous",
+    "lat": 35.1081114242299,
+    "lon": 32.5058588542803,
+    "name": "2nd Stop Agia Marina Chrysochous"
+  },
+  {
+    "description": "4th Stop Gialia",
+    "lat": 35.1067369986461,
+    "lon": 32.5049234864221,
+    "name": "4th Stop Gialia"
+  },
+  {
+    "description": "2nd Stop Gialia",
+    "lat": 35.1038911867741,
+    "lon": 32.503602055262,
+    "name": "2nd Stop Gialia"
+  },
+  {
+    "description": "Argaka Seaside Road - 12th Stop",
+    "lat": 35.0792568954583,
+    "lon": 32.4843139870411,
+    "name": "Argaka Seaside Road - 12th Stop"
+  },
+  {
+    "description": "Argaka Seaside Road - 10th Stop",
+    "lat": 35.0757335721694,
+    "lon": 32.4806506831628,
+    "name": "Argaka Seaside Road - 10th Stop"
+  },
+  {
+    "description": "Argaka Seaside Road - 8th Stop",
+    "lat": 35.0726166113588,
+    "lon": 32.4771496240056,
+    "name": "Argaka Seaside Road - 8th Stop"
+  },
+  {
+    "description": "Argaka Seaside Road - 6th Stop",
+    "lat": 35.0708668151461,
+    "lon": 32.4749562137331,
+    "name": "Argaka Seaside Road - 6th Stop"
+  },
+  {
+    "description": "Argaka Seaside Road - 4thStop",
+    "lat": 35.0693893944989,
+    "lon": 32.4731998577449,
+    "name": "Argaka Seaside Road - 4thStop"
+  },
+  {
+    "description": "Argaka Seaside Road - 2nd Stop",
+    "lat": 35.0671217791684,
+    "lon": 32.4701435254988,
+    "name": "Argaka Seaside Road - 2nd Stop"
+  },
+  {
+    "description": "Mariou Ave. - 1st Stop",
+    "lat": 35.0617592261678,
+    "lon": 32.4625562582517,
+    "name": "Mariou Ave. - 1st Stop"
+  },
+  {
+    "description": "Mariou Ave. - 4th Stop",
+    "lat": 35.0518630225227,
+    "lon": 32.4495283413292,
+    "name": "Mariou Ave. - 4th Stop"
+  },
+  {
+    "description": "Mariou Ave. - 2nd Stop",
+    "lat": 35.040312774026,
+    "lon": 32.4379073334417,
+    "name": "Mariou Ave. - 2nd Stop"
+  },
+  {
+    "description": "Polis Chrysochous Technical School 2",
+    "lat": 35.0379487924421,
+    "lon": 32.4337135057288,
+    "name": "Polis Chrysochous Technical School 2"
+  },
+  {
+    "description": "Mariou Ave. - Arsinois",
+    "lat": 35.0358987134488,
+    "lon": 32.4291888388319,
+    "name": "Mariou Ave. - Arsinois"
+  },
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  }
+]

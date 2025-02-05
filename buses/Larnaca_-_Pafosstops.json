@@ -1,0 +1,74 @@
+[
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Municipal Library 1",
+    "lat": 34.9163428757828,
+    "lon": 33.6248175920962,
+    "name": "Municipal Library 1"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - Arachovas",
+    "lat": 34.9183566940243,
+    "lon": 33.6136224907785,
+    "name": "Nikou kai Despoinas Pattichi Ave. - Arachovas"
+  },
+  {
+    "description": "Nikou kai Despoinas Pattichi Ave. - Kalymnou",
+    "lat": 34.9165153281923,
+    "lon": 33.6049931961769,
+    "name": "Nikou kai Despoinas Pattichi Ave. - Kalymnou"
+  },
+  {
+    "description": "Lemesou Ave. - Makedonias 1",
+    "lat": 34.9094470293519,
+    "lon": 33.584449577531,
+    "name": "Lemesou Ave. - Makedonias 1"
+  },
+  {
+    "description": "Choirokoitia Neolithic Settlement (OASIS)",
+    "lat": 34.7981724763475,
+    "lon": 33.3489355474517,
+    "name": "Choirokoitia Neolithic Settlement (OASIS)"
+  },
+  {
+    "description": "Dimokratias Ave. - Andrea Theodosiou",
+    "lat": 34.7788824240587,
+    "lon": 32.4444186619216,
+    "name": "Dimokratias Ave. - Andrea Theodosiou"
+  },
+  {
+    "description": "Dimokratias Ave. - Thivon",
+    "lat": 34.7722103112332,
+    "lon": 32.4426492813995,
+    "name": "Dimokratias Ave. - Thivon"
+  },
+  {
+    "description": "Fire Station 2",
+    "lat": 34.7691594592919,
+    "lon": 32.4361458242732,
+    "name": "Fire Station 2"
+  },
+  {
+    "description": "Pafos District Courthouse 2",
+    "lat": 34.7748898009398,
+    "lon": 32.4273748382485,
+    "name": "Pafos District Courthouse 2"
+  },
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  }
+]

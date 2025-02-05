@@ -1,0 +1,44 @@
+[
+  {
+    "description": "Agios Epifanios Church 1",
+    "lat": 34.9956162505659,
+    "lon": 33.4657512477914,
+    "name": "Agios Epifanios Church 1"
+  },
+  {
+    "description": "Theodorou Mavrosavva - Athinas",
+    "lat": 34.9977909293382,
+    "lon": 33.4630020808207,
+    "name": "Theodorou Mavrosavva - Athinas"
+  },
+  {
+    "description": "Koumi Charalampous - Misiaouli Kai Kavazoglou",
+    "lat": 35.0000780263078,
+    "lon": 33.4615026778241,
+    "name": "Koumi Charalampous - Misiaouli Kai Kavazoglou"
+  },
+  {
+    "description": "Grigori Afxentiou - Dorou Loizou",
+    "lat": 34.9996620354704,
+    "lon": 33.4570511753812,
+    "name": "Grigori Afxentiou - Dorou Loizou"
+  },
+  {
+    "description": "Grigori Afxentiou - Eleftherias",
+    "lat": 34.9993558981351,
+    "lon": 33.4545290181415,
+    "name": "Grigori Afxentiou - Eleftherias"
+  },
+  {
+    "description": "Lemesou Ave. - Filias",
+    "lat": 34.9977926869451,
+    "lon": 33.4017451753162,
+    "name": "Lemesou Ave. - Filias"
+  },
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  }
+]

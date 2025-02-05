@@ -1,0 +1,110 @@
+[
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  },
+  {
+    "description": "Pythonos - Tseriou Avenue",
+    "lat": 35.1412163685571,
+    "lon": 33.341600224837,
+    "name": "Pythonos - Tseriou Avenue"
+  },
+  {
+    "description": "Tseriou - Konstantinoupoleos Avenue",
+    "lat": 35.1383398914202,
+    "lon": 33.3415991854026,
+    "name": "Tseriou - Konstantinoupoleos Avenue"
+  },
+  {
+    "description": "Ave. Konstantinoupoleos - Panagioti Georgiadi",
+    "lat": 35.1351834811595,
+    "lon": 33.3417396750465,
+    "name": "Ave. Konstantinoupoleos - Panagioti Georgiadi"
+  },
+  {
+    "description": "Elem. School Konstantinoupoleos",
+    "lat": 35.1319525764475,
+    "lon": 33.3427140414329,
+    "name": "Elem. School Konstantinoupoleos"
+  },
+  {
+    "description": "High School Konstantinoupoleos 1",
+    "lat": 35.128766965901,
+    "lon": 33.343611691178,
+    "name": "High School Konstantinoupoleos 1"
+  },
+  {
+    "description": "Georgiou Seferi - High School Konstantinoupoleos 2",
+    "lat": 35.1268693551954,
+    "lon": 33.345019573782,
+    "name": "Georgiou Seferi - High School Konstantinoupoleos 2"
+  },
+  {
+    "description": "Georgiou Seferi - Pansedon",
+    "lat": 35.1284867907494,
+    "lon": 33.3470020433715,
+    "name": "Georgiou Seferi - Pansedon"
+  },
+  {
+    "description": "Nafsikas - Nikomideias",
+    "lat": 35.1296291910951,
+    "lon": 33.3479727752098,
+    "name": "Nafsikas - Nikomideias"
+  },
+  {
+    "description": "Agios Spiridonas Elem. School 1",
+    "lat": 35.129488563377,
+    "lon": 33.3498380893725,
+    "name": "Agios Spiridonas Elem. School 1"
+  },
+  {
+    "description": "Aristofanous - Ptolemaidos",
+    "lat": 35.1273518317311,
+    "lon": 33.3497191949752,
+    "name": "Aristofanous - Ptolemaidos"
+  },
+  {
+    "description": "Aristofanous - Angelou Sikelianou",
+    "lat": 35.1251651666649,
+    "lon": 33.348151344387,
+    "name": "Aristofanous - Angelou Sikelianou"
+  },
+  {
+    "description": "Aristofanous - Psiloreiti",
+    "lat": 35.1244614170719,
+    "lon": 33.345141122535,
+    "name": "Aristofanous - Psiloreiti"
+  },
+  {
+    "description": "Ave. Konstantinoupoleos - Lachana",
+    "lat": 35.1221371295119,
+    "lon": 33.344385020075,
+    "name": "Ave. Konstantinoupoleos - Lachana"
+  },
+  {
+    "description": "Ave. Konstantinoupoleos - Oinouson",
+    "lat": 35.1207113049795,
+    "lon": 33.3447741111883,
+    "name": "Ave. Konstantinoupoleos - Oinouson"
+  },
+  {
+    "description": "Odyssea Elyti - Oikonomou Konstantinou",
+    "lat": 35.1186650709605,
+    "lon": 33.3476956825981,
+    "name": "Odyssea Elyti - Oikonomou Konstantinou"
+  },
+  {
+    "description": "Ouranou - Agiou Charalampous",
+    "lat": 35.1192431226879,
+    "lon": 33.3504966567419,
+    "name": "Ouranou - Agiou Charalampous"
+  },
+  {
+    "description": "Ouranou - Agiou Xenofontos",
+    "lat": 35.1215251451971,
+    "lon": 33.350264984009,
+    "name": "Ouranou - Agiou Xenofontos"
+  }
+]

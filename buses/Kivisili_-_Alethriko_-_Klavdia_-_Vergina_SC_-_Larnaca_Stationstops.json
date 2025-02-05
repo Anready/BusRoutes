@@ -1,0 +1,224 @@
+[
+  {
+    "description": "Gianni Fotiadi - 2nd Stop",
+    "lat": 34.8396068264021,
+    "lon": 33.5059730315338,
+    "name": "Gianni Fotiadi - 2nd Stop"
+  },
+  {
+    "description": "Akanthous",
+    "lat": 34.8359657105483,
+    "lon": 33.5119659785202,
+    "name": "Akanthous"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - 3rd Stop",
+    "lat": 34.8406669882452,
+    "lon": 33.5047435930337,
+    "name": "Georg. Griva Digeni Ave. - 3rd Stop"
+  },
+  {
+    "description": "Ammochostou Ave. - Morfou 2",
+    "lat": 34.859569188112,
+    "lon": 33.4956257571992,
+    "name": "Ammochostou Ave. - Morfou 2"
+  },
+  {
+    "description": "Salaminas Ave. - Apost. Varnava",
+    "lat": 34.8630097265132,
+    "lon": 33.4944320166529,
+    "name": "Salaminas Ave. - Apost. Varnava"
+  },
+  {
+    "description": "Anexartisias Ave. - Eirinis Avenue 2",
+    "lat": 34.865674941296,
+    "lon": 33.4931897861284,
+    "name": "Anexartisias Ave. - Eirinis Avenue 2"
+  },
+  {
+    "description": "Anexartisias Ave. - Highway Exit 2",
+    "lat": 34.86650117679,
+    "lon": 33.4962362678988,
+    "name": "Anexartisias Ave. - Highway Exit 2"
+  },
+  {
+    "description": "Pizavou - Artas",
+    "lat": 34.8698018889999,
+    "lon": 33.4983677609673,
+    "name": "Pizavou - Artas"
+  },
+  {
+    "description": "Anexartisias Ave. - Ag. Georgiou Xorinou 2",
+    "lat": 34.8686445948394,
+    "lon": 33.5013039351747,
+    "name": "Anexartisias Ave. - Ag. Georgiou Xorinou 2"
+  },
+  {
+    "description": "Klavdia - Alethriko Road - 2nd Stop",
+    "lat": 34.8776335163933,
+    "lon": 33.5124868125232,
+    "name": "Klavdia - Alethriko Road - 2nd Stop"
+  },
+  {
+    "description": "Klavdia - Highway Exit 1",
+    "lat": 34.889870890507,
+    "lon": 33.5333014860752,
+    "name": "Klavdia - Highway Exit 1"
+  },
+  {
+    "description": "6th Stop Klavdia",
+    "lat": 34.8932093844903,
+    "lon": 33.5161185493289,
+    "name": "6th Stop Klavdia"
+  },
+  {
+    "description": "5th Stop Klavdia",
+    "lat": 34.8934138423976,
+    "lon": 33.5146861145392,
+    "name": "5th Stop Klavdia"
+  },
+  {
+    "description": "3rd Stop Klavdia",
+    "lat": 34.8927889748507,
+    "lon": 33.5131828487583,
+    "name": "3rd Stop Klavdia"
+  },
+  {
+    "description": "2nd Stop Klavdia",
+    "lat": 34.8922511285759,
+    "lon": 33.5145584764786,
+    "name": "2nd Stop Klavdia"
+  },
+  {
+    "description": "1st Stop Klavdia",
+    "lat": 34.8931046583875,
+    "lon": 33.5174202703619,
+    "name": "1st Stop Klavdia"
+  },
+  {
+    "description": "A2 Industrial Area",
+    "lat": 34.9085910283765,
+    "lon": 33.5729498422037,
+    "name": "A2 Industrial Area"
+  },
+  {
+    "description": "Lemesou Ave. - Charilaou Trikoupi 2",
+    "lat": 34.9083162703107,
+    "lon": 33.5795485625504,
+    "name": "Lemesou Ave. - Charilaou Trikoupi 2"
+  },
+  {
+    "description": "Lemesou Ave. - Makedonias 2",
+    "lat": 34.9097790299223,
+    "lon": 33.5847912719885,
+    "name": "Lemesou Ave. - Makedonias 2"
+  },
+  {
+    "description": "Lemesou Ave. - Kritis",
+    "lat": 34.91100376662,
+    "lon": 33.5907221029325,
+    "name": "Lemesou Ave. - Kritis"
+  },
+  {
+    "description": "Kamares - Old Aqueduct 2",
+    "lat": 34.912833624016,
+    "lon": 33.5982338403757,
+    "name": "Kamares - Old Aqueduct 2"
+  },
+  {
+    "description": "G. Christodoulidi Ave. - Dafnidos",
+    "lat": 34.9186395946966,
+    "lon": 33.6003122340309,
+    "name": "G. Christodoulidi Ave. - Dafnidos"
+  },
+  {
+    "description": "Peiraia Park",
+    "lat": 34.9191342938408,
+    "lon": 33.5987393620505,
+    "name": "Peiraia Park"
+  },
+  {
+    "description": "Vergina High School 2",
+    "lat": 34.9201261487427,
+    "lon": 33.596918271296,
+    "name": "Vergina High School 2"
+  },
+  {
+    "description": "Vergina Lyceum",
+    "lat": 34.9211554385646,
+    "lon": 33.5948127586923,
+    "name": "Vergina Lyceum"
+  },
+  {
+    "description": "New Hospital 2",
+    "lat": 34.9217524628238,
+    "lon": 33.6035755347927,
+    "name": "New Hospital 2"
+  },
+  {
+    "description": "Mall Metropolis",
+    "lat": 34.924193545739,
+    "lon": 33.6077209580138,
+    "name": "Mall Metropolis"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 2",
+    "lat": 34.9232552988576,
+    "lon": 33.6114036101475,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 2"
+  },
+  {
+    "description": "Fire Station 2",
+    "lat": 34.9212721837046,
+    "lon": 33.6148375251659,
+    "name": "Fire Station 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2",
+    "lat": 34.9194167146212,
+    "lon": 33.6179766426449,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Thessalonikis Ave.",
+    "lat": 34.9180133596127,
+    "lon": 33.6208562831158,
+    "name": "Georg. Griva Digeni Ave. - Thessalonikis Ave."
+  },
+  {
+    "description": "Municipal Library 2",
+    "lat": 34.916724235321,
+    "lon": 33.6243059543314,
+    "name": "Municipal Library 2"
+  },
+  {
+    "description": "Municipal Park 2",
+    "lat": 34.9168095577485,
+    "lon": 33.6269996632646,
+    "name": "Municipal Park 2"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.9178223662695,
+    "lon": 33.6351304406883,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.9187528603531,
+    "lon": 33.6365279619346,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1"
+  },
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  }
+]

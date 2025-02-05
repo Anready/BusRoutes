@@ -1,0 +1,182 @@
+[
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Panagioti Diomidous",
+    "lat": 34.6813100525199,
+    "lon": 33.0335138069715,
+    "name": "Archiep. Leontiou A´ - Panagioti Diomidous"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Karatza 1",
+    "lat": 34.6819325517798,
+    "lon": 33.0325424776436,
+    "name": "Archiep. Leontiou A´ - Karatza 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Ammochostou",
+    "lat": 34.6845840077666,
+    "lon": 33.0318229944535,
+    "name": "Archiep. Makariou C´ Ave. - Ammochostou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Agias Fylaxeos",
+    "lat": 34.6865397108503,
+    "lon": 33.036070547384,
+    "name": "Archiep. Makariou C´ Ave. - Agias Fylaxeos"
+  },
+  {
+    "description": "Laniteio School 2",
+    "lat": 34.6870438265049,
+    "lon": 33.0389529336289,
+    "name": "Laniteio School 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Platonos",
+    "lat": 34.6875747883206,
+    "lon": 33.0422393110185,
+    "name": "Archiep. Makariou C´ Ave. - Platonos"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Kimonos",
+    "lat": 34.6877175955059,
+    "lon": 33.0463115698808,
+    "name": "Archiep. Makariou C´ Ave. - Kimonos"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Alasias",
+    "lat": 34.6874010936318,
+    "lon": 33.0485603672913,
+    "name": "Archiep. Makariou C´ Ave. - Alasias"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Griva Digeni 2",
+    "lat": 34.686876524564,
+    "lon": 33.0522610185188,
+    "name": "Archiep. Makariou C´ Ave. - Griva Digeni 2"
+  },
+  {
+    "description": "Agios Nikolaos Church 2",
+    "lat": 34.6891647065961,
+    "lon": 33.0575138120151,
+    "name": "Agios Nikolaos Church 2"
+  },
+  {
+    "description": "Griva Digeni - Griva Digeni Hideout 2",
+    "lat": 34.6918135842314,
+    "lon": 33.062363203529,
+    "name": "Griva Digeni - Griva Digeni Hideout 2"
+  },
+  {
+    "description": "Griva Digeni - Georgiou Neofytou",
+    "lat": 34.6938051985473,
+    "lon": 33.0649304714732,
+    "name": "Griva Digeni - Georgiou Neofytou"
+  },
+  {
+    "description": "Linopetra High School 2",
+    "lat": 34.6956166173062,
+    "lon": 33.0671046528369,
+    "name": "Linopetra High School 2"
+  },
+  {
+    "description": "Panagioti Tsagkari - Kalliopis 1",
+    "lat": 34.695373786317,
+    "lon": 33.0808834685888,
+    "name": "Panagioti Tsagkari - Kalliopis 1"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Park Beach Hotel",
+    "lat": 34.6938659197996,
+    "lon": 33.0836661411318,
+    "name": "Vasileos Georgiou A´ - Park Beach Hotel"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Ampelakion",
+    "lat": 34.6966654515964,
+    "lon": 33.0907005119513,
+    "name": "Vasileos Georgiou A´ - Ampelakion"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Apollonia Hotel 2",
+    "lat": 34.6981326140916,
+    "lon": 33.0943271388461,
+    "name": "Vasileos Georgiou A´ - Apollonia Hotel 2"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Profiti Ilia",
+    "lat": 34.698879180217,
+    "lon": 33.0967738086477,
+    "name": "Vasileos Georgiou A´ - Profiti Ilia"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - McDonald´s",
+    "lat": 34.7002911311858,
+    "lon": 33.1015143141621,
+    "name": "Vasileos Georgiou A´ - McDonald´s"
+  },
+  {
+    "description": "Vasileos Georgiou A´ - Ariadnis",
+    "lat": 34.7017042673695,
+    "lon": 33.1046716950113,
+    "name": "Vasileos Georgiou A´ - Ariadnis"
+  },
+  {
+    "description": "Amathountos Ave. - Aquarius Hotel",
+    "lat": 34.7032520368812,
+    "lon": 33.1084517650169,
+    "name": "Amathountos Ave. - Aquarius Hotel"
+  },
+  {
+    "description": "Amathountos Ave. - Aphrodite Amathusia Park",
+    "lat": 34.7038993500777,
+    "lon": 33.1106474309853,
+    "name": "Amathountos Ave. - Aphrodite Amathusia Park"
+  },
+  {
+    "description": "Amathountos Ave. - Prousis",
+    "lat": 34.7053029444309,
+    "lon": 33.114110842363,
+    "name": "Amathountos Ave. - Prousis"
+  },
+  {
+    "description": "Amathountos Ave. - Navarria",
+    "lat": 34.7065972201167,
+    "lon": 33.118611602898,
+    "name": "Amathountos Ave. - Navarria"
+  },
+  {
+    "description": "Amathountos Ave. - Onisilou",
+    "lat": 34.7079912514499,
+    "lon": 33.1223919282694,
+    "name": "Amathountos Ave. - Onisilou"
+  },
+  {
+    "description": "Onisilou 1",
+    "lat": 34.7097653204963,
+    "lon": 33.1248079227465,
+    "name": "Onisilou 1"
+  },
+  {
+    "description": "Mesolongiou - Georgiou Griva Digeni 1",
+    "lat": 34.7111873137378,
+    "lon": 33.1275401747911,
+    "name": "Mesolongiou - Georgiou Griva Digeni 1"
+  },
+  {
+    "description": "Agia Anna Church 1",
+    "lat": 34.7140638465295,
+    "lon": 33.1276974823956,
+    "name": "Agia Anna Church 1"
+  },
+  {
+    "description": "Armenochori",
+    "lat": 34.7440826076798,
+    "lon": 33.1292294290511,
+    "name": "Armenochori"
+  }
+]

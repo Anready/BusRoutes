@@ -1,0 +1,236 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Municipal Park 1",
+    "lat": 34.9167370826448,
+    "lon": 33.62706479651,
+    "name": "Municipal Park 1"
+  },
+  {
+    "description": "Municipal Library 1",
+    "lat": 34.9163428757828,
+    "lon": 33.6248175920962,
+    "name": "Municipal Library 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - 1 Apriliou Ave.",
+    "lat": 34.9179424535888,
+    "lon": 33.6206149027479,
+    "name": "Georg. Griva Digeni Ave. - 1 Apriliou Ave."
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1",
+    "lat": 34.9192814590881,
+    "lon": 33.617975628774,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 1"
+  },
+  {
+    "description": "Fire Station 1",
+    "lat": 34.9211460005634,
+    "lon": 33.6148256360473,
+    "name": "Fire Station 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1",
+    "lat": 34.9232927989392,
+    "lon": 33.6111192329806,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 34.9228559002927,
+    "lon": 33.6083351448841,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "New Hospital 1",
+    "lat": 34.922015733272,
+    "lon": 33.6050335619743,
+    "name": "New Hospital 1"
+  },
+  {
+    "description": "Archiepiskopou Paisiou",
+    "lat": 34.9218408687037,
+    "lon": 33.6002917535577,
+    "name": "Archiepiskopou Paisiou"
+  },
+  {
+    "description": "G.S.Z. Stadium 1",
+    "lat": 34.9251981674185,
+    "lon": 33.6015424405138,
+    "name": "G.S.Z. Stadium 1"
+  },
+  {
+    "description": "Eleftherias Ave. - Giorgou Christodoulidi Ave.",
+    "lat": 34.9290161344417,
+    "lon": 33.6026323651284,
+    "name": "Eleftherias Ave. - Giorgou Christodoulidi Ave."
+  },
+  {
+    "description": "Eleftherias Ave. - Ellados Ave.",
+    "lat": 34.9317212281835,
+    "lon": 33.5971774427588,
+    "name": "Eleftherias Ave. - Ellados Ave."
+  },
+  {
+    "description": "Akropoleos Ave. - Aradippou Ind. Area",
+    "lat": 34.9382665922812,
+    "lon": 33.5881909002962,
+    "name": "Akropoleos Ave. - Aradippou Ind. Area"
+  },
+  {
+    "description": "Department of Road Transport",
+    "lat": 34.9407619857672,
+    "lon": 33.584956383554,
+    "name": "Department of Road Transport"
+  },
+  {
+    "description": "Akropoleos Ave. - Stadiou Ave. 1",
+    "lat": 34.9433213047759,
+    "lon": 33.5815359563742,
+    "name": "Akropoleos Ave. - Stadiou Ave. 1"
+  },
+  {
+    "description": "Akropoleos Ave. - Athinon Ave. 1",
+    "lat": 34.9481181987031,
+    "lon": 33.5759297517376,
+    "name": "Akropoleos Ave. - Athinon Ave. 1"
+  },
+  {
+    "description": "Aradippou Livestock Area",
+    "lat": 34.9650566877598,
+    "lon": 33.5845484515896,
+    "name": "Aradippou Livestock Area"
+  },
+  {
+    "description": "1st Stop Avdellero",
+    "lat": 35.0056146498789,
+    "lon": 33.5716856918555,
+    "name": "1st Stop Avdellero"
+  },
+  {
+    "description": "3rd Stop Avdellero",
+    "lat": 35.0082267960078,
+    "lon": 33.5703777517226,
+    "name": "3rd Stop Avdellero"
+  },
+  {
+    "description": "Avdellero Community Board 1",
+    "lat": 35.0098458778546,
+    "lon": 33.5693149275722,
+    "name": "Avdellero Community Board 1"
+  },
+  {
+    "description": "Avdellero Cemetery 1",
+    "lat": 35.010492552736,
+    "lon": 33.5679384587092,
+    "name": "Avdellero Cemetery 1"
+  },
+  {
+    "description": "Panagioti Koumeni Roundabout 1",
+    "lat": 35.0502855340403,
+    "lon": 33.5423467913182,
+    "name": "Panagioti Koumeni Roundabout 1"
+  },
+  {
+    "description": "28th October-Athienou",
+    "lat": 35.0542369019222,
+    "lon": 33.5399165808899,
+    "name": "28th October-Athienou"
+  },
+  {
+    "description": "Panayioti Koumeni-Athienou",
+    "lat": 35.0533968261714,
+    "lon": 33.5422686697639,
+    "name": "Panayioti Koumeni-Athienou"
+  },
+  {
+    "description": "Theokritou - Ioanni Kai Marias Kramvi 1",
+    "lat": 35.0561130856791,
+    "lon": 33.5336673264605,
+    "name": "Theokritou - Ioanni Kai Marias Kramvi 1"
+  },
+  {
+    "description": "Mpoumpoulinas - Ifaistou",
+    "lat": 35.0598787121732,
+    "lon": 33.536521195495,
+    "name": "Mpoumpoulinas - Ifaistou"
+  },
+  {
+    "description": "Eleftheriou Venizelou - Georgiou Skourou",
+    "lat": 35.0631523865148,
+    "lon": 33.5343821198436,
+    "name": "Eleftheriou Venizelou - Georgiou Skourou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Petrou Vrachimi",
+    "lat": 35.064499919423,
+    "lon": 33.5334806277854,
+    "name": "Archiep. Makariou C´ Ave. - Petrou Vrachimi"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - G. Griva Digeni Ave.",
+    "lat": 35.0640391145617,
+    "lon": 33.5357368509662,
+    "name": "Archiep. Makariou C´ Ave. - G. Griva Digeni Ave."
+  },
+  {
+    "description": "Athienou City Hall 1",
+    "lat": 35.0634568607955,
+    "lon": 33.5389354148312,
+    "name": "Athienou City Hall 1"
+  },
+  {
+    "description": "Agios Georgios Church",
+    "lat": 35.0618203064028,
+    "lon": 33.5399336042497,
+    "name": "Agios Georgios Church"
+  },
+  {
+    "description": "Athienou Old High School",
+    "lat": 35.0594468581284,
+    "lon": 33.5423854349429,
+    "name": "Athienou Old High School"
+  },
+  {
+    "description": "Athienou Elementary School",
+    "lat": 35.0584429349625,
+    "lon": 33.5430587087837,
+    "name": "Athienou Elementary School"
+  },
+  {
+    "description": "Athienou Sports Centre",
+    "lat": 35.0584762088016,
+    "lon": 33.5456908514403,
+    "name": "Athienou Sports Centre"
+  },
+  {
+    "description": "25 Martiou - Kosti Palama",
+    "lat": 35.0604214042657,
+    "lon": 33.5442452362495,
+    "name": "25 Martiou - Kosti Palama"
+  },
+  {
+    "description": "28 Oktovriou",
+    "lat": 35.060975473977,
+    "lon": 33.5413317768793,
+    "name": "28 Oktovriou"
+  }
+]

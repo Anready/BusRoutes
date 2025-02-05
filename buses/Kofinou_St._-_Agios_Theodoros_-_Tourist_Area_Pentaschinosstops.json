@@ -1,0 +1,86 @@
+[
+  {
+    "description": "Kofinou Station",
+    "lat": 34.826273309476,
+    "lon": 33.3899202268482,
+    "name": "Kofinou Station"
+  },
+  {
+    "description": "Kofinou - Ag. Theodoros Road - 1st Stop",
+    "lat": 34.8211678937026,
+    "lon": 33.3760526060965,
+    "name": "Kofinou - Ag. Theodoros Road - 1st Stop"
+  },
+  {
+    "description": "1 Apriliou - 17th Stop",
+    "lat": 34.8047840122511,
+    "lon": 33.3843307743993,
+    "name": "1 Apriliou - 17th Stop"
+  },
+  {
+    "description": "Panagias Astadiotissas - 15th Stop",
+    "lat": 34.8019152286661,
+    "lon": 33.3847000906497,
+    "name": "Panagias Astadiotissas - 15th Stop"
+  },
+  {
+    "description": "Panagias Astadiotissas - 13th Stop",
+    "lat": 34.8005674972116,
+    "lon": 33.385994756581,
+    "name": "Panagias Astadiotissas - 13th Stop"
+  },
+  {
+    "description": "Agios Theodoros Church 1",
+    "lat": 34.7989227885558,
+    "lon": 33.3842489115375,
+    "name": "Agios Theodoros Church 1"
+  },
+  {
+    "description": "Antonaki Manoli - 11th Stop",
+    "lat": 34.7965835477202,
+    "lon": 33.3854077432817,
+    "name": "Antonaki Manoli - 11th Stop"
+  },
+  {
+    "description": "Antonaki Manoli - 9th Stop",
+    "lat": 34.7926448529344,
+    "lon": 33.3847663429744,
+    "name": "Antonaki Manoli - 9th Stop"
+  },
+  {
+    "description": "7th Stop Agios Theodoros",
+    "lat": 34.7634059596127,
+    "lon": 33.4053049903656,
+    "name": "7th Stop Agios Theodoros"
+  },
+  {
+    "description": "5th Stop Agios Theodoros",
+    "lat": 34.7603682450521,
+    "lon": 33.4129826446436,
+    "name": "5th Stop Agios Theodoros"
+  },
+  {
+    "description": "3rd Stop Agios Theodoros",
+    "lat": 34.7603117991313,
+    "lon": 33.4215599296891,
+    "name": "3rd Stop Agios Theodoros"
+  },
+  {
+    "description": "Pentaschoinos Tourist Area - 5th Stop",
+    "lat": 34.7575864230767,
+    "lon": 33.4195356058681,
+    "name": "Pentaschoinos Tourist Area - 5th Stop"
+  },
+  {
+    "description": "Pentaschoinos Tourist Area - 3rd Stop",
+    "lat": 34.7516879517248,
+    "lon": 33.4118687100934,
+    "name": "Pentaschoinos Tourist Area - 3rd Stop"
+  },
+  {
+    "description": "Agion Trion Paidon - 1st Stop",
+    "lat": 34.7605620942556,
+    "lon": 33.4089843748486,
+    "name": "Agion Trion Paidon - 1st Stop"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "description": "Pentakomo",
+    "lat": 34.7379614244489,
+    "lon": 33.2407755234414,
+    "name": "Pentakomo"
+  },
+  {
+    "description": "Pentakomo Community Board 2",
+    "lat": 34.7349162224063,
+    "lon": 33.2393466278455,
+    "name": "Pentakomo Community Board 2"
+  },
+  {
+    "description": "Agnooumenon - 1st Pentakomo 1",
+    "lat": 34.7313432008642,
+    "lon": 33.2357317069354,
+    "name": "Agnooumenon - 1st Pentakomo 1"
+  },
+  {
+    "description": "Moni Station 2",
+    "lat": 34.726943338363,
+    "lon": 33.205387387032,
+    "name": "Moni Station 2"
+  },
+  {
+    "description": "Moni Police Station 1",
+    "lat": 34.72515328004,
+    "lon": 33.2027069997799,
+    "name": "Moni Police Station 1"
+  },
+  {
+    "description": "Agios Epiktitos Church 1",
+    "lat": 34.7278487807726,
+    "lon": 33.2032050986294,
+    "name": "Agios Epiktitos Church 1"
+  },
+  {
+    "description": "2nd Moni - Monagroulli Road",
+    "lat": 34.7343287743073,
+    "lon": 33.2054821219485,
+    "name": "2nd Moni - Monagroulli Road"
+  },
+  {
+    "description": "Moni Health Center 2",
+    "lat": 34.7375434972988,
+    "lon": 33.202868340026,
+    "name": "Moni Health Center 2"
+  }
+]

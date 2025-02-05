@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Agion Trion Paidon - 2nd Stop",
+    "lat": 34.7605618006224,
+    "lon": 33.4090717883827,
+    "name": "Agion Trion Paidon - 2nd Stop"
+  },
+  {
+    "description": "Pentaschoinos Tourist Area - 4th Stop",
+    "lat": 34.7517691099168,
+    "lon": 33.4118691130145,
+    "name": "Pentaschoinos Tourist Area - 4th Stop"
+  },
+  {
+    "description": "Pentaschoinos Tourist Area - 6th Stop",
+    "lat": 34.7577128194771,
+    "lon": 33.4194925392345,
+    "name": "Pentaschoinos Tourist Area - 6th Stop"
+  },
+  {
+    "description": "4thStop Agios Theodoros",
+    "lat": 34.7603210814595,
+    "lon": 33.4214834890273,
+    "name": "4thStop Agios Theodoros"
+  },
+  {
+    "description": "6th Stop Agios Theodoros",
+    "lat": 34.7603323971357,
+    "lon": 33.4129169050889,
+    "name": "6th Stop Agios Theodoros"
+  },
+  {
+    "description": "8th Stop Agios Theodoros",
+    "lat": 34.763353308329,
+    "lon": 33.404867643325,
+    "name": "8th Stop Agios Theodoros"
+  },
+  {
+    "description": "Antonaki Manoli - 10th Stop",
+    "lat": 34.7932764266224,
+    "lon": 33.384659964719,
+    "name": "Antonaki Manoli - 10th Stop"
+  },
+  {
+    "description": "Antonaki Manoli - 12th Stop",
+    "lat": 34.7968995423089,
+    "lon": 33.385288965325,
+    "name": "Antonaki Manoli - 12th Stop"
+  },
+  {
+    "description": "Agios Theodoros Church 2",
+    "lat": 34.7993196982264,
+    "lon": 33.3842070251821,
+    "name": "Agios Theodoros Church 2"
+  },
+  {
+    "description": "Panagias Astadiotissas - 14th Stop",
+    "lat": 34.800486512762,
+    "lon": 33.3859397183474,
+    "name": "Panagias Astadiotissas - 14th Stop"
+  },
+  {
+    "description": "Panagias Astadiotissas - 16th Stop",
+    "lat": 34.8022130145477,
+    "lon": 33.3846358798588,
+    "name": "Panagias Astadiotissas - 16th Stop"
+  },
+  {
+    "description": "1 Apriliou - 18th Stop",
+    "lat": 34.8046580775459,
+    "lon": 33.3842317955202,
+    "name": "1 Apriliou - 18th Stop"
+  },
+  {
+    "description": "Kofinou - Ag. Theodoros Road - 2nd Stop",
+    "lat": 34.8212313879909,
+    "lon": 33.375932610825,
+    "name": "Kofinou - Ag. Theodoros Road - 2nd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Grigori Afxentiou 2",
+    "lat": 34.8255273784812,
+    "lon": 33.3891293584083,
+    "name": "Archiep. Makariou C´ Ave. - Grigori Afxentiou 2"
+  },
+  {
+    "description": "Kofinou Station",
+    "lat": 34.826273309476,
+    "lon": 33.3899202268482,
+    "name": "Kofinou Station"
+  }
+]

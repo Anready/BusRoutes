@@ -1,0 +1,86 @@
+[
+  {
+    "description": "Giolou Elementary School",
+    "lat": 34.9234403212468,
+    "lon": 32.4764882153443,
+    "name": "Giolou Elementary School"
+  },
+  {
+    "description": "3rd Stop Giolou",
+    "lat": 34.921403900298,
+    "lon": 32.4768405387943,
+    "name": "3rd Stop Giolou"
+  },
+  {
+    "description": "1st Stop Miliou 2",
+    "lat": 34.934908387279,
+    "lon": 32.4697687832971,
+    "name": "1st Stop Miliou 2"
+  },
+  {
+    "description": "Ayii Anargyri Spa Resort 2",
+    "lat": 34.9359887068044,
+    "lon": 32.4652504224492,
+    "name": "Ayii Anargyri Spa Resort 2"
+  },
+  {
+    "description": "2nd Stop Miliou 2",
+    "lat": 34.9392689402551,
+    "lon": 32.4606956428139,
+    "name": "2nd Stop Miliou 2"
+  },
+  {
+    "description": "Pano Akourdaleia",
+    "lat": 34.943435083875,
+    "lon": 32.4466839370099,
+    "name": "Pano Akourdaleia"
+  },
+  {
+    "description": "Kato Akourdaleia 2",
+    "lat": 34.9526348627753,
+    "lon": 32.4511125334336,
+    "name": "Kato Akourdaleia 2"
+  },
+  {
+    "description": "Choli 2",
+    "lat": 34.9794025610164,
+    "lon": 32.4441085241939,
+    "name": "Choli 2"
+  },
+  {
+    "description": "Goudi Square 2",
+    "lat": 34.9916262568191,
+    "lon": 32.4413194117711,
+    "name": "Goudi Square 2"
+  },
+  {
+    "description": "5th Stop Chrysochou 2",
+    "lat": 35.0029437209996,
+    "lon": 32.4414835848064,
+    "name": "5th Stop Chrysochou 2"
+  },
+  {
+    "description": "4th Stop Chrysochou",
+    "lat": 35.0042948807179,
+    "lon": 32.4392168281161,
+    "name": "4th Stop Chrysochou"
+  },
+  {
+    "description": "2nd Stop Chrysochou",
+    "lat": 35.0059128194857,
+    "lon": 32.4400496543755,
+    "name": "2nd Stop Chrysochou"
+  },
+  {
+    "description": "Konstantinoupoleos - 2nd  Stop",
+    "lat": 35.0271454577489,
+    "lon": 32.4316394421102,
+    "name": "Konstantinoupoleos - 2nd  Stop"
+  },
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  }
+]

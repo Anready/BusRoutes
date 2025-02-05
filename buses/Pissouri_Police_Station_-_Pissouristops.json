@@ -1,0 +1,38 @@
+[
+  {
+    "description": "Pissouri Police Station 1",
+    "lat": 34.6758484767347,
+    "lon": 32.69922562757,
+    "name": "Pissouri Police Station 1"
+  },
+  {
+    "description": "Apostolou Andreou - 2nd Pissouri 1",
+    "lat": 34.6716080072399,
+    "lon": 32.7020570838771,
+    "name": "Apostolou Andreou - 2nd Pissouri 1"
+  },
+  {
+    "description": "Apostolou Andreou - 3rd Pissouri 1",
+    "lat": 34.6692501324013,
+    "lon": 32.7003409695005,
+    "name": "Apostolou Andreou - 3rd Pissouri 1"
+  },
+  {
+    "description": "Pissouri Community Stadium 1",
+    "lat": 34.6663215162676,
+    "lon": 32.6975792238834,
+    "name": "Pissouri Community Stadium 1"
+  },
+  {
+    "description": "Theodorou Kolokotroni - 5th Pissouri 1",
+    "lat": 34.6593232575178,
+    "lon": 32.6974300313084,
+    "name": "Theodorou Kolokotroni - 5th Pissouri 1"
+  },
+  {
+    "description": "Theodorou Kolokotroni - 6th Pissouri",
+    "lat": 34.6504012608917,
+    "lon": 32.6961093087689,
+    "name": "Theodorou Kolokotroni - 6th Pissouri"
+  }
+]

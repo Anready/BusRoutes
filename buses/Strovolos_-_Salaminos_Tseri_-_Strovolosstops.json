@@ -1,0 +1,290 @@
+[
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  },
+  {
+    "description": "Pythonos - Tseriou Avenue",
+    "lat": 35.1412163685571,
+    "lon": 33.341600224837,
+    "name": "Pythonos - Tseriou Avenue"
+  },
+  {
+    "description": "Tseriou - Konstantinoupoleos Avenue",
+    "lat": 35.1383398914202,
+    "lon": 33.3415991854026,
+    "name": "Tseriou - Konstantinoupoleos Avenue"
+  },
+  {
+    "description": "Tseriou - Ilektras",
+    "lat": 35.1361422584606,
+    "lon": 33.3406899037738,
+    "name": "Tseriou - Ilektras"
+  },
+  {
+    "description": "Ave. Tseriou - Akamantos",
+    "lat": 35.1333054503875,
+    "lon": 33.3394048160906,
+    "name": "Ave. Tseriou - Akamantos"
+  },
+  {
+    "description": "Ave. Tseriou",
+    "lat": 35.1315572109629,
+    "lon": 33.3390133933518,
+    "name": "Ave. Tseriou"
+  },
+  {
+    "description": "Ave. Tseriou - Lazarou Kountourioti",
+    "lat": 35.1284394138013,
+    "lon": 33.3382431405309,
+    "name": "Ave. Tseriou - Lazarou Kountourioti"
+  },
+  {
+    "description": "Ave. Tseriou - Digeni Akrita",
+    "lat": 35.1259624041878,
+    "lon": 33.3372670563955,
+    "name": "Ave. Tseriou - Digeni Akrita"
+  },
+  {
+    "description": "Ave. Tseriou - Spyrou Kyprianou Avenue 1",
+    "lat": 35.1230896675848,
+    "lon": 33.3359162520119,
+    "name": "Ave. Tseriou - Spyrou Kyprianou Avenue 1"
+  },
+  {
+    "description": "Roundabout Tseriou",
+    "lat": 35.1204330822657,
+    "lon": 33.3346542249933,
+    "name": "Roundabout Tseriou"
+  },
+  {
+    "description": "Ave. Tseriou - Gianni Vlachogianni",
+    "lat": 35.1170559879683,
+    "lon": 33.3330710908499,
+    "name": "Ave. Tseriou - Gianni Vlachogianni"
+  },
+  {
+    "description": "Ave. Tseriou - Georgiou Anagnostopoulou",
+    "lat": 35.1138654950608,
+    "lon": 33.3324874659991,
+    "name": "Ave. Tseriou - Georgiou Anagnostopoulou"
+  },
+  {
+    "description": "Ave. Tseriou - Patision",
+    "lat": 35.1100338196194,
+    "lon": 33.3322524352307,
+    "name": "Ave. Tseriou - Patision"
+  },
+  {
+    "description": "Ave. Tseriou - Viomichanias",
+    "lat": 35.1034778177864,
+    "lon": 33.3291206198738,
+    "name": "Ave. Tseriou - Viomichanias"
+  },
+  {
+    "description": "Ave. Tseriou - Paragogikotitas 1",
+    "lat": 35.0984874878932,
+    "lon": 33.3271914691157,
+    "name": "Ave. Tseriou - Paragogikotitas 1"
+  },
+  {
+    "description": "Strovolou - Agiou Georgiou 1",
+    "lat": 35.0909210597795,
+    "lon": 33.3275452227646,
+    "name": "Strovolou - Agiou Georgiou 1"
+  },
+  {
+    "description": "Strovolou - Antheon",
+    "lat": 35.0850917553961,
+    "lon": 33.3290796597314,
+    "name": "Strovolou - Antheon"
+  },
+  {
+    "description": "Strovolou - Pentelis",
+    "lat": 35.0830190265122,
+    "lon": 33.3286215763297,
+    "name": "Strovolou - Pentelis"
+  },
+  {
+    "description": "Agioi Konstantinos and Eleni Church 1",
+    "lat": 35.0785634262515,
+    "lon": 33.3256749494736,
+    "name": "Agioi Konstantinos and Eleni Church 1"
+  },
+  {
+    "description": "Salaminos - Agioi Konstantinos and Eleni Church",
+    "lat": 35.0771567462296,
+    "lon": 33.3256693598259,
+    "name": "Salaminos - Agioi Konstantinos and Eleni Church"
+  },
+  {
+    "description": "Salaminos - Pentadaktylou",
+    "lat": 35.07643245093,
+    "lon": 33.3267523984284,
+    "name": "Salaminos - Pentadaktylou"
+  },
+  {
+    "description": "Salaminos - Park",
+    "lat": 35.0736195259428,
+    "lon": 33.3299110749412,
+    "name": "Salaminos - Park"
+  },
+  {
+    "description": "Filias - Eirinis",
+    "lat": 35.072159845448,
+    "lon": 33.3294993739366,
+    "name": "Filias - Eirinis"
+  },
+  {
+    "description": "Amathountos - Mpoumpoulinas",
+    "lat": 35.0712571186188,
+    "lon": 33.3265343421094,
+    "name": "Amathountos - Mpoumpoulinas"
+  },
+  {
+    "description": "Tseri Elementary School B",
+    "lat": 35.0685942087183,
+    "lon": 33.3242204967892,
+    "name": "Tseri Elementary School B"
+  },
+  {
+    "description": "Archiep. Makariou C - Anagenniseos",
+    "lat": 35.071077885946,
+    "lon": 33.322749620571,
+    "name": "Archiep. Makariou C - Anagenniseos"
+  },
+  {
+    "description": "Michail Kousoulidi - Dorou Loizou",
+    "lat": 35.0736615760718,
+    "lon": 33.320960961683,
+    "name": "Michail Kousoulidi - Dorou Loizou"
+  },
+  {
+    "description": "Kosta Misiaouli - Nikou Kazantzaki",
+    "lat": 35.0767676148553,
+    "lon": 33.3228158997374,
+    "name": "Kosta Misiaouli - Nikou Kazantzaki"
+  },
+  {
+    "description": "Agioi Konstantinos and Eleni Church 2",
+    "lat": 35.0793475082399,
+    "lon": 33.3258316347264,
+    "name": "Agioi Konstantinos and Eleni Church 2"
+  },
+  {
+    "description": "Strovolou",
+    "lat": 35.0826502732726,
+    "lon": 33.3282690675608,
+    "name": "Strovolou"
+  },
+  {
+    "description": "Strovolou - Anti Tserioti",
+    "lat": 35.0854707739915,
+    "lon": 33.3289714813713,
+    "name": "Strovolou - Anti Tserioti"
+  },
+  {
+    "description": "Strovolou - Kifisias 2",
+    "lat": 35.091002688231,
+    "lon": 33.327370016285,
+    "name": "Strovolou - Kifisias 2"
+  },
+  {
+    "description": "Ave. Tseriou - Paragogikotitas 2",
+    "lat": 35.0980911477973,
+    "lon": 33.3270362811001,
+    "name": "Ave. Tseriou - Paragogikotitas 2"
+  },
+  {
+    "description": "Ave. Tseriou - Themistokleous",
+    "lat": 35.1037393743638,
+    "lon": 33.3290997262012,
+    "name": "Ave. Tseriou - Themistokleous"
+  },
+  {
+    "description": "Ave. Tseriou - Ippokratous",
+    "lat": 35.1095207452026,
+    "lon": 33.3319211542844,
+    "name": "Ave. Tseriou - Ippokratous"
+  },
+  {
+    "description": "Ave. Tseriou - Agias Varvaras",
+    "lat": 35.1134962745821,
+    "lon": 33.3323103850851,
+    "name": "Ave. Tseriou - Agias Varvaras"
+  },
+  {
+    "description": "Ave. Tseriou - Sotiriou Lontou",
+    "lat": 35.1180651505241,
+    "lon": 33.333349558821,
+    "name": "Ave. Tseriou - Sotiriou Lontou"
+  },
+  {
+    "description": "Ave. Tseriou - Spyrou Kyprianou Avenue 2",
+    "lat": 35.1198753537394,
+    "lon": 33.3341690585412,
+    "name": "Ave. Tseriou - Spyrou Kyprianou Avenue 2"
+  },
+  {
+    "description": "Ave. Tseriou - Tamasou",
+    "lat": 35.1231803859407,
+    "lon": 33.3357190724096,
+    "name": "Ave. Tseriou - Tamasou"
+  },
+  {
+    "description": "Ave. Tseriou - Kavalas",
+    "lat": 35.1261159086006,
+    "lon": 33.3371908606684,
+    "name": "Ave. Tseriou - Kavalas"
+  },
+  {
+    "description": "Ave. Tseriou - Myrtiotissis",
+    "lat": 35.1292688943784,
+    "lon": 33.3382794981326,
+    "name": "Ave. Tseriou - Myrtiotissis"
+  },
+  {
+    "description": "Ave. Tseriou - Parnassou",
+    "lat": 35.1312423494677,
+    "lon": 33.3387486596876,
+    "name": "Ave. Tseriou - Parnassou"
+  },
+  {
+    "description": "Ave. Tseriou - Praxandrou",
+    "lat": 35.1333959285777,
+    "lon": 33.3392954267212,
+    "name": "Ave. Tseriou - Praxandrou"
+  },
+  {
+    "description": "Tseriou - Makedonias",
+    "lat": 35.1362056556963,
+    "lon": 33.3405913761422,
+    "name": "Tseriou - Makedonias"
+  },
+  {
+    "description": "Patriarchou Gregoriou - Argous",
+    "lat": 35.138196176008,
+    "lon": 33.3381846984311,
+    "name": "Patriarchou Gregoriou - Argous"
+  },
+  {
+    "description": "Kantaras - Kosti Palama",
+    "lat": 35.138751045416,
+    "lon": 33.3364525951216,
+    "name": "Kantaras - Kosti Palama"
+  },
+  {
+    "description": "Ave. Strovolou - Ilia Venezi",
+    "lat": 35.1408111281378,
+    "lon": 33.3381955135068,
+    "name": "Ave. Strovolou - Ilia Venezi"
+  },
+  {
+    "description": "Strovolos Station",
+    "lat": 35.1410845462943,
+    "lon": 33.3371537803846,
+    "name": "Strovolos Station"
+  }
+]

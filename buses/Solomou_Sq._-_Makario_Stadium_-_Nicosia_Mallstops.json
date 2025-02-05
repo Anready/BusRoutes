@@ -1,0 +1,146 @@
+[
+  {
+    "description": "Dionysios Solomos Square A",
+    "lat": 35.1707964293693,
+    "lon": 33.358997800121,
+    "name": "Dionysios Solomos Square A"
+  },
+  {
+    "description": "Evagorou Ave.  - Vasileos Pavlou",
+    "lat": 35.1677905885467,
+    "lon": 33.3570079918293,
+    "name": "Evagorou Ave.  - Vasileos Pavlou"
+  },
+  {
+    "description": "Ave. Dimostheni Severi - Skyrou",
+    "lat": 35.165651279569,
+    "lon": 33.3547036531502,
+    "name": "Ave. Dimostheni Severi - Skyrou"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Simou Menardou",
+    "lat": 35.1637008675452,
+    "lon": 33.3525429974023,
+    "name": "Ave. Georgiou Griva Digeni - Simou Menardou"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Prodromou 1",
+    "lat": 35.1641323080403,
+    "lon": 33.3499095135503,
+    "name": "Ave. Georgiou Griva Digeni - Prodromou 1"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Europa Hotel",
+    "lat": 35.162988916153,
+    "lon": 33.346149300987,
+    "name": "Ave. Georgiou Griva Digeni - Europa Hotel"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Engomi High School 1",
+    "lat": 35.1613009026507,
+    "lon": 33.34361669671,
+    "name": "Ave. Georgiou Griva Digeni - Engomi High School 1"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Metochi Kikkou 1",
+    "lat": 35.1607047007138,
+    "lon": 33.3408032709995,
+    "name": "Ave. Georgiou Griva Digeni - Metochi Kikkou 1"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Archangelou Michail",
+    "lat": 35.1618232326204,
+    "lon": 33.3374369841471,
+    "name": "Ave. Georgiou Griva Digeni - Archangelou Michail"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni",
+    "lat": 35.1628389952049,
+    "lon": 33.3353329351681,
+    "name": "Ave. Georgiou Griva Digeni"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Nikou Kranidioti",
+    "lat": 35.1638126213518,
+    "lon": 33.3321415854085,
+    "name": "Ave. Georgiou Griva Digeni - Nikou Kranidioti"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Engomi Old Cemetery",
+    "lat": 35.1639737046588,
+    "lon": 33.329287285989,
+    "name": "Ave. Georgiou Griva Digeni - Engomi Old Cemetery"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Hilton Park 1",
+    "lat": 35.1641171007951,
+    "lon": 33.3262791757632,
+    "name": "Ave. Georgiou Griva Digeni - Hilton Park 1"
+  },
+  {
+    "description": "Ave. G. Griva Digeni - Cyprus Football Association",
+    "lat": 35.1642780167762,
+    "lon": 33.3234358335579,
+    "name": "Ave. G. Griva Digeni - Cyprus Football Association"
+  },
+  {
+    "description": "Av. Griva Digeni - Ag. Dometios-Engomi Ind. Area 1",
+    "lat": 35.1648452145143,
+    "lon": 33.3203744599751,
+    "name": "Av. Griva Digeni - Ag. Dometios-Engomi Ind. Area 1"
+  },
+  {
+    "description": "Ave.8 Oktovriou - 28 Oktovriou Avenue",
+    "lat": 35.1651203596231,
+    "lon": 33.3186186187246,
+    "name": "Ave.8 Oktovriou - 28 Oktovriou Avenue"
+  },
+  {
+    "description": "Ave.8 Oktovriou - Aftokratoros Ioustinianou",
+    "lat": 35.1603182134224,
+    "lon": 33.3170956168618,
+    "name": "Ave.8 Oktovriou - Aftokratoros Ioustinianou"
+  },
+  {
+    "description": "Ave. 28 Oktovriou - Mesolongiou",
+    "lat": 35.1574823652285,
+    "lon": 33.3153498152509,
+    "name": "Ave. 28 Oktovriou - Mesolongiou"
+  },
+  {
+    "description": "Ilia Papakyriakou - Pavlou Mela",
+    "lat": 35.1554426475214,
+    "lon": 33.3160556085709,
+    "name": "Ilia Papakyriakou - Pavlou Mela"
+  },
+  {
+    "description": "Ilia Papakyriakou - Afroditis",
+    "lat": 35.1520122839623,
+    "lon": 33.3175245067545,
+    "name": "Ilia Papakyriakou - Afroditis"
+  },
+  {
+    "description": "Tassos Papadopoulos-Eleftheria",
+    "lat": 35.1482976977442,
+    "lon": 33.3138761960389,
+    "name": "Tassos Papadopoulos-Eleftheria"
+  },
+  {
+    "description": "Ave. Iroon - Morfou Avenue",
+    "lat": 35.1432028283198,
+    "lon": 33.303317936715,
+    "name": "Ave. Iroon - Morfou Avenue"
+  },
+  {
+    "description": "Ave. Iroon - Alexandrou Panagouli",
+    "lat": 35.1349678920294,
+    "lon": 33.300598098728,
+    "name": "Ave. Iroon - Alexandrou Panagouli"
+  },
+  {
+    "description": "NICOSIA MALL",
+    "lat": 35.1333323319374,
+    "lon": 33.2794294100809,
+    "name": "NICOSIA MALL"
+  }
+]

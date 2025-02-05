@@ -1,0 +1,200 @@
+[
+  {
+    "description": "Dionysios Solomos Square A",
+    "lat": 35.1707964293693,
+    "lon": 33.358997800121,
+    "name": "Dionysios Solomos Square A"
+  },
+  {
+    "description": "Ave. Omirou",
+    "lat": 35.1701737999665,
+    "lon": 33.3591488032536,
+    "name": "Ave. Omirou"
+  },
+  {
+    "description": "Eleftheria Square",
+    "lat": 35.1685241073787,
+    "lon": 33.362029603427,
+    "name": "Eleftheria Square"
+  },
+  {
+    "description": "Ave. Stasinou - Archiepiskopou Makariou B Square",
+    "lat": 35.1684963159087,
+    "lon": 33.3652799120464,
+    "name": "Ave. Stasinou - Archiepiskopou Makariou B Square"
+  },
+  {
+    "description": "Ave. Stasinou - Archiepiskopou Makariou B Square",
+    "lat": 35.1692447677516,
+    "lon": 33.3682482068855,
+    "name": "Ave. Stasinou - Archiepiskopou Makariou B Square"
+  },
+  {
+    "description": "Ave. Salaminos - Anoigma Kolokasi 1",
+    "lat": 35.1721217296881,
+    "lon": 33.3710395418196,
+    "name": "Ave. Salaminos - Anoigma Kolokasi 1"
+  },
+  {
+    "description": "Ave. Salaminos - Vasileos Georgiou B Square",
+    "lat": 35.175028451496,
+    "lon": 33.3729306811504,
+    "name": "Ave. Salaminos - Vasileos Georgiou B Square"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Pavlou Karolidi",
+    "lat": 35.1797969570722,
+    "lon": 33.3763461157377,
+    "name": "Ave. Archiep. Makariou C - Pavlou Karolidi"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Napoleontos",
+    "lat": 35.1817587269407,
+    "lon": 33.3776181999064,
+    "name": "Ave. Archiep. Makariou C - Napoleontos"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Tinou",
+    "lat": 35.1835395244155,
+    "lon": 33.3790872033564,
+    "name": "Ave. Archiep. Makariou C - Tinou"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Vasileos Pavlou",
+    "lat": 35.1855933287701,
+    "lon": 33.3797557498071,
+    "name": "Ave. Archiep. Makariou C - Vasileos Pavlou"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Agiou Ilarionos",
+    "lat": 35.1886838721161,
+    "lon": 33.3804950658161,
+    "name": "Ave. Archiep. Makariou C - Agiou Ilarionos"
+  },
+  {
+    "description": "Smyrnis-Eleousis",
+    "lat": 35.1898851882415,
+    "lon": 33.3827084618902,
+    "name": "Smyrnis-Eleousis"
+  },
+  {
+    "description": "Smyrnis - Markou Drakou 2",
+    "lat": 35.1906437245318,
+    "lon": 33.3852054229151,
+    "name": "Smyrnis - Markou Drakou 2"
+  },
+  {
+    "description": "Smyrnis - Kaimakli Grammiko Park 2",
+    "lat": 35.191483466977,
+    "lon": 33.3876698631389,
+    "name": "Smyrnis - Kaimakli Grammiko Park 2"
+  },
+  {
+    "description": "Andromachis - Argous",
+    "lat": 35.1899020150118,
+    "lon": 33.3887497729741,
+    "name": "Andromachis - Argous"
+  },
+  {
+    "description": "Kronou - Gortynias",
+    "lat": 35.1883994233982,
+    "lon": 33.387732101555,
+    "name": "Kronou - Gortynias"
+  },
+  {
+    "description": "Kronou - Delfon",
+    "lat": 35.1896396648211,
+    "lon": 33.3918130652953,
+    "name": "Kronou - Delfon"
+  },
+  {
+    "description": "Akamantos - Kantaras",
+    "lat": 35.1888017633129,
+    "lon": 33.3943792772339,
+    "name": "Akamantos - Kantaras"
+  },
+  {
+    "description": "Kantaras - Roundabout Sopaz 2",
+    "lat": 35.1865815678965,
+    "lon": 33.3922157628556,
+    "name": "Kantaras - Roundabout Sopaz 2"
+  },
+  {
+    "description": "Agiou Ilarionos - Kaimakli Elementary School C 2",
+    "lat": 35.1863615914839,
+    "lon": 33.3877224215784,
+    "name": "Agiou Ilarionos - Kaimakli Elementary School C 2"
+  },
+  {
+    "description": "Psaron - Archangel Michael",
+    "lat": 35.1857042820751,
+    "lon": 33.3845999873457,
+    "name": "Psaron - Archangel Michael"
+  },
+  {
+    "description": "Larisis - Archangelou Michail",
+    "lat": 35.1853849738815,
+    "lon": 33.3800623172002,
+    "name": "Larisis - Archangelou Michail"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Strymonos",
+    "lat": 35.1834671479977,
+    "lon": 33.3791637496368,
+    "name": "Ave. Archiep. Makariou C - Strymonos"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Spartis",
+    "lat": 35.1817583844783,
+    "lon": 33.3777280279843,
+    "name": "Ave. Archiep. Makariou C - Spartis"
+  },
+  {
+    "description": "Ave. Archiep. Makariou C - Kyriakou Matsi Avenue",
+    "lat": 35.1797066166517,
+    "lon": 33.3764006127774,
+    "name": "Ave. Archiep. Makariou C - Kyriakou Matsi Avenue"
+  },
+  {
+    "description": "Ave. Salaminos - Aigeos",
+    "lat": 35.1748382153112,
+    "lon": 33.3732153453627,
+    "name": "Ave. Salaminos - Aigeos"
+  },
+  {
+    "description": "Ave. Salaminos - Anoigma Kolokasi 2",
+    "lat": 35.1710398246555,
+    "lon": 33.3709907006317,
+    "name": "Ave. Salaminos - Anoigma Kolokasi 2"
+  },
+  {
+    "description": "Ave. Stasinou - Alkaiou",
+    "lat": 35.1690375102022,
+    "lon": 33.3682033474436,
+    "name": "Ave. Stasinou - Alkaiou"
+  },
+  {
+    "description": "Ave. Stasinou - Kritis",
+    "lat": 35.1682151650405,
+    "lon": 33.3658167311003,
+    "name": "Ave. Stasinou - Kritis"
+  },
+  {
+    "description": "Bastion Davila",
+    "lat": 35.1685125276104,
+    "lon": 33.3628860850149,
+    "name": "Bastion Davila"
+  },
+  {
+    "description": "Diagorou",
+    "lat": 35.169683481778,
+    "lon": 33.3572468736466,
+    "name": "Diagorou"
+  },
+  {
+    "description": "Solomos Square Alighting ",
+    "lat": 35.170392452312,
+    "lon": 33.3583920449795,
+    "name": "Solomos Square Alighting "
+  }
+]

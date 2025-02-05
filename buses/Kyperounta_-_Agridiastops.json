@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Kyperounta Hospital",
+    "lat": 34.950619411433,
+    "lon": 32.9524349017202,
+    "name": "Kyperounta Hospital"
+  },
+  {
+    "description": "Archiep. Makariou C Ave. - 10th Kyperounta 2",
+    "lat": 34.9480145958923,
+    "lon": 32.9557328926518,
+    "name": "Archiep. Makariou C Ave. - 10th Kyperounta 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 9th Kyperounta 2",
+    "lat": 34.9420108335886,
+    "lon": 32.9613211211968,
+    "name": "Archiep. Makariou C´ Ave. - 9th Kyperounta 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 7th Kyperounta 1",
+    "lat": 34.941219112353,
+    "lon": 32.9675415923505,
+    "name": "Archiep. Makariou C´ Ave. - 7th Kyperounta 1"
+  },
+  {
+    "description": "Kyperounda Winery 2",
+    "lat": 34.9444954894286,
+    "lon": 32.9820836478446,
+    "name": "Kyperounda Winery 2"
+  },
+  {
+    "description": "Georgiou Griva Digeni Ave. - 3rd Chandria 2",
+    "lat": 34.9445324710273,
+    "lon": 32.9900233470627,
+    "name": "Georgiou Griva Digeni Ave. - 3rd Chandria 2"
+  },
+  {
+    "description": "Georgiou Griva Digeni Ave. - 2nd Chandria 2",
+    "lat": 34.9435047263898,
+    "lon": 32.9938344835054,
+    "name": "Georgiou Griva Digeni Ave. - 2nd Chandria 2"
+  },
+  {
+    "description": "Chandria Square 1",
+    "lat": 34.9418455112818,
+    "lon": 32.9940317250329,
+    "name": "Chandria Square 1"
+  },
+  {
+    "description": "Agridia",
+    "lat": 34.9279675684177,
+    "lon": 32.99512764207,
+    "name": "Agridia"
+  }
+]

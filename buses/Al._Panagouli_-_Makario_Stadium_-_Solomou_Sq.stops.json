@@ -1,0 +1,218 @@
+[
+  {
+    "description": "Alexandrou Panagouli - Agiou Dimitriou",
+    "lat": 35.1369485424719,
+    "lon": 33.3054572012192,
+    "name": "Alexandrou Panagouli - Agiou Dimitriou"
+  },
+  {
+    "description": "Alexandrou Panagouli - Agiou Antoniou",
+    "lat": 35.1369190307228,
+    "lon": 33.3028445723502,
+    "name": "Alexandrou Panagouli - Agiou Antoniou"
+  },
+  {
+    "description": "Alexandrou Panagouli - Lefkonos",
+    "lat": 35.1393374518827,
+    "lon": 33.3021180501642,
+    "name": "Alexandrou Panagouli - Lefkonos"
+  },
+  {
+    "description": "Stadiou - Morfou Avenue",
+    "lat": 35.1401414555782,
+    "lon": 33.305128828869,
+    "name": "Stadiou - Morfou Avenue"
+  },
+  {
+    "description": "Lykavitou Ave.  - Gravias",
+    "lat": 35.1400290263535,
+    "lon": 33.3103426673482,
+    "name": "Lykavitou Ave.  - Gravias"
+  },
+  {
+    "description": "Lykavitou Ave.  - Nikolaou Saripolou",
+    "lat": 35.1431929023549,
+    "lon": 33.3107937887305,
+    "name": "Lykavitou Ave.  - Nikolaou Saripolou"
+  },
+  {
+    "description": "Lykavitou Ave.",
+    "lat": 35.1466381635678,
+    "lon": 33.31052145137,
+    "name": "Lykavitou Ave."
+  },
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Cyprus International Fair",
+    "lat": 35.1496594592518,
+    "lon": 33.317273835866,
+    "name": "Cyprus International Fair"
+  },
+  {
+    "description": "Ilia Papakyriakou - Cyprus International Fair",
+    "lat": 35.15184127593,
+    "lon": 33.3174030737528,
+    "name": "Ilia Papakyriakou - Cyprus International Fair"
+  },
+  {
+    "description": "Pavlou Mela - Marathonos",
+    "lat": 35.1548954714301,
+    "lon": 33.3184030794274,
+    "name": "Pavlou Mela - Marathonos"
+  },
+  {
+    "description": "Avenue Aipeias - Ikarou 2",
+    "lat": 35.1568942760435,
+    "lon": 33.3229454610886,
+    "name": "Avenue Aipeias - Ikarou 2"
+  },
+  {
+    "description": "Avenue Aipeias - Irakleous",
+    "lat": 35.1587156056703,
+    "lon": 33.3229965788262,
+    "name": "Avenue Aipeias - Irakleous"
+  },
+  {
+    "description": "Melinas Merkouri - Archimidous",
+    "lat": 35.1597558575755,
+    "lon": 33.3251417965927,
+    "name": "Melinas Merkouri - Archimidous"
+  },
+  {
+    "description": "Melinas Merkouri - Giannaki Stefanidi",
+    "lat": 35.1594274680046,
+    "lon": 33.3298728628328,
+    "name": "Melinas Merkouri - Giannaki Stefanidi"
+  },
+  {
+    "description": "Nikou Kranidioti - Theodosi Pieridi",
+    "lat": 35.1606673556869,
+    "lon": 33.3315139108011,
+    "name": "Nikou Kranidioti - Theodosi Pieridi"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Engomi Old Cemetery",
+    "lat": 35.1639737046588,
+    "lon": 33.329287285989,
+    "name": "Ave. Georgiou Griva Digeni - Engomi Old Cemetery"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Hilton Park 1",
+    "lat": 35.1641171007951,
+    "lon": 33.3262791757632,
+    "name": "Ave. Georgiou Griva Digeni - Hilton Park 1"
+  },
+  {
+    "description": "Ave. G. Griva Digeni - Cyprus Football Association",
+    "lat": 35.1642780167762,
+    "lon": 33.3234358335579,
+    "name": "Ave. G. Griva Digeni - Cyprus Football Association"
+  },
+  {
+    "description": "Av. Griva Digeni - Ag. Dometios-Engomi Ind. Area 1",
+    "lat": 35.1648452145143,
+    "lon": 33.3203744599751,
+    "name": "Av. Griva Digeni - Ag. Dometios-Engomi Ind. Area 1"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kolakasidi Roundabout 2",
+    "lat": 35.165888165599,
+    "lon": 33.3181055131897,
+    "name": "Georg. Griva Digeni Ave. - Kolakasidi Roundabout 2"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Valesta",
+    "lat": 35.1683752847991,
+    "lon": 33.3187191641901,
+    "name": "Ave. Kyriakou Matsi - Valesta"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Aristeidou",
+    "lat": 35.1687746427559,
+    "lon": 33.3211475771486,
+    "name": "Ave. Kyriakou Matsi - Aristeidou"
+  },
+  {
+    "description": "Ave. Dimokratias - Ave. Grigori Afxentiou",
+    "lat": 35.1711821968358,
+    "lon": 33.3245393657053,
+    "name": "Ave. Dimokratias - Ave. Grigori Afxentiou"
+  },
+  {
+    "description": "Ave. Grig. Afxentiou - Ag. Dometios Health Centre",
+    "lat": 35.1723041628536,
+    "lon": 33.3264656242638,
+    "name": "Ave. Grig. Afxentiou - Ag. Dometios Health Centre"
+  },
+  {
+    "description": "Ave. Grigori Afxentiou - Gemenitzi",
+    "lat": 35.1719506766114,
+    "lon": 33.3304615379788,
+    "name": "Ave. Grigori Afxentiou - Gemenitzi"
+  },
+  {
+    "description": "Ave. Grigori Afxentiou - Agios Georgios Church 2",
+    "lat": 35.1714819572637,
+    "lon": 33.3336882325656,
+    "name": "Ave. Grigori Afxentiou - Agios Georgios Church 2"
+  },
+  {
+    "description": "Ave. Grigori Afxentiou - Tainarou",
+    "lat": 35.1711840785764,
+    "lon": 33.3370583548019,
+    "name": "Ave. Grigori Afxentiou - Tainarou"
+  },
+  {
+    "description": "Ave. Grigori Afxentiou - Vasilissis Freiderikis",
+    "lat": 35.1711427401898,
+    "lon": 33.3389470115841,
+    "name": "Ave. Grigori Afxentiou - Vasilissis Freiderikis"
+  },
+  {
+    "description": "Navarinou - Nikolaou Saripolou",
+    "lat": 35.171286084013,
+    "lon": 33.3424836728933,
+    "name": "Navarinou - Nikolaou Saripolou"
+  },
+  {
+    "description": "Navarinou - Nikolaou Katalanou",
+    "lat": 35.1717290169555,
+    "lon": 33.345274864572,
+    "name": "Navarinou - Nikolaou Katalanou"
+  },
+  {
+    "description": "Ave. Louki Akrita - Ministry of Agriculture 2",
+    "lat": 35.1722093723791,
+    "lon": 33.3475720695211,
+    "name": "Ave. Louki Akrita - Ministry of Agriculture 2"
+  },
+  {
+    "description": "Olympic Swimming Pool 2",
+    "lat": 35.172565315443,
+    "lon": 33.3492208456128,
+    "name": "Olympic Swimming Pool 2"
+  },
+  {
+    "description": "Kinyra",
+    "lat": 35.1737260331655,
+    "lon": 33.3531902737277,
+    "name": "Kinyra"
+  },
+  {
+    "description": "Ave. Aigyptou - Omirou Avenue",
+    "lat": 35.1723542968642,
+    "lon": 33.3566545620449,
+    "name": "Ave. Aigyptou - Omirou Avenue"
+  },
+  {
+    "description": "Solomos Square Alighting ",
+    "lat": 35.170392452312,
+    "lon": 33.3583920449795,
+    "name": "Solomos Square Alighting "
+  }
+]

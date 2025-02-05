@@ -1,0 +1,98 @@
+[
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Kalamon - Strovolos Industrial Zone",
+    "lat": 35.1240546553602,
+    "lon": 33.3728737926889,
+    "name": "Kalamon - Strovolos Industrial Zone"
+  },
+  {
+    "description": "Kalamon - Meteoron",
+    "lat": 35.1268639058609,
+    "lon": 33.3683207493343,
+    "name": "Kalamon - Meteoron"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Vikela",
+    "lat": 35.1283788685882,
+    "lon": 33.3592835109107,
+    "name": "Spyrou Kyprianou Ave. - Vikela"
+  },
+  {
+    "description": "Ave. Dimitriou Vikela - Propylaion",
+    "lat": 35.1264483645828,
+    "lon": 33.3565091955253,
+    "name": "Ave. Dimitriou Vikela - Propylaion"
+  },
+  {
+    "description": "Ave. Dimitriou Vikela - Nikola Savva Barri",
+    "lat": 35.1199914551018,
+    "lon": 33.3567115304596,
+    "name": "Ave. Dimitriou Vikela - Nikola Savva Barri"
+  },
+  {
+    "description": "Ave. Dimitriou Vikela - Giannou Kranidioti",
+    "lat": 35.1165475077295,
+    "lon": 33.3564989829686,
+    "name": "Ave. Dimitriou Vikela - Giannou Kranidioti"
+  },
+  {
+    "description": "Ave. 25 Martiou - Anexartisias Avenue",
+    "lat": 35.1129005417637,
+    "lon": 33.35479314399,
+    "name": "Ave. 25 Martiou - Anexartisias Avenue"
+  },
+  {
+    "description": "Filopappou - Agios Fanourios Church 1",
+    "lat": 35.1073916047186,
+    "lon": 33.354593700269,
+    "name": "Filopappou - Agios Fanourios Church 1"
+  },
+  {
+    "description": "Ferekrati - Filopoimenos",
+    "lat": 35.1059457120714,
+    "lon": 33.3494631418518,
+    "name": "Ferekrati - Filopoimenos"
+  },
+  {
+    "description": "Kallistratou - Ippolytou",
+    "lat": 35.1030648141479,
+    "lon": 33.3509869835049,
+    "name": "Kallistratou - Ippolytou"
+  },
+  {
+    "description": "Filopappou - Ippolytou",
+    "lat": 35.1038362603306,
+    "lon": 33.3554670759145,
+    "name": "Filopappou - Ippolytou"
+  },
+  {
+    "description": "Spyrou Kyprianou - Senior School 1",
+    "lat": 35.1060622550221,
+    "lon": 33.3589551211896,
+    "name": "Spyrou Kyprianou - Senior School 1"
+  },
+  {
+    "description": "Ave. Ioustinianou - Nefelis",
+    "lat": 35.1049058329424,
+    "lon": 33.3657311507968,
+    "name": "Ave. Ioustinianou - Nefelis"
+  },
+  {
+    "description": "Ave. Makedonias - Agias Sofias",
+    "lat": 35.1031153377018,
+    "lon": 33.3674129044962,
+    "name": "Ave. Makedonias - Agias Sofias"
+  },
+  {
+    "description": "Cyprus Pedagogical Institute / Univ. of Cyprus 1",
+    "lat": 35.0994449780092,
+    "lon": 33.3704905175082,
+    "name": "Cyprus Pedagogical Institute / Univ. of Cyprus 1"
+  }
+]

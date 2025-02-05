@@ -1,0 +1,230 @@
+[
+  {
+    "description": "Anexartisias - Venetikou Pyrgou",
+    "lat": 34.8271720862002,
+    "lon": 33.5824679558895,
+    "name": "Anexartisias - Venetikou Pyrgou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Andrea Miaouli",
+    "lat": 34.825141788889,
+    "lon": 33.5846297849319,
+    "name": "Archiep. Makariou C´ Ave. - Andrea Miaouli"
+  },
+  {
+    "description": "Pervolia Tourist Area - 14th Stop",
+    "lat": 34.8215961735776,
+    "lon": 33.5887271602943,
+    "name": "Pervolia Tourist Area - 14th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 12th Stop",
+    "lat": 34.8195995728184,
+    "lon": 33.5932070576969,
+    "name": "Pervolia Tourist Area - 12th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 10th Stop",
+    "lat": 34.8175617943565,
+    "lon": 33.5986923949268,
+    "name": "Pervolia Tourist Area - 10th Stop"
+  },
+  {
+    "description": "Faros (Lighthouse)",
+    "lat": 34.8186009487264,
+    "lon": 33.6019146318565,
+    "name": "Faros (Lighthouse)"
+  },
+  {
+    "description": "Faros Beach 2",
+    "lat": 34.8206696201672,
+    "lon": 33.6011751859175,
+    "name": "Faros Beach 2"
+  },
+  {
+    "description": "Pervolia Tourist Area - 8th Stop",
+    "lat": 34.8243942671946,
+    "lon": 33.6010928974528,
+    "name": "Pervolia Tourist Area - 8th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 6th Stop",
+    "lat": 34.8366136364227,
+    "lon": 33.604604920235,
+    "name": "Pervolia Tourist Area - 6th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 4th Stop",
+    "lat": 34.8400831311919,
+    "lon": 33.6104707818138,
+    "name": "Pervolia Tourist Area - 4th Stop"
+  },
+  {
+    "description": "Pervolia Tourist Area - 2nd Stop",
+    "lat": 34.8443072924624,
+    "lon": 33.6150521006807,
+    "name": "Pervolia Tourist Area - 2nd Stop"
+  },
+  {
+    "description": "Meneou - Pervolia Road - 4th Stop",
+    "lat": 34.8520327006827,
+    "lon": 33.6083931431375,
+    "name": "Meneou - Pervolia Road - 4th Stop"
+  },
+  {
+    "description": "Meneou - Pervolia Road - 2nd Stop",
+    "lat": 34.8580987954702,
+    "lon": 33.5980232654332,
+    "name": "Meneou - Pervolia Road - 2nd Stop"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 1st Stop",
+    "lat": 34.8640089038179,
+    "lon": 33.5972783345142,
+    "name": "Archiep. Makariou C´ Ave. - 1st Stop"
+  },
+  {
+    "description": "Eleftherias Avenue - Archiep. Makariou C´ Ave. 1",
+    "lat": 34.8670504600204,
+    "lon": 33.5985694627484,
+    "name": "Eleftherias Avenue - Archiep. Makariou C´ Ave. 1"
+  },
+  {
+    "description": "Larnaka Airport",
+    "lat": 34.8710309947938,
+    "lon": 33.606891856567,
+    "name": "Larnaka Airport"
+  },
+  {
+    "description": "Umm Charam Mosque 1",
+    "lat": 34.8801948165749,
+    "lon": 33.6172233329756,
+    "name": "Umm Charam Mosque 1"
+  },
+  {
+    "description": "Umm Charam Mosque Tekke",
+    "lat": 34.884996302607,
+    "lon": 33.6092378688062,
+    "name": "Umm Charam Mosque Tekke"
+  },
+  {
+    "description": "Umm Charam Mosque 2",
+    "lat": 34.8800226028248,
+    "lon": 33.6173971260936,
+    "name": "Umm Charam Mosque 2"
+  },
+  {
+    "description": "Artemidos Ave. - Old Airport 2",
+    "lat": 34.8883767824838,
+    "lon": 33.6271775630317,
+    "name": "Artemidos Ave. - Old Airport 2"
+  },
+  {
+    "description": "Artemidos Ave. - Tasou Mitsopoulou Ave. 2",
+    "lat": 34.8909296621304,
+    "lon": 33.6304801550493,
+    "name": "Artemidos Ave. - Tasou Mitsopoulou Ave. 2"
+  },
+  {
+    "description": "Makenzy 2",
+    "lat": 34.8915763496606,
+    "lon": 33.6361650604304,
+    "name": "Makenzy 2"
+  },
+  {
+    "description": "Filopappou - Nitse 2",
+    "lat": 34.8927673620808,
+    "lon": 33.6343027814733,
+    "name": "Filopappou - Nitse 2"
+  },
+  {
+    "description": "Touzchane - ELDYK park",
+    "lat": 34.8947757643552,
+    "lon": 33.633048659962,
+    "name": "Touzchane - ELDYK park"
+  },
+  {
+    "description": "Touzchane - Saixpir",
+    "lat": 34.8992738432202,
+    "lon": 33.6333567989643,
+    "name": "Touzchane - Saixpir"
+  },
+  {
+    "description": "San Remo Hotel 2",
+    "lat": 34.9008276019475,
+    "lon": 33.6362801722847,
+    "name": "San Remo Hotel 2"
+  },
+  {
+    "description": "Touzchane - Onoufriou Kliridi",
+    "lat": 34.9026480944544,
+    "lon": 33.6347508950628,
+    "name": "Touzchane - Onoufriou Kliridi"
+  },
+  {
+    "description": "Touzchane - Sechit Ozat Ali",
+    "lat": 34.9039902025888,
+    "lon": 33.6350348650134,
+    "name": "Touzchane - Sechit Ozat Ali"
+  },
+  {
+    "description": "Oum Charam - Papoutsialik",
+    "lat": 34.9052118827101,
+    "lon": 33.6359308853095,
+    "name": "Oum Charam - Papoutsialik"
+  },
+  {
+    "description": "Istampoul",
+    "lat": 34.907926598283,
+    "lon": 33.6341128507713,
+    "name": "Istampoul"
+  },
+  {
+    "description": "Apolloniou Kitieos",
+    "lat": 34.9093172753791,
+    "lon": 33.6337294725468,
+    "name": "Apolloniou Kitieos"
+  },
+  {
+    "description": "Larnaka Community Centre",
+    "lat": 34.9120294525845,
+    "lon": 33.6323929153643,
+    "name": "Larnaka Community Centre"
+  },
+  {
+    "description": "Andrea Souroukli - Stylianou Lena",
+    "lat": 34.9149513361195,
+    "lon": 33.6306090429697,
+    "name": "Andrea Souroukli - Stylianou Lena"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.9178223662695,
+    "lon": 33.6351304406883,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.9187528603531,
+    "lon": 33.6365279619346,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1"
+  },
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  }
+]

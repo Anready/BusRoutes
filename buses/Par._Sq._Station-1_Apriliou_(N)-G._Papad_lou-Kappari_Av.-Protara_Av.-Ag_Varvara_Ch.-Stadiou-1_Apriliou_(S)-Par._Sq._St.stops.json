@@ -1,0 +1,164 @@
+[
+  {
+    "description": "Paralimni Square Bus Station",
+    "lat": 35.0394760084475,
+    "lon": 33.983638211908,
+    "name": "Paralimni Square Bus Station"
+  },
+  {
+    "description": "Paralimni Municipality",
+    "lat": 35.0405176522239,
+    "lon": 33.9830586648857,
+    "name": "Paralimni Municipality"
+  },
+  {
+    "description": "1 Apriliou Ave. - Tasou Markou 1",
+    "lat": 35.0407491591044,
+    "lon": 33.9778427683324,
+    "name": "1 Apriliou Ave. - Tasou Markou 1"
+  },
+  {
+    "description": "Xenion Education 1",
+    "lat": 35.0418675043459,
+    "lon": 33.9778122394597,
+    "name": "Xenion Education 1"
+  },
+  {
+    "description": "1 Apriliou Ave. - Cheimaras",
+    "lat": 35.0461075260558,
+    "lon": 33.9775557668991,
+    "name": "1 Apriliou Ave. - Cheimaras"
+  },
+  {
+    "description": "Griva Digeni Ave. - Daidalou",
+    "lat": 35.0500492091422,
+    "lon": 33.9762759889819,
+    "name": "Griva Digeni Ave. - Daidalou"
+  },
+  {
+    "description": "Paralimni Lyceum",
+    "lat": 35.0522566137068,
+    "lon": 33.9809624411131,
+    "name": "Paralimni Lyceum"
+  },
+  {
+    "description": "Famagusta Police Headquarters 1",
+    "lat": 35.0520874570227,
+    "lon": 33.9873640386606,
+    "name": "Famagusta Police Headquarters 1"
+  },
+  {
+    "description": "Giorki Papadopoulou - Christou Tsiarta",
+    "lat": 35.0521485262805,
+    "lon": 33.9920359086308,
+    "name": "Giorki Papadopoulou - Christou Tsiarta"
+  },
+  {
+    "description": "Giorki Papadopoulou - Apollonos",
+    "lat": 35.0528894716369,
+    "lon": 33.9951480211783,
+    "name": "Giorki Papadopoulou - Apollonos"
+  },
+  {
+    "description": "Giorki Papadopoulou - Parnithos 1",
+    "lat": 35.0569030275706,
+    "lon": 34.0026863124554,
+    "name": "Giorki Papadopoulou - Parnithos 1"
+  },
+  {
+    "description": "Kappari Ave. - 1st Stop",
+    "lat": 35.0562959507893,
+    "lon": 34.0063085184796,
+    "name": "Kappari Ave. - 1st Stop"
+  },
+  {
+    "description": "Kappari Ave. - 3rd Stop",
+    "lat": 35.0538386700199,
+    "lon": 34.0101271942747,
+    "name": "Kappari Ave. - 3rd Stop"
+  },
+  {
+    "description": "Kappari Ave. - 5th Stop",
+    "lat": 35.0510726216514,
+    "lon": 34.0141940185032,
+    "name": "Kappari Ave. - 5th Stop"
+  },
+  {
+    "description": "Protara Ave. - 6th Stop",
+    "lat": 35.0484251890754,
+    "lon": 34.0126920356441,
+    "name": "Protara Ave. - 6th Stop"
+  },
+  {
+    "description": "Protara Ave. - 6th Stop",
+    "lat": 35.0484551551314,
+    "lon": 34.0090960209171,
+    "name": "Protara Ave. - 6th Stop"
+  },
+  {
+    "description": "Protara Ave. - 4th Stop",
+    "lat": 35.0474471006079,
+    "lon": 34.0067043351779,
+    "name": "Protara Ave. - 4th Stop"
+  },
+  {
+    "description": "Agia Varvara Church 1",
+    "lat": 35.0451536141066,
+    "lon": 34.0016436482031,
+    "name": "Agia Varvara Church 1"
+  },
+  {
+    "description": "Protara Ave. - 2nd Stop",
+    "lat": 35.043076613677,
+    "lon": 33.9943492396182,
+    "name": "Protara Ave. - 2nd Stop"
+  },
+  {
+    "description": "B´ Paralimni Elementary School 2",
+    "lat": 35.0414428746177,
+    "lon": 33.9912486515845,
+    "name": "B´ Paralimni Elementary School 2"
+  },
+  {
+    "description": "Dimitras - Thermopylon",
+    "lat": 35.0387505159662,
+    "lon": 33.9885849365531,
+    "name": "Dimitras - Thermopylon"
+  },
+  {
+    "description": "C´ Paralimni Elementary School",
+    "lat": 35.0336524783339,
+    "lon": 33.9823515700069,
+    "name": "C´ Paralimni Elementary School"
+  },
+  {
+    "description": "1 Apriliou Ave.  - 1st Stop",
+    "lat": 35.0264177759562,
+    "lon": 33.9827363571279,
+    "name": "1 Apriliou Ave.  - 1st Stop"
+  },
+  {
+    "description": "1 Apriliou Ave.  - 2nd Stop",
+    "lat": 35.0275486010699,
+    "lon": 33.9822785336421,
+    "name": "1 Apriliou Ave.  - 2nd Stop"
+  },
+  {
+    "description": "1 Apriliou Ave. - Agiou Nektariou",
+    "lat": 35.0327728504195,
+    "lon": 33.9796223370255,
+    "name": "1 Apriliou Ave. - Agiou Nektariou"
+  },
+  {
+    "description": "1 Apriliou Ave. - Alikarnassou",
+    "lat": 35.0382325281524,
+    "lon": 33.9779553054319,
+    "name": "1 Apriliou Ave. - Alikarnassou"
+  },
+  {
+    "description": "Paralimni Square Bus Station",
+    "lat": 35.0394760084475,
+    "lon": 33.983638211908,
+    "name": "Paralimni Square Bus Station"
+  }
+]

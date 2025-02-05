@@ -1,0 +1,104 @@
+[
+  {
+    "description": "Dorou Loizou - Petraki Giallourou",
+    "lat": 34.9513031277352,
+    "lon": 33.2968047245532,
+    "name": "Dorou Loizou - Petraki Giallourou"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Agiou Dimitriou",
+    "lat": 34.9509928609383,
+    "lon": 33.298304047828,
+    "name": "Ave. Arch. Makariou C - Agiou Dimitriou"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Megalou Alexandrou",
+    "lat": 34.9503391575655,
+    "lon": 33.3001087665343,
+    "name": "Ave. Arch. Makariou C - Megalou Alexandrou"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Stadiou",
+    "lat": 34.9495370277169,
+    "lon": 33.3035666542385,
+    "name": "Ave. Arch. Makariou C - Stadiou"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Modestou Panteli",
+    "lat": 34.9484271004832,
+    "lon": 33.3074613981028,
+    "name": "Ave. Arch. Makariou C - Modestou Panteli"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Lefkas 2",
+    "lat": 34.9492960869363,
+    "lon": 33.3132253409036,
+    "name": "Ave. Arch. Makariou C - Lefkas 2"
+  },
+  {
+    "description": "Ave. Arch. Makariou C - Georgiou Papachristou 2",
+    "lat": 34.950618596314,
+    "lon": 33.3178740498707,
+    "name": "Ave. Arch. Makariou C - Georgiou Papachristou 2"
+  },
+  {
+    "description": "Apostolos Varnavas Church 2",
+    "lat": 34.9603638260518,
+    "lon": 33.3323372588927,
+    "name": "Apostolos Varnavas Church 2"
+  },
+  {
+    "description": "Markou Drakou - Eleftherias",
+    "lat": 34.963742370286,
+    "lon": 33.3366995631286,
+    "name": "Markou Drakou - Eleftherias"
+  },
+  {
+    "description": "Papastavrou Papagathangelou",
+    "lat": 34.9875043280151,
+    "lon": 33.3614280928672,
+    "name": "Papastavrou Papagathangelou"
+  },
+  {
+    "description": "Papastavrou Papagathangelou - Giannou Kranidioti",
+    "lat": 34.9926564801621,
+    "lon": 33.366370724997,
+    "name": "Papastavrou Papagathangelou - Giannou Kranidioti"
+  },
+  {
+    "description": "Agia Varvara Elementary School",
+    "lat": 34.9959996675871,
+    "lon": 33.3671198160634,
+    "name": "Agia Varvara Elementary School"
+  },
+  {
+    "description": "Ave. Grigori Afxentiou - Limnou",
+    "lat": 34.9983559752948,
+    "lon": 33.3691795616692,
+    "name": "Ave. Grigori Afxentiou - Limnou"
+  },
+  {
+    "description": "Ave. Grigori Afxentiou - Dimitri Liperti",
+    "lat": 34.9993312320925,
+    "lon": 33.3716824883302,
+    "name": "Ave. Grigori Afxentiou - Dimitri Liperti"
+  },
+  {
+    "description": "Agia Varvara High School 2",
+    "lat": 35.0003290211268,
+    "lon": 33.3756321210488,
+    "name": "Agia Varvara High School 2"
+  },
+  {
+    "description": "Ave. Grigori Afxentiou",
+    "lat": 35.0020636591405,
+    "lon": 33.3803633338991,
+    "name": "Ave. Grigori Afxentiou"
+  },
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  }
+]

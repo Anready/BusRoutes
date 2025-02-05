@@ -1,0 +1,134 @@
+[
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Apolloneio Hospital",
+    "lat": 35.1478491445453,
+    "lon": 33.3198906545292,
+    "name": "Apolloneio Hospital"
+  },
+  {
+    "description": "Archangelou Michail - Agiou Alexiou",
+    "lat": 35.1454886437929,
+    "lon": 33.3225381212525,
+    "name": "Archangelou Michail - Agiou Alexiou"
+  },
+  {
+    "description": "Agiou Gennadiou - Agiou Andronikou",
+    "lat": 35.1442396991731,
+    "lon": 33.3208645461782,
+    "name": "Agiou Gennadiou - Agiou Andronikou"
+  },
+  {
+    "description": "Agiou Gennadiou - Agiou Avgoustinou",
+    "lat": 35.1420724611883,
+    "lon": 33.318627576909,
+    "name": "Agiou Gennadiou - Agiou Avgoustinou"
+  },
+  {
+    "description": "Agiou Eleftheriou - Agiou Evdokimou",
+    "lat": 35.140400633358,
+    "lon": 33.3165792597892,
+    "name": "Agiou Eleftheriou - Agiou Evdokimou"
+  },
+  {
+    "description": "Agiou Eleftheriou - Agiou Ioannou Chrysostomou",
+    "lat": 35.1380992237997,
+    "lon": 33.3138919317841,
+    "name": "Agiou Eleftheriou - Agiou Ioannou Chrysostomou"
+  },
+  {
+    "description": "Agiou Eleftheriou - Spyrou Kyprianou Avenue",
+    "lat": 35.1338881796656,
+    "lon": 33.3138977224855,
+    "name": "Agiou Eleftheriou - Spyrou Kyprianou Avenue"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Avraam Antoniou JUMBO",
+    "lat": 35.1297776836906,
+    "lon": 33.3168454699263,
+    "name": "Spyrou Kyprianou Ave. - Avraam Antoniou JUMBO"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Pavilion",
+    "lat": 35.1273232172445,
+    "lon": 33.3209518418459,
+    "name": "Spyrou Kyprianou Ave. - Pavilion"
+  },
+  {
+    "description": "Agiou Mamantos - Onisilou",
+    "lat": 35.1258754345703,
+    "lon": 33.3194425210702,
+    "name": "Agiou Mamantos - Onisilou"
+  },
+  {
+    "description": "Agiou Mamantos - Salaminos",
+    "lat": 35.1268814961752,
+    "lon": 33.3174818140041,
+    "name": "Agiou Mamantos - Salaminos"
+  },
+  {
+    "description": "Pediaiou - Filokyprou",
+    "lat": 35.1269768547044,
+    "lon": 33.3154955949562,
+    "name": "Pediaiou - Filokyprou"
+  },
+  {
+    "description": "Pediaiou - Pafou",
+    "lat": 35.1248240459466,
+    "lon": 33.3146092656818,
+    "name": "Pediaiou - Pafou"
+  },
+  {
+    "description": "Pediaiou - Agias Mavris",
+    "lat": 35.1233900615239,
+    "lon": 33.3112124301456,
+    "name": "Pediaiou - Agias Mavris"
+  },
+  {
+    "description": "Akadimias - Aggelou Terzaki",
+    "lat": 35.1237686466546,
+    "lon": 33.307734730951,
+    "name": "Akadimias - Aggelou Terzaki"
+  },
+  {
+    "description": "Akadimias- Arachovas 1",
+    "lat": 35.1230549842427,
+    "lon": 33.3046809667525,
+    "name": "Akadimias- Arachovas 1"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Navarinou",
+    "lat": 35.1188894812965,
+    "lon": 33.3008902115869,
+    "name": "Georgiou Griva Digeni - Navarinou"
+  },
+  {
+    "description": "Agios Georgios Lyceum 1",
+    "lat": 35.1150630828499,
+    "lon": 33.2984947773916,
+    "name": "Agios Georgios Lyceum 1"
+  },
+  {
+    "description": "1 Apriliou - Andrea Miaouli",
+    "lat": 35.1137166307904,
+    "lon": 33.2996640697467,
+    "name": "1 Apriliou - Andrea Miaouli"
+  },
+  {
+    "description": "Lakatameia Municipality 1",
+    "lat": 35.1108820378751,
+    "lon": 33.3009485628594,
+    "name": "Lakatameia Municipality 1"
+  },
+  {
+    "description": "Ave. Agiou Georgiou - Alamanas",
+    "lat": 35.1089349590285,
+    "lon": 33.3006890208037,
+    "name": "Ave. Agiou Georgiou - Alamanas"
+  }
+]

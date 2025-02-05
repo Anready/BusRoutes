@@ -1,0 +1,164 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "7 Elementary School - Agios Kendeas 1",
+    "lat": 34.7768072972581,
+    "lon": 32.4247714368252,
+    "name": "7 Elementary School - Agios Kendeas 1"
+  },
+  {
+    "description": "Nikolaou Nikolaidi Ave. - Charal. Mouskou",
+    "lat": 34.7764951415018,
+    "lon": 32.4274183917525,
+    "name": "Nikolaou Nikolaidi Ave. - Charal. Mouskou"
+  },
+  {
+    "description": "Nik. Nikolaidi Ave. - Vasileos Georgiou",
+    "lat": 34.7774872148762,
+    "lon": 32.4293678308319,
+    "name": "Nik. Nikolaidi Ave. - Vasileos Georgiou"
+  },
+  {
+    "description": "Nikolaou Nikolaidi Ave. - Dimitri Liperti",
+    "lat": 34.7790842348392,
+    "lon": 32.4314880331158,
+    "name": "Nikolaou Nikolaidi Ave. - Dimitri Liperti"
+  },
+  {
+    "description": "Nikolaou Nikolaidi Ave. - Vasili Michailidi",
+    "lat": 34.780301066386,
+    "lon": 32.4333048926453,
+    "name": "Nikolaou Nikolaidi Ave. - Vasili Michailidi"
+  },
+  {
+    "description": "Citizen Service Centre 1",
+    "lat": 34.7815972014321,
+    "lon": 32.4366732620444,
+    "name": "Citizen Service Centre 1"
+  },
+  {
+    "description": "Elefth. Venizelou Ave. - Agias Eirinis",
+    "lat": 34.7821382614456,
+    "lon": 32.438625987634,
+    "name": "Elefth. Venizelou Ave. - Agias Eirinis"
+  },
+  {
+    "description": "Elefth. Venizelou Ave. - Agias Elenis",
+    "lat": 34.7831123734508,
+    "lon": 32.4406304640879,
+    "name": "Elefth. Venizelou Ave. - Agias Elenis"
+  },
+  {
+    "description": "Dimokratias Ave. - Agiou Ioannou",
+    "lat": 34.7859093528205,
+    "lon": 32.4409613456044,
+    "name": "Dimokratias Ave. - Agiou Ioannou"
+  },
+  {
+    "description": "Pafos General Hospital 1",
+    "lat": 34.7886669339612,
+    "lon": 32.4445060792828,
+    "name": "Pafos General Hospital 1"
+  },
+  {
+    "description": "Georgiou Griva Digeni - Keryneias",
+    "lat": 34.7858694759613,
+    "lon": 32.4520229041395,
+    "name": "Georgiou Griva Digeni - Keryneias"
+  },
+  {
+    "description": "Konia Elementary School 1",
+    "lat": 34.7854323958405,
+    "lon": 32.4550971458968,
+    "name": "Konia Elementary School 1"
+  },
+  {
+    "description": "Agios Iakovos Church 1",
+    "lat": 34.7848727034068,
+    "lon": 32.4569807871539,
+    "name": "Agios Iakovos Church 1"
+  },
+  {
+    "description": "Aristeidi Tziamali - Agias Annas",
+    "lat": 34.7861131140541,
+    "lon": 32.4601314761141,
+    "name": "Aristeidi Tziamali - Agias Annas"
+  },
+  {
+    "description": "Aristeidi Tziamali - Archiep. Makariou C` Ave.",
+    "lat": 34.7887944663769,
+    "lon": 32.4608354178123,
+    "name": "Aristeidi Tziamali - Archiep. Makariou C` Ave."
+  },
+  {
+    "description": "Agiou Dimitrianou - 1st Stop",
+    "lat": 34.7904941753324,
+    "lon": 32.4700499086068,
+    "name": "Agiou Dimitrianou - 1st Stop"
+  },
+  {
+    "description": "Archiep. Makariou C` - Petrovounou 1",
+    "lat": 34.7932995323809,
+    "lon": 32.4828323106586,
+    "name": "Archiep. Makariou C` - Petrovounou 1"
+  },
+  {
+    "description": "Archiep. Makariou C` - Papailia Savva",
+    "lat": 34.7927193858311,
+    "lon": 32.4842460389438,
+    "name": "Archiep. Makariou C` - Papailia Savva"
+  },
+  {
+    "description": "Archiep. Makariou C` - Agias Marinas",
+    "lat": 34.7908630449276,
+    "lon": 32.486684236926,
+    "name": "Archiep. Makariou C` - Agias Marinas"
+  },
+  {
+    "description": "Archiep. Makariou C` - Petrovounou 2",
+    "lat": 34.7932363178242,
+    "lon": 32.4828108431023,
+    "name": "Archiep. Makariou C` - Petrovounou 2"
+  },
+  {
+    "description": "Andrea Chatzitheori - 1st Stop",
+    "lat": 34.795421773368,
+    "lon": 32.4814417016512,
+    "name": "Andrea Chatzitheori - 1st Stop"
+  },
+  {
+    "description": "Andrea Chatzitheori - 3rd Stop",
+    "lat": 34.7968239613047,
+    "lon": 32.4803725575943,
+    "name": "Andrea Chatzitheori - 3rd Stop"
+  },
+  {
+    "description": "Armou Village Centre",
+    "lat": 34.7992659408914,
+    "lon": 32.4799527543174,
+    "name": "Armou Village Centre"
+  },
+  {
+    "description": "Andrea Chatzitheori - 2nd Stop",
+    "lat": 34.7950446730286,
+    "lon": 32.4818266602604,
+    "name": "Andrea Chatzitheori - 2nd Stop"
+  },
+  {
+    "description": "1st Stop Episkopi Pafou",
+    "lat": 34.7913353912664,
+    "lon": 32.5206982219049,
+    "name": "1st Stop Episkopi Pafou"
+  },
+  {
+    "description": "Episkopi Pafos Square",
+    "lat": 34.7955672532157,
+    "lon": 32.5259645572962,
+    "name": "Episkopi Pafos Square"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  },
+  {
+    "description": "Lemesou Ave. - Volvo",
+    "lat": 35.1268358517556,
+    "lon": 33.3745328069755,
+    "name": "Lemesou Ave. - Volvo"
+  },
+  {
+    "description": "The Mall of Cyprus - Verginas",
+    "lat": 35.1296954455061,
+    "lon": 33.3741617405526,
+    "name": "The Mall of Cyprus - Verginas"
+  },
+  {
+    "description": "Athalassa Botanic Gardens ",
+    "lat": 35.1377876898445,
+    "lon": 33.378732287614,
+    "name": "Athalassa Botanic Gardens "
+  },
+  {
+    "description": "Fytoriou - Cyprus Institute",
+    "lat": 35.1384241900194,
+    "lon": 33.3827858006558,
+    "name": "Fytoriou - Cyprus Institute"
+  },
+  {
+    "description": "Fytoriou - Radio Station",
+    "lat": 35.1396920594041,
+    "lon": 33.3978855332749,
+    "name": "Fytoriou - Radio Station"
+  },
+  {
+    "description": "Fytoriou - Agios Georgios",
+    "lat": 35.1406082087885,
+    "lon": 33.4017101355629,
+    "name": "Fytoriou - Agios Georgios"
+  },
+  {
+    "description": "University of Cyprus - Oceanography Center",
+    "lat": 35.1443862687783,
+    "lon": 33.4071517965074,
+    "name": "University of Cyprus - Oceanography Center"
+  },
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  }
+]

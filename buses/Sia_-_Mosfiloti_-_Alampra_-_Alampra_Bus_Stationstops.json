@@ -1,0 +1,104 @@
+[
+  {
+    "description": "Archiep. Makariou C Ave. - 1st Sia",
+    "lat": 34.9557225373901,
+    "lon": 33.3862935957325,
+    "name": "Archiep. Makariou C Ave. - 1st Sia"
+  },
+  {
+    "description": "Griva Digeni Ave. - 2nd Sia",
+    "lat": 34.9549565971892,
+    "lon": 33.3917553590959,
+    "name": "Griva Digeni Ave. - 2nd Sia"
+  },
+  {
+    "description": "Griva Digeni Ave. - 3rd Sia",
+    "lat": 34.9512420422889,
+    "lon": 33.3998641609562,
+    "name": "Griva Digeni Ave. - 3rd Sia"
+  },
+  {
+    "description": "Mosfiloti - Sia Road",
+    "lat": 34.9514793158275,
+    "lon": 33.4125040929404,
+    "name": "Mosfiloti - Sia Road"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Omirou 1",
+    "lat": 34.952848630825,
+    "lon": 33.4207799589202,
+    "name": "Archiep. Makariou C´ - Omirou 1"
+  },
+  {
+    "description": "Agia Marina Church 1",
+    "lat": 34.9535406274641,
+    "lon": 33.4240473150296,
+    "name": "Agia Marina Church 1"
+  },
+  {
+    "description": "Platini Museum",
+    "lat": 34.9519806844773,
+    "lon": 33.4266020977779,
+    "name": "Platini Museum"
+  },
+  {
+    "description": "1 Apriliou - Papamiichail Konstantinou 2",
+    "lat": 34.9505424713557,
+    "lon": 33.4278650805581,
+    "name": "1 Apriliou - Papamiichail Konstantinou 2"
+  },
+  {
+    "description": "1 Apriliou - Georgiou Griva Digeni",
+    "lat": 34.9505191953158,
+    "lon": 33.4267916625431,
+    "name": "1 Apriliou - Georgiou Griva Digeni"
+  },
+  {
+    "description": "Mosfiloti Elementary School",
+    "lat": 34.9515405905541,
+    "lon": 33.4235222641825,
+    "name": "Mosfiloti Elementary School"
+  },
+  {
+    "description": "1 Apriliou - Archiep. Makariou C´",
+    "lat": 34.9516583892803,
+    "lon": 33.4207629244707,
+    "name": "1 Apriliou - Archiep. Makariou C´"
+  },
+  {
+    "description": "Trimythountos Bishopric",
+    "lat": 34.9514919846149,
+    "lon": 33.4193382954616,
+    "name": "Trimythountos Bishopric"
+  },
+  {
+    "description": "Lemesou Ave. - Mosfiloti Roundabout",
+    "lat": 34.9519715248766,
+    "lon": 33.4188697926022,
+    "name": "Lemesou Ave. - Mosfiloti Roundabout"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Theodorou Kolokotroni",
+    "lat": 34.9904043829162,
+    "lon": 33.4026733185596,
+    "name": "Archiep. Makariou C´ - Theodorou Kolokotroni"
+  },
+  {
+    "description": "Grigori Afxentiou - Lemesou Ave. 2",
+    "lat": 34.9944667118012,
+    "lon": 33.4040300753008,
+    "name": "Grigori Afxentiou - Lemesou Ave. 2"
+  },
+  {
+    "description": "Lemesou Ave. - Filias",
+    "lat": 34.9977926869451,
+    "lon": 33.4017451753162,
+    "name": "Lemesou Ave. - Filias"
+  },
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  }
+]

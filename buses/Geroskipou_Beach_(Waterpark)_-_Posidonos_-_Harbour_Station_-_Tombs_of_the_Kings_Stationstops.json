@@ -1,0 +1,104 @@
+[
+  {
+    "description": "Waterpark",
+    "lat": 34.7412455534606,
+    "lon": 32.4410875863875,
+    "name": "Waterpark"
+  },
+  {
+    "description": "Theas Afroditis Ave. - 2nd Stop",
+    "lat": 34.737295359023,
+    "lon": 32.4390277555044,
+    "name": "Theas Afroditis Ave. - 2nd Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 10th Stop",
+    "lat": 34.7404829632574,
+    "lon": 32.4341231201536,
+    "name": "Poseidonos Ave. - 10th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 8th Stop",
+    "lat": 34.7435052732565,
+    "lon": 32.4305520377274,
+    "name": "Poseidonos Ave. - 8th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 6th Stop",
+    "lat": 34.7466083223661,
+    "lon": 32.426914587123,
+    "name": "Poseidonos Ave. - 6th Stop"
+  },
+  {
+    "description": "Neapolis University 2",
+    "lat": 34.7498037060993,
+    "lon": 32.4275808135072,
+    "name": "Neapolis University 2"
+  },
+  {
+    "description": "Neapolis University 1",
+    "lat": 34.7492075329655,
+    "lon": 32.4273664210965,
+    "name": "Neapolis University 1"
+  },
+  {
+    "description": "Poseidonos Ave. - 4th Stop",
+    "lat": 34.7494332722275,
+    "lon": 32.423606556002,
+    "name": "Poseidonos Ave. - 4th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 2nd Stop",
+    "lat": 34.7530875685078,
+    "lon": 32.4202597259428,
+    "name": "Poseidonos Ave. - 2nd Stop"
+  },
+  {
+    "description": "Annabelle Hotel 2",
+    "lat": 34.7559877622616,
+    "lon": 32.4176390276514,
+    "name": "Annabelle Hotel 2"
+  },
+  {
+    "description": "Municipal Baths Beach",
+    "lat": 34.7565259856276,
+    "lon": 32.4151659186758,
+    "name": "Municipal Baths Beach"
+  },
+  {
+    "description": "Paphos Harbour Station",
+    "lat": 34.7565660916918,
+    "lon": 32.408533407359,
+    "name": "Paphos Harbour Station"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Kyriakou Nikolaou",
+    "lat": 34.7575386492987,
+    "lon": 32.4119792043889,
+    "name": "Apostolou Pavlou Ave. - Kyriakou Nikolaou"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Ploutarchou",
+    "lat": 34.7607139077368,
+    "lon": 32.4121970805582,
+    "name": "Apostolou Pavlou Ave. - Ploutarchou"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Agiou Lamprianou",
+    "lat": 34.7617149885542,
+    "lon": 32.4122227656401,
+    "name": "Apostolou Pavlou Ave. - Agiou Lamprianou"
+  },
+  {
+    "description": "Tafoi Ton Vasileon - Chandrinou",
+    "lat": 34.7655673754091,
+    "lon": 32.4107421102745,
+    "name": "Tafoi Ton Vasileon - Chandrinou"
+  },
+  {
+    "description": "Tombs of the Kings Bus Station",
+    "lat": 34.7700851526625,
+    "lon": 32.4107318563524,
+    "name": "Tombs of the Kings Bus Station"
+  }
+]

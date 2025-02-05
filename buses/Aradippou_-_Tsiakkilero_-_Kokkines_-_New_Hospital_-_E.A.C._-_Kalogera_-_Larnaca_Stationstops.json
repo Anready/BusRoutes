@@ -1,0 +1,206 @@
+[
+  {
+    "description": "Agias Lavras",
+    "lat": 34.9503263781404,
+    "lon": 33.593019197046,
+    "name": "Agias Lavras"
+  },
+  {
+    "description": "Coop Bank Allileggie 2",
+    "lat": 34.9480589298951,
+    "lon": 33.5938570925411,
+    "name": "Coop Bank Allileggie 2"
+  },
+  {
+    "description": "Kyriakou Matsi Ave. - Evagorou",
+    "lat": 34.9454359486006,
+    "lon": 33.5954808645913,
+    "name": "Kyriakou Matsi Ave. - Evagorou"
+  },
+  {
+    "description": "Kyriakou Matsi Ave. - Granikou",
+    "lat": 34.9392624231702,
+    "lon": 33.6021159876574,
+    "name": "Kyriakou Matsi Ave. - Granikou"
+  },
+  {
+    "description": "Kyriakou Matsi Ave. - Estias",
+    "lat": 34.9369411734651,
+    "lon": 33.60469419646,
+    "name": "Kyriakou Matsi Ave. - Estias"
+  },
+  {
+    "description": "Agios Eleftherios Church 2",
+    "lat": 34.9339315281741,
+    "lon": 33.6096761202669,
+    "name": "Agios Eleftherios Church 2"
+  },
+  {
+    "description": "Rafail Santi - Kato Varosion",
+    "lat": 34.9354479489948,
+    "lon": 33.6129613602026,
+    "name": "Rafail Santi - Kato Varosion"
+  },
+  {
+    "description": "Ethn. Makarios C´ Elementary School 1",
+    "lat": 34.936886304484,
+    "lon": 33.613837118182,
+    "name": "Ethn. Makarios C´ Elementary School 1"
+  },
+  {
+    "description": "Lysis - Amaltheias",
+    "lat": 34.9392734115981,
+    "lon": 33.6161106875787,
+    "name": "Lysis - Amaltheias"
+  },
+  {
+    "description": "Lysis - Milias",
+    "lat": 34.9410571681638,
+    "lon": 33.61644159721,
+    "name": "Lysis - Milias"
+  },
+  {
+    "description": "Lysis - Trikomou",
+    "lat": 34.9410865722648,
+    "lon": 33.614196935388,
+    "name": "Lysis - Trikomou"
+  },
+  {
+    "description": "Filomilas - Lysis",
+    "lat": 34.9406332858161,
+    "lon": 33.6128904361232,
+    "name": "Filomilas - Lysis"
+  },
+  {
+    "description": "Kekropos - Proknis",
+    "lat": 34.9391173777606,
+    "lon": 33.6130872152022,
+    "name": "Kekropos - Proknis"
+  },
+  {
+    "description": "Kekropos - Poti 1",
+    "lat": 34.9385688325384,
+    "lon": 33.6145723750085,
+    "name": "Kekropos - Poti 1"
+  },
+  {
+    "description": "Lysou Santama - Kithaironos",
+    "lat": 34.9345343676727,
+    "lon": 33.6170826278964,
+    "name": "Lysou Santama - Kithaironos"
+  },
+  {
+    "description": "Syneseio",
+    "lat": 34.9318796261455,
+    "lon": 33.6160225521027,
+    "name": "Syneseio"
+  },
+  {
+    "description": "Stratigou Timagia Ave. - Mavromichali",
+    "lat": 34.9286157540654,
+    "lon": 33.61771714473,
+    "name": "Stratigou Timagia Ave. - Mavromichali"
+  },
+  {
+    "description": "Stratigou Timagia Ave. - Sintika Chanoum",
+    "lat": 34.9275225160337,
+    "lon": 33.6163622434525,
+    "name": "Stratigou Timagia Ave. - Sintika Chanoum"
+  },
+  {
+    "description": "Saint Raphael Hospital",
+    "lat": 34.9245303616431,
+    "lon": 33.616044259835,
+    "name": "Saint Raphael Hospital"
+  },
+  {
+    "description": "Larnaka Cemetery",
+    "lat": 34.9232541632788,
+    "lon": 33.6134180844135,
+    "name": "Larnaka Cemetery"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1",
+    "lat": 34.9232927989392,
+    "lon": 33.6111192329806,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 1"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 34.9228559002927,
+    "lon": 33.6083351448841,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "New Hospital 1",
+    "lat": 34.922015733272,
+    "lon": 33.6050335619743,
+    "name": "New Hospital 1"
+  },
+  {
+    "description": "Mystra - Pol Darras 1",
+    "lat": 34.9203761695852,
+    "lon": 33.6065213905799,
+    "name": "Mystra - Pol Darras 1"
+  },
+  {
+    "description": "Mystra - Konstantinoupoleos 1",
+    "lat": 34.9199870535549,
+    "lon": 33.6085986183092,
+    "name": "Mystra - Konstantinoupoleos 1"
+  },
+  {
+    "description": "Konstantinoupoleos - Alexandreias",
+    "lat": 34.918576388559,
+    "lon": 33.6093873835314,
+    "name": "Konstantinoupoleos - Alexandreias"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2",
+    "lat": 34.9194167146212,
+    "lon": 33.6179766426449,
+    "name": "Georg. Griva Digeni Ave. - Kon. Palaiologou Ave. 2"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Thessalonikis Ave.",
+    "lat": 34.9180133596127,
+    "lon": 33.6208562831158,
+    "name": "Georg. Griva Digeni Ave. - Thessalonikis Ave."
+  },
+  {
+    "description": "Municipal Library 2",
+    "lat": 34.916724235321,
+    "lon": 33.6243059543314,
+    "name": "Municipal Library 2"
+  },
+  {
+    "description": "Municipal Park 2",
+    "lat": 34.9168095577485,
+    "lon": 33.6269996632646,
+    "name": "Municipal Park 2"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 2",
+    "lat": 34.9178223662695,
+    "lon": 33.6351304406883,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1",
+    "lat": 34.9187528603531,
+    "lon": 33.6365279619346,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 1"
+  },
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  }
+]

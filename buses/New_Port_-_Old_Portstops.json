@@ -1,0 +1,62 @@
+[
+  {
+    "description": "New Port - Passenger Building",
+    "lat": 34.6556927006373,
+    "lon": 33.0221319488309,
+    "name": "New Port - Passenger Building"
+  },
+  {
+    "description": "Ave. Omonoias - Optikou Nikolaidi",
+    "lat": 34.6615189433628,
+    "lon": 33.0182153884961,
+    "name": "Ave. Omonoias - Optikou Nikolaidi"
+  },
+  {
+    "description": "Fragklinou Rousvelt - New Port Traffic Lights",
+    "lat": 34.6635480288833,
+    "lon": 33.0178884059459,
+    "name": "Fragklinou Rousvelt - New Port Traffic Lights"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Galilaiou",
+    "lat": 34.6659910008168,
+    "lon": 33.0231715682533,
+    "name": "Fragklinou Rousvelt - Galilaiou"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Social Insurance",
+    "lat": 34.6677399450672,
+    "lon": 33.0258352588422,
+    "name": "Fragklinou Rousvelt - Social Insurance"
+  },
+  {
+    "description": "Fragklinou Rousvelt - Water Board 2",
+    "lat": 34.6691642028609,
+    "lon": 33.0284225455108,
+    "name": "Fragklinou Rousvelt - Water Board 2"
+  },
+  {
+    "description": "Fragklinou Rousvelt - KEO 2",
+    "lat": 34.6711832773642,
+    "lon": 33.0322108166503,
+    "name": "Fragklinou Rousvelt - KEO 2"
+  },
+  {
+    "description": "Tzelal Bagiar - Agios Antonios Church 2",
+    "lat": 34.6718760191865,
+    "lon": 33.0379088772409,
+    "name": "Tzelal Bagiar - Agios Antonios Church 2"
+  },
+  {
+    "description": "Agias Theklis - Old Port",
+    "lat": 34.6716856136187,
+    "lon": 33.0410851387219,
+    "name": "Agias Theklis - Old Port"
+  },
+  {
+    "description": "Old Port",
+    "lat": 34.671198762756,
+    "lon": 33.0407356112366,
+    "name": "Old Port"
+  }
+]

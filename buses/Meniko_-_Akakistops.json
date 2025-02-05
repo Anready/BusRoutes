@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Meniko",
+    "lat": 35.1099787105225,
+    "lon": 33.1449037998585,
+    "name": "Meniko"
+  },
+  {
+    "description": "Manas Ton Paidon - Meniko",
+    "lat": 35.1195677890177,
+    "lon": 33.1417490946374,
+    "name": "Manas Ton Paidon - Meniko"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ - Akaki Park 2",
+    "lat": 35.1343767218598,
+    "lon": 33.131423756425,
+    "name": "Archiepiskopou Makariou C´ - Akaki Park 2"
+  },
+  {
+    "description": "Archiepiskopou Makariou C´ - Vyzakias 2",
+    "lat": 35.1354277660994,
+    "lon": 33.1350368163737,
+    "name": "Archiepiskopou Makariou C´ - Vyzakias 2"
+  },
+  {
+    "description": "Akaki Health Center 2",
+    "lat": 35.1367854882343,
+    "lon": 33.1384748571126,
+    "name": "Akaki Health Center 2"
+  }
+]

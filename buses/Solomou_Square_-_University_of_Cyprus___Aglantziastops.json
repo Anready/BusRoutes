@@ -1,0 +1,146 @@
+[
+  {
+    "description": "Dionysios Solomos Square A",
+    "lat": 35.1707964293693,
+    "lon": 33.358997800121,
+    "name": "Dionysios Solomos Square A"
+  },
+  {
+    "description": "Eleftheria Square",
+    "lat": 35.1685241073787,
+    "lon": 33.362029603427,
+    "name": "Eleftheria Square"
+  },
+  {
+    "description": "Ave. Stasinou - Archiepiskopou Makariou B Square",
+    "lat": 35.1684963159087,
+    "lon": 33.3652799120464,
+    "name": "Ave. Stasinou - Archiepiskopou Makariou B Square"
+  },
+  {
+    "description": "Ave. Stasinou - Archiepiskopou Makariou B Square",
+    "lat": 35.1692447677516,
+    "lon": 33.3682482068855,
+    "name": "Ave. Stasinou - Archiepiskopou Makariou B Square"
+  },
+  {
+    "description": "Ave. Kallipoleos - Deligianni",
+    "lat": 35.1660259348931,
+    "lon": 33.3711106798266,
+    "name": "Ave. Kallipoleos - Deligianni"
+  },
+  {
+    "description": "Ave. Kallipoleos - Peiraios",
+    "lat": 35.1631141544998,
+    "lon": 33.3737986461975,
+    "name": "Ave. Kallipoleos - Peiraios"
+  },
+  {
+    "description": "Ave. Kallipoleos - University of Cyprus 1",
+    "lat": 35.1603600986645,
+    "lon": 33.3750377765631,
+    "name": "Ave. Kallipoleos - University of Cyprus 1"
+  },
+  {
+    "description": "Ave. Kallipoleos - Productivity Centre 1",
+    "lat": 35.1577697669428,
+    "lon": 33.3758164289689,
+    "name": "Ave. Kallipoleos - Productivity Centre 1"
+  },
+  {
+    "description": "Ave. Aglantzias - Archiepiskopo. Makariou C Ave.",
+    "lat": 35.1552604460424,
+    "lon": 33.3766393236877,
+    "name": "Ave. Aglantzias - Archiepiskopo. Makariou C Ave."
+  },
+  {
+    "description": "Ave. Aglantzias - H.H.I.C. 1",
+    "lat": 35.1557253062661,
+    "lon": 33.3808136631177,
+    "name": "Ave. Aglantzias - H.H.I.C. 1"
+  },
+  {
+    "description": "Akadimias - Alexandrou Yosilandou",
+    "lat": 35.1509252495794,
+    "lon": 33.3817464550878,
+    "name": "Akadimias - Alexandrou Yosilandou"
+  },
+  {
+    "description": "Ave. Akadimias - Rik Avenue",
+    "lat": 35.146859403687,
+    "lon": 33.3814639887923,
+    "name": "Ave. Akadimias - Rik Avenue"
+  },
+  {
+    "description": "Avenue Rik - CyBC 1",
+    "lat": 35.1449318808997,
+    "lon": 33.3836396195288,
+    "name": "Avenue Rik - CyBC 1"
+  },
+  {
+    "description": "Avenue Rik - Aglantzia Elem. School D 1",
+    "lat": 35.1450388059371,
+    "lon": 33.3868786393756,
+    "name": "Avenue Rik - Aglantzia Elem. School D 1"
+  },
+  {
+    "description": "Theofilou Georgiadi - Ioanni Psychari",
+    "lat": 35.1439460276542,
+    "lon": 33.3902217213399,
+    "name": "Theofilou Georgiadi - Ioanni Psychari"
+  },
+  {
+    "description": "Gianni Psychari - Ioanni Grypari",
+    "lat": 35.1433606036993,
+    "lon": 33.3927987099951,
+    "name": "Gianni Psychari - Ioanni Grypari"
+  },
+  {
+    "description": "Ave. Kallitheas - Ioanni Psychari",
+    "lat": 35.1440308875149,
+    "lon": 33.3946462155944,
+    "name": "Ave. Kallitheas - Ioanni Psychari"
+  },
+  {
+    "description": "Ave. Kallitheas - Egnatias",
+    "lat": 35.1464092312597,
+    "lon": 33.3953163892404,
+    "name": "Ave. Kallitheas - Egnatias"
+  },
+  {
+    "description": "Egnateias - Keryneias.Av",
+    "lat": 35.1475997604777,
+    "lon": 33.3979898895048,
+    "name": "Egnateias - Keryneias.Av"
+  },
+  {
+    "description": "Ave. Kiryneias - Valtetsiou",
+    "lat": 35.1468801495634,
+    "lon": 33.4001930179964,
+    "name": "Ave. Kiryneias - Valtetsiou"
+  },
+  {
+    "description": "Ave. Kiryneias - Athalassa Park 1",
+    "lat": 35.1451131770706,
+    "lon": 33.4027971393594,
+    "name": "Ave. Kiryneias - Athalassa Park 1"
+  },
+  {
+    "description": "Ave. Athalassis - UCY Student Halls 1",
+    "lat": 35.1438813067368,
+    "lon": 33.4044597053849,
+    "name": "Ave. Athalassis - UCY Student Halls 1"
+  },
+  {
+    "description": "University of Cyprus - Oceanography Center",
+    "lat": 35.1443862687783,
+    "lon": 33.4071517965074,
+    "name": "University of Cyprus - Oceanography Center"
+  },
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "description": "Ave. Tzon Kennenty - Roundabout Sopaz 1",
+    "lat": 35.1727225594446,
+    "lon": 33.3949056110701,
+    "name": "Ave. Tzon Kennenty - Roundabout Sopaz 1"
+  },
+  {
+    "description": "Ave. Tzon Kennenty - Psaron",
+    "lat": 35.1725388969519,
+    "lon": 33.3875579521449,
+    "name": "Ave. Tzon Kennenty - Psaron"
+  },
+  {
+    "description": "Ave. Tzon Kennenty - Spyrou Chatzigiakoumi",
+    "lat": 35.1727386446178,
+    "lon": 33.3842973204569,
+    "name": "Ave. Tzon Kennenty - Spyrou Chatzigiakoumi"
+  },
+  {
+    "description": "Ave. Tzon Kennenty - Old Cemetery",
+    "lat": 35.172987179049,
+    "lon": 33.3826951495027,
+    "name": "Ave. Tzon Kennenty - Old Cemetery"
+  },
+  {
+    "description": "Ave. Tzon Kennenty - Andrea Skotti",
+    "lat": 35.172498784535,
+    "lon": 33.3802988461582,
+    "name": "Ave. Tzon Kennenty - Andrea Skotti"
+  },
+  {
+    "description": "Ave. Tzon Kennenty - Markou Drakou",
+    "lat": 35.1720781454437,
+    "lon": 33.3763983967642,
+    "name": "Ave. Tzon Kennenty - Markou Drakou"
+  },
+  {
+    "description": "Markou Drakou - Aristeidou",
+    "lat": 35.1726838864465,
+    "lon": 33.3758850464176,
+    "name": "Markou Drakou - Aristeidou"
+  },
+  {
+    "description": "Agiou Andreou - Praxandrou",
+    "lat": 35.1748269268017,
+    "lon": 33.3768613293833,
+    "name": "Agiou Andreou - Praxandrou"
+  },
+  {
+    "description": "Agiou Andreou - Evangelistria Church 1",
+    "lat": 35.1766951245031,
+    "lon": 33.3792201602236,
+    "name": "Agiou Andreou - Evangelistria Church 1"
+  },
+  {
+    "description": "Ave. Kyriakou Matsi - Aiakou",
+    "lat": 35.1787092757016,
+    "lon": 33.3781532240896,
+    "name": "Ave. Kyriakou Matsi - Aiakou"
+  },
+  {
+    "description": "Ave. Salaminos - Aigeos",
+    "lat": 35.1748382153112,
+    "lon": 33.3732153453627,
+    "name": "Ave. Salaminos - Aigeos"
+  },
+  {
+    "description": "Ave. Salaminos - Anoigma Kolokasi 2",
+    "lat": 35.1710398246555,
+    "lon": 33.3709907006317,
+    "name": "Ave. Salaminos - Anoigma Kolokasi 2"
+  },
+  {
+    "description": "Ave. Stasinou - Alkaiou",
+    "lat": 35.1690375102022,
+    "lon": 33.3682033474436,
+    "name": "Ave. Stasinou - Alkaiou"
+  },
+  {
+    "description": "Ave. Stasinou - Kritis",
+    "lat": 35.1682151650405,
+    "lon": 33.3658167311003,
+    "name": "Ave. Stasinou - Kritis"
+  },
+  {
+    "description": "Bastion Davila",
+    "lat": 35.1685125276104,
+    "lon": 33.3628860850149,
+    "name": "Bastion Davila"
+  },
+  {
+    "description": "Diagorou",
+    "lat": 35.169683481778,
+    "lon": 33.3572468736466,
+    "name": "Diagorou"
+  },
+  {
+    "description": "Solomos Square Alighting ",
+    "lat": 35.170392452312,
+    "lon": 33.3583920449795,
+    "name": "Solomos Square Alighting "
+  }
+]

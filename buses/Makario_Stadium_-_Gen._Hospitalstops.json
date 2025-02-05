@@ -1,0 +1,122 @@
+[
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Apolloneio Hospital",
+    "lat": 35.1478491445453,
+    "lon": 33.3198906545292,
+    "name": "Apolloneio Hospital"
+  },
+  {
+    "description": "Archangelou Michail - Agiou Alexiou",
+    "lat": 35.1454886437929,
+    "lon": 33.3225381212525,
+    "name": "Archangelou Michail - Agiou Alexiou"
+  },
+  {
+    "description": "Archangelou Michail - Lake Magkli",
+    "lat": 35.1409631844903,
+    "lon": 33.3152421818919,
+    "name": "Archangelou Michail - Lake Magkli"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Diodos Kifea",
+    "lat": 35.1334956519134,
+    "lon": 33.312260716531,
+    "name": "Spyrou Kyprianou Ave. - Diodos Kifea"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Avraam Antoniou JUMBO",
+    "lat": 35.1297776836906,
+    "lon": 33.3168454699263,
+    "name": "Spyrou Kyprianou Ave. - Avraam Antoniou JUMBO"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Pavilion",
+    "lat": 35.1273232172445,
+    "lon": 33.3209518418459,
+    "name": "Spyrou Kyprianou Ave. - Pavilion"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Roundabout Metro",
+    "lat": 35.125697950573,
+    "lon": 33.3251490655893,
+    "name": "Spyrou Kyprianou Ave. - Roundabout Metro"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Mesaorias",
+    "lat": 35.1225041003762,
+    "lon": 33.3324457404298,
+    "name": "Spyrou Kyprianou Ave. - Mesaorias"
+  },
+  {
+    "description": "Roundabout Tseriou - Group 4",
+    "lat": 35.1212488391426,
+    "lon": 33.3363915883624,
+    "name": "Roundabout Tseriou - Group 4"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Hospital American Heard",
+    "lat": 35.1223542958336,
+    "lon": 33.3409288089506,
+    "name": "Spyrou Kyprianou Ave. - Hospital American Heard"
+  },
+  {
+    "description": "Police Statio Strovolos - Nicosia",
+    "lat": 35.1240538023245,
+    "lon": 33.3457869414422,
+    "name": "Police Statio Strovolos - Nicosia"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Iosif Hadjiosif",
+    "lat": 35.1269311010946,
+    "lon": 33.3548649578129,
+    "name": "Spyrou Kyprianou Ave. - Iosif Hadjiosif"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Strovolos Industrial Zone",
+    "lat": 35.1279690819096,
+    "lon": 33.3575914460331,
+    "name": "Spyrou Kyprianou Ave. - Strovolos Industrial Zone"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Agios Therissos",
+    "lat": 35.1289742897005,
+    "lon": 33.3622166863752,
+    "name": "Spyrou Kyprianou Ave. - Agios Therissos"
+  },
+  {
+    "description": "Kalamon - Kampou",
+    "lat": 35.1271343844758,
+    "lon": 33.3683329427313,
+    "name": "Kalamon - Kampou"
+  },
+  {
+    "description": "Kalamon -Hospital Round About",
+    "lat": 35.1243067279532,
+    "lon": 33.3730066444956,
+    "name": "Kalamon -Hospital Round About"
+  },
+  {
+    "description": "Lemesou Ave. - Volvo",
+    "lat": 35.1268358517556,
+    "lon": 33.3745328069755,
+    "name": "Lemesou Ave. - Volvo"
+  },
+  {
+    "description": "The Mall of Cyprus - Verginas",
+    "lat": 35.1296954455061,
+    "lon": 33.3741617405526,
+    "name": "The Mall of Cyprus - Verginas"
+  },
+  {
+    "description": "Nicosia General Hospital",
+    "lat": 35.1280430857013,
+    "lon": 33.3748785823234,
+    "name": "Nicosia General Hospital"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Distrato Pelendriou 1",
+    "lat": 34.8602057367276,
+    "lon": 32.9135292087299,
+    "name": "Distrato Pelendriou 1"
+  },
+  {
+    "description": "Trimiklini - Pelendri Road 1",
+    "lat": 34.88999599997,
+    "lon": 32.9568256089772,
+    "name": "Trimiklini - Pelendri Road 1"
+  },
+  {
+    "description": "Pelendri Village Center 1",
+    "lat": 34.8957432648181,
+    "lon": 32.9665087859962,
+    "name": "Pelendri Village Center 1"
+  },
+  {
+    "description": "Pelendri Elementary School 1",
+    "lat": 34.8944450828209,
+    "lon": 32.9678117284348,
+    "name": "Pelendri Elementary School 1"
+  },
+  {
+    "description": "Sotiri Tsangari - 5th Pelendri 1",
+    "lat": 34.8980878812407,
+    "lon": 32.9666610664549,
+    "name": "Sotiri Tsangari - 5th Pelendri 1"
+  },
+  {
+    "description": "Sotiri Tsangari - 4th Pelendri",
+    "lat": 34.8976726828155,
+    "lon": 32.9652712069442,
+    "name": "Sotiri Tsangari - 4th Pelendri"
+  },
+  {
+    "description": "Grigori Afxentiou - 3rd Pelendri 1",
+    "lat": 34.9001164498133,
+    "lon": 32.9652701783038,
+    "name": "Grigori Afxentiou - 3rd Pelendri 1"
+  },
+  {
+    "description": "Nikou Karasamani - 2nd Pelendri 1",
+    "lat": 34.8984314032608,
+    "lon": 32.9699335416673,
+    "name": "Nikou Karasamani - 2nd Pelendri 1"
+  },
+  {
+    "description": "Nikou Karasamani - 1st Pelendri 1",
+    "lat": 34.8946262233217,
+    "lon": 32.9709418398885,
+    "name": "Nikou Karasamani - 1st Pelendri 1"
+  }
+]

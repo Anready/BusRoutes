@@ -1,0 +1,128 @@
+[
+  {
+    "description": "Karavella Bus Station",
+    "lat": 34.778616320876,
+    "lon": 32.4221249543794,
+    "name": "Karavella Bus Station"
+  },
+  {
+    "description": "7 Elementary School - Agios Kendeas 1",
+    "lat": 34.7768072972581,
+    "lon": 32.4247714368252,
+    "name": "7 Elementary School - Agios Kendeas 1"
+  },
+  {
+    "description": "Nikolaou Nikolaidi Ave. - Charal. Mouskou",
+    "lat": 34.7764951415018,
+    "lon": 32.4274183917525,
+    "name": "Nikolaou Nikolaidi Ave. - Charal. Mouskou"
+  },
+  {
+    "description": "Stratigou Alex. Papagou - Evzonon",
+    "lat": 34.7743159110939,
+    "lon": 32.4357938204752,
+    "name": "Stratigou Alex. Papagou - Evzonon"
+  },
+  {
+    "description": "Stratigou Alex. Papagou - Kritis",
+    "lat": 34.7719002168216,
+    "lon": 32.434072666316,
+    "name": "Stratigou Alex. Papagou - Kritis"
+  },
+  {
+    "description": "Archaeological Museum 1",
+    "lat": 34.771406554842,
+    "lon": 32.4306992191937,
+    "name": "Archaeological Museum 1"
+  },
+  {
+    "description": "Christodoulou Sozou - Charal. Kalaitzi",
+    "lat": 34.7678072573858,
+    "lon": 32.4342973049868,
+    "name": "Christodoulou Sozou - Charal. Kalaitzi"
+  },
+  {
+    "description": "Christodoulou Sozou - Peiraios",
+    "lat": 34.7646156760405,
+    "lon": 32.436384342992,
+    "name": "Christodoulou Sozou - Peiraios"
+  },
+  {
+    "description": "Giannou Kranidioti - Taxiarchon Ave.",
+    "lat": 34.7625736537758,
+    "lon": 32.4355131312486,
+    "name": "Giannou Kranidioti - Taxiarchon Ave."
+  },
+  {
+    "description": "Taxiarchon Ave. - Agiou Irakleidiou",
+    "lat": 34.7610031447959,
+    "lon": 32.4332619653697,
+    "name": "Taxiarchon Ave. - Agiou Irakleidiou"
+  },
+  {
+    "description": "Taxiarchon Ave. - Georgiou Ioannidi",
+    "lat": 34.7591949816993,
+    "lon": 32.428411984311,
+    "name": "Taxiarchon Ave. - Georgiou Ioannidi"
+  },
+  {
+    "description": "Georgiou Ioannidi - Nikou Nikolaidi",
+    "lat": 34.7621925853296,
+    "lon": 32.4292108481237,
+    "name": "Georgiou Ioannidi - Nikou Nikolaidi"
+  },
+  {
+    "description": "Nikou Nikolaidi - Sotiraki Markidi",
+    "lat": 34.7641778778132,
+    "lon": 32.4275908759958,
+    "name": "Nikou Nikolaidi - Sotiraki Markidi"
+  },
+  {
+    "description": "Sotiraki Markidi - Priamou",
+    "lat": 34.7621046613335,
+    "lon": 32.4239446483569,
+    "name": "Sotiraki Markidi - Priamou"
+  },
+  {
+    "description": "Priamou - Mpelapais",
+    "lat": 34.7640778567438,
+    "lon": 32.4216908568716,
+    "name": "Priamou - Mpelapais"
+  },
+  {
+    "description": "Priamou - Mpelapais",
+    "lat": 34.7655632238573,
+    "lon": 32.4211559803846,
+    "name": "Priamou - Mpelapais"
+  },
+  {
+    "description": "Priamou - Agapinoros",
+    "lat": 34.7674336798098,
+    "lon": 32.4200610817206,
+    "name": "Priamou - Agapinoros"
+  },
+  {
+    "description": "Agapinoros - Iliados 2",
+    "lat": 34.7659862717803,
+    "lon": 32.4190986592019,
+    "name": "Agapinoros - Iliados 2"
+  },
+  {
+    "description": "Agion Anargyron - Apost. Pavlou Ave.",
+    "lat": 34.7632312005888,
+    "lon": 32.4143537342769,
+    "name": "Agion Anargyron - Apost. Pavlou Ave."
+  },
+  {
+    "description": "Tafoi Ton Vasileon - Chandrinou",
+    "lat": 34.7655673754091,
+    "lon": 32.4107421102745,
+    "name": "Tafoi Ton Vasileon - Chandrinou"
+  },
+  {
+    "description": "Tombs of the Kings Bus Station",
+    "lat": 34.7700851526625,
+    "lon": 32.4107318563524,
+    "name": "Tombs of the Kings Bus Station"
+  }
+]

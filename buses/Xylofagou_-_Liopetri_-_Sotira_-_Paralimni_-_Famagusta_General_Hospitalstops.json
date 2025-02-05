@@ -1,0 +1,140 @@
+[
+  {
+    "description": "Anastasi Manoli - Ermou",
+    "lat": 34.9774780145623,
+    "lon": 33.8404235757601,
+    "name": "Anastasi Manoli - Ermou"
+  },
+  {
+    "description": "Meg. Alexandrou Ave. - Efth. Efthymiou",
+    "lat": 34.9743306479366,
+    "lon": 33.8404790616462,
+    "name": "Meg. Alexandrou Ave. - Efth. Efthymiou"
+  },
+  {
+    "description": "Panagias - Giorgalli 2",
+    "lat": 34.9736326092317,
+    "lon": 33.8436159532585,
+    "name": "Panagias - Giorgalli 2"
+  },
+  {
+    "description": "Eleftherias - Andrea Kazi",
+    "lat": 34.97750483052,
+    "lon": 33.8495277007459,
+    "name": "Eleftherias - Andrea Kazi"
+  },
+  {
+    "description": "Nikou Theofanous - Georgiou Karaiskaki",
+    "lat": 34.980536051116,
+    "lon": 33.8518925705356,
+    "name": "Nikou Theofanous - Georgiou Karaiskaki"
+  },
+  {
+    "description": "Nikou Theofanous - Ioanni Kapodistria",
+    "lat": 34.9857576473551,
+    "lon": 33.8569208585815,
+    "name": "Nikou Theofanous - Ioanni Kapodistria"
+  },
+  {
+    "description": "Liopetri Square 2",
+    "lat": 35.0097117855775,
+    "lon": 33.8925480798556,
+    "name": "Liopetri Square 2"
+  },
+  {
+    "description": "Modestou Panteli - Dionysiou Solomou 1",
+    "lat": 35.0123587750073,
+    "lon": 33.894319460456,
+    "name": "Modestou Panteli - Dionysiou Solomou 1"
+  },
+  {
+    "description": "Modestou Panteli - Agion Anargyron 1",
+    "lat": 35.0192471607126,
+    "lon": 33.901716281405,
+    "name": "Modestou Panteli - Agion Anargyron 1"
+  },
+  {
+    "description": "Stadiou - Apostolou Petrou",
+    "lat": 35.028191446269,
+    "lon": 33.946780526591,
+    "name": "Stadiou - Apostolou Petrou"
+  },
+  {
+    "description": "Eleftheria Square",
+    "lat": 35.0277749558078,
+    "lon": 33.9516099188182,
+    "name": "Eleftheria Square"
+  },
+  {
+    "description": "Kyriakou Matsi - Archiep. Makariou C´",
+    "lat": 35.0258222131273,
+    "lon": 33.9556978975199,
+    "name": "Kyriakou Matsi - Archiep. Makariou C´"
+  },
+  {
+    "description": "Paralimniou - Grigori Afxentiou 2",
+    "lat": 35.0265959257223,
+    "lon": 33.9582061769515,
+    "name": "Paralimniou - Grigori Afxentiou 2"
+  },
+  {
+    "description": "Paralimniou 2",
+    "lat": 35.0247501671493,
+    "lon": 33.9658247860866,
+    "name": "Paralimniou 2"
+  },
+  {
+    "description": "1 Apriliou Ave. - Alikarnassou",
+    "lat": 35.0382325281524,
+    "lon": 33.9779553054319,
+    "name": "1 Apriliou Ave. - Alikarnassou"
+  },
+  {
+    "description": "1 Apriliou Ave. - Tasou Markou 1",
+    "lat": 35.0407491591044,
+    "lon": 33.9778427683324,
+    "name": "1 Apriliou Ave. - Tasou Markou 1"
+  },
+  {
+    "description": "Xenion Education 1",
+    "lat": 35.0418675043459,
+    "lon": 33.9778122394597,
+    "name": "Xenion Education 1"
+  },
+  {
+    "description": "1 Apriliou Ave. - Cheimaras",
+    "lat": 35.0461075260558,
+    "lon": 33.9775557668991,
+    "name": "1 Apriliou Ave. - Cheimaras"
+  },
+  {
+    "description": "Griva Digeni Ave. - Daidalou",
+    "lat": 35.0500492091422,
+    "lon": 33.9762759889819,
+    "name": "Griva Digeni Ave. - Daidalou"
+  },
+  {
+    "description": "Eleftherias - Nikodimou Mylona",
+    "lat": 35.0541375220769,
+    "lon": 33.9724538651353,
+    "name": "Eleftherias - Nikodimou Mylona"
+  },
+  {
+    "description": "Eleftherias - Grigori Afxentiou",
+    "lat": 35.0570790045973,
+    "lon": 33.9699556448853,
+    "name": "Eleftherias - Grigori Afxentiou"
+  },
+  {
+    "description": "Eleftherias - Agiou Stylianou",
+    "lat": 35.0589530333582,
+    "lon": 33.9667537938205,
+    "name": "Eleftherias - Agiou Stylianou"
+  },
+  {
+    "description": "Famagusta General Hospital",
+    "lat": 35.0616307747604,
+    "lon": 33.9713035177178,
+    "name": "Famagusta General Hospital"
+  }
+]

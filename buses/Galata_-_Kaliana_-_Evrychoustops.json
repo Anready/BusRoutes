@@ -1,0 +1,68 @@
+[
+  {
+    "description": "Galata Square 2",
+    "lat": 34.9974953199333,
+    "lon": 32.8986131649908,
+    "name": "Galata Square 2"
+  },
+  {
+    "description": "Kaliana",
+    "lat": 35.0122523281321,
+    "lon": 32.8835245004896,
+    "name": "Kaliana"
+  },
+  {
+    "description": "Temvria Square",
+    "lat": 35.0277427478106,
+    "lon": 32.8916585568128,
+    "name": "Temvria Square"
+  },
+  {
+    "description": "Papacharalampous - Archiep. Makariou C´",
+    "lat": 35.0295817245657,
+    "lon": 32.8910202968537,
+    "name": "Papacharalampous - Archiep. Makariou C´"
+  },
+  {
+    "description": "Anexartisias - 1st Korakou",
+    "lat": 35.0359813467745,
+    "lon": 32.888029729339,
+    "name": "Anexartisias - 1st Korakou"
+  },
+  {
+    "description": "Anexartisias - 2nd Korakou",
+    "lat": 35.0382710784311,
+    "lon": 32.8872920308939,
+    "name": "Anexartisias - 2nd Korakou"
+  },
+  {
+    "description": "Eleftherias - 6th Korakou",
+    "lat": 35.0404556668742,
+    "lon": 32.8898875220308,
+    "name": "Eleftherias - 6th Korakou"
+  },
+  {
+    "description": "Evrychou Police Station 2",
+    "lat": 35.0421610822832,
+    "lon": 32.9017047773882,
+    "name": "Evrychou Police Station 2"
+  },
+  {
+    "description": "Solea Lyceum 2",
+    "lat": 35.0447597094894,
+    "lon": 32.9037301294363,
+    "name": "Solea Lyceum 2"
+  },
+  {
+    "description": "Markos Drakos Military Camp 2",
+    "lat": 35.0465286537763,
+    "lon": 32.9056907730917,
+    "name": "Markos Drakos Military Camp 2"
+  },
+  {
+    "description": "Markos Drakos Military Camp 1",
+    "lat": 35.0467001283699,
+    "lon": 32.9058769798798,
+    "name": "Markos Drakos Military Camp 1"
+  }
+]

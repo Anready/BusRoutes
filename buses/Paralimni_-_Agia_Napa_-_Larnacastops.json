@@ -1,0 +1,92 @@
+[
+  {
+    "description": "New Famagusta Central Bus Station",
+    "lat": 35.0518260701067,
+    "lon": 33.9728431356542,
+    "name": "New Famagusta Central Bus Station"
+  },
+  {
+    "description": "Paralimni Square Bus Station",
+    "lat": 35.0394760084475,
+    "lon": 33.983638211908,
+    "name": "Paralimni Square Bus Station"
+  },
+  {
+    "description": "Kryou Nerou Ave. - Marina Hotel 2",
+    "lat": 34.9851780174399,
+    "lon": 34.0162183024577,
+    "name": "Kryou Nerou Ave. - Marina Hotel 2"
+  },
+  {
+    "description": "Agia Napa Monastery 1",
+    "lat": 34.9883845142944,
+    "lon": 34.0003599456526,
+    "name": "Agia Napa Monastery 1"
+  },
+  {
+    "description": "Nisi Ave.  - Giouri Gkagkarin",
+    "lat": 34.9873223873429,
+    "lon": 33.9935430728798,
+    "name": "Nisi Ave.  - Giouri Gkagkarin"
+  },
+  {
+    "description": "Nisi Ave. - Vatheias Gonias",
+    "lat": 34.9887406438684,
+    "lon": 33.9821433888594,
+    "name": "Nisi Ave. - Vatheias Gonias"
+  },
+  {
+    "description": "Nissi Bay Beach 1",
+    "lat": 34.9895128732205,
+    "lon": 33.9690811996641,
+    "name": "Nissi Bay Beach 1"
+  },
+  {
+    "description": "Agias Theklas - Waterpark 1",
+    "lat": 34.9838938954213,
+    "lon": 33.9429177138032,
+    "name": "Agias Theklas - Waterpark 1"
+  },
+  {
+    "description": "Akropoleos Ave. - Lordos Beach Hotel",
+    "lat": 34.9779217109195,
+    "lon": 33.6898786635676,
+    "name": "Akropoleos Ave. - Lordos Beach Hotel"
+  },
+  {
+    "description": "Princess Beach Hotel 2",
+    "lat": 34.9697138693175,
+    "lon": 33.6693141525442,
+    "name": "Princess Beach Hotel 2"
+  },
+  {
+    "description": "Oroklini Fire Station 2",
+    "lat": 34.9617338126212,
+    "lon": 33.6593802839924,
+    "name": "Oroklini Fire Station 2"
+  },
+  {
+    "description": "Ammochostou Ave. - Katinas Paxinou",
+    "lat": 34.9461118544692,
+    "lon": 33.6450075654844,
+    "name": "Ammochostou Ave. - Katinas Paxinou"
+  },
+  {
+    "description": "Tassou Papadopoulou - Aristoteli Valaoriti",
+    "lat": 34.9334211459855,
+    "lon": 33.6388092769418,
+    "name": "Tassou Papadopoulou - Aristoteli Valaoriti"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 2",
+    "lat": 34.9194730735577,
+    "lon": 33.6367524778022,
+    "name": "Archiep. Makariou C´ Ave. - Filiou Tsigaridi 2"
+  },
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  }
+]

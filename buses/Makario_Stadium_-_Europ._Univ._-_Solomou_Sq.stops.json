@@ -1,0 +1,116 @@
+[
+  {
+    "description": "Makario Stadium Bus Station",
+    "lat": 35.1484684249371,
+    "lon": 33.3141074004373,
+    "name": "Makario Stadium Bus Station"
+  },
+  {
+    "description": "Cyprus International Fair",
+    "lat": 35.1496594592518,
+    "lon": 33.317273835866,
+    "name": "Cyprus International Fair"
+  },
+  {
+    "description": "Ilia Papakyriakou - Cyprus International Fair",
+    "lat": 35.15184127593,
+    "lon": 33.3174030737528,
+    "name": "Ilia Papakyriakou - Cyprus International Fair"
+  },
+  {
+    "description": "Pavlou Mela - Marathonos",
+    "lat": 35.1548954714301,
+    "lon": 33.3184030794274,
+    "name": "Pavlou Mela - Marathonos"
+  },
+  {
+    "description": "Avenue Aipeias - Ikarou 2",
+    "lat": 35.1568942760435,
+    "lon": 33.3229454610886,
+    "name": "Avenue Aipeias - Ikarou 2"
+  },
+  {
+    "description": "Avenue Aipeias - Irakleous",
+    "lat": 35.1587156056703,
+    "lon": 33.3229965788262,
+    "name": "Avenue Aipeias - Irakleous"
+  },
+  {
+    "description": "Melinas Merkouri - Archimidous",
+    "lat": 35.1597558575755,
+    "lon": 33.3251417965927,
+    "name": "Melinas Merkouri - Archimidous"
+  },
+  {
+    "description": "Melinas Merkouri - Giannaki Stefanidi",
+    "lat": 35.1594274680046,
+    "lon": 33.3298728628328,
+    "name": "Melinas Merkouri - Giannaki Stefanidi"
+  },
+  {
+    "description": "Nikou Kranidioti - Theodosi Pieridi",
+    "lat": 35.1606673556869,
+    "lon": 33.3315139108011,
+    "name": "Nikou Kranidioti - Theodosi Pieridi"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Grigori Afxentiou",
+    "lat": 35.1631463342177,
+    "lon": 33.3350596846282,
+    "name": "Ave. Georgiou Griva Digeni - Grigori Afxentiou"
+  },
+  {
+    "description": "Ave. Georgiou Griva Digeni - Iakovou Patatsou",
+    "lat": 35.1621033724326,
+    "lon": 33.3372185343613,
+    "name": "Ave. Georgiou Griva Digeni - Iakovou Patatsou"
+  },
+  {
+    "description": "Agiou Prokopiou - Metochi Kikkou 2",
+    "lat": 35.1628635960724,
+    "lon": 33.3394507018096,
+    "name": "Agiou Prokopiou - Metochi Kikkou 2"
+  },
+  {
+    "description": "Delfon - Agiou Dometiou",
+    "lat": 35.1668971476395,
+    "lon": 33.3416307160221,
+    "name": "Delfon - Agiou Dometiou"
+  },
+  {
+    "description": "Ministry of Transport Communications and Works 2",
+    "lat": 35.1689542430701,
+    "lon": 33.34439561548,
+    "name": "Ministry of Transport Communications and Works 2"
+  },
+  {
+    "description": "Ministry of Health 2",
+    "lat": 35.1692939718771,
+    "lon": 33.3485699429262,
+    "name": "Ministry of Health 2"
+  },
+  {
+    "description": "Chilonos - Nechrou Avenue",
+    "lat": 35.1708327878509,
+    "lon": 33.352760464628,
+    "name": "Chilonos - Nechrou Avenue"
+  },
+  {
+    "description": "Museum - THOK",
+    "lat": 35.1727003004999,
+    "lon": 33.3555139703451,
+    "name": "Museum - THOK"
+  },
+  {
+    "description": "Ave. Aigyptou - Omirou Avenue",
+    "lat": 35.1723542968642,
+    "lon": 33.3566545620449,
+    "name": "Ave. Aigyptou - Omirou Avenue"
+  },
+  {
+    "description": "Solomos Square Alighting ",
+    "lat": 35.170392452312,
+    "lon": 33.3583920449795,
+    "name": "Solomos Square Alighting "
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Polis Chrysochous Bus Station",
+    "lat": 35.0332381728798,
+    "lon": 32.4252716391202,
+    "name": "Polis Chrysochous Bus Station"
+  },
+  {
+    "description": "Konstantinoupoleos - 1st Stop",
+    "lat": 35.0304139356557,
+    "lon": 32.4287007709454,
+    "name": "Konstantinoupoleos - 1st Stop"
+  },
+  {
+    "description": "Polis Chrysochous Police Station",
+    "lat": 35.0293089250468,
+    "lon": 32.4295744917945,
+    "name": "Polis Chrysochous Police Station"
+  },
+  {
+    "description": "Konstantinoupoleos - Theodoulou Niti",
+    "lat": 35.0281341891246,
+    "lon": 32.4309638994336,
+    "name": "Konstantinoupoleos - Theodoulou Niti"
+  },
+  {
+    "description": "3rd Stop Chrysochou",
+    "lat": 35.0040791307329,
+    "lon": 32.4393607682202,
+    "name": "3rd Stop Chrysochou"
+  },
+  {
+    "description": "5th Stop Chrysochou  1",
+    "lat": 35.0028810052829,
+    "lon": 32.4415716822905,
+    "name": "5th Stop Chrysochou  1"
+  },
+  {
+    "description": "Goudi Square 1",
+    "lat": 34.9916539632926,
+    "lon": 32.4414616698771,
+    "name": "Goudi Square 1"
+  },
+  {
+    "description": "Choli 1",
+    "lat": 34.9794932831283,
+    "lon": 32.4442284248372,
+    "name": "Choli 1"
+  },
+  {
+    "description": "Kato Akourdaleia 1",
+    "lat": 34.9525538573664,
+    "lon": 32.4511459300653,
+    "name": "Kato Akourdaleia 1"
+  },
+  {
+    "description": "Pano Akourdaleia",
+    "lat": 34.943435083875,
+    "lon": 32.4466839370099,
+    "name": "Pano Akourdaleia"
+  },
+  {
+    "description": "2nd Stop Miliou 1",
+    "lat": 34.9393489275086,
+    "lon": 32.4604323080665,
+    "name": "2nd Stop Miliou 1"
+  },
+  {
+    "description": "Ayii Anargyri Spa Resort 1",
+    "lat": 34.9362591728908,
+    "lon": 32.4652377169486,
+    "name": "Ayii Anargyri Spa Resort 1"
+  },
+  {
+    "description": "1st Stop Miliou 1",
+    "lat": 34.9349528039182,
+    "lon": 32.4696151990829,
+    "name": "1st Stop Miliou 1"
+  },
+  {
+    "description": "4th Stop Giolou",
+    "lat": 34.9213954957741,
+    "lon": 32.4769829172677,
+    "name": "4th Stop Giolou"
+  },
+  {
+    "description": "Giolou Elementary School",
+    "lat": 34.9234403212468,
+    "lon": 32.4764882153443,
+    "name": "Giolou Elementary School"
+  }
+]

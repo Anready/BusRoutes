@@ -1,0 +1,86 @@
+[
+  {
+    "description": "Athienou Sports Centre",
+    "lat": 35.0584762088016,
+    "lon": 33.5456908514403,
+    "name": "Athienou Sports Centre"
+  },
+  {
+    "description": "25 Martiou - Kosti Palama",
+    "lat": 35.0604214042657,
+    "lon": 33.5442452362495,
+    "name": "25 Martiou - Kosti Palama"
+  },
+  {
+    "description": "28 Oktovriou",
+    "lat": 35.060975473977,
+    "lon": 33.5413317768793,
+    "name": "28 Oktovriou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 9 Iouliou",
+    "lat": 35.0632624320364,
+    "lon": 33.5400747035483,
+    "name": "Archiep. Makariou C´ Ave. - 9 Iouliou"
+  },
+  {
+    "description": "Athienou City Hall 2",
+    "lat": 35.063514808774,
+    "lon": 33.5380694010607,
+    "name": "Athienou City Hall 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Pan. Matsouka",
+    "lat": 35.0641514799795,
+    "lon": 33.5347944138414,
+    "name": "Archiep. Makariou C´ Ave. - Pan. Matsouka"
+  },
+  {
+    "description": "Eleftheriou Venizelou - Panagioti Matsouka",
+    "lat": 35.0637257632963,
+    "lon": 33.5331794807603,
+    "name": "Eleftheriou Venizelou - Panagioti Matsouka"
+  },
+  {
+    "description": "Eleftheriou Venizelou - Konst. Toumpa",
+    "lat": 35.0629051572447,
+    "lon": 33.5352359301452,
+    "name": "Eleftheriou Venizelou - Konst. Toumpa"
+  },
+  {
+    "description": "Theokritou - Panos 2",
+    "lat": 35.0597116488589,
+    "lon": 33.5375948208217,
+    "name": "Theokritou - Panos 2"
+  },
+  {
+    "description": "Theokritou - Mpoumpoulinas",
+    "lat": 35.0589303791457,
+    "lon": 33.5368659166879,
+    "name": "Theokritou - Mpoumpoulinas"
+  },
+  {
+    "description": "Athienou Cemetery",
+    "lat": 35.0578725336997,
+    "lon": 33.5354662762423,
+    "name": "Athienou Cemetery"
+  },
+  {
+    "description": "Theokritou - Ioanni Kai Marias Kramvi 2",
+    "lat": 35.0562474716559,
+    "lon": 33.5338655897507,
+    "name": "Theokritou - Ioanni Kai Marias Kramvi 2"
+  },
+  {
+    "description": "Athienou Roundabout",
+    "lat": 35.0581785064605,
+    "lon": 33.5211133699569,
+    "name": "Athienou Roundabout"
+  },
+  {
+    "description": "Alampra Bus Station",
+    "lat": 35.0024263795883,
+    "lon": 33.3938664298765,
+    "name": "Alampra Bus Station"
+  }
+]

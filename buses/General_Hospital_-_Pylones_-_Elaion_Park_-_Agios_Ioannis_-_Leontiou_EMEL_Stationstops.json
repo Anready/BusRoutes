@@ -1,0 +1,206 @@
+[
+  {
+    "description": "General Hospital 1",
+    "lat": 34.7052831120946,
+    "lon": 32.9834894170244,
+    "name": "General Hospital 1"
+  },
+  {
+    "description": "Grigori Afxentiou - Dimokratias",
+    "lat": 34.7054548504404,
+    "lon": 32.986754379252,
+    "name": "Grigori Afxentiou - Dimokratias"
+  },
+  {
+    "description": "Karmiotissa Stadium 1",
+    "lat": 34.7032276457608,
+    "lon": 32.9888731031728,
+    "name": "Karmiotissa Stadium 1"
+  },
+  {
+    "description": "Grigori Afxentiou - 103 Street 2",
+    "lat": 34.7010275126452,
+    "lon": 32.9917778885804,
+    "name": "Grigori Afxentiou - 103 Street 2"
+  },
+  {
+    "description": "Grigori Afxentiou - 100 Street 1",
+    "lat": 34.7001708802994,
+    "lon": 32.9928371188497,
+    "name": "Grigori Afxentiou - 100 Street 1"
+  },
+  {
+    "description": "Synergatismou - 55 Street 2",
+    "lat": 34.6976728417938,
+    "lon": 32.991538009039,
+    "name": "Synergatismou - 55 Street 2"
+  },
+  {
+    "description": "Steliou Kazantzidi - Konstantinou Avgeraki 2",
+    "lat": 34.6961116664009,
+    "lon": 32.9817006058704,
+    "name": "Steliou Kazantzidi - Konstantinou Avgeraki 2"
+  },
+  {
+    "description": "Pera Kampou 2",
+    "lat": 34.6951923538661,
+    "lon": 32.9855113200816,
+    "name": "Pera Kampou 2"
+  },
+  {
+    "description": "55 Street - 63 Street",
+    "lat": 34.6965997291504,
+    "lon": 32.9917783265259,
+    "name": "55 Street - 63 Street"
+  },
+  {
+    "description": "Agios Nikolaos Church 1",
+    "lat": 34.6932721398084,
+    "lon": 32.9919860998705,
+    "name": "Agios Nikolaos Church 1"
+  },
+  {
+    "description": "22 Street - 1 Street",
+    "lat": 34.6915948520081,
+    "lon": 32.9926413355194,
+    "name": "22 Street - 1 Street"
+  },
+  {
+    "description": "10 Street - Andrea Lontou",
+    "lat": 34.6900980800052,
+    "lon": 32.9976526937895,
+    "name": "10 Street - Andrea Lontou"
+  },
+  {
+    "description": "Polemidia Lyceum 2",
+    "lat": 34.6833436513803,
+    "lon": 32.9969214577125,
+    "name": "Polemidia Lyceum 2"
+  },
+  {
+    "description": "Melinas Merkouri - Polemidia Post Office 2",
+    "lat": 34.6808997904342,
+    "lon": 32.9966813852526,
+    "name": "Melinas Merkouri - Polemidia Post Office 2"
+  },
+  {
+    "description": "35 Street - 49 Street 2",
+    "lat": 34.6805391129504,
+    "lon": 32.9987882742112,
+    "name": "35 Street - 49 Street 2"
+  },
+  {
+    "description": "35 Street - Panagioti Anagnostopoulou 2",
+    "lat": 34.6811974206864,
+    "lon": 33.0012226519135,
+    "name": "35 Street - Panagioti Anagnostopoulou 2"
+  },
+  {
+    "description": "Adamantiou Adamantiou - Dimitriou Kissonergi",
+    "lat": 34.6807284529581,
+    "lon": 33.0032094431778,
+    "name": "Adamantiou Adamantiou - Dimitriou Kissonergi"
+  },
+  {
+    "description": "Adamantiou Adamantiou - Evgeniou Voulgareos 2",
+    "lat": 34.6813055055211,
+    "lon": 33.0057639379354,
+    "name": "Adamantiou Adamantiou - Evgeniou Voulgareos 2"
+  },
+  {
+    "description": "Evgeniou Voulgareos - Defkalionos",
+    "lat": 34.6824056946405,
+    "lon": 33.0056875973197,
+    "name": "Evgeniou Voulgareos - Defkalionos"
+  },
+  {
+    "description": "Evgeniou Voulgareos - Athinokleous 2",
+    "lat": 34.685002893755,
+    "lon": 33.0047379929331,
+    "name": "Evgeniou Voulgareos - Athinokleous 2"
+  },
+  {
+    "description": "Marinou Geroulanou - Mpizaniou",
+    "lat": 34.685589017734,
+    "lon": 33.0056768978987,
+    "name": "Marinou Geroulanou - Mpizaniou"
+  },
+  {
+    "description": "Agios Ioannis High School 2",
+    "lat": 34.6827030047012,
+    "lon": 33.010043393918,
+    "name": "Agios Ioannis High School 2"
+  },
+  {
+    "description": "Marinou Geroulanou - Agaristis 2",
+    "lat": 34.6809532059616,
+    "lon": 33.0134054655075,
+    "name": "Marinou Geroulanou - Agaristis 2"
+  },
+  {
+    "description": "Georgiou Averof - Georgiou Fragkoudi",
+    "lat": 34.6801324337124,
+    "lon": 33.0146388858776,
+    "name": "Georgiou Averof - Georgiou Fragkoudi"
+  },
+  {
+    "description": "Parmenidou 2",
+    "lat": 34.679879593888,
+    "lon": 33.0172260191408,
+    "name": "Parmenidou 2"
+  },
+  {
+    "description": "Rinou - Vasileos Evagorou",
+    "lat": 34.6811691910703,
+    "lon": 33.0169752059852,
+    "name": "Rinou - Vasileos Evagorou"
+  },
+  {
+    "description": "Charilaou Trikoupi 1",
+    "lat": 34.6831169050568,
+    "lon": 33.0180563653661,
+    "name": "Charilaou Trikoupi 1"
+  },
+  {
+    "description": "Apostolou Varnava - Romis",
+    "lat": 34.6823589017188,
+    "lon": 33.0211565399656,
+    "name": "Apostolou Varnava - Romis"
+  },
+  {
+    "description": "Apostolou Varnava - Agias Varvaras 2",
+    "lat": 34.6813303510548,
+    "lon": 33.0239072494818,
+    "name": "Apostolou Varnava - Agias Varvaras 2"
+  },
+  {
+    "description": "Apostolou Varnava - Romanou Melodou",
+    "lat": 34.6807169628824,
+    "lon": 33.0247585579683,
+    "name": "Apostolou Varnava - Romanou Melodou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Fire Station 2",
+    "lat": 34.681518858102,
+    "lon": 33.0279901033579,
+    "name": "Archiep. Makariou C´ Ave. - Fire Station 2"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Karatza 2",
+    "lat": 34.6823114227731,
+    "lon": 33.0320950419712,
+    "name": "Archiep. Leontiou A´ - Karatza 2"
+  },
+  {
+    "description": "Archiepiskopou Leontiou A´ - Filiou Zanettou",
+    "lat": 34.6816798914142,
+    "lon": 33.0331318750662,
+    "name": "Archiepiskopou Leontiou A´ - Filiou Zanettou"
+  },
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  }
+]

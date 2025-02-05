@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Municipal Market",
+    "lat": 34.7780851611252,
+    "lon": 32.4185220603598,
+    "name": "Municipal Market"
+  },
+  {
+    "description": "Agia Sofia Church",
+    "lat": 34.7795782318935,
+    "lon": 32.4196045123866,
+    "name": "Agia Sofia Church"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Anapafseos",
+    "lat": 34.7727565051574,
+    "lon": 32.4186796541143,
+    "name": "Apostolou Pavlou Ave. - Anapafseos"
+  },
+  {
+    "description": "Agapinoros - Priamou",
+    "lat": 34.7693229416315,
+    "lon": 32.4191299202163,
+    "name": "Agapinoros - Priamou"
+  },
+  {
+    "description": "Agapinoros - Iliados 2",
+    "lat": 34.7659862717803,
+    "lon": 32.4190986592019,
+    "name": "Agapinoros - Iliados 2"
+  },
+  {
+    "description": "Agion Anargyron - Apost. Pavlou Ave.",
+    "lat": 34.7632312005888,
+    "lon": 32.4143537342769,
+    "name": "Agion Anargyron - Apost. Pavlou Ave."
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Agias Solomonis",
+    "lat": 34.761237439771,
+    "lon": 32.4123026383695,
+    "name": "Apostolou Pavlou Ave. - Agias Solomonis"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Pafias Afroditis",
+    "lat": 34.7595872171301,
+    "lon": 32.4123034058985,
+    "name": "Apostolou Pavlou Ave. - Pafias Afroditis"
+  },
+  {
+    "description": "Paphos Harbour Station",
+    "lat": 34.7565660916918,
+    "lon": 32.408533407359,
+    "name": "Paphos Harbour Station"
+  }
+]

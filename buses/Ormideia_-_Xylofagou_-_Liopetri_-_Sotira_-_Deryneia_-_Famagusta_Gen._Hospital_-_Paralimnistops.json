@@ -1,0 +1,194 @@
+[
+  {
+    "description": "Andrea Karkavitsa - Vattainas",
+    "lat": 34.999500986705,
+    "lon": 33.7620779128104,
+    "name": "Andrea Karkavitsa - Vattainas"
+  },
+  {
+    "description": "Vattainas - Artemidos 2",
+    "lat": 34.9968355500802,
+    "lon": 33.7672253520548,
+    "name": "Vattainas - Artemidos 2"
+  },
+  {
+    "description": "Vattainas - Dim. Christodoulou 2",
+    "lat": 34.9956544355017,
+    "lon": 33.7700523950113,
+    "name": "Vattainas - Dim. Christodoulou 2"
+  },
+  {
+    "description": "Dimokratias - Pallesi",
+    "lat": 34.9924982757911,
+    "lon": 33.7785586156136,
+    "name": "Dimokratias - Pallesi"
+  },
+  {
+    "description": "Anexartisias - Mpelogianni",
+    "lat": 34.9906012237618,
+    "lon": 33.7860900935733,
+    "name": "Anexartisias - Mpelogianni"
+  },
+  {
+    "description": "Anastasi Manoli - Ermou",
+    "lat": 34.9774780145623,
+    "lon": 33.8404235757601,
+    "name": "Anastasi Manoli - Ermou"
+  },
+  {
+    "description": "Meg. Alexandrou Ave. - Efth. Efthymiou",
+    "lat": 34.9743306479366,
+    "lon": 33.8404790616462,
+    "name": "Meg. Alexandrou Ave. - Efth. Efthymiou"
+  },
+  {
+    "description": "Panagias - Giorgalli 2",
+    "lat": 34.9736326092317,
+    "lon": 33.8436159532585,
+    "name": "Panagias - Giorgalli 2"
+  },
+  {
+    "description": "Eleftherias - Andrea Kazi",
+    "lat": 34.97750483052,
+    "lon": 33.8495277007459,
+    "name": "Eleftherias - Andrea Kazi"
+  },
+  {
+    "description": "Nikou Theofanous - Georgiou Karaiskaki",
+    "lat": 34.980536051116,
+    "lon": 33.8518925705356,
+    "name": "Nikou Theofanous - Georgiou Karaiskaki"
+  },
+  {
+    "description": "Nikou Theofanous - Ioanni Kapodistria",
+    "lat": 34.9857576473551,
+    "lon": 33.8569208585815,
+    "name": "Nikou Theofanous - Ioanni Kapodistria"
+  },
+  {
+    "description": "Liopetri Square 2",
+    "lat": 35.0097117855775,
+    "lon": 33.8925480798556,
+    "name": "Liopetri Square 2"
+  },
+  {
+    "description": "1 Apriliou - Thessalonikis",
+    "lat": 35.0114412157301,
+    "lon": 33.8964685467186,
+    "name": "1 Apriliou - Thessalonikis"
+  },
+  {
+    "description": "Stadiou - Vasili Michailidi",
+    "lat": 35.0273628300326,
+    "lon": 33.9408625374903,
+    "name": "Stadiou - Vasili Michailidi"
+  },
+  {
+    "description": "Stadiou - Apostolou Petrou",
+    "lat": 35.028191446269,
+    "lon": 33.946780526591,
+    "name": "Stadiou - Apostolou Petrou"
+  },
+  {
+    "description": "Eleftheria Square",
+    "lat": 35.0277749558078,
+    "lon": 33.9516099188182,
+    "name": "Eleftheria Square"
+  },
+  {
+    "description": "1 Apriliou - Dimokratias",
+    "lat": 35.0280493934788,
+    "lon": 33.951108850971,
+    "name": "1 Apriliou - Dimokratias"
+  },
+  {
+    "description": "Ammochostou 2",
+    "lat": 35.0370190931687,
+    "lon": 33.9548306123992,
+    "name": "Ammochostou 2"
+  },
+  {
+    "description": "Apostolos Varnavas Church 2",
+    "lat": 35.0492652936546,
+    "lon": 33.9569687075452,
+    "name": "Apostolos Varnavas Church 2"
+  },
+  {
+    "description": "Anagennisis Stadium",
+    "lat": 35.051905109179,
+    "lon": 33.9572407350655,
+    "name": "Anagennisis Stadium"
+  },
+  {
+    "description": "C´ Deryneia Elementary School 2",
+    "lat": 35.0584349398956,
+    "lon": 33.9581832587025,
+    "name": "C´ Deryneia Elementary School 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ - Promitheos",
+    "lat": 35.0623908345308,
+    "lon": 33.9596441623166,
+    "name": "Archiep. Makariou C´ - Promitheos"
+  },
+  {
+    "description": "Eleftherias - Ammochostou Ave.",
+    "lat": 35.0627926359819,
+    "lon": 33.9612828824197,
+    "name": "Eleftherias - Ammochostou Ave."
+  },
+  {
+    "description": "Eleftherias - Daidalou",
+    "lat": 35.0611933274601,
+    "lon": 33.9639728211771,
+    "name": "Eleftherias - Daidalou"
+  },
+  {
+    "description": "Famagusta General Hospital",
+    "lat": 35.0616307747604,
+    "lon": 33.9713035177178,
+    "name": "Famagusta General Hospital"
+  },
+  {
+    "description": "Eleftherias - Ippokratous",
+    "lat": 35.0588054546306,
+    "lon": 33.9671687629106,
+    "name": "Eleftherias - Ippokratous"
+  },
+  {
+    "description": "Eleftherias - Kyriakou Matsi",
+    "lat": 35.0558775661069,
+    "lon": 33.9713560020056,
+    "name": "Eleftherias - Kyriakou Matsi"
+  },
+  {
+    "description": "Griva Digeni Ave. - Thessalonikis",
+    "lat": 35.0496928169388,
+    "lon": 33.9768638464953,
+    "name": "Griva Digeni Ave. - Thessalonikis"
+  },
+  {
+    "description": "1 Apriliou Ave. - Georgiou Griva Digeni Ave.",
+    "lat": 35.0444999288386,
+    "lon": 33.9778765009908,
+    "name": "1 Apriliou Ave. - Georgiou Griva Digeni Ave."
+  },
+  {
+    "description": "Xenion Education 2",
+    "lat": 35.0416139942632,
+    "lon": 33.9779407832524,
+    "name": "Xenion Education 2"
+  },
+  {
+    "description": "1 Apriliou Ave. - Tasou Markou 2",
+    "lat": 35.0408472754537,
+    "lon": 33.9779755007448,
+    "name": "1 Apriliou Ave. - Tasou Markou 2"
+  },
+  {
+    "description": "Paralimni Square Bus Station",
+    "lat": 35.0394760084475,
+    "lon": 33.983638211908,
+    "name": "Paralimni Square Bus Station"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "description": "Paphos Harbour Station",
+    "lat": 34.7565660916918,
+    "lon": 32.408533407359,
+    "name": "Paphos Harbour Station"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Kyriakou Nikolaou",
+    "lat": 34.7575386492987,
+    "lon": 32.4119792043889,
+    "name": "Apostolou Pavlou Ave. - Kyriakou Nikolaou"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Ploutarchou",
+    "lat": 34.7607139077368,
+    "lon": 32.4121970805582,
+    "name": "Apostolou Pavlou Ave. - Ploutarchou"
+  },
+  {
+    "description": "Apostolou Pavlou Ave. - Agiou Lamprianou",
+    "lat": 34.7617149885542,
+    "lon": 32.4122227656401,
+    "name": "Apostolou Pavlou Ave. - Agiou Lamprianou"
+  },
+  {
+    "description": "Agion Anargyron - Ifaistou",
+    "lat": 34.7635824030481,
+    "lon": 32.4142529093797,
+    "name": "Agion Anargyron - Ifaistou"
+  },
+  {
+    "description": "Agion Anargyron - Agiou Ilarionos",
+    "lat": 34.7614470062175,
+    "lon": 32.4202777811507,
+    "name": "Agion Anargyron - Agiou Ilarionos"
+  },
+  {
+    "description": "Agion Anargyron - Melinas Merkouri",
+    "lat": 34.75818258315,
+    "lon": 32.4240702287492,
+    "name": "Agion Anargyron - Melinas Merkouri"
+  },
+  {
+    "description": "Spyrou Kyprianou Ave. - Evropis Ave.",
+    "lat": 34.7551949661896,
+    "lon": 32.4253911755299,
+    "name": "Spyrou Kyprianou Ave. - Evropis Ave."
+  },
+  {
+    "description": "Neapolis University 1",
+    "lat": 34.7492075329655,
+    "lon": 32.4273664210965,
+    "name": "Neapolis University 1"
+  },
+  {
+    "description": "Poseidonos Ave. - 7th Stop",
+    "lat": 34.7449853134053,
+    "lon": 32.4288703977653,
+    "name": "Poseidonos Ave. - 7th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 9th Stop",
+    "lat": 34.7433272232012,
+    "lon": 32.4310448624992,
+    "name": "Poseidonos Ave. - 9th Stop"
+  },
+  {
+    "description": "Poseidonos Ave. - 11th Stop",
+    "lat": 34.7416143276334,
+    "lon": 32.4330775987073,
+    "name": "Poseidonos Ave. - 11th Stop"
+  },
+  {
+    "description": "Theas Afroditis Ave. - 1st Stop",
+    "lat": 34.7384249014927,
+    "lon": 32.4375781705336,
+    "name": "Theas Afroditis Ave. - 1st Stop"
+  },
+  {
+    "description": "Theas Afroditis Ave. - 3rd Stop",
+    "lat": 34.7413664635358,
+    "lon": 32.443861534233,
+    "name": "Theas Afroditis Ave. - 3rd Stop"
+  },
+  {
+    "description": "Geroskipou Municipal Stadium 1",
+    "lat": 34.7449464921308,
+    "lon": 32.4418929395083,
+    "name": "Geroskipou Municipal Stadium 1"
+  },
+  {
+    "description": "Konstantinou Palaiologou - Egnatias",
+    "lat": 34.7539289802335,
+    "lon": 32.4460389893923,
+    "name": "Konstantinou Palaiologou - Egnatias"
+  },
+  {
+    "description": "Geroskipou High School 1",
+    "lat": 34.7551187720507,
+    "lon": 32.4518983462542,
+    "name": "Geroskipou High School 1"
+  },
+  {
+    "description": "Ippokratous - Kozanis",
+    "lat": 34.7559942364575,
+    "lon": 32.4560882198715,
+    "name": "Ippokratous - Kozanis"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Arsinois",
+    "lat": 34.7595984592426,
+    "lon": 32.4554526898932,
+    "name": "Archiep. Makariou C` Ave. - Arsinois"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Korytsas",
+    "lat": 34.7605031851966,
+    "lon": 32.4520922254356,
+    "name": "Archiep. Makariou C` Ave. - Korytsas"
+  },
+  {
+    "description": "Archiep. Makariou C` Ave. - Kosta Karnavalou",
+    "lat": 34.7620282607071,
+    "lon": 32.450333831363,
+    "name": "Archiep. Makariou C` Ave. - Kosta Karnavalou"
+  },
+  {
+    "description": "Agios Spiridonas Church 1",
+    "lat": 34.7618279572398,
+    "lon": 32.4439538153386,
+    "name": "Agios Spiridonas Church 1"
+  },
+  {
+    "description": "A` High School - Ag. Theodoros 2",
+    "lat": 34.7667249358952,
+    "lon": 32.4440411799213,
+    "name": "A` High School - Ag. Theodoros 2"
+  }
+]

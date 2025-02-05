@@ -1,0 +1,284 @@
+[
+  {
+    "description": "Kourion Beach",
+    "lat": 34.6651847159342,
+    "lon": 32.8790462711465,
+    "name": "Kourion Beach"
+  },
+  {
+    "description": "Kourion Beach - 1st Stop 2",
+    "lat": 34.6633026680588,
+    "lon": 32.8817993791923,
+    "name": "Kourion Beach - 1st Stop 2"
+  },
+  {
+    "description": "Agios Ermogenis 2",
+    "lat": 34.6623824918516,
+    "lon": 32.8911103783733,
+    "name": "Agios Ermogenis 2"
+  },
+  {
+    "description": "14 Street - 16 Street",
+    "lat": 34.6657738584198,
+    "lon": 32.9025006850635,
+    "name": "14 Street - 16 Street"
+  },
+  {
+    "description": "14 Street - 28 Street",
+    "lat": 34.6677630826458,
+    "lon": 32.909341913681,
+    "name": "14 Street - 28 Street"
+  },
+  {
+    "description": "14 Street - 15 Street 2",
+    "lat": 34.6732216822085,
+    "lon": 32.913123639462,
+    "name": "14 Street - 15 Street 2"
+  },
+  {
+    "description": "Cyprus Wine Museum",
+    "lat": 34.6753797754139,
+    "lon": 32.9171602199446,
+    "name": "Cyprus Wine Museum"
+  },
+  {
+    "description": "Pafou - Fountain",
+    "lat": 34.6741016756379,
+    "lon": 32.9208400496814,
+    "name": "Pafou - Fountain"
+  },
+  {
+    "description": "Kolossi Elementary School A´ 2",
+    "lat": 34.6708448891661,
+    "lon": 32.9337557982178,
+    "name": "Kolossi Elementary School A´ 2"
+  },
+  {
+    "description": "Apostolou Louka Ave. - Iakovou Patatsou",
+    "lat": 34.6719829730705,
+    "lon": 32.9372041344041,
+    "name": "Apostolou Louka Ave. - Iakovou Patatsou"
+  },
+  {
+    "description": "Kolossi Community Stadium 2",
+    "lat": 34.6748706425127,
+    "lon": 32.9410770294209,
+    "name": "Kolossi Community Stadium 2"
+  },
+  {
+    "description": "Ammochostou - Ethnikis Antistaseos",
+    "lat": 34.6768735849093,
+    "lon": 32.9431059804565,
+    "name": "Ammochostou - Ethnikis Antistaseos"
+  },
+  {
+    "description": "Ammochostou - Ag. Foteini & Ap. Andreas Church 1",
+    "lat": 34.6784965743727,
+    "lon": 32.9426027262869,
+    "name": "Ammochostou - Ag. Foteini & Ap. Andreas Church 1"
+  },
+  {
+    "description": "Ammochostou - Agiou Memnonos",
+    "lat": 34.6803358768803,
+    "lon": 32.9418591406326,
+    "name": "Ammochostou - Agiou Memnonos"
+  },
+  {
+    "description": "Kolossi Elementary School B´",
+    "lat": 34.6821839006399,
+    "lon": 32.940515099435,
+    "name": "Kolossi Elementary School B´"
+  },
+  {
+    "description": "Alphamega Stadium 2",
+    "lat": 34.692985641057,
+    "lon": 32.9371118495247,
+    "name": "Alphamega Stadium 2"
+  },
+  {
+    "description": "Giannou Kranidioti - Petraki Giallourou",
+    "lat": 34.6965736263113,
+    "lon": 32.9349472622824,
+    "name": "Giannou Kranidioti - Petraki Giallourou"
+  },
+  {
+    "description": "Giannou Kranidioti - Christodoulou Sozou",
+    "lat": 34.6986566994177,
+    "lon": 32.9348364439203,
+    "name": "Giannou Kranidioti - Christodoulou Sozou"
+  },
+  {
+    "description": "Solomou Solomou - Vasili Michailidi",
+    "lat": 34.7006881214526,
+    "lon": 32.9394863844888,
+    "name": "Solomou Solomou - Vasili Michailidi"
+  },
+  {
+    "description": "Dionysiou Solomou - Andrea Vlami",
+    "lat": 34.6999407177614,
+    "lon": 32.9417034843552,
+    "name": "Dionysiou Solomou - Andrea Vlami"
+  },
+  {
+    "description": "C´ Ypsonas Elementary School 2",
+    "lat": 34.6969831631125,
+    "lon": 32.9423606747554,
+    "name": "C´ Ypsonas Elementary School 2"
+  },
+  {
+    "description": "Kolokotroni - Pindou",
+    "lat": 34.6958481843696,
+    "lon": 32.9451238311655,
+    "name": "Kolokotroni - Pindou"
+  },
+  {
+    "description": "Kolokotroni - Georgiou Karaiskaki 2",
+    "lat": 34.6960215208988,
+    "lon": 32.9497531520617,
+    "name": "Kolokotroni - Georgiou Karaiskaki 2"
+  },
+  {
+    "description": "Asklipiou - Galinou",
+    "lat": 34.6987115208153,
+    "lon": 32.9567068228392,
+    "name": "Asklipiou - Galinou"
+  },
+  {
+    "description": "Askipiou - 25 Martiou",
+    "lat": 34.7000010279587,
+    "lon": 32.9565642041933,
+    "name": "Askipiou - 25 Martiou"
+  },
+  {
+    "description": "25 Martiou - Santorinis",
+    "lat": 34.7004435815547,
+    "lon": 32.9585075657762,
+    "name": "25 Martiou - Santorinis"
+  },
+  {
+    "description": "25 Martiou - 1 Apriliou 2",
+    "lat": 34.6999750292863,
+    "lon": 32.9596324566076,
+    "name": "25 Martiou - 1 Apriliou 2"
+  },
+  {
+    "description": "25 Martiou - Georgiou Sachtouri 2",
+    "lat": 34.6995161648078,
+    "lon": 32.9629301991055,
+    "name": "25 Martiou - Georgiou Sachtouri 2"
+  },
+  {
+    "description": "25 Martiou - Patriarchou Ierosolymon",
+    "lat": 34.7007073069992,
+    "lon": 32.9655939272823,
+    "name": "25 Martiou - Patriarchou Ierosolymon"
+  },
+  {
+    "description": "Patriarchou Ierosolymon - 25 Martiou 2",
+    "lat": 34.7001757178597,
+    "lon": 32.9672865963698,
+    "name": "Patriarchou Ierosolymon - 25 Martiou 2"
+  },
+  {
+    "description": "Steliou Kazantzidi - Konstantinou Avgeraki 2",
+    "lat": 34.6961116664009,
+    "lon": 32.9817006058704,
+    "name": "Steliou Kazantzidi - Konstantinou Avgeraki 2"
+  },
+  {
+    "description": "Pera Kampou 2",
+    "lat": 34.6951923538661,
+    "lon": 32.9855113200816,
+    "name": "Pera Kampou 2"
+  },
+  {
+    "description": "General Hospital 2",
+    "lat": 34.7071225147914,
+    "lon": 32.9817746211046,
+    "name": "General Hospital 2"
+  },
+  {
+    "description": "General Hospital 1",
+    "lat": 34.7052831120946,
+    "lon": 32.9834894170244,
+    "name": "General Hospital 1"
+  },
+  {
+    "description": "Nikaias Avenue - 22 Street 2",
+    "lat": 34.6921085896216,
+    "lon": 32.988907345257,
+    "name": "Nikaias Avenue - 22 Street 2"
+  },
+  {
+    "description": "22 Street - 14 Street 2",
+    "lat": 34.6914143849348,
+    "lon": 32.9910145879522,
+    "name": "22 Street - 14 Street 2"
+  },
+  {
+    "description": "22 Street - 1 Street",
+    "lat": 34.6915948520081,
+    "lon": 32.9926413355194,
+    "name": "22 Street - 1 Street"
+  },
+  {
+    "description": "10 Street - Andrea Lontou",
+    "lat": 34.6900980800052,
+    "lon": 32.9976526937895,
+    "name": "10 Street - Andrea Lontou"
+  },
+  {
+    "description": "Polemidia Lyceum 2",
+    "lat": 34.6833436513803,
+    "lon": 32.9969214577125,
+    "name": "Polemidia Lyceum 2"
+  },
+  {
+    "description": "Melinas Merkouri - Polemidia Post Office 2",
+    "lat": 34.6808997904342,
+    "lon": 32.9966813852526,
+    "name": "Melinas Merkouri - Polemidia Post Office 2"
+  },
+  {
+    "description": "Melinas Merkouri - Pafou 2",
+    "lat": 34.6792224462316,
+    "lon": 32.996277549966,
+    "name": "Melinas Merkouri - Pafou 2"
+  },
+  {
+    "description": "Andrea Araouzou - Vasilissis Olgas 2",
+    "lat": 34.6769048056097,
+    "lon": 32.9952624683075,
+    "name": "Andrea Araouzou - Vasilissis Olgas 2"
+  },
+  {
+    "description": "Andrea Araouzou - Androgeo",
+    "lat": 34.6749839484319,
+    "lon": 32.9943347415196,
+    "name": "Andrea Araouzou - Androgeo"
+  },
+  {
+    "description": "Agoras 2",
+    "lat": 34.6714577066738,
+    "lon": 32.9905801332015,
+    "name": "Agoras 2"
+  },
+  {
+    "description": "Kathetos Limaniou - Epimitheos 1",
+    "lat": 34.6680398571687,
+    "lon": 32.9899147167545,
+    "name": "Kathetos Limaniou - Epimitheos 1"
+  },
+  {
+    "description": "Kathetos Limaniou - Fragklinou Rousvelt 1",
+    "lat": 34.6592657556255,
+    "lon": 32.996114737672,
+    "name": "Kathetos Limaniou - Fragklinou Rousvelt 1"
+  },
+  {
+    "description": "MY MALL",
+    "lat": 34.6512127016143,
+    "lon": 32.9954930950808,
+    "name": "MY MALL"
+  }
+]

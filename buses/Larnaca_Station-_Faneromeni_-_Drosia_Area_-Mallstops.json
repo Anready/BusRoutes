@@ -1,0 +1,140 @@
+[
+  {
+    "description": "Larnaca Station",
+    "lat": 34.9192327751747,
+    "lon": 33.6378672895804,
+    "name": "Larnaca Station"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - Foinikoudes 1",
+    "lat": 34.9176764344531,
+    "lon": 33.6354467945138,
+    "name": "Grigori Afxentiou Ave. - Foinikoudes 1"
+  },
+  {
+    "description": "Kalogera Elementary School",
+    "lat": 34.9155862150089,
+    "lon": 33.6333726038018,
+    "name": "Kalogera Elementary School"
+  },
+  {
+    "description": "Old Hospital",
+    "lat": 34.9170651225385,
+    "lon": 33.6298917314463,
+    "name": "Old Hospital"
+  },
+  {
+    "description": "Larnaka Municipal Theatre 1",
+    "lat": 34.9160219121426,
+    "lon": 33.6276067226033,
+    "name": "Larnaka Municipal Theatre 1"
+  },
+  {
+    "description": "Old G.S.Z.",
+    "lat": 34.913394111229,
+    "lon": 33.6283311144079,
+    "name": "Old G.S.Z."
+  },
+  {
+    "description": "Agia Faneromeni Church",
+    "lat": 34.9112052362994,
+    "lon": 33.6278765697611,
+    "name": "Agia Faneromeni Church"
+  },
+  {
+    "description": "P.A. College 2",
+    "lat": 34.9111408386422,
+    "lon": 33.6263763875409,
+    "name": "P.A. College 2"
+  },
+  {
+    "description": "Aigyptou Ave. - Petraki Giallourou",
+    "lat": 34.9138343201447,
+    "lon": 33.6233973651045,
+    "name": "Aigyptou Ave. - Petraki Giallourou"
+  },
+  {
+    "description": "Odysseos - Agias Lavras",
+    "lat": 34.9161598862291,
+    "lon": 33.6218166382117,
+    "name": "Odysseos - Agias Lavras"
+  },
+  {
+    "description": "Thessalonikis Ave. - -Thiseos",
+    "lat": 34.9165284559601,
+    "lon": 33.6202758378422,
+    "name": "Thessalonikis Ave. - -Thiseos"
+  },
+  {
+    "description": "1 Apriliou Ave. - Nikou Nikolaidi",
+    "lat": 34.9160376068757,
+    "lon": 33.6175024751534,
+    "name": "1 Apriliou Ave. - Nikou Nikolaidi"
+  },
+  {
+    "description": "1 Apriliou Ave. - Nazaret 1",
+    "lat": 34.9143181045098,
+    "lon": 33.6151688156229,
+    "name": "1 Apriliou Ave. - Nazaret 1"
+  },
+  {
+    "description": "1 Apriliou Ave. - Faneromeni Roundabout",
+    "lat": 34.9127174331246,
+    "lon": 33.6125077304739,
+    "name": "1 Apriliou Ave. - Faneromeni Roundabout"
+  },
+  {
+    "description": "Agiou Georgiou Makri - Ko",
+    "lat": 34.9142178011423,
+    "lon": 33.610022941935,
+    "name": "Agiou Georgiou Makri - Ko"
+  },
+  {
+    "description": "Agiou Georgiou Makri - Parou",
+    "lat": 34.9135743014376,
+    "lon": 33.6070734403184,
+    "name": "Agiou Georgiou Makri - Parou"
+  },
+  {
+    "description": "Odissos Municipal Park 1",
+    "lat": 34.9148783857164,
+    "lon": 33.6059554832268,
+    "name": "Odissos Municipal Park 1"
+  },
+  {
+    "description": "Electricity Authority 1",
+    "lat": 34.9173206364458,
+    "lon": 33.608053455552,
+    "name": "Electricity Authority 1"
+  },
+  {
+    "description": "Konstantinoupoleos - Karyatidon",
+    "lat": 34.9188475039192,
+    "lon": 33.6092689628956,
+    "name": "Konstantinoupoleos - Karyatidon"
+  },
+  {
+    "description": "Mystra - Konstantinoupoleos 2",
+    "lat": 34.9199060097568,
+    "lon": 33.6085761243469,
+    "name": "Mystra - Konstantinoupoleos 2"
+  },
+  {
+    "description": "Mystra - Pol Darras 2",
+    "lat": 34.9202676917191,
+    "lon": 33.6065753318933,
+    "name": "Mystra - Pol Darras 2"
+  },
+  {
+    "description": "New Hospital 2",
+    "lat": 34.9217524628238,
+    "lon": 33.6035755347927,
+    "name": "New Hospital 2"
+  },
+  {
+    "description": "Mall Metropolis",
+    "lat": 34.924193545739,
+    "lon": 33.6077209580138,
+    "name": "Mall Metropolis"
+  }
+]

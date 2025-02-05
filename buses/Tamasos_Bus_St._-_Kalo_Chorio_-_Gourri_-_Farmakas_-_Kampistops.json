@@ -1,0 +1,110 @@
+[
+  {
+    "description": "Tamasos Bus Station",
+    "lat": 35.0432605918433,
+    "lon": 33.1899156249265,
+    "name": "Tamasos Bus Station"
+  },
+  {
+    "description": "Malounta Community Centre",
+    "lat": 35.0358492772977,
+    "lon": 33.1834300297629,
+    "name": "Malounta Community Centre"
+  },
+  {
+    "description": "Panagia Chrysopantanassa Church",
+    "lat": 35.0332637413581,
+    "lon": 33.181801710078,
+    "name": "Panagia Chrysopantanassa Church"
+  },
+  {
+    "description": "Klirou Community Health Centre - 1st Klirou 1",
+    "lat": 35.0300134090824,
+    "lon": 33.1784728172488,
+    "name": "Klirou Community Health Centre - 1st Klirou 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 2nd Klirou 1",
+    "lat": 35.0274342681455,
+    "lon": 33.1785877970949,
+    "name": "Archiep. Makariou C´ Ave. - 2nd Klirou 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 3rd Klirou 1",
+    "lat": 35.0238722981859,
+    "lon": 33.1786567839089,
+    "name": "Archiep. Makariou C´ Ave. - 3rd Klirou 1"
+  },
+  {
+    "description": "Panagia Evangelistria Church 1",
+    "lat": 35.0214568359756,
+    "lon": 33.1778403748211,
+    "name": "Panagia Evangelistria Church 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 5th Klirou 1",
+    "lat": 35.0186582620983,
+    "lon": 33.1738115636867,
+    "name": "Archiep. Makariou C´ Ave. - 5th Klirou 1"
+  },
+  {
+    "description": "Klirou Cinema 1",
+    "lat": 35.0163290073949,
+    "lon": 33.169389405988,
+    "name": "Klirou Cinema 1"
+  },
+  {
+    "description": "Grigori Afxentiou Ave. - 1st Kalo Chorio 1",
+    "lat": 35.0149749077002,
+    "lon": 33.1639062705371,
+    "name": "Grigori Afxentiou Ave. - 1st Kalo Chorio 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 2nd Kalo Chorio 1",
+    "lat": 35.0121714463078,
+    "lon": 33.1631992174464,
+    "name": "Archiep. Makariou C´ Ave. - 2nd Kalo Chorio 1"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - 3rd Kalo Chorio 1",
+    "lat": 35.0090786438475,
+    "lon": 33.1630725155487,
+    "name": "Archiep. Makariou C´ Ave. - 3rd Kalo Chorio 1"
+  },
+  {
+    "description": "Agios Georgios Church 1",
+    "lat": 35.0053369104973,
+    "lon": 33.1627034301252,
+    "name": "Agios Georgios Church 1"
+  },
+  {
+    "description": "Gourri",
+    "lat": 34.9583351791001,
+    "lon": 33.1579553973819,
+    "name": "Gourri"
+  },
+  {
+    "description": "Agias Eirinis Ave. - 1st Farmakas",
+    "lat": 34.9175953626913,
+    "lon": 33.1343396914989,
+    "name": "Agias Eirinis Ave. - 1st Farmakas"
+  },
+  {
+    "description": "Agnooumenoi Park",
+    "lat": 34.9126260902109,
+    "lon": 33.1348789493403,
+    "name": "Agnooumenoi Park"
+  },
+  {
+    "description": "Farmakas Square",
+    "lat": 34.9117968156546,
+    "lon": 33.1345710781048,
+    "name": "Farmakas Square"
+  },
+  {
+    "description": "Kampi",
+    "lat": 34.9084123857346,
+    "lon": 33.1288733694554,
+    "name": "Kampi"
+  }
+]

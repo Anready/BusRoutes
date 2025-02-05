@@ -1,0 +1,98 @@
+[
+  {
+    "description": "Dionysios Solomos Square",
+    "lat": 35.1707064870553,
+    "lon": 33.3589205343724,
+    "name": "Dionysios Solomos Square"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Iras",
+    "lat": 35.1656621977647,
+    "lon": 33.3631918662444,
+    "name": "Archiep. Makariou III Ave. - Iras"
+  },
+  {
+    "description": "Archiep. Makariou III Ave. - Naxou",
+    "lat": 35.1625065679554,
+    "lon": 33.366065678288,
+    "name": "Archiep. Makariou III Ave. - Naxou"
+  },
+  {
+    "description": "Technical School Nicosia III",
+    "lat": 35.1568467559872,
+    "lon": 33.3739566285601,
+    "name": "Technical School Nicosia III"
+  },
+  {
+    "description": "University of Cyprus - North Campus Entrance",
+    "lat": 35.1469279782314,
+    "lon": 33.4154530487227,
+    "name": "University of Cyprus - North Campus Entrance"
+  },
+  {
+    "description": "University of Cyprus - University House",
+    "lat": 35.1460482761817,
+    "lon": 33.4089824472376,
+    "name": "University of Cyprus - University House"
+  },
+  {
+    "description": "Athalassis - Military Camp",
+    "lat": 35.1396018892484,
+    "lon": 33.3978850945119,
+    "name": "Athalassis - Military Camp"
+  },
+  {
+    "description": "Nicosia General Hospital - Intercity",
+    "lat": 35.1265734070068,
+    "lon": 33.374838920964,
+    "name": "Nicosia General Hospital - Intercity"
+  },
+  {
+    "description": "Kalamon - Meteoron",
+    "lat": 35.1268639058609,
+    "lon": 33.3683207493343,
+    "name": "Kalamon - Meteoron"
+  },
+  {
+    "description": "Akropoleos Ave. - Athinon Ave. 2",
+    "lat": 34.9489235196208,
+    "lon": 33.5753439913036,
+    "name": "Akropoleos Ave. - Athinon Ave. 2"
+  },
+  {
+    "description": "Eleftherias Ave. - Archiep. Makariou C´ Ave.",
+    "lat": 34.9362407999217,
+    "lon": 33.5912643422732,
+    "name": "Eleftherias Ave. - Archiep. Makariou C´ Ave."
+  },
+  {
+    "description": "Eleftherias Ave. - Petraki Giallourou",
+    "lat": 34.9312462540472,
+    "lon": 33.598411276935,
+    "name": "Eleftherias Ave. - Petraki Giallourou"
+  },
+  {
+    "description": "Georg. Griva Digeni Ave. - Ag. Georgios Church 2",
+    "lat": 34.9232552988576,
+    "lon": 33.6114036101475,
+    "name": "Georg. Griva Digeni Ave. - Ag. Georgios Church 2"
+  },
+  {
+    "description": "Municipal Library 2",
+    "lat": 34.916724235321,
+    "lon": 33.6243059543314,
+    "name": "Municipal Library 2"
+  },
+  {
+    "description": "Pancyprian Lyceum",
+    "lat": 34.917629845022,
+    "lon": 33.6305419493315,
+    "name": "Pancyprian Lyceum"
+  },
+  {
+    "description": "Foinikoudes - Larnaka Marina",
+    "lat": 34.9154082436364,
+    "lon": 33.6380894870409,
+    "name": "Foinikoudes - Larnaka Marina"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "description": "Omodos High School",
+    "lat": 34.8501294274644,
+    "lon": 32.8079914025801,
+    "name": "Omodos High School"
+  },
+  {
+    "description": "Omodos Elementary School 2",
+    "lat": 34.8479535810258,
+    "lon": 32.8063556834143,
+    "name": "Omodos Elementary School 2"
+  },
+  {
+    "description": "Distrato Malias",
+    "lat": 34.811367881021,
+    "lon": 32.789472285737,
+    "name": "Distrato Malias"
+  },
+  {
+    "description": "Pano Pachna",
+    "lat": 34.7763646980416,
+    "lon": 32.7915831030831,
+    "name": "Pano Pachna"
+  },
+  {
+    "description": "Apost. Petrou And Pavlou Church",
+    "lat": 34.7784291303084,
+    "lon": 32.7965398145446,
+    "name": "Apost. Petrou And Pavlou Church"
+  },
+  {
+    "description": "Agios Efraim Church 2",
+    "lat": 34.7834457999143,
+    "lon": 32.8275576740004,
+    "name": "Agios Efraim Church 2"
+  },
+  {
+    "description": "Agios Amvrosios Community Board 2",
+    "lat": 34.7805422782579,
+    "lon": 32.8276948709687,
+    "name": "Agios Amvrosios Community Board 2"
+  },
+  {
+    "description": "Agelikis Sotiriou - 1st Pano Kyvides 2",
+    "lat": 34.760816860682,
+    "lon": 32.8451862646227,
+    "name": "Agelikis Sotiriou - 1st Pano Kyvides 2"
+  },
+  {
+    "description": "Agiou Panteleimonos Ave. - 2nd Pano Kyvides 2",
+    "lat": 34.7585362670414,
+    "lon": 32.8531997859837,
+    "name": "Agiou Panteleimonos Ave. - 2nd Pano Kyvides 2"
+  },
+  {
+    "description": "Agiou Panteleimonos Ave. - 3rd Pano Kyvides 2",
+    "lat": 34.7560533550348,
+    "lon": 32.858263087262,
+    "name": "Agiou Panteleimonos Ave. - 3rd Pano Kyvides 2"
+  },
+  {
+    "description": "Agiou Panteleimonos Ave. - 4th Pano Kyvides 2",
+    "lat": 34.7544968639421,
+    "lon": 32.8613797025455,
+    "name": "Agiou Panteleimonos Ave. - 4th Pano Kyvides 2"
+  },
+  {
+    "description": "Troodous - Souni - Zanakia 2",
+    "lat": 34.7373584946621,
+    "lon": 32.8828301094716,
+    "name": "Troodous - Souni - Zanakia 2"
+  },
+  {
+    "description": "Kantou Community Board",
+    "lat": 34.6894228593077,
+    "lon": 32.907669747071,
+    "name": "Kantou Community Board"
+  },
+  {
+    "description": "Pafou - Monovolikos 2",
+    "lat": 34.6795920652345,
+    "lon": 32.9935157033909,
+    "name": "Pafou - Monovolikos 2"
+  },
+  {
+    "description": "Pafou - 28 Elementary School 2",
+    "lat": 34.6779870140949,
+    "lon": 32.9971181459976,
+    "name": "Pafou - 28 Elementary School 2"
+  },
+  {
+    "description": "Pafou - Christou Keli",
+    "lat": 34.6758768063371,
+    "lon": 33.0034275727436,
+    "name": "Pafou - Christou Keli"
+  },
+  {
+    "description": "Pafou - Omonoias Ave.",
+    "lat": 34.6760209945225,
+    "lon": 33.0059818889107,
+    "name": "Pafou - Omonoias Ave."
+  },
+  {
+    "description": "Pafou - Evgeniou Voulgareos",
+    "lat": 34.6757772831842,
+    "lon": 33.0095513457284,
+    "name": "Pafou - Evgeniou Voulgareos"
+  },
+  {
+    "description": "Pafou - Dimosthenous",
+    "lat": 34.6749834247207,
+    "lon": 33.0126404032058,
+    "name": "Pafou - Dimosthenous"
+  },
+  {
+    "description": "Pafou - Vasileos Pavlou A´ 2",
+    "lat": 34.6739729552189,
+    "lon": 33.0165043674397,
+    "name": "Pafou - Vasileos Pavlou A´ 2"
+  },
+  {
+    "description": "Agios Ioannis Police Station 2",
+    "lat": 34.67454972814,
+    "lon": 33.0190696625303,
+    "name": "Agios Ioannis Police Station 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Souez 2",
+    "lat": 34.6762176885773,
+    "lon": 33.0212204734455,
+    "name": "Archiep. Makariou C´ Ave. - Souez 2"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Vyzantiou",
+    "lat": 34.6788863567926,
+    "lon": 33.0246051858907,
+    "name": "Archiep. Makariou C´ Ave. - Vyzantiou"
+  },
+  {
+    "description": "Archiep. Makariou C´ Ave. - Fire Station 2",
+    "lat": 34.681518858102,
+    "lon": 33.0279901033579,
+    "name": "Archiep. Makariou C´ Ave. - Fire Station 2"
+  },
+  {
+    "description": "Archiep. Leontiou A´ - Karatza 2",
+    "lat": 34.6823114227731,
+    "lon": 33.0320950419712,
+    "name": "Archiep. Leontiou A´ - Karatza 2"
+  },
+  {
+    "description": "Archiepiskopou Leontiou A´ - Filiou Zanettou",
+    "lat": 34.6816798914142,
+    "lon": 33.0331318750662,
+    "name": "Archiepiskopou Leontiou A´ - Filiou Zanettou"
+  },
+  {
+    "description": "EMEL Bus Station Leontiou A´",
+    "lat": 34.6792348518186,
+    "lon": 33.0372354212458,
+    "name": "EMEL Bus Station Leontiou A´"
+  }
+]
